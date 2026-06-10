@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "title": "Clínica Hispana Nueva Salud Lawndale | Houston TX",
+    "titleTemplate": "%s",
+    "description": "Clínica médica hispana en Houston, TX. Atención profesional 100% en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "ogDescription": "Su clínica de confianza en Houston. Atención médica profesional en español para toda la familia. Sin cita previa, precios accesibles. {rating} estrellas en Google con más de {count} reseñas."
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "greenCard": "Green Card",
+    "chronicCare": "Enfermedades Crónicas",
+    "testimonials": "Testimonios",
+    "location": "Ubicación",
+    "contact": "Contacto",
+    "faq": "Preguntas",
+    "blog": "Blog",
+    "walkIn": "Sin Cita",
+    "privacy": "Privacidad",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "hero": {
+    "badge": "Atención médica de calidad",
+    "badgeWalkIn": "Sin cita previa",
+    "title": "Su Clínica Hispana de Confianza en Houston",
+    "subtitle": "Atención médica profesional 100% en español. Sin cita previa, precios accesibles.",
+    "ctaCall": "Llamar Ahora",
+    "ctaLocation": "Cómo Llegar",
+    "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    "googleReviews": "+ reseñas en Google",
+    "cardTitle": "¿Por qué elegirnos?",
+    "cardSubtitle": "La mejor atención para usted y su familia",
+    "features": {
+      "1": "Atención 100% en español",
+      "2": "Sin cita previa necesaria",
+      "3": "Aceptamos pacientes sin seguro",
+      "4": "Precios accesibles y transparentes"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Atención médica integral para toda la familia",
+    "servicesAvailable": "servicios disponibles",
+    "filterAll": "Todos",
+    "noServices": "No se encontraron servicios",
+    "viewAll": "Ver Todos los Servicios",
+    "callNow": "Llamar",
+    "getDirections": "Ubicación",
+    "learnMore": "Más Información",
+    "bookNow": "Agendar Cita",
+    "included": "Incluido en este servicio",
+    "backToServices": "Volver a Servicios",
+    "readyToSchedule": "¿Listo para agendar su cita?",
+    "callOrVisit": "Llámenos ahora o visítenos sin cita previa",
+    "relatedServices": "Servicios Relacionados",
+    "faqTitle": "Preguntas Frecuentes",
+    "categoryEspecial": "Servicio Principal",
+    "categoryDiagnostico": "Diagnóstico",
+    "categoryEspecialidad": "Especialidad",
+    "categoryMujer": "Salud de la Mujer",
+    "categoryDefault": "Servicio Médico"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Pacientes",
+    "subtitle": "Testimonios reales de Google Reviews",
+    "leaveReview": "Dejar una Reseña",
+    "verifiedReview": "Reseña verificada de Google",
+    "rating": "calificación",
+    "reviews": "reseñas"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos aquí para ayudarle",
+    "form": {
+      "name": "Nombre Completo",
+      "namePlaceholder": "Su nombre",
+      "phone": "Teléfono",
+      "phonePlaceholder": "(713) 555-1234",
+      "email": "Correo Electrónico (opcional)",
+      "emailPlaceholder": "correo@ejemplo.com",
+      "service": "Servicio de Interés",
+      "servicePlaceholder": "Seleccione un servicio",
+      "message": "Mensaje (opcional)",
+      "messagePlaceholder": "¿En qué podemos ayudarle?",
+      "submit": "Enviar Mensaje",
+      "submitting": "Enviando...",
+      "success": "¡Mensaje enviado! Nos comunicaremos pronto.",
+      "error": "Error al enviar. Por favor intente de nuevo."
+    },
+    "info": {
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "hours": "Horario",
+      "hoursWeekday": "Lunes a Viernes: 9:00 AM - 9:00 PM",
+      "hoursWeekend": "Sábado y Domingo: 9:00 AM - 9:00 PM",
+      "email": "Correo",
+      "footerNote": "Estamos ubicados en el corazón de Houston, con fácil acceso y estacionamiento gratuito."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas a las preguntas más comunes",
+    "q1": "¿Necesito cita previa?",
+    "a1": "No, atendemos pacientes sin cita previa. Simplemente venga a nuestra clínica durante nuestro horario de atención y lo atenderemos lo más pronto posible. Sin embargo, si prefiere asegurar un horario específico, puede llamarnos para hacer una cita.",
+    "q2": "¿Aceptan pacientes sin seguro médico?",
+    "a2": "Sí, aceptamos pacientes con o sin seguro médico. Ofrecemos precios accesibles y planes de pago flexibles para que todos puedan recibir la atención médica que necesitan.",
+    "q3": "¿Hablan español en la clínica?",
+    "a3": "Sí, todo nuestro personal habla español. Nuestra clínica fue creada específicamente para servir a la comunidad hispana de Houston, y nos aseguramos de que pueda comunicarse cómodamente en su idioma.",
+    "q4": "¿Cuáles son sus horarios de atención?",
+    "a4": "Atendemos de lunes a domingo. Nuestro horario regular es de 9:00 AM a 9:00 PM todos los días. Por favor llámenos para confirmar horarios en días festivos.",
+    "q5": "¿Qué formas de pago aceptan?",
+    "a5": "Aceptamos efectivo, todas las tarjetas de crédito y débito principales (Visa, MasterCard, American Express, Discover), y la mayoría de los seguros médicos. También trabajamos con varios planes de seguro estatales y federales.",
+    "q6": "¿Ofrecen planes de pago?",
+    "a6": "Sí, ofrecemos planes de pago flexibles para ayudarle a manejar los costos de su atención médica. Hable con nuestra recepcionista sobre las opciones disponibles para su situación particular.",
+    "q7": "¿Dónde están ubicados en Houston?",
+    "a7": "Estamos ubicados en 7040 Lawndale St # B, Houston, TX 77023, en el área norte de Houston cerca de la autopista 59/69. Contamos con amplio estacionamiento gratuito y fácil acceso en transporte público.",
+    "q8": "¿Realizan exámenes médicos de inmigración I-693?",
+    "a8": "Sí, contamos con médicos Civil Surgeon certificados por USCIS para realizar el examen médico de inmigración I-693 requerido para la Green Card. Ofrecemos resultados rápidos, vacunas disponibles en sitio, y atención 100% en español.",
+    "q9": "¿Cuánto tiempo debo esperar sin cita?",
+    "a9": "El tiempo de espera varía según la demanda del día, pero generalmente atendemos a los pacientes en 15-30 minutos. Le recomendamos llegar temprano para asegurar una atención más rápida.",
+    "q10": "¿Hay estacionamiento disponible?",
+    "a10": "Sí, contamos con amplio estacionamiento gratuito frente a la clínica. Nuestras instalaciones también son accesibles para personas con discapacidad, incluyendo rampas y baños adaptados."
+  },
+  "location": {
+    "title": "Nuestra Ubicación",
+    "subtitle": "Visítenos en Houston, TX",
+    "howToGetHere": "Cómo Llegar",
+    "getDirections": "Obtener Direcciones",
+    "openInMaps": "Abrir en Google Maps",
+    "features": {
+      "parking": "Estacionamiento Gratuito",
+      "wheelchair": "Acceso para Sillas de Ruedas",
+      "bus": "Acceso en Autobús",
+      "security": "Área Segura"
+    },
+    "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    "call": "Llamar"
+  },
+  "footer": {
+    "tagline": "Su salud es nuestra prioridad",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "followUs": "Síguenos",
+    "copyright": "© {year} Clínica Hispana Nueva Salud Lawndale. Todos los derechos reservados.",
+    "madeBy": "Desarrollado por",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "hipaa": "Aviso HIPAA",
+    "hoursWeekday": "Lunes a Viernes: 9:00 AM - 9:00 PM",
+    "hoursWeekend": "Sábado y Domingo: 9:00 AM - 9:00 PM",
+    "stars": "4.0 estrellas"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "tryAgain": "Intentar de nuevo",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "readMore": "Leer más",
+    "showLess": "Mostrar menos",
+    "all": "Todos",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "address": "Dirección",
+    "hours": "Horario"
+  },
+  "cta": {
+    "callNow": "Llamar Ahora",
+    "getDirections": "Cómo Llegar",
+    "bookAppointment": "Agendar Cita",
+    "learnMore": "Más Información",
+    "contactUs": "Contáctenos",
+    "viewServices": "Ver Servicios"
+  },
+  "accessibility": {
+    "skipToContent": "Saltar al contenido",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "scrollToTop": "Volver arriba",
+    "previousSlide": "Diapositiva anterior",
+    "nextSlide": "Siguiente diapositiva",
+    "menuDescription": "Menú de navegación principal"
+  },
+  "notFound": {
+    "description": "Lo sentimos, la página que busca no existe o ha sido movida.",
+    "backHome": "Ir al Inicio",
+    "contact": "Contactar"
+  },
+  "errorPage": {
+    "description": "Ha ocurrido un error inesperado. Por favor, intente de nuevo."
+  },
+  "greenCard": {
+    "badge": "Autorizado por USCIS",
+    "title": "Exámenes Médicos de Inmigración I-693",
+    "subtitle": "Clínica Hispana Nueva Salud Lawndale es tu clínica hispana autorizada por USCIS para exámenes médicos de inmigración I-693 en Houston. Nuestros Civil Surgeons certificados te ayudan con tu proceso de Green Card de manera rápida y en español.",
+    "processTitle": "Proceso Simple en 5 Pasos",
+    "ctaSchedule": "Agendar Examen I-693",
+    "ctaCall": "Llamar Ahora"
+  },
+  "chronicCare": {
+    "badge": "Cuidado Continuo",
+    "title": "Control de Enfermedades Crónicas",
+    "subtitle": "Programa integral de monitoreo y tratamiento para diabetes, hipertensión, colesterol alto y tiroides. Laboratorio con resultados el mismo día, ajuste de medicamentos y educación en español.",
+    "conditionsTitle": "Condiciones que tratamos",
+    "ctaSchedule": "Agendar Consulta",
+    "ctaCall": "Llamar Ahora",
+    "learnMore": "Más información sobre este servicio"
+  },
+  "blog": {
+    "title": "Blog de Salud",
+    "subtitle": "Consejos de salud, noticias y actualizaciones de nuestra clínica",
+    "metaTitle": "Blog | Clínica Hispana Nueva Salud Lawndale Houston",
+    "metaDescription": "Consejos de salud, información médica y noticias de Clínica Hispana Nueva Salud Lawndale en Houston, TX. Artículos en español sobre medicina familiar, prevención y bienestar.",
+    "featured": "Destacado",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todos los Artículos",
+    "minRead": "min de lectura",
+    "noPosts": "No hay publicaciones disponibles.",
+    "backToBlog": "Volver al Blog",
+    "by": "Por",
+    "relatedPosts": "Artículos Relacionados",
+    "ctaTitle": "¿Necesita atención médica?",
+    "ctaDescription": "Estamos aquí para ayudarle. Llame ahora para agendar su cita o visite nuestra clínica sin cita previa.",
+    "callNow": "Llamar ahora:"
+  }
+}

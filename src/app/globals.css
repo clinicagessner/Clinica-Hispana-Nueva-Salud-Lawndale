@@ -1,0 +1,682 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* ==========================================================
+     CLÍNICA HISPANA SAN JUAN — Paleta de marca (derivada del logo)
+     Colores extraídos del logo (cruz médica con degradado azul→rojo):
+       - #0180f9  azul primario  (parte superior de la cruz / caduceo)
+       - #fc0101  rojo           (parte inferior de la cruz / swoosh)
+       - #ffb703  ámbar          (color adicional, calidez / destacados)
+       - degradado firma azul→púrpura→rojo (el del propio logo)
+     Los nombres de token (--blue-*, --red-*, --yellow-*, --cyan-*) describen
+     con precisión la marca. Sistema neutro frío (ink-navy) para acompañar al azul.
+     ========================================================== */
+
+  /* AZUL — Color principal (logo) */
+  --blue-primary: #0180f9;
+  --blue-dark: #0a64c8;
+  --blue-deep: #063e87;
+  --blue-medium: #2b8cf5;
+  --blue-soft: #5ba8fb;
+  --blue-light: #dbeafe;
+
+  /* AZUL FRÍO — Fondos suaves (token heredado: cyan-*) */
+  --cyan-bg: #eef4ff;
+  --cyan-bg-alt: #dbeafe;
+  --cyan-warm: #f5f8ff;
+
+  /* ROJO — Acento urgente / CTA (logo) */
+  --red-pure: #fc0101;          /* rojo puro del logo, solo para el degradado firma */
+  --red-accent: #ed1b2e;        /* rojo de UI, un punto más legible en fills grandes */
+  --red-accent-dark: #c20f20;
+  --red-accent-light: #fecdd3;
+  --red-accent-bg: #fef2f3;
+
+  /* ÁMBAR — Color adicional / destacados, badges, estrellas */
+  --yellow-accent: #ffb703;
+  --yellow-accent-dark: #e89a00;
+  --yellow-accent-light: #ffe08a;
+  --yellow-accent-bg: #fff8e6;
+
+  /* INK / SLATE — Neutros fríos (pareados con el azul) */
+  --slate-dark: #0f1e3d;
+  --slate-primary: #36456b;
+  --slate-muted: #6b7a99;
+  --slate-light: #eef2fb;
+
+  /* Degradado firma + sombras de marca (elementos del rediseño) */
+  --brand-gradient: linear-gradient(135deg, #0180f9 0%, #6d4ad0 50%, #fc0101 100%);
+  --brand-gradient-rev: linear-gradient(135deg, #fc0101 0%, #6d4ad0 50%, #0180f9 100%);
+  --brand-gradient-blue: linear-gradient(160deg, #2b8cf5 0%, #063e87 100%);
+  --brand-gradient-soft: linear-gradient(135deg, #eef4ff 0%, #f5f8ff 50%, #fff2f3 100%);
+  --shadow-brand: 0 18px 40px -16px rgba(1, 128, 249, 0.45);
+  --shadow-soft: 0 12px 30px -14px rgba(15, 30, 61, 0.18);
+  --shadow-red: 0 14px 34px -14px rgba(237, 27, 46, 0.45);
+
+  /* Estados */
+  --error: #dc2626;
+  --error-light: #fee2e2;
+  --warning: #d97706;
+  --warning-light: #fef3c7;
+  --success: #16a34a;
+  --success-light: #dcfce7;
+
+  /* shadcn/ui tokens — mapeados al azul primario del logo */
+  --radius: 1rem;
+  --background: #f7faff;
+  --foreground: #0f1e3d;
+  --card: #ffffff;
+  --card-foreground: #0f1e3d;
+  --popover: #ffffff;
+  --popover-foreground: #0f1e3d;
+  --primary: #0180f9;
+  --primary-foreground: #ffffff;
+  --secondary: #36456b;
+  --secondary-foreground: #ffffff;
+  --muted: #eef4ff;
+  --muted-foreground: #6b7a99;
+  --accent: #eef4ff;
+  --accent-foreground: #0180f9;
+  --destructive: #ed1b2e;
+  --destructive-foreground: #ffffff;
+  --border: #e3e9f5;
+  --input: #e3e9f5;
+  --ring: #0180f9;
+
+  /* Sidebar */
+  --sidebar: #ffffff;
+  --sidebar-foreground: #0f1e3d;
+  --sidebar-primary: #0180f9;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #eef4ff;
+  --sidebar-accent-foreground: #0180f9;
+  --sidebar-border: #e3e9f5;
+  --sidebar-ring: #0180f9;
+
+  /* Charts */
+  --chart-1: #0180f9;
+  --chart-2: #063e87;
+  --chart-3: #6d4ad0;
+  --chart-4: #ed1b2e;
+  --chart-5: #ffb703;
+}
+
+.dark {
+  --background: #0a0e27;
+  --foreground: #f5f5f4;
+  --card: #111736;
+  --card-foreground: #f5f5f4;
+  --popover: #111736;
+  --popover-foreground: #f5f5f4;
+  --primary: #2b8cf5;
+  --primary-foreground: #0a0e27;
+  --secondary: #44403c;
+  --secondary-foreground: #f5f5f4;
+  --muted: #1e293b;
+  --muted-foreground: #a8a29e;
+  --accent: #0a2a5e;
+  --accent-foreground: #f5f5f4;
+  --destructive: #ed1b2e;
+  --destructive-foreground: #ffffff;
+  --border: #1e293b;
+  --input: #1e293b;
+  --ring: #2b8cf5;
+  --sidebar: #111736;
+  --sidebar-foreground: #f5f5f4;
+  --sidebar-primary: #2b8cf5;
+  --sidebar-primary-foreground: #0a0e27;
+  --sidebar-accent: #1e293b;
+  --sidebar-accent-foreground: #f5f5f4;
+  --sidebar-border: #1e293b;
+  --sidebar-ring: #2b8cf5;
+}
+
+@theme inline {
+  /* shadcn/ui core tokens */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Sidebar */
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Charts */
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  /* Paleta Azul — primaria */
+  --color-blue-primary: var(--blue-primary);
+  --color-blue-dark: var(--blue-dark);
+  --color-blue-deep: var(--blue-deep);
+  --color-blue-medium: var(--blue-medium);
+  --color-blue-soft: var(--blue-soft);
+  --color-blue-light: var(--blue-light);
+
+  /* Paleta Cyan — background alt */
+  --color-cyan-bg: var(--cyan-bg);
+  --color-cyan-bg-alt: var(--cyan-bg-alt);
+  --color-cyan-warm: var(--cyan-warm);
+
+  /* Paleta Roja — acento */
+  --color-red-accent: var(--red-accent);
+  --color-red-accent-dark: var(--red-accent-dark);
+  --color-red-accent-light: var(--red-accent-light);
+  --color-red-accent-bg: var(--red-accent-bg);
+
+  /* Paleta Amarilla — acento */
+  --color-yellow-accent: var(--yellow-accent);
+  --color-yellow-accent-dark: var(--yellow-accent-dark);
+  --color-yellow-accent-light: var(--yellow-accent-light);
+  --color-yellow-accent-bg: var(--yellow-accent-bg);
+
+  /* Paleta Slate */
+  --color-slate-dark: var(--slate-dark);
+  --color-slate-primary: var(--slate-primary);
+  --color-slate-muted: var(--slate-muted);
+  --color-slate-light: var(--slate-light);
+
+  /* Estados */
+  --color-error: var(--error);
+  --color-error-light: var(--error-light);
+  --color-warning: var(--warning);
+  --color-warning-light: var(--warning-light);
+  --color-success: var(--success);
+  --color-success-light: var(--success-light);
+
+  /* Radius */
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+
+  /* Tipografía */
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-heading: var(--font-sora), system-ui, sans-serif;
+}
+
+/* Service card link hover */
+.service-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+  transition: color 0.3s ease, gap 0.3s ease;
+}
+
+.service-link:hover {
+  color: var(--yellow-accent) !important;
+  gap: 0.75rem;
+}
+
+.service-link span {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: transparent !important;
+  transition: text-decoration-color 0.3s ease;
+}
+
+.service-link:hover span {
+  text-decoration-color: var(--yellow-accent) !important;
+}
+
+.service-link svg {
+  transition: transform 0.3s ease;
+}
+
+.service-link:hover svg {
+  transform: translateX(4px);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sora), system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* =====================================================================
+   SISTEMA DE DISEÑO SAN JUAN — utilidades de marca (rediseño 2026)
+   Identidad: degradado firma azul→púrpura→rojo (del logo) + azul primario,
+   superficies "glass", sombras de color, y el motivo de la cruz médica.
+   ===================================================================== */
+
+/* Degradado firma como fondo */
+.bg-brand-gradient { background-image: var(--brand-gradient); }
+.bg-brand-gradient-rev { background-image: var(--brand-gradient-rev); }
+.bg-brand-blue { background-image: var(--brand-gradient-blue); }
+.bg-brand-soft { background-image: var(--brand-gradient-soft); }
+
+/* Texto con degradado firma (clip) */
+.text-gradient {
+  background-image: var(--brand-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.text-gradient-blue {
+  background-image: var(--brand-gradient-blue);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Borde con degradado (marco de marca) */
+.border-gradient {
+  position: relative;
+  background:
+    linear-gradient(var(--card), var(--card)) padding-box,
+    var(--brand-gradient) border-box;
+  border: 2px solid transparent;
+}
+
+/* Tarjeta "glass" translúcida para superficies sobre degradados */
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+}
+.glass-card-dark {
+  background: rgba(6, 62, 135, 0.28);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+/* Sombras de marca */
+.shadow-brand { box-shadow: var(--shadow-brand); }
+.shadow-brand-soft { box-shadow: var(--shadow-soft); }
+.shadow-brand-red { box-shadow: var(--shadow-red); }
+
+/* Línea/acento de degradado (kicker, divisores, subrayados) */
+.brand-rule {
+  height: 4px;
+  width: 64px;
+  border-radius: 9999px;
+  background-image: var(--brand-gradient);
+}
+
+/* Píldora "eyebrow"/kicker de sección */
+.brand-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.375rem 0.875rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--blue-primary);
+  background: var(--cyan-bg);
+  border: 1px solid var(--blue-light);
+}
+
+/* Patrón de cruz médica (textura sutil de fondo) */
+.cross-pattern {
+  background-image:
+    linear-gradient(var(--blue-primary) 0 0),
+    linear-gradient(var(--blue-primary) 0 0);
+  background-size: 3px 14px, 14px 3px;
+  background-position: center;
+  background-repeat: repeat;
+  opacity: 0.04;
+}
+
+/* Resplandor radial decorativo (blobs detrás del hero) */
+.brand-glow {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(80px);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* Animación sutil del degradado firma */
+@keyframes brand-pan {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.animate-brand-pan {
+  background-size: 200% 200%;
+  animation: brand-pan 8s ease-in-out infinite;
+}
+
+/* Hero CSS animations (NO Framer Motion - for LCP) */
+@keyframes hero-fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes hero-fade-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-hero-title {
+  animation: hero-fade-in-up 0.6s ease-out both;
+}
+
+.animate-hero-subtitle {
+  animation: hero-fade-in-up 0.6s ease-out 0.1s both;
+}
+
+.animate-hero-features {
+  animation: hero-fade-in-up 0.6s ease-out 0.2s both;
+}
+
+.animate-hero-cta {
+  animation: hero-fade-in-up 0.6s ease-out 0.3s both;
+}
+
+.animate-hero-image {
+  animation: hero-fade-in-right 0.7s ease-out 0.2s both;
+}
+
+.animate-hero-scroll {
+  animation: hero-fade-in-up 0.6s ease-out 1s both;
+}
+
+.animate-hero-badges {
+  animation: hero-fade-in-up 0.6s ease-out 0.8s both;
+}
+
+@keyframes hero-bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(3px); }
+}
+
+.animate-hero-bounce {
+  animation: hero-bounce 1.5s ease-in-out infinite;
+}
+
+/* Floating button pulse */
+@keyframes pulse-float {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 4px 14px -3px var(--red-accent);
+  }
+  50% {
+    transform: scale(1.03);
+    box-shadow: 0 6px 20px -2px var(--red-accent);
+  }
+}
+
+.animate-pulse-float {
+  animation: pulse-float 2.5s ease-in-out infinite;
+}
+
+/* ===========================================
+   SCROLL ANIMATIONS
+   =========================================== */
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in-left {
+  from { opacity: 0; transform: translateX(-30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fade-in-right {
+  from { opacity: 0; transform: translateX(30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes blur-in {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-on-scroll { opacity: 0; }
+
+.animate-on-scroll.is-visible {
+  animation-duration: 0.6s;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+  animation-fill-mode: both;
+}
+
+.animate-on-scroll.is-visible.fade-up { animation-name: fade-in-up; }
+.animate-on-scroll.is-visible.fade-left { animation-name: fade-in-left; }
+.animate-on-scroll.is-visible.fade-right { animation-name: fade-in-right; }
+.animate-on-scroll.is-visible.scale-in { animation-name: scale-in; }
+.animate-on-scroll.is-visible.blur-in { animation-name: blur-in; }
+
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+
+:focus-visible {
+  outline: 2px solid var(--blue-primary);
+  outline-offset: 2px;
+}
+
+::selection {
+  background-color: var(--yellow-accent);
+  color: var(--blue-primary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* ===========================================
+   BLOG CONTENT STYLES
+   =========================================== */
+.blog-content {
+  font-size: 1.125rem;
+  line-height: 1.85;
+  color: var(--slate-primary);
+}
+
+.blog-content h1:first-child { display: none; }
+
+.blog-content h1 {
+  font-family: var(--font-sora), system-ui, sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--slate-dark);
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+
+.blog-content h2 {
+  font-family: var(--font-sora), system-ui, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--slate-dark);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--cyan-bg);
+  position: relative;
+}
+
+.blog-content h2::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: var(--blue-primary);
+}
+
+.blog-content h3 {
+  font-family: var(--font-sora), system-ui, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--blue-primary);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--red-accent);
+}
+
+.blog-content p { margin-bottom: 1.5rem; }
+
+.blog-content strong {
+  color: var(--slate-dark);
+  font-weight: 600;
+}
+
+.blog-content em { font-style: italic; }
+
+.blog-content a {
+  color: var(--blue-primary);
+  text-decoration: underline;
+  text-decoration-color: var(--cyan-bg-alt);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.blog-content a:hover {
+  text-decoration-color: var(--blue-primary);
+}
+
+.blog-content ul {
+  margin: 1.5rem 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.blog-content ul li {
+  position: relative;
+  padding-left: 1.75rem;
+  margin-bottom: 0.75rem;
+  color: var(--slate-dark);
+}
+
+.blog-content ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  width: 8px;
+  height: 8px;
+  background: var(--blue-primary);
+  border-radius: 50%;
+}
+
+.blog-content ol {
+  margin: 1.5rem 0;
+  padding-left: 0;
+  list-style: none;
+  counter-reset: item;
+}
+
+.blog-content ol li {
+  position: relative;
+  padding-left: 2.5rem;
+  margin-bottom: 0.75rem;
+  color: var(--slate-dark);
+  counter-increment: item;
+}
+
+.blog-content ol li::before {
+  content: counter(item);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.75rem;
+  height: 1.75rem;
+  background: var(--blue-primary);
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 600;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-content blockquote {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background: var(--cyan-bg);
+  border-left: 4px solid var(--blue-primary);
+  border-radius: 0 0.75rem 0.75rem 0;
+  color: var(--slate-dark);
+}
+
+.blog-content hr {
+  margin: 3rem 0;
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--cyan-bg-alt), transparent);
+}
+
+.blog-content > p:first-of-type {
+  font-size: 1.2rem;
+  color: var(--slate-dark);
+  line-height: 1.75;
+}

@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "title": "Clinica Hispana Nueva Salud Lawndale | Houston TX",
+    "titleTemplate": "%s",
+    "description": "Hispanic medical clinic in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients with or without insurance. Family medicine, immigration exams, laboratory and more.",
+    "ogDescription": "Your trusted clinic in Houston. Professional medical care in Spanish for the whole family. Walk-ins welcome, affordable prices. {rating} stars on Google with more than {count} reviews."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "greenCard": "Green Card",
+    "chronicCare": "Chronic Care",
+    "testimonials": "Testimonials",
+    "location": "Location",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "walkIn": "Walk-in",
+    "privacy": "Privacy",
+    "menu": "Menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "badge": "Quality medical care",
+    "badgeWalkIn": "Walk-ins welcome",
+    "title": "Your Trusted Hispanic Clinic in Houston",
+    "subtitle": "Professional medical care 100% in Spanish. Walk-ins welcome, affordable prices.",
+    "ctaCall": "Call Now",
+    "ctaLocation": "Get Directions",
+    "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
+    "googleReviews": "+ reviews on Google",
+    "cardTitle": "Why choose us?",
+    "cardSubtitle": "The best care for you and your family",
+    "features": {
+      "1": "100% Spanish speaking staff",
+      "2": "No appointment necessary",
+      "3": "Uninsured patients welcome",
+      "4": "Affordable and transparent prices"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive medical care for the whole family",
+    "servicesAvailable": "services available",
+    "filterAll": "All",
+    "noServices": "No services found",
+    "viewAll": "View All Services",
+    "callNow": "Call",
+    "getDirections": "Location",
+    "learnMore": "Learn More",
+    "bookNow": "Book Now",
+    "included": "Included in this service",
+    "backToServices": "Back to Services",
+    "readyToSchedule": "Ready to schedule your appointment?",
+    "callOrVisit": "Call us now or visit us — no appointment needed",
+    "relatedServices": "Related Services",
+    "faqTitle": "Frequently Asked Questions",
+    "categoryEspecial": "Primary Service",
+    "categoryDiagnostico": "Diagnostics",
+    "categoryEspecialidad": "Specialty",
+    "categoryMujer": "Women's Health",
+    "categoryDefault": "Medical Service"
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Real testimonials from Google Reviews",
+    "leaveReview": "Leave a Review",
+    "verifiedReview": "Verified Google review",
+    "rating": "rating",
+    "reviews": "reviews"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help you",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your name",
+      "phone": "Phone",
+      "phonePlaceholder": "(713) 555-1234",
+      "email": "Email (optional)",
+      "emailPlaceholder": "email@example.com",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select a service",
+      "message": "Message (optional)",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent! We'll contact you soon.",
+      "error": "Error sending message. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "hours": "Hours",
+      "hoursWeekday": "Monday - Friday: 9:00 AM - 9:00 PM",
+      "hoursWeekend": "Saturday & Sunday: 9:00 AM - 9:00 PM",
+      "email": "Email",
+      "footerNote": "We are located in the heart of Houston, with easy access and free parking."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to common questions",
+    "q1": "Do I need an appointment?",
+    "a1": "No, we accept walk-in patients. Simply come to our clinic during business hours and we'll see you as soon as possible. However, if you prefer to secure a specific time slot, you can call us to make an appointment.",
+    "q2": "Do you accept patients without insurance?",
+    "a2": "Yes, we accept patients with or without medical insurance. We offer affordable prices and flexible payment plans so everyone can receive the medical care they need.",
+    "q3": "Do you speak Spanish at the clinic?",
+    "a3": "Yes, all our staff speaks Spanish. Our clinic was specifically created to serve Houston's Hispanic community, and we make sure you can communicate comfortably in your language.",
+    "q4": "What are your business hours?",
+    "a4": "We're open Monday through Saturday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
+    "q5": "What payment methods do you accept?",
+    "a5": "We accept cash, all major credit and debit cards (Visa, MasterCard, American Express, Discover), and most medical insurance plans. We also work with various state and federal insurance programs.",
+    "q6": "Do you offer payment plans?",
+    "a6": "Yes, we offer flexible payment plans to help you manage your healthcare costs. Talk to our receptionist about the options available for your particular situation.",
+    "q7": "Where are you located in Houston?",
+    "a7": "We are located at 7040 Lawndale St # B, Houston, TX 77023, in the north Houston area near Highway 59/69. We have ample free parking and easy access by public transportation.",
+    "q8": "Do you perform I-693 immigration medical exams?",
+    "a8": "Yes, we have USCIS-certified Civil Surgeon physicians to perform the I-693 immigration medical exam required for the Green Card. We offer fast results, on-site vaccines, and 100% Spanish-language service.",
+    "q9": "How long is the wait without an appointment?",
+    "a9": "Wait times vary depending on daily demand, but we generally see patients within 15-30 minutes. We recommend arriving early to ensure faster service.",
+    "q10": "Is parking available?",
+    "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms."
+  },
+  "location": {
+    "title": "Our Location",
+    "subtitle": "Visit us in Houston, TX",
+    "howToGetHere": "How to Get Here",
+    "getDirections": "Get Directions",
+    "openInMaps": "Open in Google Maps",
+    "features": {
+      "parking": "Free Parking",
+      "wheelchair": "Wheelchair Accessible",
+      "bus": "Bus Access",
+      "security": "Safe Area"
+    },
+    "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
+    "call": "Call"
+  },
+  "footer": {
+    "tagline": "Your health is our priority",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "copyright": "© {year} Clinica Hispana Nueva Salud Lawndale. All rights reserved.",
+    "madeBy": "Developed by",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "hipaa": "HIPAA Notice",
+    "stars": "4.0 stars",
+    "hoursWeekday": "Monday - Friday: 9:00 AM - 9:00 PM",
+    "hoursWeekend": "Saturday & Sunday: 9:00 AM - 9:00 PM"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error has occurred",
+    "tryAgain": "Try again",
+    "close": "Close",
+    "open": "Open",
+    "readMore": "Read more",
+    "showLess": "Show less",
+    "all": "All",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Hours"
+  },
+  "cta": {
+    "callNow": "Call Now",
+    "getDirections": "Get Directions",
+    "bookAppointment": "Book Appointment",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "viewServices": "View Services"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "scrollToTop": "Back to top",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "menuDescription": "Main navigation menu"
+  },
+  "notFound": {
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backHome": "Go to Home",
+    "contact": "Contact Us"
+  },
+  "errorPage": {
+    "description": "An unexpected error occurred. Please try again."
+  },
+  "greenCard": {
+    "badge": "USCIS Authorized",
+    "title": "Immigration Medical Exams I-693",
+    "subtitle": "Clínica Hispana Nueva Salud Lawndale is your USCIS authorized Hispanic clinic for I-693 immigration medical exams in Houston. Our certified Civil Surgeons help you with your Green Card process quickly and in Spanish.",
+    "processTitle": "Simple 5-Step Process",
+    "ctaSchedule": "Schedule I-693 Exam",
+    "ctaCall": "Call Now"
+  },
+  "chronicCare": {
+    "badge": "Ongoing Care",
+    "title": "Chronic Disease Management",
+    "subtitle": "Comprehensive monitoring and treatment program for diabetes, hypertension, high cholesterol, and thyroid conditions. Same-day lab results, medication adjustments, and patient education in Spanish.",
+    "conditionsTitle": "Conditions we manage",
+    "ctaSchedule": "Schedule Appointment",
+    "ctaCall": "Call Now",
+    "learnMore": "Learn more about this service"
+  },
+  "blog": {
+    "title": "Health Blog",
+    "subtitle": "Health tips, news and updates from our clinic",
+    "metaTitle": "Blog | Clinica Hispana Nueva Salud Lawndale Houston",
+    "metaDescription": "Health tips, medical information and news from Clinica Hispana Nueva Salud Lawndale in Houston, TX. Articles in Spanish about family medicine, prevention and wellness.",
+    "featured": "Featured",
+    "readMore": "Read More",
+    "viewAll": "View All Articles",
+    "minRead": "min read",
+    "noPosts": "No posts available.",
+    "backToBlog": "Back to Blog",
+    "by": "By",
+    "relatedPosts": "Related Articles",
+    "ctaTitle": "Need medical attention?",
+    "ctaDescription": "We're here to help. Call now to schedule your appointment or visit our clinic without an appointment.",
+    "callNow": "Call now:"
+  }
+}
