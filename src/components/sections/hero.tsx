@@ -33,7 +33,7 @@ export function Hero({
       <div
         aria-hidden="true"
         className="absolute inset-0 -z-20 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
+        style={{ backgroundImage: "url('/images/hero-bg.webp')" }}
       />
       {/* Capa 3 — scrim oscuro para legibilidad del texto */}
       <div
