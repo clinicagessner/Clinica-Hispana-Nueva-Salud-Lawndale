@@ -5,7 +5,7 @@ description: "Aprenda a controlar su diabetes con nuestra guía completa. Monito
 date: "2026-03-19"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/control-diabetes.webp"
 featured: false
 category: "Salud"
 readTime: 7
