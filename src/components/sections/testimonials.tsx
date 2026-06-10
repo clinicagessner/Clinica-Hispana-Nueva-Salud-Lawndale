@@ -1,6 +1,7 @@
 import { getTranslations } from "next-intl/server";
 import { Star } from "lucide-react";
 import { TestimonialsCarousel } from "@/components/sections/testimonials-carousel";
+import { StarRating } from "@/components/shared/star-rating";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 
@@ -14,7 +15,6 @@ export async function Testimonials() {
   const totalReviews = googleData?.totalReviews ?? 0;
   const reviews = googleData?.reviews ?? [];
   const hasRating = totalReviews > 0 && rating > 0;
-  const roundedRating = Math.round(rating);
 
   return (
     <section
@@ -35,18 +35,7 @@ export async function Testimonials() {
 
           {hasRating && (
             <div className="flex items-center gap-3 shrink-0">
-              <div className="flex items-center gap-0.5">
-                {[...Array(5)].map((_, i) => (
-                  <Star
-                    key={i}
-                    className={`size-4 ${
-                      i < roundedRating
-                        ? "fill-yellow-accent text-yellow-accent"
-                        : "fill-slate-light text-slate-light"
-                    }`}
-                  />
-                ))}
-              </div>
+              <StarRating rating={rating} starClassName="size-4" />
               <span className="text-sm text-slate-muted font-medium">
                 {rating.toFixed(1)} · {totalReviews} {t("reviews")}
               </span>

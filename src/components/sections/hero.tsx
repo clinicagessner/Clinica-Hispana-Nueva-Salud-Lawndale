@@ -1,7 +1,8 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Phone, MapPin, Clock, Star, CheckCircle2, CalendarCheck, Stethoscope } from "lucide-react";
+import { Phone, MapPin, Clock, CheckCircle2, CalendarCheck, Stethoscope } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { StarRating } from "@/components/shared/star-rating";
 import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
 
 export function Hero({
@@ -17,7 +18,6 @@ export function Hero({
   const fullTitle = t("title");
   const highlightMatch = fullTitle.match(/(.*?)(Nueva Salud Lawndale)(.*)/);
   const hasReviews = totalReviews > 0;
-  const roundedRating = Math.round(rating);
 
   return (
     <section
@@ -111,18 +111,11 @@ export function Hero({
 
             {/* Fila de confianza — reseñas solo si existen datos reales */}
             <div className="animate-hero-cta flex items-center gap-3">
-              <div className="flex items-center gap-0.5" aria-hidden="true">
-                {[...Array(5)].map((_, i) => (
-                  <Star
-                    key={i}
-                    className={`size-4 md:size-5 ${
-                      i < (hasReviews ? roundedRating : 5)
-                        ? "fill-yellow-accent text-yellow-accent"
-                        : "fill-white/25 text-white/25"
-                    }`}
-                  />
-                ))}
-              </div>
+              <StarRating
+                rating={hasReviews ? rating : 5}
+                starClassName="size-4 md:size-5"
+                emptyClassName="fill-white/25 text-white/25"
+              />
               <p className="text-xs md:text-sm text-blue-light/90 font-medium">
                 {hasReviews
                   ? `${rating.toFixed(1)} · ${totalReviews} ${t("googleReviews")}`

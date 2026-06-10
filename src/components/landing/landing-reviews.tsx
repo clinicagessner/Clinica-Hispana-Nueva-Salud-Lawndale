@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { Star } from "lucide-react";
+import { StarRating } from "@/components/shared/star-rating";
 import { LANDING_COPY } from "@/lib/landing-conquesting";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -30,14 +31,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
           </h2>
           <p className="text-lg text-slate-dark/70 mb-6">{c.subtitle}</p>
           <div className="flex items-center justify-center gap-2 mb-6">
-            {Array.from({ length: 5 }).map((_, i) => (
-              <Star
-                key={i}
-                className="size-6 text-yellow-accent-dark"
-                fill="currentColor"
-                strokeWidth={0}
-              />
-            ))}
+            <StarRating rating={rating} starClassName="size-6" />
             <span className="ml-2 font-semibold text-slate-dark">
               {rating.toFixed(1)} · {totalReviews}+ {locale === "en" ? "reviews" : "reseñas"}
             </span>
@@ -67,14 +61,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
           </h2>
           <p className="text-lg text-slate-dark/70 mb-4">{c.subtitle}</p>
           <div className="flex items-center justify-center gap-2">
-            {Array.from({ length: 5 }).map((_, i) => (
-              <Star
-                key={i}
-                className="size-5 text-yellow-accent-dark"
-                fill="currentColor"
-                strokeWidth={0}
-              />
-            ))}
+            <StarRating rating={rating} starClassName="size-5" />
             <span className="ml-2 text-sm font-semibold text-slate-dark">
               {rating.toFixed(1)} · {totalReviews}+ {locale === "en" ? "reviews" : "reseñas"}
             </span>
