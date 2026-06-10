@@ -5,7 +5,7 @@ description: "Discover our Hispanic medical clinic in Houston, TX. Professional 
 date: "2026-03-16"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/bienvenidos.webp"
 featured: false
 category: "Announcements"
 readTime: 4
