@@ -2515,7 +2515,6 @@ export const FAQ_ITEMS: FAQItem[] = [
 
 export const NAV_ITEMS = [
   { label: "nav.services", href: "/services" },
-  { label: "nav.greenCard", href: "/#green-card" },
   { label: "nav.blog", href: "/blog" },
   { label: "nav.contact", href: "/#contact" },
 ];

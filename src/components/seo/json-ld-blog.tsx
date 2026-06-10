@@ -21,7 +21,7 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
     description: post.description,
     image: post.image
       ? `${SITE_CONFIG.baseUrl}${post.image}`
-      : `${SITE_CONFIG.baseUrl}/images/logo.webp`,
+      : `${SITE_CONFIG.baseUrl}/images/og.webp`,
     datePublished: post.date,
     dateModified: post.dateModified || post.date,
     author: [

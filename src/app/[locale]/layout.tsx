@@ -93,7 +93,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: ogDescription,
       images: [
         {
-          url: `${SITE_CONFIG.baseUrl}/images/logo.webp`,
+          url: `${SITE_CONFIG.baseUrl}/images/og.webp`,
           width: 1200,
           height: 630,
           alt: `${SITE_CONFIG.name} - Clínica médica hispana en Houston TX`,
@@ -104,7 +104,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: t("title"),
       description: ogDescription,
-      images: [`${SITE_CONFIG.baseUrl}/images/logo.webp`],
+      images: [`${SITE_CONFIG.baseUrl}/images/og.webp`],
     },
     robots: {
       index: true,
