@@ -224,7 +224,7 @@ Las enfermedades del corazón son la principal causa de muerte en Houston y en t
 - Proteína C reactiva de alta sensibilidad (marcador de inflamación)
 - Electrocardiograma si su médico lo indica — disponible también en nuestra clínica
 
-Visite nuestra página de [laboratorio clínico](/services/laboratorio) para conocer todos los análisis disponibles sin cita previa en Houston TX.
+Visite nuestra página de [laboratorio clínico](/services/examenes-sangre) para conocer todos los análisis disponibles sin cita previa en Houston TX.
 
 ## Programe sus Análisis
 

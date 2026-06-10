@@ -42,7 +42,7 @@ Only physicians designated as **Civil Surgeons** by USCIS are authorized to perf
 - Tuberculosis test (TB skin test or IGRA blood test)
 - Additional tests as required by USCIS guidelines
 
-Our [clinical laboratory](/services/laboratorio) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
+Our [clinical laboratory](/services/examenes-sangre) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
 
 ### Required Vaccinations
 USCIS requires that all applicants be up to date with the vaccination schedule recommended by the Advisory Committee on Immunization Practices (ACIP). Below are the most commonly required vaccines:

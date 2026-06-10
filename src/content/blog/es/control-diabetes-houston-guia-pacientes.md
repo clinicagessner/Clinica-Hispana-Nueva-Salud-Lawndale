@@ -55,7 +55,7 @@ En la comunidad hispana de Houston, el riesgo de prediabetes es especialmente al
 - Personas con presión arterial alta o colesterol elevado
 - Personas con poco o ningún ejercicio físico
 
-Si tiene alguno de estos factores de riesgo, solicite una prueba de glucosa en nuestro [laboratorio clínico](/services/laboratorio). La detección temprana puede cambiar el curso de su salud.
+Si tiene alguno de estos factores de riesgo, solicite una prueba de glucosa en nuestro [laboratorio clínico](/services/examenes-sangre). La detección temprana puede cambiar el curso de su salud.
 
 ## Síntomas de la Diabetes
 
@@ -79,7 +79,7 @@ Revisar sus niveles de glucosa regularmente es fundamental:
 - **Hemoglobina A1C**: menos de 7%
 
 ### Exámenes Regulares
-En Clínica Hispana Nueva Salud Lawndale realizamos todos los estudios necesarios para el control de la diabetes. Consulte nuestros servicios de [condiciones crónicas](/services/condiciones-cronicas) y [laboratorio](/services/laboratorio):
+En Clínica Hispana Nueva Salud Lawndale realizamos todos los estudios necesarios para el control de la diabetes. Consulte nuestros servicios de [condiciones crónicas](/services/condiciones-cronicas) y [laboratorio](/services/examenes-sangre):
 - Pruebas de glucosa en ayunas
 - Hemoglobina A1C (cada 3 meses)
 - Panel metabólico completo
@@ -203,7 +203,7 @@ En **Clínica Hispana Nueva Salud Lawndale** ofrecemos atención integral para e
 
 ### Servicios de Diabetes
 - Consultas médicas en español
-- Pruebas de glucosa y A1C en nuestro [laboratorio](/services/laboratorio)
+- Pruebas de glucosa y A1C en nuestro [laboratorio](/services/examenes-sangre)
 - Ajuste de medicamentos
 - Educación sobre nutrición
 - Monitoreo continuo

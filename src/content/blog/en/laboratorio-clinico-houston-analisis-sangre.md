@@ -224,7 +224,7 @@ Heart disease is the leading cause of death in Houston and across the United Sta
 - High-sensitivity C-reactive protein (inflammation marker)
 - Electrocardiogram if your doctor recommends it — also available at our clinic
 
-Visit our [clinical laboratory](/services/laboratorio) page to see all available tests with no appointment needed in Houston TX.
+Visit our [clinical laboratory](/services/examenes-sangre) page to see all available tests with no appointment needed in Houston TX.
 
 ## Schedule Your Lab Work
 

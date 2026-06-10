@@ -25,12 +25,12 @@ const COPY = {
     servicesIntro:
       "Estos son los servicios que atendemos como walk-in para que llegue, sea atendido y reciba sus resultados el mismo día:",
     services: [
-      { name: "Consulta médica general", slug: "medicina-familiar" },
+      { name: "Atención ginecológica (Papanicolaou)", slug: "ginecologia" },
       { name: "Gripe, tos y síntomas respiratorios", slug: "enfermedades-respiratorias" },
-      { name: "Análisis de sangre y laboratorio", slug: "laboratorio" },
+      { name: "Análisis de sangre y laboratorio", slug: "examenes-sangre" },
       { name: "Examen físico DOT (camioneros)", slug: "examen-dot" },
-      { name: "Examen físico general (trabajo, escuela, deportes)", slug: "examenes-generales" },
-      { name: "Vacunas", slug: "vacunas-anticonceptivas" },
+      { name: "Examen físico general (trabajo, escuela, deportes)", slug: "examen-fisico-escolar" },
+      { name: "Vacunas", slug: "vacunas" },
       { name: "Infecciones urinarias", slug: "infecciones-urinarias" },
       { name: "Manejo de diabetes, presión y colesterol", slug: "condiciones-cronicas" },
     ],
@@ -115,12 +115,12 @@ const COPY = {
     servicesIntro:
       "These are the services we provide on a walk-in basis so you can come in, be seen, and get same-day results:",
     services: [
-      { name: "General medical consultation", slug: "medicina-familiar" },
+      { name: "Gynecology care (Pap smear)", slug: "ginecologia" },
       { name: "Flu, cough and respiratory symptoms", slug: "enfermedades-respiratorias" },
-      { name: "Blood tests and laboratory", slug: "laboratorio" },
+      { name: "Blood tests and laboratory", slug: "examenes-sangre" },
       { name: "DOT physical (truck drivers)", slug: "examen-dot" },
-      { name: "General physical exam (work, school, sports)", slug: "examenes-generales" },
-      { name: "Vaccinations", slug: "vacunas-anticonceptivas" },
+      { name: "General physical exam (work, school, sports)", slug: "examen-fisico-escolar" },
+      { name: "Vaccinations", slug: "vacunas" },
       { name: "Urinary tract infections", slug: "infecciones-urinarias" },
       { name: "Diabetes, blood pressure and cholesterol management", slug: "condiciones-cronicas" },
     ],

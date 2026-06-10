@@ -28,26 +28,37 @@ Houston metropolitan area including Eastwood, Segundo Barrio, Magnolia Park, For
 - Bilingual staff (Spanish primary, English available)
 - 5.0 star rating on Google with 370+ verified patient reviews
 
-## Services (18 total)
+## Services (29 total)
 
-- Family Medicine (Medicina Familiar) — primary care for all ages
-- I-693 Immigration Medical Exam — USCIS-certified Civil Surgeon, same-day form completion
-- Confidential STD Testing — HIV, herpes, chlamydia, gonorrhea, syphilis, hepatitis
-- Urology — prostate evaluation, UTIs, urinary incontinence (Spanish-speaking urologist)
-- Chronic Disease Management — diabetes, hypertension, thyroid, cholesterol
-- Clinical Laboratory — blood tests, glucose, cholesterol, thyroid panels, same-day results
-- Ultrasound and Sonogram
-- Gynecology — Pap smears, pelvic exam, breast exam, prenatal care (Spanish-speaking gynecologists at our women's clinic)
-- Family Planning
-- Contraceptive Injection
-- Contraceptive Implant Removal
+- Diabetes, Hypertension & Cholesterol Care (condiciones crónicas) — diabetes, high blood pressure, cholesterol
+- Thyroid Testing & Treatment
+- Allergy Testing & Treatment
+- Flu & COVID Testing and Respiratory Illness Care
+- School & Sports Physical Exams
+- Gynecology Care: Pap Smear & Cultures (Spanish-speaking gynecologists)
+- Pregnancy Testing & Confirmation
+- Contraceptive Methods
+- Subdermal Implant Removal
+- Men's Health Exams: PSA & Testosterone
+- Blood Tests / Clinical Lab — same-day results
+- Urinalysis & Urinary Infection Treatment
+- Stool Tests
+- Strep Test
+- Tuberculosis (TB) Test
+- Sexually Transmitted Disease (STD) Testing — confidential
+- Alcohol & Drug Testing
 - Electrocardiogram (EKG)
-- Respiratory Disease Treatment — flu, cough, asthma, bronchitis
-- Urinary Tract Infection (UTI) Treatment
-- Vaginal Infection Treatment
+- Ultrasound & Sonography
 - DOT Physical Exam — CDL medical certificate for truck drivers
-- General Physical Exam — work, school, sports physicals
-- Back and Muscle Pain Treatment
+- I-693 Immigration Medical Exam — USCIS-certified Civil Surgeon, same-day form
+- Flu and Tetanus (Tdap) Vaccines
+- Vitamin IV Therapy
+- Wound Suturing
+- Wound Care
+- Minor Surgery
+- Abscess Drainage
+- Ingrown Toenail Removal
+- Pharmacy
 
 ## Key pages
 
@@ -57,8 +68,10 @@ Houston metropolitan area including Eastwood, Segundo Barrio, Magnolia Park, For
 - Blog: https://www.nuevasaludlawndale.com/blog
 - I-693 immigration exam: https://www.nuevasaludlawndale.com/services/examenes-inmigracion
 - Gynecology: https://www.nuevasaludlawndale.com/services/ginecologia
-- Urology: https://www.nuevasaludlawndale.com/services/urologia
-- Laboratory: https://www.nuevasaludlawndale.com/services/laboratorio
+- Men's health: https://www.nuevasaludlawndale.com/services/salud-hombre
+- Blood tests / Lab: https://www.nuevasaludlawndale.com/services/examenes-sangre
+- DOT physical: https://www.nuevasaludlawndale.com/services/examen-dot
+- Chronic conditions: https://www.nuevasaludlawndale.com/services/condiciones-cronicas
 
 ## Featured guides
 

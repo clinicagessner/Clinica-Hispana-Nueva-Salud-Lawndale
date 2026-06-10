@@ -43,15 +43,15 @@ We are located at **7040 Lawndale St # B, Houston, TX 77023**, with easy access 
 
 We offer a wide range of medical services for the whole family:
 
-- [**Family Medicine**](/services/medicina-familiar) — Comprehensive care for all ages, from children to seniors. Preventive checkups, treatment of acute illnesses, and general health follow-up.
+- [**Family Medicine**](/services/condiciones-cronicas) — Comprehensive care for all ages, from children to seniors. Preventive checkups, treatment of acute illnesses, and general health follow-up.
 - [**Immigration Medical Exams**](/services/examenes-inmigracion) — I-693 form completed by USCIS-certified Civil Surgeons. The entire process conducted in Spanish.
-- [**Clinical Laboratory**](/services/laboratorio) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
+- [**Clinical Laboratory**](/services/examenes-sangre) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
 - [**Gynecology**](/services/ginecologia) — Complete women's health care: Pap smears, pelvic exams, family planning, and more.
 - [**Chronic Conditions**](/services/condiciones-cronicas) — Specialized management of diabetes, hypertension, high cholesterol, and other long-term conditions.
 - [**Ultrasound & EKG**](/services/ultrasonido) — Diagnostic imaging available at our clinic, no outside referrals needed.
 - [**Respiratory Illnesses**](/services/enfermedades-respiratorias) — Treatment of asthma, bronchitis, pneumonia, and other lung conditions.
-- [**Urology**](/services/urologia) — Care for urinary and male reproductive health concerns.
-- [**Vaccines & Contraceptives**](/services/vacunas-anticonceptivas) — Complete vaccination schedules for all ages and contraceptive methods.
+- [**Men's Health**](/services/salud-hombre) — Men's exams (PSA & testosterone) and care for male urinary concerns.
+- [**Vaccines & Contraceptives**](/services/vacunas) — Complete vaccination schedules for all ages and contraceptive methods.
 
 ## Houston's Hispanic Community and Their Health Needs
 

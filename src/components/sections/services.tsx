@@ -11,10 +11,10 @@ import { getLocalizedService } from "@/lib/utils";
 import { cn } from "@/lib/utils";
 
 const FEATURED_SLUGS = [
-  "medicina-familiar",
+  "condiciones-cronicas",
   "examenes-inmigracion",
-  "laboratorio",
-  "enfermedades-transmision-sexual",
+  "examenes-sangre",
+  "ginecologia",
 ];
 
 export function Services() {

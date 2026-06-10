@@ -42,7 +42,7 @@ Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este
 - Prueba de tuberculosis (TB)
 - Otras pruebas según sea necesario
 
-Nuestro [laboratorio clínico](/services/laboratorio) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
+Nuestro [laboratorio clínico](/services/examenes-sangre) realiza todos estos análisis en el mismo lugar, por lo que no necesitará ir a otro sitio para completar los requisitos de laboratorio del I-693.
 
 ### Vacunas Requeridas
 USCIS requiere que los solicitantes estén al día con el esquema de vacunación recomendado por el Advisory Committee on Immunization Practices (ACIP). A continuación se detallan las vacunas más comunes exigidas:

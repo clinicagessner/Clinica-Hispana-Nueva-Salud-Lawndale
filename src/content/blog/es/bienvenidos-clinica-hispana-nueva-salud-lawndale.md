@@ -43,15 +43,15 @@ Estamos ubicados en **7040 Lawndale St # B, Houston, TX 77023**, con fácil acce
 
 Ofrecemos una amplia gama de servicios médicos para toda la familia:
 
-- [**Medicina Familiar**](/services/medicina-familiar) - Atención integral para todas las edades, desde niños hasta adultos mayores. Chequeos preventivos, manejo de enfermedades agudas y seguimiento de salud general.
+- [**Medicina Familiar**](/services/condiciones-cronicas) - Atención integral para todas las edades, desde niños hasta adultos mayores. Chequeos preventivos, manejo de enfermedades agudas y seguimiento de salud general.
 - [**Exámenes de Inmigración**](/services/examenes-inmigracion) - Formulario I-693 realizado por Civil Surgeons certificados por USCIS. Proceso completo en español.
-- [**Laboratorio Clínico**](/services/laboratorio) - Análisis de sangre, orina y más con resultados rápidos y precisos. Sin necesidad de ir a otro lugar.
+- [**Laboratorio Clínico**](/services/examenes-sangre) - Análisis de sangre, orina y más con resultados rápidos y precisos. Sin necesidad de ir a otro lugar.
 - [**Ginecología**](/services/ginecologia) - Salud integral de la mujer: Papanicolaou, examen pélvico, planificación familiar y más.
 - [**Condiciones Crónicas**](/services/condiciones-cronicas) - Manejo especializado de diabetes, hipertensión, colesterol alto y otras condiciones de largo plazo.
 - [**Ultrasonido y EKG**](/services/ultrasonido) - Diagnóstico por imagen disponible en nuestra clínica, sin referencias externas.
 - [**Enfermedades Respiratorias**](/services/enfermedades-respiratorias) - Tratamiento de asma, bronquitis, neumonía y otras condiciones pulmonares.
-- [**Urología**](/services/urologia) - Atención de problemas urinarios y del sistema reproductor masculino.
-- [**Vacunas y Anticonceptivos**](/services/vacunas-anticonceptivas) - Esquemas de vacunación completos para todas las edades y métodos anticonceptivos.
+- [**Salud del Hombre**](/services/salud-hombre) - Exámenes del hombre (PSA y testosterona) y atención de problemas urinarios masculinos.
+- [**Vacunas y Anticonceptivos**](/services/vacunas) - Esquemas de vacunación completos para todas las edades y métodos anticonceptivos.
 
 ## La Comunidad Hispana de Houston y sus Necesidades de Salud
 

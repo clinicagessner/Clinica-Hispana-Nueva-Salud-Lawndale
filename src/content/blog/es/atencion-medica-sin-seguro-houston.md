@@ -146,7 +146,7 @@ Uno de los errores más costosos que cometen las familias sin seguro es ir a la 
 
 La regla es sencilla: **use la sala de emergencia solo para emergencias reales** — dificultad para respirar, dolor de pecho, pérdida de conciencia, sangrado que no para, accidentes graves. Para todo lo demás, una clínica como la nuestra le ofrece la misma calidad a una fracción del costo.
 
-Nuestros servicios de [medicina familiar](/services/medicina-familiar) y [exámenes generales](/services/examenes-generales) están disponibles sin seguro y sin cita previa en Houston TX.
+Nuestros servicios de [medicina familiar](/services/condiciones-cronicas) y [exámenes generales](/services/examen-fisico-escolar) están disponibles sin seguro y sin cita previa en Houston TX.
 
 ## Opciones de Salud para sus Hijos
 
@@ -179,7 +179,7 @@ No espere una emergencia. Lleve a sus hijos a chequeos preventivos incluso si se
 - Cada 2-3 meses durante el primer año
 - Anualmente a partir del año de edad
 
-Para análisis de sangre pediátricos y pruebas de detección, visite nuestra página de [laboratorio clínico](/services/laboratorio) donde atendemos pacientes de todas las edades.
+Para análisis de sangre pediátricos y pruebas de detección, visite nuestra página de [laboratorio clínico](/services/examenes-sangre) donde atendemos pacientes de todas las edades.
 
 ## Nuestro Compromiso
 

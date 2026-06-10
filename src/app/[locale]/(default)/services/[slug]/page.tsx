@@ -178,11 +178,17 @@ export default async function ServicePage({ params }: Props) {
               {/* Category Badge */}
               <Badge className="mb-4 bg-blue-primary/90 hover:bg-blue-primary text-white border-0">
                 <IconComponent className="size-3.5 mr-1.5" weight="fill" />
-                {service.category === "especial" ? t("categoryEspecial") :
-                 service.category === "diagnostico" ? t("categoryDiagnostico") :
-                 service.category === "especialidad" ? t("categoryEspecialidad") :
-                 service.category === "mujer" ? t("categoryMujer") :
-                 t("categoryDefault")}
+                {(() => {
+                  const labels: Record<string, { es: string; en: string }> = {
+                    "medicina-general": { es: "Medicina General", en: "General Medicine" },
+                    "salud-mujer": { es: "Salud de la Mujer", en: "Women's Health" },
+                    "examenes": { es: "Exámenes y Certificados", en: "Exams & Certificates" },
+                    "laboratorio": { es: "Laboratorio y Pruebas", en: "Lab & Testing" },
+                    "tratamientos": { es: "Tratamientos", en: "Treatments" },
+                  };
+                  const l = labels[service.category];
+                  return l ? (locale === "en" ? l.en : l.es) : "";
+                })()}
               </Badge>
 
               <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-white mb-4 drop-shadow-lg">

@@ -146,7 +146,7 @@ One of the most costly mistakes that uninsured families make is going to the eme
 
 The rule is simple: **use the emergency room only for real emergencies** — difficulty breathing, chest pain, loss of consciousness, uncontrolled bleeding, serious accidents. For everything else, a clinic like ours offers the same quality at a fraction of the cost.
 
-Our [family medicine](/services/medicina-familiar) and [general exam](/services/examenes-generales) services are available without insurance and without an appointment in Houston TX.
+Our [family medicine](/services/condiciones-cronicas) and [general exam](/services/examen-fisico-escolar) services are available without insurance and without an appointment in Houston TX.
 
 ## Healthcare Options for Your Children
 
@@ -179,7 +179,7 @@ Don't wait for an emergency. Take your children to preventive checkups even when
 - Every 2–3 months during the first year
 - Annually starting at age one
 
-For pediatric blood tests and screening, visit our [clinical laboratory](/services/laboratorio) page — we see patients of all ages.
+For pediatric blood tests and screening, visit our [clinical laboratory](/services/examenes-sangre) page — we see patients of all ages.
 
 ## Our Commitment
 
