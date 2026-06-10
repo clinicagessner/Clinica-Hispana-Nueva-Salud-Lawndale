@@ -52,10 +52,10 @@ Ask family, friends, or local Facebook groups like "Hispanos en Houston". Person
 
 Houston has several clinics that specifically focus on the Hispanic community. They are generally located in:
 
-- **East End de Houston:** Segundo Barrio, Pecan Park, Gulfgate, Magnolia Park, Forest Hill, Manchester (ZIPs 77023, 77074, 77081)
-- **Northwest:** Eastwood (77055, 77080)
+- **East End of Houston:** Eastwood, Segundo Barrio, Pecan Park, Gulfgate, Magnolia Park, Forest Hill, Manchester (ZIPs 77023, 77011, 77012, 77087)
+- **Second Ward / EaDo:** 77003, 77020
+- **Southeast:** Pasadena, South Houston (77502, 77503, 77587)
 - **North:** Aldine area (77039, 77093)
-- **East:** Pasadena (77502, 77503)
 
 Searching "Hispanic clinic near me" on Google will show you options near your location.
 

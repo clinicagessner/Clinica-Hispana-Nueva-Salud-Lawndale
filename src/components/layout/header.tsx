@@ -6,7 +6,6 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import {
   Menu,
-  X,
   Phone,
   MapPin,
   Clock,
@@ -107,20 +106,17 @@ export function Header() {
             className="group flex items-center gap-2.5 shrink-0"
             aria-label={SITE_CONFIG.name}
           >
-            <div className="relative w-11 h-11 md:w-12 md:h-12 transition-transform duration-300 group-hover:scale-105">
+            <div className="relative w-14 h-14 md:w-16 md:h-16 transition-transform duration-300 group-hover:scale-105">
               <Image
                 src="/images/logo.webp"
                 alt={SITE_CONFIG.name}
                 fill
-                sizes="48px"
+                sizes="64px"
                 className="object-contain"
                 priority
                 fetchPriority="high"
               />
             </div>
-            <span className="block text-xl md:text-2xl font-extrabold text-gradient leading-none">
-              Lawndale
-            </span>
           </a>
 
           {/* Desktop Navigation */}
@@ -199,25 +195,16 @@ export function Header() {
                     aria-label={SITE_CONFIG.name}
                     className="flex items-center gap-2.5"
                   >
-                    <div className="relative w-10 h-10">
+                    <div className="relative w-14 h-14">
                       <Image
                         src="/images/logo.webp"
                         alt={SITE_CONFIG.name}
                         fill
-                        sizes="40px"
+                        sizes="56px"
                         className="object-contain"
                       />
                     </div>
-                    <span className="block text-xl font-extrabold text-gradient leading-none">Lawndale</span>
                   </Link>
-                  <button
-                    type="button"
-                    onClick={closeSheet}
-                    aria-label={t("closeMenu")}
-                    className="p-2 rounded-full text-slate-muted hover:text-blue-primary hover:bg-cyan-bg transition-colors"
-                  >
-                    <X className="size-5" aria-hidden="true" />
-                  </button>
                 </div>
 
                 {/* Nav Links */}

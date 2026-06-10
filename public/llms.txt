@@ -11,7 +11,7 @@ Clínica Hispana Nueva Salud Lawndale provides professional medical care 100% in
 - Address: 7040 Lawndale St # B, Houston, TX 77023
 - Phone: (832) 530-4188
 - Email: nuevasaludlawndale@gmail.com
-- Coordinates: 29.7187891, -95.5195062
+- Coordinates: 29.7169134, -95.2967503
 
 ## Hours
 
@@ -19,7 +19,7 @@ Open every day of the week, including weekends, from 9:00 AM to 9:00 PM. Walk-in
 
 ## Service Area
 
-Houston metropolitan area including Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester, and surrounding neighborhoods. ZIP codes primarily served: 77023, 77057, 77074, 77042, 77063, 77081, 77096.
+Houston metropolitan area including Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester, and surrounding neighborhoods. ZIP codes primarily served: 77023, 77011, 77012, 77003, 77020, 77087, 77017.
 
 ## Credentials
 
@@ -125,8 +125,7 @@ A: Cash, credit/debit cards, and most major insurance plans.
 
 ## Social Media
 
-- Facebook: https://www.facebook.com/clinicalacaridadhoustontx
-- Instagram: https://www.instagram.com/clinicalacaridadhouston
+Social media profiles coming soon.
 
 ## Website
 

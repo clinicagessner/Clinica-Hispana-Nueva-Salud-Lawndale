@@ -52,10 +52,10 @@ Pregunte a familia, amigas, o grupos de Facebook locales como "Hispanos en Houst
 
 Houston tiene varias clínicas que se enfocan específicamente en la comunidad hispana. Generalmente están en:
 
-- **East End de Houston:** Segundo Barrio, Pecan Park, Gulfgate, Magnolia Park, Forest Hill, Manchester (códigos postales 77023, 77074, 77081, 77074)
-- **Noroeste:** Eastwood (77055, 77080)
+- **East End de Houston:** Eastwood, Segundo Barrio, Pecan Park, Gulfgate, Magnolia Park, Forest Hill, Manchester (códigos postales 77023, 77011, 77012, 77087)
+- **Second Ward / EaDo:** 77003, 77020
+- **Sureste:** Pasadena, South Houston (77502, 77503, 77587)
 - **Norte:** zona de Aldine (77039, 77093)
-- **Este:** Pasadena (77502, 77503)
 
 Buscar "clínica hispana cerca de mí" en Google le mostrará opciones cercanas a su ubicación.
 

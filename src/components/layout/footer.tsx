@@ -46,16 +46,13 @@ export async function Footer() {
               className="inline-flex items-center gap-3 mb-4"
               aria-label={SITE_CONFIG.name}
             >
-              <span className="grid place-items-center size-14 rounded-2xl bg-white/10 ring-1 ring-white/15 backdrop-blur-sm p-1.5">
-                <Image
-                  src="/images/logo.webp"
-                  alt={`Logo de ${SITE_CONFIG.name}`}
-                  width={56}
-                  height={56}
-                  className="size-full object-contain"
-                />
-              </span>
-              <span className="block text-2xl font-extrabold text-white leading-none">Lawndale</span>
+              <Image
+                src="/images/logo.webp"
+                alt={`Logo de ${SITE_CONFIG.name}`}
+                width={72}
+                height={72}
+                className="size-18 object-contain"
+              />
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-5 max-w-xs">
               {SITE_CONFIG.tagline}
