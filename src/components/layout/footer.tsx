@@ -95,9 +95,9 @@ export async function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="/#chronic-care" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/#chronic-care" className="text-white/70 hover:text-white text-sm transition-colors">
                   {t("nav.chronicCare")}
-                </a>
+                </Link>
               </li>
               <li>
                 <Link href="/blog" className="text-white/70 hover:text-white text-sm transition-colors">
@@ -110,9 +110,9 @@ export async function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="/#contact" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/#contact" className="text-white/70 hover:text-white text-sm transition-colors">
                   {t("nav.contact")}
-                </a>
+                </Link>
               </li>
             </ul>
           </nav>

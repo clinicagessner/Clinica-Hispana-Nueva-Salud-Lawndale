@@ -14,7 +14,6 @@ import {
   BookOpen,
   Star,
   Mail,
-  HelpCircle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
@@ -101,7 +100,7 @@ export function Header() {
       >
         <div className="max-w-7xl mx-auto px-4 h-20 flex items-center justify-between gap-4">
           {/* Logo lockup */}
-          <a
+          <Link
             href="/"
             className="group flex items-center gap-2.5 shrink-0"
             aria-label={SITE_CONFIG.name}
@@ -117,7 +116,7 @@ export function Header() {
                 fetchPriority="high"
               />
             </div>
-          </a>
+          </Link>
 
           {/* Desktop Navigation */}
           <nav

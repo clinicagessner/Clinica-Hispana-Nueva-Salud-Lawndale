@@ -32,7 +32,7 @@ export async function POST(request: NextRequest) {
       status: response.status,
       submitted: urls.length,
     });
-  } catch (error) {
+  } catch {
     return NextResponse.json(
       { error: "Failed to submit to IndexNow" },
       { status: 500 }
