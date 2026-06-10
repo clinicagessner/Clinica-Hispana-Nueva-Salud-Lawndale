@@ -33,7 +33,7 @@ export async function ChronicCare() {
       {/* Background */}
       <div className="absolute inset-0">
         <Image
-          src="/images/logo.webp"
+          src="/images/chronic-care.webp"
           alt={locale === "en" ? "Chronic disease management at Clinica Hispana Nueva Salud Lawndale" : "Manejo de enfermedades crónicas en Clínica Hispana Nueva Salud Lawndale"}
           fill
           className="object-cover"
