@@ -5,7 +5,7 @@ description: "How to find Spanish-speaking gynecologists in Houston. What to ask
 date: "2026-05-31"
 dateModified: "2026-05-31"
 author: "Clinica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/ginecologos.webp"
 featured: false
 category: "Women's Health"
 readTime: 6
