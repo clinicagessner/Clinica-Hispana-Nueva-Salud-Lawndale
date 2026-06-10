@@ -44,7 +44,7 @@ export function Hero({
       <div className="container relative z-10 mx-auto px-4 w-full">
         <div className="mx-auto max-w-3xl text-center text-white">
           {/* Logo */}
-          <div className="animate-hero-title relative mx-auto mb-5 size-20 md:size-24">
+          <div className="animate-hero-title relative mx-auto mb-5 size-28 md:size-36">
             <Image
               src="/images/logo.webp"
               alt={`Logo de ${SITE_CONFIG.name}, clínica médica hispana en Houston TX`}
@@ -52,7 +52,7 @@ export function Hero({
               priority
               fetchPriority="high"
               className="object-contain drop-shadow-lg"
-              sizes="96px"
+              sizes="144px"
             />
           </div>
 
