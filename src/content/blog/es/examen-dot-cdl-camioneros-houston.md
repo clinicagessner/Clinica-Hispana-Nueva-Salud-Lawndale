@@ -5,7 +5,7 @@ description: "Guía completa del examen físico DOT para licencia CDL en Houston
 date: "2026-04-11"
 dateModified: "2026-04-11"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/examen-dot.webp"
 featured: true
 category: "Salud Ocupacional"
 readTime: 7
