@@ -23,6 +23,8 @@
   "hero": {
     "badge": "Quality medical care",
     "badgeWalkIn": "Walk-ins welcome",
+    "badgeWalkInSub": "No appointment",
+    "badgeOpenDays": "Every day",
     "title": "Your Trusted Hispanic Clinic in Houston",
     "subtitle": "Professional medical care 100% in Spanish. Walk-ins welcome, affordable prices.",
     "ctaCall": "Call Now",

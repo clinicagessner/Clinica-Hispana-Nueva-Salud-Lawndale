@@ -23,6 +23,8 @@
   "hero": {
     "badge": "Atención médica de calidad",
     "badgeWalkIn": "Sin cita previa",
+    "badgeWalkInSub": "Walk-in",
+    "badgeOpenDays": "Todos los días",
     "title": "Su Clínica Hispana de Confianza en Houston",
     "subtitle": "Atención médica profesional 100% en español. Sin cita previa, precios accesibles.",
     "ctaCall": "Llamar Ahora",
