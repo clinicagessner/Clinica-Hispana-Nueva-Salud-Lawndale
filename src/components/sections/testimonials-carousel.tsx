@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { BadgeCheck, ChevronLeft, ChevronRight, Star } from "lucide-react";
@@ -99,12 +100,23 @@ export function TestimonialsCarousel({ reviews }: TestimonialsCarouselProps) {
 
                 {/* Author */}
                 <div className="mt-5 flex items-center gap-3 pt-4 border-t border-cyan-bg-alt">
-                  <div
-                    aria-hidden="true"
-                    className="flex size-9 shrink-0 items-center justify-center rounded-full bg-blue-primary font-bold text-white text-sm"
-                  >
-                    {getInitial(review.author_name)}
-                  </div>
+                  {review.profile_photo_url?.startsWith("http") ? (
+                    <Image
+                      src={review.profile_photo_url}
+                      alt={`Foto de ${review.author_name}`}
+                      width={36}
+                      height={36}
+                      className="size-9 shrink-0 rounded-full object-cover"
+                      referrerPolicy="no-referrer"
+                    />
+                  ) : (
+                    <div
+                      aria-hidden="true"
+                      className="flex size-9 shrink-0 items-center justify-center rounded-full bg-blue-primary font-bold text-white text-sm"
+                    >
+                      {getInitial(review.author_name)}
+                    </div>
+                  )}
                   <div className="min-w-0 flex-1">
                     <p className="truncate text-sm font-semibold text-slate-dark">
                       {review.author_name}

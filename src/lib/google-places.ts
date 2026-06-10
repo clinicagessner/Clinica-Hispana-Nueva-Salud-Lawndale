@@ -83,7 +83,9 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
         relative_time_description: review.relativePublishTimeDescription ?? "",
         profile_photo_url: review.authorAttribution?.photoUri || "/images/logo.webp",
         author_url: review.authorAttribution?.uri,
-      }));
+      }))
+      // Most recent 5-star reviews first.
+      .sort((a, b) => b.time - a.time);
 
     return {
       rating: data.rating ?? 5.0,

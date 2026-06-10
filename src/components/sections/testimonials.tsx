@@ -1,51 +1,8 @@
 import { getTranslations } from "next-intl/server";
 import { Star } from "lucide-react";
 import { TestimonialsCarousel } from "@/components/sections/testimonials-carousel";
-import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
-import { getGooglePlaceData, type GoogleReview } from "@/lib/google-places";
-
-const fallbackReviews: GoogleReview[] = [
-  {
-    author_name: "María García",
-    rating: 5,
-    text: "Excelente atención, todo el personal habla español y me sentí muy cómoda. El doctor fue muy amable y profesional. Recomiendo esta clínica a toda la comunidad hispana.",
-    time: 1710000000000,
-    relative_time_description: "hace 2 semanas",
-    profile_photo_url: "/images/logo.webp",
-  },
-  {
-    author_name: "Carlos Rodríguez",
-    rating: 5,
-    text: "Muy buen servicio, no tuve que esperar mucho y los precios son muy accesibles. Me atendieron sin cita y resolvieron mi problema de salud rápidamente.",
-    time: 1707400000000,
-    relative_time_description: "hace 1 mes",
-    profile_photo_url: "/images/logo.webp",
-  },
-  {
-    author_name: "Ana Martínez",
-    rating: 5,
-    text: "La mejor clínica hispana en Houston. Llevé a mis hijos y los trataron con mucho cariño. El laboratorio es muy eficiente y los resultados fueron rápidos.",
-    time: 1709400000000,
-    relative_time_description: "hace 3 semanas",
-    profile_photo_url: "/images/logo.webp",
-  },
-  {
-    author_name: "José López",
-    rating: 5,
-    text: "Muy profesionales y atentos. Me explicaron todo en español y me dieron opciones de pago. Definitivamente volveré para mis chequeos regulares.",
-    time: 1704800000000,
-    relative_time_description: "hace 2 meses",
-    profile_photo_url: "/images/logo.webp",
-  },
-  {
-    author_name: "Laura Hernández",
-    rating: 5,
-    text: "Excelente experiencia. El personal es muy amable y el lugar está muy limpio. Me sentí como en casa. Los recomiendo ampliamente.",
-    time: 1710600000000,
-    relative_time_description: "hace 1 semana",
-    profile_photo_url: "/images/logo.webp",
-  },
-];
+import { CONTACT_INFO } from "@/lib/constants";
+import { getGooglePlaceData } from "@/lib/google-places";
 
 export async function Testimonials() {
   const [t, googleData] = await Promise.all([
@@ -53,11 +10,11 @@ export async function Testimonials() {
     getGooglePlaceData(),
   ]);
 
-  const totalReviews =
-    googleData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
-  const reviews = googleData?.reviews?.length
-    ? googleData.reviews
-    : fallbackReviews;
+  const rating = googleData?.rating ?? 0;
+  const totalReviews = googleData?.totalReviews ?? 0;
+  const reviews = googleData?.reviews ?? [];
+  const hasRating = totalReviews > 0 && rating > 0;
+  const roundedRating = Math.round(rating);
 
   return (
     <section
@@ -76,23 +33,29 @@ export async function Testimonials() {
             </p>
           </div>
 
-          <div className="flex items-center gap-3 shrink-0">
-            <div className="flex items-center gap-0.5">
-              {[...Array(5)].map((_, i) => (
-                <Star
-                  key={i}
-                  className="size-4 fill-yellow-accent text-yellow-accent"
-                />
-              ))}
+          {hasRating && (
+            <div className="flex items-center gap-3 shrink-0">
+              <div className="flex items-center gap-0.5">
+                {[...Array(5)].map((_, i) => (
+                  <Star
+                    key={i}
+                    className={`size-4 ${
+                      i < roundedRating
+                        ? "fill-yellow-accent text-yellow-accent"
+                        : "fill-slate-light text-slate-light"
+                    }`}
+                  />
+                ))}
+              </div>
+              <span className="text-sm text-slate-muted font-medium">
+                {rating.toFixed(1)} · {totalReviews} {t("reviews")}
+              </span>
             </div>
-            <span className="text-sm text-slate-muted font-medium">
-              {totalReviews}+ {t("reviews")}
-            </span>
-          </div>
+          )}
         </div>
 
-        {/* Carousel */}
-        <TestimonialsCarousel reviews={reviews} />
+        {/* Carousel — solo si hay reseñas reales */}
+        {reviews.length > 0 && <TestimonialsCarousel reviews={reviews} />}
 
         {/* CTA */}
         <div className="mt-10 text-center">

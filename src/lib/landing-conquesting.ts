@@ -77,7 +77,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
     },
     hero: {
       badge: "Lunes a Domingo · 9 AM - 9 PM",
-      rating: "5.0 · Reseñas reales en Google",
+      rating: "Reseñas reales en Google",
       h1: "Clínica Hispana en Lawndale St · Segundo Barrio, Houston",
       subtitle:
         "7040 Lawndale St # B, Houston 77023. Atendemos pacientes de Gulfgate, Magnolia Park, Forest Hill y Idylwild. Compare antes de elegir: atención el mismo día en español, sin cita, Civil Surgeon USCIS para examen I-693.",
@@ -92,8 +92,8 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
       items: [
         {
           icon: "Star",
-          title: "Reseñas 5 estrellas",
-          body: "Cientos de pacientes hispanos satisfechos en Google.",
+          title: "Reseñas reales en Google",
+          body: "Pacientes hispanos satisfechos con reseñas verificadas en Google.",
         },
         {
           icon: "CalendarOff",
@@ -267,7 +267,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
     },
     hero: {
       badge: "Monday to Sunday · 9 AM - 9 PM",
-      rating: "5.0 · Real Google reviews",
+      rating: "Real Google reviews",
       h1: "Hispanic Clinic on Lawndale St · Segundo Barrio, Houston",
       subtitle:
         "7040 Lawndale St # B, Houston 77023. We serve patients from Gulfgate, Magnolia Park, Forest Hill, and Idylwild. Compare before choosing: same-day care in Spanish, walk-in, USCIS Civil Surgeon for the I-693 exam.",
@@ -280,7 +280,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
       subtitle:
         "Accessible medical care for you and your family, without the hassles of large hospitals.",
       items: [
-        { icon: "Star", title: "5-star reviews", body: "Hundreds of satisfied Hispanic patients on Google." },
+        { icon: "Star", title: "Real Google reviews", body: "Satisfied Hispanic patients with verified Google reviews." },
         { icon: "CalendarOff", title: "No appointment", body: "Walk in and get same-day care." },
         { icon: "Clock", title: "Monday to Sunday", body: "Extended hours 9:00 AM to 9:00 PM, every day." },
         { icon: "Languages", title: "100% in Spanish", body: "All staff speaks your language." },
