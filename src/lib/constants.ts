@@ -1374,7 +1374,7 @@ ${AREAS_EN}`,
   {
     slug: "examen-alcohol-drogas",
     id: "examen-alcohol-drogas",
-    image: "/images/logo.webp",
+    image: "/images/services/examen-alcohol-drogas.webp",
     shortTitle: "Alcohol y Drogas",
     order: 17,
     category: "examenes",
