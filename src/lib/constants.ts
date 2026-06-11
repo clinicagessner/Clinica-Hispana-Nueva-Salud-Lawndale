@@ -486,7 +486,7 @@ ${AREAS_EN}`,
   {
     slug: "ginecologia",
     id: "ginecologia",
-    image: "/images/logo.webp",
+    image: "/images/services/ginecologia.webp",
     shortTitle: "Ginecología",
     order: 6,
     category: "salud-mujer",
