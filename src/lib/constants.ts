@@ -1293,7 +1293,7 @@ ${AREAS_EN}`,
   {
     slug: "enfermedades-transmision-sexual",
     id: "enfermedades-transmision-sexual",
-    image: "/images/logo.webp",
+    image: "/images/services/enfermedades-transmision-sexual.webp",
     shortTitle: "STD",
     order: 16,
     category: "laboratorio",
