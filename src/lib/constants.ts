@@ -243,7 +243,7 @@ ${AREAS_EN}`,
   {
     slug: "alergias",
     id: "alergias",
-    image: "/images/logo.webp",
+    image: "/images/services/alergias.webp",
     shortTitle: "Alergias",
     order: 3,
     category: "medicina-general",
