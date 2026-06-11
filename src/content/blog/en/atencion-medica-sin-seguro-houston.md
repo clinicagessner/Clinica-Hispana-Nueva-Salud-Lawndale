@@ -5,7 +5,7 @@ description: "No health insurance in Houston? Discover affordable, quality medic
 date: "2026-03-17"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/sin-seguro.webp"
 featured: false
 category: "Information"
 readTime: 5

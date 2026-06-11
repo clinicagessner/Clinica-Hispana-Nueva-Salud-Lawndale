@@ -5,7 +5,7 @@ description: "¿No tiene seguro médico en Houston? Conozca sus opciones para re
 date: "2026-03-17"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/sin-seguro.webp"
 featured: false
 category: "Información"
 readTime: 5
