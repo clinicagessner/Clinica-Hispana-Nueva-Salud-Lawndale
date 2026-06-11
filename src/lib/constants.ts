@@ -807,7 +807,7 @@ ${AREAS_EN}`,
   {
     slug: "salud-hombre",
     id: "salud-hombre",
-    image: "/images/logo.webp",
+    image: "/images/services/salud-hombre.webp",
     shortTitle: "Salud del Hombre",
     order: 10,
     category: "medicina-general",
