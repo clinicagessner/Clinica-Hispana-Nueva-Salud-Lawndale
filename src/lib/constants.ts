@@ -1611,7 +1611,7 @@ ${AREAS_EN}`,
   {
     slug: "examen-dot",
     id: "examen-dot",
-    image: "/images/logo.webp",
+    image: "/images/services/examen-dot.webp",
     shortTitle: "Examen DOT",
     order: 20,
     category: "examenes",
