@@ -1133,7 +1133,7 @@ ${AREAS_EN}`,
   {
     slug: "prueba-strep",
     id: "prueba-strep",
-    image: "/images/logo.webp",
+    image: "/images/services/prueba-strep.webp",
     shortTitle: "Strep",
     order: 14,
     category: "laboratorio",
