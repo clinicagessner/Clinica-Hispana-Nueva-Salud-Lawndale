@@ -1052,7 +1052,7 @@ ${AREAS_EN}`,
   {
     slug: "examen-heces",
     id: "examen-heces",
-    image: "/images/logo.webp",
+    image: "/images/services/examen-heces.webp",
     shortTitle: "Heces",
     order: 13,
     category: "laboratorio",
