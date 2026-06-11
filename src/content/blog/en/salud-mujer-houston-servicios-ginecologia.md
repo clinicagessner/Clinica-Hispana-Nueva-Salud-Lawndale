@@ -5,7 +5,7 @@ description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap
 date: "2026-03-20"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/salud-mujer.webp"
 featured: false
 category: "Women's Health"
 readTime: 6

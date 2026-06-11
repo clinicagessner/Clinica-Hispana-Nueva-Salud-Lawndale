@@ -5,7 +5,7 @@ description: "Servicios de ginecología en Houston TX con atención en español.
 date: "2026-03-20"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/salud-mujer.webp"
 featured: false
 category: "Salud de la Mujer"
 readTime: 6
