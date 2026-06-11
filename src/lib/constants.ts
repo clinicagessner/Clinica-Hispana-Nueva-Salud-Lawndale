@@ -405,7 +405,7 @@ ${AREAS_EN}`,
   {
     slug: "examen-fisico-escolar",
     id: "examen-fisico-escolar",
-    image: "/images/logo.webp",
+    image: "/images/services/examen-fisico-escolar.webp",
     shortTitle: "Físico Escolar",
     order: 5,
     category: "examenes",
