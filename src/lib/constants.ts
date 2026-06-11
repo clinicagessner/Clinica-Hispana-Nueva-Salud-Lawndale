@@ -889,7 +889,7 @@ ${AREAS_EN}`,
   {
     slug: "examenes-sangre",
     id: "examenes-sangre",
-    image: "/images/logo.webp",
+    image: "/images/services/examenes-sangre.webp",
     shortTitle: "Lab. Sangre",
     order: 11,
     category: "laboratorio",
