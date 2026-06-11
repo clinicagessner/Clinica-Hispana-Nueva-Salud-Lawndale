@@ -5,7 +5,7 @@ description: "Everything you need to know about the I-693 medical exam for a Gre
 date: "2026-03-18"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/i693.webp"
 featured: false
 category: "Immigration"
 readTime: 8

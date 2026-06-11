@@ -5,7 +5,7 @@ description: "Todo lo que necesita saber sobre el examen médico I-693 para Gree
 date: "2026-03-18"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/i693.webp"
 featured: false
 category: "Inmigración"
 readTime: 8
