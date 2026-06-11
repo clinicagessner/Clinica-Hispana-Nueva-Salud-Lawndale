@@ -324,7 +324,7 @@ ${AREAS_EN}`,
   {
     slug: "enfermedades-respiratorias",
     id: "enfermedades-respiratorias",
-    image: "/images/logo.webp",
+    image: "/images/services/enfermedades-respiratorias.webp",
     shortTitle: "Respiratorias",
     order: 4,
     category: "medicina-general",
