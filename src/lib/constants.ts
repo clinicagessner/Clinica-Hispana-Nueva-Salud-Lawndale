@@ -1214,7 +1214,7 @@ ${AREAS_EN}`,
   {
     slug: "prueba-tuberculosis",
     id: "prueba-tuberculosis",
-    image: "/images/logo.webp",
+    image: "/images/services/prueba-tuberculosis.webp",
     shortTitle: "Tuberculosis",
     order: 15,
     category: "laboratorio",
