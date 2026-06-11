@@ -1453,7 +1453,7 @@ ${AREAS_EN}`,
   {
     slug: "electrocardiograma",
     id: "electrocardiograma",
-    image: "/images/logo.webp",
+    image: "/images/services/electrocardiograma.webp",
     shortTitle: "EKG",
     order: 18,
     category: "laboratorio",
