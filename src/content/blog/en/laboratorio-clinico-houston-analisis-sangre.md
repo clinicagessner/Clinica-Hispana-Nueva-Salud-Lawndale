@@ -5,7 +5,7 @@ description: "Clinical laboratory in Houston TX with same-day results. Blood tes
 date: "2026-03-21"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/laboratorio.webp"
 featured: false
 category: "Diagnostics"
 readTime: 5

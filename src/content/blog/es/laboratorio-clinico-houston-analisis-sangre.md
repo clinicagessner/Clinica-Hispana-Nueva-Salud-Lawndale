@@ -5,7 +5,7 @@ description: "Laboratorio clínico en Houston TX con resultados el mismo día. A
 date: "2026-03-21"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/laboratorio.webp"
 featured: false
 category: "Diagnóstico"
 readTime: 5
