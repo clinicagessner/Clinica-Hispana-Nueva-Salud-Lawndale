@@ -80,7 +80,7 @@ export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
     id: "condiciones-cronicas",
-    image: "/images/logo.webp",
+    image: "/images/services/condiciones-cronicas.webp",
     shortTitle: "Crónicas",
     order: 1,
     category: "medicina-general",
