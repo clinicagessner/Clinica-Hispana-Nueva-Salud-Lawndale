@@ -728,7 +728,7 @@ ${AREAS_EN}`,
   {
     slug: "extraccion-implantes",
     id: "extraccion-implantes",
-    image: "/images/logo.webp",
+    image: "/images/services/extraccion-implantes.webp",
     shortTitle: "Implantes",
     order: 9,
     category: "salud-mujer",
