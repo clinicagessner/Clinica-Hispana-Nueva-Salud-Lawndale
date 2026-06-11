@@ -1693,7 +1693,7 @@ ${AREAS_EN}`,
   {
     slug: "examenes-inmigracion",
     id: "examenes-inmigracion",
-    image: "/images/logo.webp",
+    image: "/images/services/examenes-inmigracion.webp",
     shortTitle: "Inmigración",
     order: 21,
     category: "examenes",
