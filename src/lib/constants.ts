@@ -568,7 +568,7 @@ ${AREAS_EN}`,
   {
     slug: "prueba-embarazo",
     id: "prueba-embarazo",
-    image: "/images/logo.webp",
+    image: "/images/services/prueba-embarazo.webp",
     shortTitle: "Embarazo",
     order: 7,
     category: "salud-mujer",
