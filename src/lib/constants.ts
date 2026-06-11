@@ -647,7 +647,7 @@ ${AREAS_EN}`,
   {
     slug: "anticonceptivos",
     id: "anticonceptivos",
-    image: "/images/logo.webp",
+    image: "/images/services/anticonceptivos.webp",
     shortTitle: "Anticonceptivos",
     order: 8,
     category: "salud-mujer",
