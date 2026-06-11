@@ -971,7 +971,7 @@ ${AREAS_EN}`,
   {
     slug: "infecciones-urinarias",
     id: "infecciones-urinarias",
-    image: "/images/logo.webp",
+    image: "/images/services/infecciones-urinarias.webp",
     shortTitle: "Orina e ITU",
     order: 12,
     category: "tratamientos",
