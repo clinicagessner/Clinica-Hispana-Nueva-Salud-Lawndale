@@ -162,7 +162,7 @@ ${AREAS_EN}`,
   {
     slug: "tiroides",
     id: "tiroides",
-    image: "/images/logo.webp",
+    image: "/images/services/tiroides.webp",
     shortTitle: "Tiroides",
     order: 2,
     category: "medicina-general",
