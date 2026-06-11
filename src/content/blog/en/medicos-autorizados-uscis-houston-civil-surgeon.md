@@ -5,7 +5,7 @@ description: "How to verify if a doctor is a USCIS-authorized Civil Surgeon in H
 date: "2026-05-31"
 dateModified: "2026-05-31"
 author: "Clinica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/medicos-uscis.webp"
 featured: false
 category: "Immigration"
 readTime: 7

@@ -5,7 +5,7 @@ description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCI
 date: "2026-05-31"
 dateModified: "2026-05-31"
 author: "Clínica Hispana Nueva Salud Lawndale"
-image: "/images/logo.webp"
+image: "/images/blog/medicos-uscis.webp"
 featured: false
 category: "Inmigración"
 readTime: 7
