@@ -34,7 +34,7 @@ Every member of our staff speaks fluent Spanish. From the moment you walk in to 
 We know health emergencies don't wait. That's why we offer walk-in care so you can get the attention you need, when you need it.
 
 ### Affordable Prices
-We believe health care should not be a luxury. We offer fair, transparent pricing and accept patients with or without health insurance.
+We believe health care should not be a luxury. We offer fair, transparent pricing and accept patients without insurance.
 
 ### Convenient Location
 We are located at **7040 Lawndale St # B, Houston, TX 77023**, with easy access and ample parking.
@@ -62,7 +62,7 @@ Houston is one of the cities with the largest Hispanic population in the entire 
 - **Distrust of the healthcare system:** Negative past experiences or lack of awareness about available services can create fear or reluctance to seek care.
 - **Incompatible schedules:** Many Hispanic workers have jobs that don't align with typical clinic and office hours.
 
-At Clínica Hispana Nueva Salud Lawndale, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours Monday through Friday until 9 PM and weekends, transparent pricing, and care for patients with or without insurance.
+At Clínica Hispana Nueva Salud Lawndale, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours Monday through Friday until 9 PM and weekends, transparent pricing, and care for patients without insurance.
 
 ## Clínica Hispana Nueva Salud Lawndale vs. the Emergency Room
 

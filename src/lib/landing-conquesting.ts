@@ -196,7 +196,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         { icon: "Star", label: "Reseñas en Google", value: "Verificadas, 5★" },
         { icon: "Clock", label: "Horario", value: "7 días, hasta 9:00 PM" },
         { icon: "CalendarOff", label: "Cita previa", value: "No se requiere" },
-        { icon: "DollarSign", label: "Pago", value: "Con o sin seguro" },
+        { icon: "DollarSign", label: "Pago", value: "Sin necesidad de seguro" },
         { icon: "Languages", label: "Idioma", value: "100% Español" },
         { icon: "FileCheck", label: "Examen I-693", value: "Civil Surgeon USCIS" },
         { icon: "Car", label: "Estacionamiento", value: "Gratis y amplio" },
@@ -230,7 +230,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         },
         {
           q: "¿Atienden a pacientes sin seguro médico?",
-          a: "Sí. Atendemos pacientes con o sin seguro. Para quienes pagan directo, ofrecemos precios accesibles y le informamos el costo antes de la consulta. Aceptamos efectivo, tarjeta y la mayoría de seguros incluyendo Medicaid y Medicare.",
+          a: "Sí. Atendemos pacientes sin necesidad de seguro. Para quienes pagan directo, ofrecemos precios accesibles y le informamos el costo antes de la consulta. Aceptamos efectivo y tarjeta. No trabajamos con seguros médicos.",
         },
         {
           q: "¿Todo el personal habla español?",
@@ -256,7 +256,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         "Llame ahora o llegue directo a la clínica. Sin cita previa, atención el mismo día.",
       ctaCall: "Llamar",
       ctaDirections: "Cómo Llegar",
-      badges: ["Sin cita previa", "Con o sin seguro", "100% en español"],
+      badges: ["Sin cita previa", "Sin necesidad de seguro", "100% en español"],
     },
   },
   en: {
@@ -354,7 +354,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         { icon: "Star", label: "Google reviews", value: "Verified, 5★" },
         { icon: "Clock", label: "Hours", value: "7 days, until 9:00 PM" },
         { icon: "CalendarOff", label: "Appointment", value: "Not required" },
-        { icon: "DollarSign", label: "Payment", value: "With or without insurance" },
+        { icon: "DollarSign", label: "Payment", value: "No insurance needed" },
         { icon: "Languages", label: "Language", value: "100% Spanish" },
         { icon: "FileCheck", label: "I-693 Exam", value: "USCIS Civil Surgeon" },
         { icon: "Car", label: "Parking", value: "Free and spacious" },
@@ -388,7 +388,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         },
         {
           q: "Do you see uninsured patients?",
-          a: "Yes. We see patients with or without insurance. For self-pay patients, we offer affordable rates and tell you the cost before your visit. We accept cash, cards, and most insurance plans including Medicaid and Medicare.",
+          a: "Yes. We see patients without insurance. For self-pay patients, we offer affordable rates and tell you the cost before your visit. We accept cash and cards. We do not work with insurance.",
         },
         {
           q: "Does all staff speak Spanish?",
@@ -414,7 +414,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         "Call now or come straight to the clinic. No appointment needed, same-day care.",
       ctaCall: "Call",
       ctaDirections: "Get Directions",
-      badges: ["No appointment", "With or without insurance", "100% in Spanish"],
+      badges: ["No appointment", "No insurance needed", "100% in Spanish"],
     },
   },
 };

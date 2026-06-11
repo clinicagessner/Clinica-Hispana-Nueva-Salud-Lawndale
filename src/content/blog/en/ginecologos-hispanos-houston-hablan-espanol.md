@@ -118,7 +118,7 @@ We provide:
 - Menopause consultation
 - Family planning
 
-We accept most insurance plans and offer affordable pricing for patients without insurance. Call **(832) 530-4188** to confirm availability.
+We do not work with insurance; we offer affordable self-pay pricing for all patients. Call **(832) 530-4188** to confirm availability.
 
 ## Frequently asked questions
 
@@ -131,8 +131,8 @@ Call to confirm daily availability. Some patients prefer a female gynecologist; 
 **Do you see teenagers?**
 Yes, we treat patients ages 18 and over (or teenagers accompanied by their mother or guardian).
 
-**Do you accept Medicaid?**
-Yes, we accept Medicaid and most major medical plans.
+**Do I need insurance for a visit?**
+No. We do not work with insurance; we offer affordable self-pay pricing, no insurance needed.
 
 **How long does a Pap smear consultation take?**
 The full consultation with Pap smear takes 20 to 30 minutes. Results are delivered in 5-7 business days.

@@ -185,7 +185,7 @@ Para análisis de sangre pediátricos y pruebas de detección, visite nuestra p�
 
 En **Clínica Hispana Nueva Salud Lawndale** nos comprometemos a:
 - Ofrecer precios justos y accesibles
-- Atender a todos, con o sin seguro
+- Atender a todos, sin necesidad de seguro
 - Nunca rechazar a un paciente por su situación económica
 - Brindar atención de calidad en español
 

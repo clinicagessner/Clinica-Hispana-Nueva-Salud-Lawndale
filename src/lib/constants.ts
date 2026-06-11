@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   name: "Clínica Hispana Nueva Salud Lawndale",
   shortName: "Clínica Nueva Salud Lawndale",
   tagline: "Atención médica profesional 100% en español",
-  description: "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+  description: "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
   baseUrl: "https://www.nuevasaludlawndale.com",
   locale: "es-MX",
   logoUrl: "/images/logo.webp",
@@ -54,19 +54,19 @@ export const GOOGLE_REVIEWS_DATA = {
 // Bloques de copy reutilizados (marca Nueva Salud Lawndale / East End Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Lawndale?
 
-En Clínica Hispana Nueva Salud Lawndale te atendemos 100% en español, sin cita previa y con o sin seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Nueva Salud Lawndale te atendemos 100% en español, sin cita previa y sin necesidad de seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Lawndale?
 
-At Clínica Hispana Nueva Salud Lawndale we care for you 100% in Spanish, with no appointment needed and with or without insurance. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Nueva Salud Lawndale we care for you 100% in Spanish, with no appointment needed and no insurance needed. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Seguros y formas de pago
 
-Aceptamos pacientes con o sin seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
+No trabajamos con seguros médicos: manejamos precios accesibles y transparentes de pago directo, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
 
 const PAYMENT_EN = `## Insurance and payment
 
-We accept patients with or without health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
+We do not work with health insurance: we offer affordable, transparent self-pay pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
 
 const AREAS_ES = `## Áreas que servimos
 
@@ -93,9 +93,9 @@ export const SERVICES: Service[] = [
     shortDescriptionEn:
       "Testing and management of diabetes, high blood pressure and dyslipidemia (cholesterol and triglycerides), with close follow-up.",
     description:
-      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, con o sin seguro.",
+      "Control de diabetes, hipertensión y dislipidemias en Houston, TX. Laboratorio y seguimiento en español, sin necesidad de seguro.",
     descriptionEn:
-      "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, with or without insurance.",
+      "Diabetes, hypertension and dyslipidemia management in Houston, TX. Lab work and follow-up in Spanish, no insurance needed.",
     keywords: [
       "control de diabetes houston",
       "doctor diabetes español houston",
@@ -174,9 +174,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Exámenes y tratamiento de la tiroides en Houston, TX. Pruebas de laboratorio y control en español, con o sin seguro.",
+      "Exámenes y tratamiento de la tiroides en Houston, TX. Pruebas de laboratorio y control en español, sin necesidad de seguro.",
     descriptionEn:
-      "Thyroid testing and treatment in Houston, TX. Lab tests and follow-up in Spanish, with or without insurance.",
+      "Thyroid testing and treatment in Houston, TX. Lab tests and follow-up in Spanish, no insurance needed.",
     keywords: [
       "tiroides houston",
       "examen de tiroides houston",
@@ -255,9 +255,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Evaluation and treatment of seasonal, respiratory and skin allergies, with care in Spanish.",
     description:
-      "Exámenes y tratamiento de alergias en Houston, TX. Diagnóstico y manejo en español, con o sin seguro.",
+      "Exámenes y tratamiento de alergias en Houston, TX. Diagnóstico y manejo en español, sin necesidad de seguro.",
     descriptionEn:
-      "Allergy testing and treatment in Houston, TX. Diagnosis and management in Spanish, with or without insurance.",
+      "Allergy testing and treatment in Houston, TX. Diagnosis and management in Spanish, no insurance needed.",
     keywords: [
       "alergias houston",
       "tratamiento de alergias houston",
@@ -417,9 +417,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Physical exams for school and sports, fast and with the forms completed.",
     description:
-      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y con o sin seguro.",
+      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y sin necesidad de seguro.",
     descriptionEn:
-      "School and sports physical exams in Houston, TX. Fast, in Spanish, with or without insurance.",
+      "School and sports physical exams in Houston, TX. Fast, in Spanish, no insurance needed.",
     keywords: [
       "examen fisico escolar houston",
       "physical para la escuela houston",
@@ -499,9 +499,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con o sin seguro.",
+      "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with or without insurance.",
+      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, no insurance needed.",
     keywords: [
       "ginecologo houston español",
       "papanicolaou houston",
@@ -580,9 +580,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Reliable pregnancy tests and guidance on your next steps, in Spanish.",
     description:
-      "Examen y diagnóstico de embarazo en Houston, TX. Pruebas confiables y orientación en español, con o sin seguro.",
+      "Examen y diagnóstico de embarazo en Houston, TX. Pruebas confiables y orientación en español, sin necesidad de seguro.",
     descriptionEn:
-      "Pregnancy testing and confirmation in Houston, TX. Reliable tests and guidance in Spanish, with or without insurance.",
+      "Pregnancy testing and confirmation in Houston, TX. Reliable tests and guidance in Spanish, no insurance needed.",
     keywords: [
       "prueba de embarazo houston",
       "examen de embarazo houston",
@@ -659,9 +659,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Guidance and contraceptive methods (pills, injection and more) to decide with clear information, in Spanish.",
     description:
-      "Tratamientos anticonceptivos en Houston, TX: orientación, pastillas e inyección. En español, con o sin seguro.",
+      "Tratamientos anticonceptivos en Houston, TX: orientación, pastillas e inyección. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Contraceptive methods in Houston, TX: guidance, pills and injection. In Spanish, with or without insurance.",
+      "Contraceptive methods in Houston, TX: guidance, pills and injection. In Spanish, no insurance needed.",
     keywords: [
       "anticonceptivos houston",
       "metodos anticonceptivos houston",
@@ -740,9 +740,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Safe removal of subdermal arm contraceptive implants by trained staff.",
     description:
-      "Extracción de implantes subdérmicos en Houston, TX, procedimiento seguro y en español. Con o sin seguro.",
+      "Extracción de implantes subdérmicos en Houston, TX, procedimiento seguro y en español. Sin necesidad de seguro.",
     descriptionEn:
-      "Subdermal implant removal in Houston, TX, a safe procedure in Spanish. With or without insurance.",
+      "Subdermal implant removal in Houston, TX, a safe procedure in Spanish. No insurance needed.",
     keywords: [
       "extraccion de implante subdermico houston",
       "quitar implante del brazo houston",
@@ -820,9 +820,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con o sin seguro.",
+      "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, sin necesidad de seguro.",
     descriptionEn:
-      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with or without insurance.",
+      "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, no insurance needed.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
@@ -902,9 +902,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Exámenes de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con o sin seguro.",
+      "Exámenes de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, sin necesidad de seguro.",
     descriptionEn:
-      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with or without insurance.",
+      "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, no insurance needed.",
     keywords: [
       "examenes de sangre houston",
       "analisis de sangre houston",
@@ -983,9 +983,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, con o sin seguro.",
+      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, with or without insurance.",
+      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, no insurance needed.",
     keywords: [
       "examen de orina houston",
       "infeccion urinaria houston",
@@ -1064,9 +1064,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Stool analysis to detect infections and digestive problems, in Spanish.",
     description:
-      "Exámenes de heces fecales en Houston, TX. Detección de parásitos e infecciones, en español, con o sin seguro.",
+      "Exámenes de heces fecales en Houston, TX. Detección de parásitos e infecciones, en español, sin necesidad de seguro.",
     descriptionEn:
-      "Stool tests in Houston, TX. Detection of parasites and infections, in Spanish, with or without insurance.",
+      "Stool tests in Houston, TX. Detection of parasites and infections, in Spanish, no insurance needed.",
     keywords: [
       "examen de heces houston",
       "analisis de heces fecales houston",
@@ -1145,9 +1145,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Rapid strep test for sore throat, with same-day result.",
     description:
-      "Prueba de estreptococo (strep test) en Houston, TX. Resultado rápido y tratamiento en español, con o sin seguro.",
+      "Prueba de estreptococo (strep test) en Houston, TX. Resultado rápido y tratamiento en español, sin necesidad de seguro.",
     descriptionEn:
-      "Strep test in Houston, TX. Fast result and treatment in Spanish, with or without insurance.",
+      "Strep test in Houston, TX. Fast result and treatment in Spanish, no insurance needed.",
     keywords: [
       "prueba de estreptococo houston",
       "strep test houston",
@@ -1226,9 +1226,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Tuberculosis (PPD) test for work, school or paperwork, with reading in Spanish.",
     description:
-      "Examen de tuberculosis (TB/PPD) en Houston, TX. Para trabajo y escuela, en español, con o sin seguro.",
+      "Examen de tuberculosis (TB/PPD) en Houston, TX. Para trabajo y escuela, en español, sin necesidad de seguro.",
     descriptionEn:
-      "Tuberculosis (TB/PPD) test in Houston, TX. For work and school, in Spanish, with or without insurance.",
+      "Tuberculosis (TB/PPD) test in Houston, TX. For work and school, in Spanish, no insurance needed.",
     keywords: [
       "examen de tuberculosis houston",
       "prueba ppd houston",
@@ -1305,9 +1305,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Confidential, judgment-free sexually transmitted disease testing, with treatment.",
     description:
-      "Pruebas de ETS/STD confidenciales en Houston, TX. Resultados y tratamiento en español, con o sin seguro.",
+      "Pruebas de ETS/STD confidenciales en Houston, TX. Resultados y tratamiento en español, sin necesidad de seguro.",
     descriptionEn:
-      "Confidential STD testing in Houston, TX. Results and treatment in Spanish, with or without insurance.",
+      "Confidential STD testing in Houston, TX. Results and treatment in Spanish, no insurance needed.",
     keywords: [
       "prueba std houston",
       "examen de transmision sexual houston",
@@ -1386,9 +1386,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Alcohol and drug testing for work and paperwork, fast and with documentation.",
     description:
-      "Exámenes de alcohol y drogas en Houston, TX. Para empleo y trámites, en español, con o sin seguro.",
+      "Exámenes de alcohol y drogas en Houston, TX. Para empleo y trámites, en español, sin necesidad de seguro.",
     descriptionEn:
-      "Alcohol and drug testing in Houston, TX. For employment and paperwork, in Spanish, with or without insurance.",
+      "Alcohol and drug testing in Houston, TX. For employment and paperwork, in Spanish, no insurance needed.",
     keywords: [
       "examen de drogas houston",
       "prueba de alcohol y drogas houston",
@@ -1465,9 +1465,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Fast, painless electrocardiogram (EKG) to evaluate your heart health, in Spanish.",
     description:
-      "Electrocardiograma EKG en Houston, TX, rápido y sin dolor. Resultados y atención en español, con o sin seguro.",
+      "Electrocardiograma EKG en Houston, TX, rápido y sin dolor. Resultados y atención en español, sin necesidad de seguro.",
     descriptionEn:
-      "Electrocardiogram EKG in Houston, TX, fast and painless. Results and care in Spanish, with or without insurance.",
+      "Electrocardiogram EKG in Houston, TX, fast and painless. Results and care in Spanish, no insurance needed.",
     keywords: [
       "electrocardiograma houston",
       "ekg houston español",
@@ -1544,9 +1544,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnostic and pregnancy ultrasounds with modern equipment and care in Spanish.",
     description:
-      "Ultrasonido y ecografía en Houston, TX: abdominal, pélvico y de embarazo. En español, con o sin seguro.",
+      "Ultrasonido y ecografía en Houston, TX: abdominal, pélvico y de embarazo. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Ultrasound and sonography in Houston, TX: abdominal, pelvic and pregnancy. In Spanish, with or without insurance.",
+      "Ultrasound and sonography in Houston, TX: abdominal, pelvic and pregnancy. In Spanish, no insurance needed.",
     keywords: [
       "ultrasonido houston",
       "ecografia houston español",
@@ -1624,9 +1624,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
     description:
-      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con o sin seguro.",
+      "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Sin necesidad de seguro.",
     descriptionEn:
-      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With or without insurance.",
+      "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. No insurance needed.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -1786,9 +1786,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Influenza (flu) vaccine and tetanus toxoid, administered by medical staff, in Spanish.",
     description:
-      "Vacunas de flu y toxoide tetánico en Houston, TX. Aplicación por personal médico en español, con o sin seguro.",
+      "Vacunas de flu y toxoide tetánico en Houston, TX. Aplicación por personal médico en español, sin necesidad de seguro.",
     descriptionEn:
-      "Flu and tetanus vaccines in Houston, TX. Administered by medical staff in Spanish, with or without insurance.",
+      "Flu and tetanus vaccines in Houston, TX. Administered by medical staff in Spanish, no insurance needed.",
     keywords: [
       "vacuna de la flu houston",
       "vacuna contra la influenza houston",
@@ -1867,9 +1867,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con o sin seguro.",
+      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, sin necesidad de seguro.",
     descriptionEn:
-      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with or without insurance.",
+      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, no insurance needed.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
@@ -1948,9 +1948,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Sutures (stitches) to close wounds safely, walk-ins welcome and in Spanish.",
     description:
-      "Suturas de heridas en Houston, TX. Cierre de cortes y heridas en español, con o sin seguro.",
+      "Suturas de heridas en Houston, TX. Cierre de cortes y heridas en español, sin necesidad de seguro.",
     descriptionEn:
-      "Wound suturing in Houston, TX. Closing cuts and wounds in Spanish, with or without insurance.",
+      "Wound suturing in Houston, TX. Closing cuts and wounds in Spanish, no insurance needed.",
     keywords: [
       "suturas houston",
       "puntos para herida houston",
@@ -2029,9 +2029,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Cleaning, wound care and dressing changes for proper healing, in Spanish.",
     description:
-      "Cura y curación de heridas en Houston, TX. Limpieza y vendajes en español, con o sin seguro.",
+      "Cura y curación de heridas en Houston, TX. Limpieza y vendajes en español, sin necesidad de seguro.",
     descriptionEn:
-      "Wound care in Houston, TX. Cleaning and dressings in Spanish, with or without insurance.",
+      "Wound care in Houston, TX. Cleaning and dressings in Spanish, no insurance needed.",
     keywords: [
       "curacion de heridas houston",
       "cura de heridas houston",
@@ -2110,9 +2110,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Minor outpatient surgical procedures (moles, cysts, lipomas) with local anesthesia.",
     description:
-      "Cirugías menores en Houston, TX: lunares, quistes y lipomas. Procedimiento ambulatorio en español, con o sin seguro.",
+      "Cirugías menores en Houston, TX: lunares, quistes y lipomas. Procedimiento ambulatorio en español, sin necesidad de seguro.",
     descriptionEn:
-      "Minor surgery in Houston, TX: moles, cysts and lipomas. Outpatient procedure in Spanish, with or without insurance.",
+      "Minor surgery in Houston, TX: moles, cysts and lipomas. Outpatient procedure in Spanish, no insurance needed.",
     keywords: [
       "cirugia menor houston",
       "quitar lunar houston",
@@ -2191,9 +2191,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Drainage of abscesses and skin infections to relieve pain and promote healing.",
     description:
-      "Drenaje de abscesos en Houston, TX. Tratamiento de infecciones de piel en español, con o sin seguro.",
+      "Drenaje de abscesos en Houston, TX. Tratamiento de infecciones de piel en español, sin necesidad de seguro.",
     descriptionEn:
-      "Abscess drainage in Houston, TX. Treatment of skin infections in Spanish, with or without insurance.",
+      "Abscess drainage in Houston, TX. Treatment of skin infections in Spanish, no insurance needed.",
     keywords: [
       "drenaje de absceso houston",
       "drenar absceso houston",
@@ -2272,9 +2272,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Ingrown toenail treatment to relieve pain and prevent infection, in Spanish.",
     description:
-      "Extracción de uñas encarnadas en Houston, TX. Procedimiento con anestesia local en español, con o sin seguro.",
+      "Extracción de uñas encarnadas en Houston, TX. Procedimiento con anestesia local en español, sin necesidad de seguro.",
     descriptionEn:
-      "Ingrown toenail removal in Houston, TX. Procedure with local anesthesia in Spanish, with or without insurance.",
+      "Ingrown toenail removal in Houston, TX. Procedure with local anesthesia in Spanish, no insurance needed.",
     keywords: [
       "uña encarnada houston",
       "extraccion de uña encarnada houston",

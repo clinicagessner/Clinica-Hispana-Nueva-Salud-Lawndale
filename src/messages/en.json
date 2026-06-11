@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clinica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Hispanic medical clinic in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients with or without insurance. Family medicine, immigration exams, laboratory and more.",
+    "description": "Hispanic medical clinic in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients without insurance. Family medicine, immigration exams, laboratory and more.",
     "ogDescription": "Your trusted clinic in Houston. Professional medical care in Spanish for the whole family. Walk-ins welcome, affordable prices. {rating} stars on Google with more than {count} reviews."
   },
   "nav": {
@@ -106,13 +106,13 @@
     "q1": "Do I need an appointment?",
     "a1": "No, we accept walk-in patients. Simply come to our clinic during business hours and we'll see you as soon as possible. However, if you prefer to secure a specific time slot, you can call us to make an appointment.",
     "q2": "Do you accept patients without insurance?",
-    "a2": "Yes, we accept patients with or without medical insurance. We offer affordable prices and flexible payment plans so everyone can receive the medical care they need.",
+    "a2": "Yes, we serve all patients; no insurance needed. We offer affordable prices and flexible payment plans so everyone can receive the medical care they need.",
     "q3": "Do you speak Spanish at the clinic?",
     "a3": "Yes, all our staff speaks Spanish. Our clinic was specifically created to serve Houston's Hispanic community, and we make sure you can communicate comfortably in your language.",
     "q4": "What are your business hours?",
     "a4": "We're open Monday through Saturday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
     "q5": "What payment methods do you accept?",
-    "a5": "We accept cash, all major credit and debit cards (Visa, MasterCard, American Express, Discover), and most medical insurance plans. We also work with various state and federal insurance programs.",
+    "a5": "We accept cash and all major credit and debit cards (Visa, MasterCard, American Express, Discover). We do not work with insurance: we offer affordable self-pay pricing.",
     "q6": "Do you offer payment plans?",
     "a6": "Yes, we offer flexible payment plans to help you manage your healthcare costs. Talk to our receptionist about the options available for your particular situation.",
     "q7": "Where are you located in Houston?",

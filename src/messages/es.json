@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clínica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Clínica médica hispana en Houston, TX. Atención profesional 100% en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "description": "Clínica médica hispana en Houston, TX. Atención profesional 100% en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
     "ogDescription": "Su clínica de confianza en Houston. Atención médica profesional en español para toda la familia. Sin cita previa, precios accesibles. {rating} estrellas en Google con más de {count} reseñas."
   },
   "nav": {
@@ -106,13 +106,13 @@
     "q1": "¿Necesito cita previa?",
     "a1": "No, atendemos pacientes sin cita previa. Simplemente venga a nuestra clínica durante nuestro horario de atención y lo atenderemos lo más pronto posible. Sin embargo, si prefiere asegurar un horario específico, puede llamarnos para hacer una cita.",
     "q2": "¿Aceptan pacientes sin seguro médico?",
-    "a2": "Sí, aceptamos pacientes con o sin seguro médico. Ofrecemos precios accesibles y planes de pago flexibles para que todos puedan recibir la atención médica que necesitan.",
+    "a2": "Sí, atendemos a todos los pacientes; no necesitas seguro médico. Ofrecemos precios accesibles y planes de pago flexibles para que todos puedan recibir la atención médica que necesitan.",
     "q3": "¿Hablan español en la clínica?",
     "a3": "Sí, todo nuestro personal habla español. Nuestra clínica fue creada específicamente para servir a la comunidad hispana de Houston, y nos aseguramos de que pueda comunicarse cómodamente en su idioma.",
     "q4": "¿Cuáles son sus horarios de atención?",
     "a4": "Atendemos de lunes a domingo. Nuestro horario regular es de 9:00 AM a 9:00 PM todos los días. Por favor llámenos para confirmar horarios en días festivos.",
     "q5": "¿Qué formas de pago aceptan?",
-    "a5": "Aceptamos efectivo, todas las tarjetas de crédito y débito principales (Visa, MasterCard, American Express, Discover), y la mayoría de los seguros médicos. También trabajamos con varios planes de seguro estatales y federales.",
+    "a5": "Aceptamos efectivo y todas las tarjetas de crédito y débito principales (Visa, MasterCard, American Express, Discover). No trabajamos con seguros médicos: ofrecemos precios accesibles de pago directo.",
     "q6": "¿Ofrecen planes de pago?",
     "a6": "Sí, ofrecemos planes de pago flexibles para ayudarle a manejar los costos de su atención médica. Hable con nuestra recepcionista sobre las opciones disponibles para su situación particular.",
     "q7": "¿Dónde están ubicados en Houston?",

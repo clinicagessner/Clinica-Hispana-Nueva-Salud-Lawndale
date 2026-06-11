@@ -185,7 +185,7 @@ For pediatric blood tests and screening, visit our [clinical laboratory](/servic
 
 At **Clínica Hispana Nueva Salud Lawndale** we are committed to:
 - Offering fair, affordable prices
-- Serving everyone, with or without insurance
+- Serving everyone, no insurance needed
 - Never turning away a patient due to their financial situation
 - Providing quality care in Spanish
 

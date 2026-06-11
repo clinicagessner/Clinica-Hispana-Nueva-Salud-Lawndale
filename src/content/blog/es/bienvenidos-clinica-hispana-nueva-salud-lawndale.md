@@ -34,7 +34,7 @@ Todo nuestro personal habla español fluido. Desde el momento en que entra por n
 Sabemos que las emergencias de salud no esperan. Por eso ofrecemos atención sin cita previa para que pueda recibir el cuidado que necesita cuando lo necesita.
 
 ### Precios Accesibles
-Creemos que la salud no debe ser un lujo. Ofrecemos precios justos y transparentes, y aceptamos pacientes con o sin seguro médico.
+Creemos que la salud no debe ser un lujo. Ofrecemos precios justos y transparentes, y atendemos a pacientes sin seguro médico.
 
 ### Ubicación Conveniente
 Estamos ubicados en **7040 Lawndale St # B, Houston, TX 77023**, con fácil acceso y amplio estacionamiento.
@@ -62,7 +62,7 @@ Houston es una de las ciudades con mayor población hispana en todo Estados Unid
 - **Desconfianza del sistema de salud**: Experiencias negativas previas o desconocimiento de los servicios disponibles generan miedo o rechazo a buscar atención.
 - **Horarios incompatibles**: Muchos trabajadores hispanos tienen horarios que no encajan con los horarios típicos de clínicas y consultorios.
 
-En Clínica Hispana Nueva Salud Lawndale entendemos estas realidades de primera mano. Por eso diseñamos nuestros servicios para eliminar estas barreras: personal completamente bilingüe, horarios extendidos de lunes a viernes hasta las 9 PM y fines de semana, precios transparentes y atención con o sin seguro médico.
+En Clínica Hispana Nueva Salud Lawndale entendemos estas realidades de primera mano. Por eso diseñamos nuestros servicios para eliminar estas barreras: personal completamente bilingüe, horarios extendidos de lunes a viernes hasta las 9 PM y fines de semana, precios transparentes y atención sin necesidad de seguro médico.
 
 ## Clínica Hispana Nueva Salud Lawndale vs. la Sala de Emergencias
 

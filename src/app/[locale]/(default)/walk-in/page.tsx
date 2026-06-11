@@ -47,11 +47,10 @@ const COPY = {
     bringItems: [
       "Identificación con foto (ID estatal, pasaporte o licencia)",
       "Lista de medicamentos que toma actualmente",
-      "Tarjeta de seguro (si tiene)",
       "Resultados médicos recientes (si tiene)",
     ],
     bringNote:
-      "No es requisito tener seguro médico. Atendemos con o sin seguro.",
+      "No es requisito tener seguro médico. Atendemos sin necesidad de seguro.",
     locationHeading: "Ubicación",
     locationCta: "Cómo llegar",
     callCta: "Llamar ahora",
@@ -72,7 +71,7 @@ const COPY = {
       {
         question: "¿Aceptan pacientes sin seguro médico?",
         answer:
-          "Sí. Atendemos pacientes con o sin seguro. Ofrecemos precios accesibles para pacientes sin seguro y aceptamos la mayoría de planes médicos.",
+          "Sí. Atendemos a todos los pacientes; no necesitas seguro médico. Ofrecemos precios accesibles de pago directo para pacientes sin seguro.",
       },
       {
         question: "¿Atienden los domingos?",
@@ -92,7 +91,7 @@ const COPY = {
       {
         question: "¿Qué métodos de pago aceptan?",
         answer:
-          "Aceptamos efectivo, tarjetas de crédito y débito, y la mayoría de seguros médicos incluyendo Medicaid y Medicare.",
+          "Aceptamos efectivo, tarjetas de crédito y débito. No trabajamos con seguros médicos: ofrecemos precios accesibles de pago directo.",
       },
       {
         question: "¿Cuál es la dirección de la clínica?",
@@ -137,11 +136,10 @@ const COPY = {
     bringItems: [
       "Photo ID (state ID, passport or driver's license)",
       "List of current medications",
-      "Insurance card (if you have one)",
       "Any recent medical test results",
     ],
     bringNote:
-      "No insurance required. We treat patients with or without insurance.",
+      "No insurance required. We treat patients without insurance.",
     locationHeading: "Location",
     locationCta: "Get directions",
     callCta: "Call now",
@@ -162,7 +160,7 @@ const COPY = {
       {
         question: "Do you accept patients without insurance?",
         answer:
-          "Yes. We treat patients with or without insurance. We offer affordable pricing for uninsured patients and accept most major insurance plans.",
+          "Yes. We treat all patients; no insurance needed. We offer affordable self-pay pricing for uninsured patients.",
       },
       {
         question: "Are you open on Sundays?",
@@ -182,7 +180,7 @@ const COPY = {
       {
         question: "What payment methods do you accept?",
         answer:
-          "We accept cash, credit and debit cards, and most major insurance plans including Medicaid and Medicare.",
+          "We accept cash and credit/debit cards. We do not work with insurance: we offer affordable self-pay pricing.",
       },
       {
         question: "What is your address?",
