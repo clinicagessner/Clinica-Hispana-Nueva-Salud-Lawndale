@@ -38,9 +38,8 @@ export const CONTACT_INFO: ContactInfo = {
 };
 
 export const SOCIAL_LINKS: SocialLinks = {
-  // TODO(cliente): URLs reales de redes de Nueva Salud Lawndale.
-  facebook: "",
-  instagram: "",
+  facebook: "https://www.facebook.com/NuevaSaludLawndale",
+  instagram: "https://www.instagram.com/nuevasaludlawndale/",
 };
 
 // Datos de reviews de respaldo (fallback si Google Places API falla).
