@@ -27,6 +27,7 @@ export function ContactForm() {
     register,
     handleSubmit,
     setValue,
+    watch,
     reset,
     formState: { errors },
   } = useForm<ContactFormData>({
@@ -99,7 +100,13 @@ export function ContactForm() {
         <Input
           id="telefono"
           type="tel"
+          inputMode="numeric"
+          maxLength={10}
           {...register("telefono")}
+          onChange={(e) => {
+            e.target.value = e.target.value.replace(/\D/g, "").slice(0, 10);
+            register("telefono").onChange(e);
+          }}
           placeholder={t("phonePlaceholder")}
           aria-invalid={!!errors.telefono}
           aria-describedby={errors.telefono ? "telefono-error" : undefined}
@@ -133,7 +140,12 @@ export function ContactForm() {
         <Label htmlFor="servicio">
           {t("service")} <span className="text-destructive">*</span>
         </Label>
-        <Select onValueChange={(value: string) => setValue("servicio", value)}>
+        <Select
+          value={watch("servicio") || undefined}
+          onValueChange={(value: string) =>
+            setValue("servicio", value, { shouldValidate: true })
+          }
+        >
           <SelectTrigger
             id="servicio"
             aria-invalid={!!errors.servicio}
