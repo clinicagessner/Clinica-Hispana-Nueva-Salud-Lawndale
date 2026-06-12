@@ -93,9 +93,9 @@ export default async function ServicesPage({ params }: Props) {
         {/* Hero Header */}
         <section className="relative pt-24 pb-10 md:pt-28 md:pb-14 overflow-hidden">
           <div className="absolute inset-0 bg-linear-to-br from-blue-primary via-blue-dark to-slate-900" />
-          <div className="absolute inset-0 opacity-25">
+          <div className="absolute inset-0 opacity-20">
             <Image
-              src="/images/logo.webp"
+              src="/images/hero-bg.webp"
               alt=""
               fill
               className="object-cover"
