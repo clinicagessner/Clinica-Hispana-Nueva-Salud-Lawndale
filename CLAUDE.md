@@ -4,38 +4,37 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Bilingual (es default / en) marketing site for **Clínica Hispana San Juan** — a medical clinic in Houston, TX. Next.js 16 App Router + React 19 + Tailwind 4 + shadcn/ui, deployed on Vercel. Production URL: `https://www.clinicahispanasanjuan.com`.
+Bilingual (es default / en) marketing site for **Clínica Hispana Nueva Salud Lawndale** — a medical clinic in Houston, TX (East End). Next.js 16 App Router + React 19 + Tailwind 4 + shadcn/ui, deployed on Vercel. Production URL: `https://www.nuevasaludlawndale.com`.
 
 El proyecto se construyó replicando la arquitectura del sitio hermano **Clínica Hispana La Caridad** (`chlacaridad.com`, repo local en `../clinica-hispana-la-caridad`). La estructura técnica es idéntica; la identidad visual, copy y datos son propios.
 
-## ⚠️ Estado del proyecto (Fase 1 — esqueleto técnico)
+> Nota histórica: este repo y su carpeta se llaman `clinica-hispana-sanjuan` porque el proyecto arrancó con esa marca tentativa. El cliente la cambió a **Nueva Salud Lawndale**; el nombre de carpeta/repo quedó por compatibilidad, pero TODO el contenido, dominio, email y `package.json` (`clinica-hispana-nueva-salud-lawndale`) ya usan la marca nueva.
+
+## Estado del proyecto (build completo, pendiente de datos del cliente)
 
 **Datos del cliente confirmados:**
+- Marca: **Clínica Hispana Nueva Salud Lawndale**.
 - Dirección: `7040 Lawndale St # B, Houston, TX 77023` (East End de Houston).
-- Teléfono: `+1 (832) 530-4188`.
+- Teléfono: `+1 (832) 530-4188`. Email: `nuevasaludlawndale@gmail.com`.
+- Dominio: `nuevasaludlawndale.com`.
+- Redes: Facebook `/NuevaSaludLawndale`, Instagram `/nuevasaludlawndale` (`SOCIAL_LINKS` pobladas).
+- **29 servicios** reales (ver `SERVICES` en `constants.ts`), todos con imagen `.webp` propia, copy es/en y FAQs. Logo, favicons y OG ya son de la marca nueva.
+- Google Place ID: `ChIJ-RGohMW9QIYRMsoC5OO7apg` (4.4★, 40 reseñas a 2026-06). Reviews/rating en vivo **activos** vía `GOOGLE_PLACE_ID` + `GOOGLE_PLACES_API_KEY`.
 
-**PROVISIONAL / placeholder (reemplazar con lo que entregue el cliente):**
-- **Paleta de marca** en `src/app/globals.css`: teal `#0e7c7b` + coral `#f4663b` + ámbar `#f4b740` + mint `#eaf6f4`. Es temporal y distinta a La Caridad. **Footgun:** los nombres de token CSS (`--blue-*`, `--red-*`, `--yellow-*`, `--cyan-*`, y las clases Tailwind `bg-blue-primary`, `text-red-accent`, etc.) son **heredados** del sitio hermano — solo se cambiaron los VALORES, no los nombres, para no romper ~40 componentes. En el pase final de marca, renombrar a `--primary/--accent/...` (brief §6.1) y actualizar todas las clases a la vez (Tailwind v4 descarta clases desconocidas en silencio).
-- **Logo e imágenes** (`public/images/`, favicons): siguen siendo de La Caridad como placeholder. El cliente provee TODAS las imágenes — no usar stock/AI.
-- **Dominio** `clinicahispanasanjuan.com`: tentativo, confirmar con cliente.
-- **Email** `info@clinicahispanasanjuan.com`: tentativo.
+**Branding del tema:** la paleta real (azul `#0180f9` / rojo `#fc0101` / ámbar `#ffb703`, del logo) vive en `src/app/globals.css`. **Footgun heredado:** los nombres de token CSS (`--blue-*`, `--red-*`, `--yellow-*`, `--cyan-*`, y clases `bg-blue-primary`, `text-red-accent`, etc.) vienen del sitio hermano — solo se cambiaron los VALORES, no los nombres, para no romper ~40 componentes. Si algún día se renombran a `--primary/--accent`, hacerlo de una sola vez (Tailwind v4 descarta clases desconocidas en silencio).
 
-**PENDIENTE del cliente (bloquea Fases 2-4):**
-- `GOOGLE_PLACE_ID` real + `GOOGLE_PLACES_API_KEY` → sin esto, reviews/rating se OMITEN del JSON-LD (ver abajo). Coordenadas en `CONTACT_INFO` son del brief: `29.7169134, -95.2967503` (verificar contra el Place real).
-- URLs reales de Facebook/Instagram (`SOCIAL_LINKS` están vacías).
-- Credenciales de tracking: Meta Pixel + CAPI, GA4, Google Ads, CallRail.
-- Confirmar **cuáles de los 18 servicios** ofrece San Juan y si es **Civil Surgeon USCIS** (define si entran `examenes-inmigracion`/I-693).
-- Horario real, seguros aceptados, tono de voz, lista de no-targets SEO.
+**⚠️ Discrepancia de NAP a resolver con el cliente:** el Google Business Profile real (Place ID arriba) **aún figura como "Clínica Hispana San Juan"** (nombre viejo), mientras el sitio usa "Nueva Salud Lawndale". Las reseñas que el JSON-LD/secciones muestran son de ese listado. Para consistencia de SEO local (Name-Address-Phone) el cliente debe **renombrar el GBP** o decidir mantener el nombre viejo. Las URLs de Maps/reseña en `CONTACT_INFO` ya van ancladas al Place ID (exactas, independientes del nombre).
 
-**Deuda de contenido para Fase 2 (heredado de La Caridad, requiere reescritura):**
-- El copy de `src/lib/constants.ts`, `service-faqs.ts` y `src/content/blog/**` menciona la zona **Sharpstown/Fondren/suroeste de Houston** (donde está La Caridad). San Juan está en el **East End (77023)** → revisar área de servicio, barrios y ZIPs servidos.
-- Blog posts y FAQs son de La Caridad rebrandeados — revisar/reescribir con el cliente antes de publicar.
-- `llms.txt` / `llms-full.txt` en `public/` reflejan datos heredados — actualizar.
+**PENDIENTE del cliente (no bloquea el build, sí el go-live de tracking):**
+- Credenciales de tracking que falten: confirmar Meta Pixel + CAPI token, GA4, Google Ads conversion labels, CallRail (`NEXT_PUBLIC_CALLRAIL_SWAP_URL` y `NEXT_PUBLIC_GADS_CONVERSION_LABEL_LANDING_CALL` siguen vacías — TODOs en `layout.tsx` y `landing-conquesting.ts`).
+- Confirmar **cuáles de los 29 servicios** ofrece realmente y si es **Civil Surgeon USCIS** (define `examenes-inmigracion`/I-693).
+- Horario real, seguros aceptados, lista de no-targets SEO.
+- Revisar/aprobar blog posts y FAQs (rebrandeados desde La Caridad, ya reubicados al East End) antes de campañas.
 
-**Decisiones tomadas en Fase 1:**
-- Reviews/rating: `JsonLdMedicalClinic` (`src/components/seo/json-ld.tsx`) ahora **omite** `aggregateRating` y `review[]` cuando no hay datos reales del Google Places API (antes había reseñas inventadas hardcodeadas — prohibido por el brief). Volverán automáticamente al configurar el Place ID.
-- IndexNow key regenerada para San Juan: `public/7a058d4b03962dd5ab69fe97c9a05382.txt` (la de La Caridad se eliminó).
-- Verificación de Search Console de La Caridad eliminada de `public/`.
+**Decisiones de implementación vigentes:**
+- Reviews/rating: `JsonLdMedicalClinic` (`src/components/seo/json-ld.tsx`) tira de `getGooglePlaceData()` en vivo y **omite** `aggregateRating`/`review[]` solo si la API falla y el fallback (`GOOGLE_REVIEWS_DATA`, hoy 4.4/40) está en 0. Nunca reintroducir reseñas inventadas hardcodeadas.
+- `SITE_CONFIG.baseUrl` lee `NEXT_PUBLIC_SITE_URL` con fallback al dominio de producción.
+- IndexNow key: `public/7a058d4b03962dd5ab69fe97c9a05382.txt`.
 
 ## Commands
 
@@ -102,7 +101,7 @@ See `.env.example`. Required for full functionality: `RESEND_API_KEY`, `NEXT_PUB
 ## Conventions
 
 - **No barrel imports** from shadcn. Always `import { Button } from "@/components/ui/button"` — one component per import line. The `@/*` path alias maps to `src/*`.
-- **No hardcoded hex colors.** The brand palette (`#02176d` blue / `#ed1c24` red / `#ffe16a` yellow / `#e4f7fc` cyan / white) lives as CSS variables in `src/app/globals.css` and as shadcn tokens. Use Tailwind utilities or the custom variables.
+- **No hardcoded hex colors.** The brand palette (`#0180f9` blue / `#fc0101` red-pure (`#ed1b2e` red-accent for large fills) / `#ffb703` yellow / cyan / white) lives as CSS variables in `src/app/globals.css` and as shadcn tokens. Use Tailwind utilities or the custom variables.
 - **Never use `bg-white` for sections.** Sections should use palette colors or gradients — white is reserved for cards/inputs. This is a user preference with existing precedent across the codebase.
 - **Fonts:** Montserrat (headings) and Roboto Condensed (body), loaded via `next/font/google` in `[locale]/layout.tsx` as CSS variables `--font-montserrat` / `--font-roboto-condensed`. Don't add other Google fonts.
 - **Server Components by default.** Only reach for `"use client"` for forms, state, browser APIs, or components with event handlers (Header mobile nav, ScrollToTop, MetaPixelSPATracker, ScrollAnimations, contact form).

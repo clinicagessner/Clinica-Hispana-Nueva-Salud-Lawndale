@@ -5,7 +5,8 @@ export const SITE_CONFIG: SiteConfig = {
   shortName: "Clínica Nueva Salud Lawndale",
   tagline: "Atención médica profesional 100% en español",
   description: "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
-  baseUrl: "https://www.nuevasaludlawndale.com",
+  // Configurable por entorno (NEXT_PUBLIC_SITE_URL); fallback al dominio de producción.
+  baseUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://www.nuevasaludlawndale.com",
   locale: "es-MX",
   logoUrl: "/images/logo.webp",
 };
@@ -21,16 +22,15 @@ export const CONTACT_INFO: ContactInfo = {
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
-  // TODO(cliente): reemplazar por la URL real del Google Business Profile de Nueva Salud Lawndale cuando exista.
+  // URLs ancladas al Place ID real del GBP (exactas, independientes del nombre del listado).
+  // NOTA: el Google Business Profile aún figura como "Clínica Hispana San Juan" — confirmar con el cliente si se renombra.
   googleMapsUrl:
-    "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+San+Juan+7040+Lawndale+St+Houston+TX+77023",
+    "https://www.google.com/maps/search/?api=1&query=7040+Lawndale+St+%23+B+Houston+TX+77023&query_place_id=ChIJ-RGohMW9QIYRMsoC5OO7apg",
   googleMapsEmbed:
-    "https://maps.google.com/maps?q=Clinica+Hispana+San+Juan,+7040+Lawndale+St+%23+B,+Houston,+TX+77023&t=m&z=17&ie=UTF8&iwloc=&output=embed",
-  // TODO(cliente): reemplazar por la URL de "escribe una reseña" del GBP real.
+    "https://maps.google.com/maps?q=7040+Lawndale+St+%23+B,+Houston,+TX+77023&t=m&z=17&ie=UTF8&iwloc=&output=embed",
   googleReviewUrl:
-    "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Hispana+San+Juan+7040+Lawndale+St+Houston+TX+77023",
-  // TODO(cliente): Place ID real del Google Business Profile de Nueva Salud Lawndale (formato ChIJ...).
-  placeId: "",
+    "https://search.google.com/local/writereview?placeid=ChIJ-RGohMW9QIYRMsoC5OO7apg",
+  placeId: "ChIJ-RGohMW9QIYRMsoC5OO7apg",
   coordinates: {
     lat: 29.7169134,
     lng: -95.2967503,
@@ -42,12 +42,12 @@ export const SOCIAL_LINKS: SocialLinks = {
   instagram: "https://www.instagram.com/nuevasaludlawndale/",
 };
 
-// Datos de reviews de respaldo (fallback si Google Places API falla).
-// TODO(cliente): sustituir por los valores reales del GBP de Nueva Salud Lawndale una vez validados.
+// Datos de reviews de respaldo (fallback si Google Places API falla en build).
+// Valores reales del GBP a 2026-06-12; el rating/conteo en vivo llega vía GOOGLE_PLACE_ID.
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 0,
-  averageRating: 0,
-  placeId: "",
+  totalReviews: 40,
+  averageRating: 4.4,
+  placeId: "ChIJ-RGohMW9QIYRMsoC5OO7apg",
 };
 
 // Bloques de copy reutilizados (marca Nueva Salud Lawndale / East End Houston).
