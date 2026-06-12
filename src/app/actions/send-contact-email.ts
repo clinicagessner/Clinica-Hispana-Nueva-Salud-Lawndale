@@ -31,7 +31,7 @@ export async function sendContactEmail(
 
   try {
     await resend.emails.send({
-      from: "Formulario Web <noreply@nuevasaludlawndale.com>",
+      from: "Nuevo cliente desde website <noreply@nuevasaludlawndale.com>",
       to: [CONTACT_INFO.email],
       replyTo: email || undefined,
       subject: `Nuevo contacto: ${nombre} - ${serviceName}`,

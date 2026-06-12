@@ -88,7 +88,8 @@
       "submit": "Enviar Mensaje",
       "submitting": "Enviando...",
       "success": "¡Mensaje enviado! Nos comunicaremos pronto.",
-      "error": "Error al enviar. Por favor intente de nuevo."
+      "error": "Error al enviar. Por favor intente de nuevo.",
+      "fixErrors": "Por favor corrija los campos marcados en rojo antes de enviar."
     },
     "info": {
       "address": "Dirección",

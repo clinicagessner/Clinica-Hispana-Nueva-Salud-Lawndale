@@ -88,7 +88,8 @@
       "submit": "Send Message",
       "submitting": "Sending...",
       "success": "Message sent! We'll contact you soon.",
-      "error": "Error sending message. Please try again."
+      "error": "Error sending message. Please try again.",
+      "fixErrors": "Please correct the highlighted fields before submitting."
     },
     "info": {
       "address": "Address",
