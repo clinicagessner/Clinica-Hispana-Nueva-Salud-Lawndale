@@ -17,7 +17,9 @@ export const CONTACT_INFO: ContactInfo = {
   state: "TX",
   zip: "77023",
   phone: "+18325304188",
-  phoneFormatted: "+1 (832) 530-4188",
+  // Formato sin prefijo "+1 " para que el swap.js de CallRail (DNI) detecte y
+  // reemplace el número visible por uno del Website pool. El "+1" rompía la detección.
+  phoneFormatted: "(832) 530-4188",
   email: "nuevasaludlawndale@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
