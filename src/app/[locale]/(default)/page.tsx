@@ -8,6 +8,7 @@ import { Contact } from "@/components/sections/contact";
 import { FAQ } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { BlogPreview } from "@/components/sections/blog-preview";
+import { ScrollSpy } from "@/components/layout/scroll-spy";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -29,6 +30,7 @@ export default async function HomePage({ params }: Props) {
       <Location />
       <BlogPreview />
       <Contact />
+      <ScrollSpy />
     </>
   );
 }
