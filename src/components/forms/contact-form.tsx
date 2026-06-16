@@ -151,7 +151,7 @@ export function ContactForm() {
           name="servicio"
           control={control}
           render={({ field }) => (
-            <Select value={field.value || undefined} onValueChange={field.onChange}>
+            <Select value={field.value} onValueChange={field.onChange}>
               <SelectTrigger
                 id="servicio"
                 onBlur={field.onBlur}
