@@ -10,6 +10,10 @@ const devConnectSrc = isDev ? " ws://localhost:* ws://127.0.0.1:* http://localho
 
 const nextConfig: NextConfig = {
   images: {
+    // Optimizador de Vercel desactivado: la cuenta tiene topada la cuota de Image
+    // Optimization (/_next/image devuelve HTTP 402). Servimos los originales de
+    // public/, ya comprimidos a mano (WebP q80 / PNG pngquant+oxipng).
+    unoptimized: true,
     qualities: [60, 75],
     minimumCacheTTL: 31536000,
     remotePatterns: [
