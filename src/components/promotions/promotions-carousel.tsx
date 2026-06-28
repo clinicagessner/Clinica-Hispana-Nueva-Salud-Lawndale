@@ -40,9 +40,17 @@ export function PromotionsCarousel({
 }: PromotionsCarouselProps) {
   const [selected, setSelected] = useState<LocalizedPromo | null>(null);
 
+  // lg shows up to 3 slides at once. With <= 3 promos everything fits, so there's
+  // no overflow: enabling loop/autoplay makes embla compute an empty scroll-snap
+  // list and the autoplay plugin crashes (reading [0] of undefined). Only loop +
+  // autoplay when there are genuinely more slides than fit.
+  const enableAutoplay = promotions.length > 3;
+
   const [emblaRef, emblaApi] = useEmblaCarousel(
-    { loop: true, align: "start", containScroll: "trimSnaps" },
-    [Autoplay({ delay: 4500, stopOnInteraction: false, stopOnMouseEnter: true })]
+    { loop: enableAutoplay, align: "start", containScroll: "trimSnaps" },
+    enableAutoplay
+      ? [Autoplay({ delay: 4500, stopOnInteraction: false, stopOnMouseEnter: true })]
+      : []
   );
 
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -68,13 +76,17 @@ export function PromotionsCarousel({
     };
   }, [emblaApi]);
 
-  // Pause autoplay while the dialog is open.
+  // Pause autoplay while the dialog is open (no-op when autoplay is disabled).
   useEffect(() => {
     if (!emblaApi) return;
     const autoplay = emblaApi.plugins()?.autoplay;
     if (!autoplay) return;
-    if (selected) autoplay.stop();
-    else autoplay.play();
+    try {
+      if (selected) autoplay.stop();
+      else autoplay.play();
+    } catch {
+      // embla autoplay can throw if there are no scroll snaps yet; ignore.
+    }
   }, [selected, emblaApi]);
 
   return (
