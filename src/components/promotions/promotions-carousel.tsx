@@ -45,8 +45,28 @@ export function PromotionsCarousel({
     [Autoplay({ delay: 4500, stopOnInteraction: false, stopOnMouseEnter: true })]
   );
 
+  const [selectedIndex, setSelectedIndex] = useState(0);
+  const [scrollSnaps, setScrollSnaps] = useState<number[]>([]);
+
   const scrollPrev = useCallback(() => emblaApi?.scrollPrev(), [emblaApi]);
   const scrollNext = useCallback(() => emblaApi?.scrollNext(), [emblaApi]);
+  const scrollTo = useCallback(
+    (i: number) => emblaApi?.scrollTo(i),
+    [emblaApi]
+  );
+
+  useEffect(() => {
+    if (!emblaApi) return;
+    const onSelect = () => setSelectedIndex(emblaApi.selectedScrollSnap());
+    setScrollSnaps(emblaApi.scrollSnapList());
+    emblaApi.on("select", onSelect);
+    emblaApi.on("reInit", onSelect);
+    onSelect();
+    return () => {
+      emblaApi.off("select", onSelect);
+      emblaApi.off("reInit", onSelect);
+    };
+  }, [emblaApi]);
 
   // Pause autoplay while the dialog is open.
   useEffect(() => {
@@ -108,12 +128,12 @@ export function PromotionsCarousel({
           </div>
         </div>
 
-        {/* Arrows — desktop */}
+        {/* Arrows — all breakpoints */}
         <button
           type="button"
           onClick={scrollPrev}
           aria-label={labels.prev}
-          className="absolute left-0 top-1/2 z-10 hidden size-10 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-blue-primary text-white shadow-lg transition-colors hover:bg-blue-dark md:flex"
+          className="absolute left-1 top-1/2 z-10 flex size-10 -translate-y-1/2 items-center justify-center rounded-full bg-blue-primary text-white shadow-lg transition-colors hover:bg-blue-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white md:left-0 md:-translate-x-1/2"
         >
           <ChevronLeft className="size-5" aria-hidden="true" />
         </button>
@@ -121,14 +141,31 @@ export function PromotionsCarousel({
           type="button"
           onClick={scrollNext}
           aria-label={labels.next}
-          className="absolute right-0 top-1/2 z-10 hidden size-10 translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-blue-primary text-white shadow-lg transition-colors hover:bg-blue-dark md:flex"
+          className="absolute right-1 top-1/2 z-10 flex size-10 -translate-y-1/2 items-center justify-center rounded-full bg-blue-primary text-white shadow-lg transition-colors hover:bg-blue-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white md:right-0 md:translate-x-1/2"
         >
           <ChevronRight className="size-5" aria-hidden="true" />
         </button>
       </div>
 
+      {/* Dots */}
+      <div className="mt-6 flex items-center justify-center gap-2">
+        {scrollSnaps.map((_, i) => (
+          <button
+            key={i}
+            type="button"
+            onClick={() => scrollTo(i)}
+            aria-label={`${labels.openAria} ${i + 1}`}
+            className={`h-2 rounded-full transition-all duration-300 ${
+              i === selectedIndex
+                ? "w-6 bg-blue-primary"
+                : "w-2 bg-blue-primary/30 hover:bg-blue-primary/50"
+            }`}
+          />
+        ))}
+      </div>
+
       {/* Swipe hint — mobile */}
-      <p className="mt-5 flex items-center justify-center gap-2 text-sm text-slate-muted md:hidden">
+      <p className="mt-4 flex items-center justify-center gap-2 text-sm text-slate-muted md:hidden">
         <Hand className="size-4" aria-hidden="true" />
         {labels.swipeHint}
       </p>
