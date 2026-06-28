@@ -110,6 +110,11 @@ export async function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/promociones" className="text-white/70 hover:text-white text-sm transition-colors">
+                  {t("nav.promotions")}
+                </Link>
+              </li>
+              <li>
                 <Link href="/#contact" className="text-white/70 hover:text-white text-sm transition-colors">
                   {t("nav.contact")}
                 </Link>

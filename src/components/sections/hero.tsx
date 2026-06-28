@@ -1,6 +1,13 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Phone, MapPin, Clock, CalendarCheck, ChevronDown } from "lucide-react";
+import {
+  Phone,
+  MapPin,
+  Clock,
+  CalendarCheck,
+  ChevronDown,
+  ArrowRight,
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { StarRating } from "@/components/shared/star-rating";
 import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
@@ -118,6 +125,21 @@ export function Hero({
             </Button>
           </div>
 
+          {/* ¿Prefieres que te contactemos? → enlace al formulario de la home */}
+          <p className="animate-hero-cta -mt-4 mb-10 text-sm font-medium text-blue-light/90">
+            {t("contactPrompt")}{" "}
+            <a
+              href="#contact"
+              className="group inline-flex items-center gap-1 rounded font-semibold text-yellow-accent underline decoration-yellow-accent/40 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-white hover:decoration-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+            >
+              {t("contactLink")}
+              <ArrowRight
+                className="size-4 shrink-0 transition-transform group-hover:translate-x-0.5"
+                aria-hidden="true"
+              />
+            </a>
+          </p>
+
           {/* Bento cards de vidrio */}
           <div className="animate-hero-features grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4 max-w-2xl mx-auto">
             {/* Horario */}
@@ -167,10 +189,16 @@ export function Hero({
         </div>
       </div>
 
+      {/* Fundido inferior hacia la sección siguiente (Promotions, bg-cyan-warm) */}
+      <div
+        aria-hidden="true"
+        className="absolute inset-x-0 bottom-0 z-0 h-28 bg-linear-to-b from-transparent to-cyan-warm"
+      />
+
       {/* Indicador de scroll */}
       <div
         aria-hidden="true"
-        className="absolute bottom-5 left-1/2 -translate-x-1/2 text-white/60 animate-bounce"
+        className="absolute bottom-5 left-1/2 z-10 -translate-x-1/2 text-blue-primary/50 animate-bounce"
       >
         <ChevronDown className="size-6" />
       </div>

@@ -2422,42 +2422,79 @@ ${AREAS_EN}`,
   },
 ];
 
+// Promociones vigentes. Cada slug = nombre del archivo en
+// public/images/promotions/<slug>.webp y ancla de deep-link en /promociones.
+// El precio vive en el flyer; aquí es solo un dato de texto. Copy factual,
+// sin claims médicos (Google Ads salud): términos sensibles solo en el cuerpo,
+// nunca en title/description/keywords de metadata.
 export const PROMOTIONS: Promotion[] = [
   {
-    id: "consulta-general",
-    title: "Consulta Médica General",
-    badge: "Más Popular",
-    description: "Evaluación médica completa con nuestros especialistas.",
+    slug: "salud-intima-femenina",
+    title: "Salud Íntima Femenina",
+    titleEn: "Women's Intimate Health",
+    price: "$69",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores: pueden ser señales de una infección. Esta evaluación incluye un cultivo íntimo, consulta médica y examen de orina sin costo adicional, con atención profesional y discreta todos los días.",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it — these can be signs of an infection. This evaluation includes an intimate culture test, a medical consultation and a urine test at no extra cost, with professional, discreet care every day.",
     includes: [
-      "Examen físico completo",
-      "Revisión de signos vitales",
-      "Diagnóstico profesional",
-      "Receta médica si es necesario",
-    ],
-  },
-  {
-    id: "paquete-diabetes",
-    title: "Paquete Control Diabetes",
-    badge: "Ahorre $50",
-    description: "Todo lo necesario para mantener su diabetes bajo control.",
-    includes: [
+      "Cultivo íntimo",
       "Consulta médica",
-      "Examen de glucosa en ayunas",
-      "Hemoglobina A1C",
-      "Plan de alimentación",
+      "Examen de orina sin costo adicional",
     ],
+    includesEn: [
+      "Intimate culture test",
+      "Medical consultation",
+      "Urine test at no extra cost",
+    ],
+    alt: "Flyer de la promoción Salud Íntima Femenina por $69 en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Women's Intimate Health promotion flyer for $69 at Clínica Hispana Nueva Salud Lawndale, Houston",
   },
   {
-    id: "chequeo-completo",
-    title: "Chequeo Completo",
-    badge: "Recomendado",
-    description: "Evaluación integral de su estado de salud.",
+    slug: "perfil-hormonal-masculino",
+    title: "Perfil Hormonal Masculino",
+    titleEn: "Men's Hormone Panel",
+    price: "$200",
+    blurb:
+      "Un perfil hormonal pensado para hombres que desean evaluar su salud hormonal. Útil cuando aparecen señales como fatiga y cansancio, cambios en la masa muscular, estrés e irritabilidad, problemas de sueño o aumento de grasa corporal. Exámenes confiables, resultados precisos y atención profesional.",
+    blurbEn:
+      "A hormone panel designed for men who want to evaluate their hormonal health. Useful when signs appear such as fatigue and low energy, changes in muscle mass, stress and irritability, sleep problems or increased body fat. Reliable tests, precise results and professional care.",
     includes: [
-      "Examen físico completo",
-      "Panel de laboratorio básico",
-      "Revisión de presión y glucosa",
-      "Recomendaciones personalizadas",
+      "Evaluación de desequilibrios hormonales",
+      "Fatiga, cansancio y energía",
+      "Cambios en masa muscular y peso",
+      "Estrés, sueño y bienestar general",
     ],
+    includesEn: [
+      "Hormonal imbalance evaluation",
+      "Fatigue, low energy and stamina",
+      "Changes in muscle mass and weight",
+      "Stress, sleep and overall well-being",
+    ],
+    alt: "Flyer de la promoción Perfil Hormonal Masculino por $200 en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Men's Hormone Panel promotion flyer for $200 at Clínica Hispana Nueva Salud Lawndale, Houston",
+  },
+  {
+    slug: "general-sangre-vitamina-b12",
+    title: "General de Sangre + Vitamina B12",
+    titleEn: "Blood Panel + Vitamin B12",
+    price: "$99",
+    blurb:
+      "Promoción especial que combina un examen general de sangre con una inyección de Vitamina B12. Una forma práctica de revisar tu estado general de salud y apoyar tus niveles de energía y bienestar.",
+    blurbEn:
+      "A special promotion that combines a general blood panel with a Vitamin B12 injection. A practical way to review your overall health and support your energy and well-being.",
+    includes: [
+      "Examen general de sangre",
+      "Inyección de Vitamina B12",
+      "Resultados el mismo día",
+    ],
+    includesEn: [
+      "General blood panel",
+      "Vitamin B12 injection",
+      "Same-day results",
+    ],
+    alt: "Flyer de la promoción General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Blood Panel plus Vitamin B12 promotion flyer for $99 at Clínica Hispana Nueva Salud Lawndale, Houston",
   },
 ];
 
