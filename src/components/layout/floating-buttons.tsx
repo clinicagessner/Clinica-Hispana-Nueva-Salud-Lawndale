@@ -2,14 +2,20 @@
 
 import { useState, useEffect } from "react";
 import { useTranslations } from "next-intl";
-import { Phone, MapPin } from "@phosphor-icons/react/dist/ssr";
+import { Phone, MapPin, WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
 import { CONTACT_INFO } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 
 export function FloatingButtons() {
   const t = useTranslations("cta");
+  const tc = useTranslations("common");
   const [isVisible, setIsVisible] = useState(false);
+
+  // WhatsApp usa su número dedicado (exclusivo para chat), nunca el principal:
+  // el swap.js de CallRail reescribe el número de llamadas visible en el DOM y
+  // no debe tocar este enlace. Por eso tampoco se muestra el número como texto.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -58,6 +64,24 @@ export function FloatingButtons() {
         </TooltipTrigger>
         <TooltipContent side="left">
           <p>{t("callNow")}</p>
+        </TooltipContent>
+      </Tooltip>
+
+      {/* WhatsApp Button */}
+      <Tooltip>
+        <TooltipTrigger asChild>
+          <a
+            href={whatsappHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="size-14 rounded-full bg-whatsapp text-white shadow-md shadow-whatsapp/30 flex items-center justify-center hover:bg-whatsapp-dark hover:shadow-lg transition-all"
+            aria-label={tc("whatsapp")}
+          >
+            <WhatsappLogo className="size-6" weight="fill" />
+          </a>
+        </TooltipTrigger>
+        <TooltipContent side="left">
+          <p>{tc("whatsapp")}</p>
         </TooltipContent>
       </Tooltip>
     </div>

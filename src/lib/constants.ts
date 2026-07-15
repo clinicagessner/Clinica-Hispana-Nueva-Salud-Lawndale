@@ -20,6 +20,11 @@ export const CONTACT_INFO: ContactInfo = {
   // Formato sin prefijo "+1 " para que el swap.js de CallRail (DNI) detecte y
   // reemplace el número visible por uno del Website pool. El "+1" rompía la detección.
   phoneFormatted: "(832) 530-4188",
+  // WhatsApp — número EXCLUSIVO para chat. Nunca usarlo en tel:, NAP, schema.org,
+  // footer, contacto ni metadata. El teléfono de llamadas sigue siendo `phone`,
+  // y el swap de CallRail solo debe actuar sobre ese.
+  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(832) 831-4016",
   email: "nuevasaludlawndale@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",

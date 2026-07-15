@@ -21,6 +21,9 @@ const buttonVariants = cva(
           "bg-red-accent text-white shadow-brand-red hover:bg-red-accent-dark hover:-translate-y-0.5",
         accent:
           "bg-yellow-accent text-slate-dark shadow-brand-soft hover:bg-yellow-accent-dark hover:-translate-y-0.5",
+        // Verde de marca WhatsApp (solo botones de chat)
+        whatsapp:
+          "bg-whatsapp text-white shadow-lg shadow-whatsapp/30 hover:bg-whatsapp-dark hover:-translate-y-0.5",
         destructive:
           "bg-destructive text-destructive-foreground shadow-sm hover:bg-destructive/90",
         outline:

@@ -42,6 +42,10 @@
   --yellow-accent-light: #ffe08a;
   --yellow-accent-bg: #fff8e6;
 
+  /* WHATSAPP — color oficial de la marca (solo botones de chat) */
+  --whatsapp: #25d366;
+  --whatsapp-dark: #1da851;
+
   /* INK / SLATE — Neutros fríos (pareados con el azul) */
   --slate-dark: #0f1e3d;
   --slate-primary: #36456b;
@@ -198,6 +202,10 @@
   --color-yellow-accent-dark: var(--yellow-accent-dark);
   --color-yellow-accent-light: var(--yellow-accent-light);
   --color-yellow-accent-bg: var(--yellow-accent-bg);
+
+  /* WhatsApp */
+  --color-whatsapp: var(--whatsapp);
+  --color-whatsapp-dark: var(--whatsapp-dark);
 
   /* Paleta Slate */
   --color-slate-dark: var(--slate-dark);

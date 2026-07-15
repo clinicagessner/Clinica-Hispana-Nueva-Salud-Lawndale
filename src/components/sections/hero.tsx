@@ -8,6 +8,7 @@ import {
   ChevronDown,
   ArrowRight,
 } from "lucide-react";
+import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
 import { StarRating } from "@/components/shared/star-rating";
 import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
@@ -20,6 +21,12 @@ export function Hero({
   totalReviews?: number;
 }) {
   const t = useTranslations("hero");
+  const tc = useTranslations("common");
+
+  // WhatsApp usa su número dedicado (exclusivo para chat), nunca el principal:
+  // el swap.js de CallRail reescribe el número de llamadas visible en el DOM y
+  // no debe tocar este enlace. Por eso tampoco se muestra el número como texto.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
 
   const fullTitle = t("title");
   const highlightMatch = fullTitle.match(/(.*?)(Houston|Confianza)(.*)/);
@@ -104,6 +111,23 @@ export function Hero({
               >
                 <Phone className="size-5" aria-hidden="true" />
                 {t("ctaCall")}
+              </a>
+            </Button>
+
+            <Button asChild variant="whatsapp" size="xl">
+              <a
+                href={whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={tc("whatsapp")}
+                className="group"
+              >
+                <WhatsappLogo
+                  className="size-5 shrink-0 transition-transform group-hover:scale-110"
+                  weight="fill"
+                  aria-hidden="true"
+                />
+                {t("ctaWhatsapp")}
               </a>
             </Button>
 
