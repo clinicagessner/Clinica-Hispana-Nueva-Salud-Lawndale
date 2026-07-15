@@ -213,12 +213,6 @@ export function Hero({
         </div>
       </div>
 
-      {/* Fundido inferior hacia la sección siguiente (Promotions, bg-cyan-warm) */}
-      <div
-        aria-hidden="true"
-        className="absolute inset-x-0 bottom-0 z-0 h-28 bg-linear-to-b from-transparent to-cyan-warm"
-      />
-
       {/* Indicador de scroll */}
       <div
         aria-hidden="true"
