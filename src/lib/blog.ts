@@ -52,9 +52,11 @@ export function getBlogPost(slug: string, locale: string = "es"): BlogPost | nul
   return readBlogFile(slug, locale);
 }
 
+// El destacado es siempre el post más reciente (getBlogPosts ordena por fecha desc);
+// el flag `featured` del frontmatter ya no decide.
 export function getFeaturedPost(locale: string = "es"): BlogPost | null {
   const posts = getBlogPosts(locale);
-  return posts.find((post) => post.featured) || null;
+  return posts[0] || null;
 }
 
 export function getRelatedPosts(slug: string, locale: string = "es", limit: number = 3): BlogPost[] {

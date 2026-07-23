@@ -52,7 +52,7 @@ export default async function BlogPage({ params }: Props) {
 
   const allPosts = getBlogPosts(locale);
   const featuredPost = getFeaturedPost(locale);
-  const regularPosts = allPosts.filter((post) => !post.featured);
+  const regularPosts = allPosts.filter((post) => post.slug !== featuredPost?.slug);
 
   const localePath = locale === "en" ? "/en" : "";
 
