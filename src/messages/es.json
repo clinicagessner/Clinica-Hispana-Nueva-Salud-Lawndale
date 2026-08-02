@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clínica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Clínica médica hispana en Houston, TX. Atención profesional 100% en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "description": "Clínica hispana y centro médico en Houston, TX. Atención profesional 100% en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
     "ogDescription": "Su clínica de confianza en Houston. Atención médica profesional en español para toda la familia. Sin cita previa, precios accesibles. {rating} estrellas en Google con más de {count} reseñas."
   },
   "nav": {
@@ -44,7 +44,7 @@
     "badgeWalkIn": "Sin cita previa",
     "badgeWalkInSub": "Walk-in",
     "badgeOpenDays": "Todos los días",
-    "title": "Su Clínica Hispana de Confianza en Houston",
+    "title": "Su Clínica Hispana de Confianza en Houston, TX",
     "subtitle": "Atención médica profesional 100% en español. Sin cita previa, precios accesibles.",
     "ctaCall": "Llamar Ahora",
     "ctaWhatsapp": "WhatsApp",
@@ -63,8 +63,8 @@
     }
   },
   "services": {
-    "title": "Nuestros Servicios",
-    "subtitle": "Atención médica integral para toda la familia",
+    "title": "Nuestros Servicios Médicos en Houston",
+    "subtitle": "Atención médica integral para toda la familia en nuestro centro médico del East End de Houston",
     "servicesAvailable": "servicios disponibles",
     "filterAll": "Todos",
     "noServices": "No se encontraron servicios",
@@ -94,7 +94,7 @@
     "reviews": "reseñas"
   },
   "contact": {
-    "title": "Contáctenos",
+    "title": "Contacte a su Clínica Hispana en Houston",
     "subtitle": "Estamos aquí para ayudarle",
     "form": {
       "name": "Nombre Completo",
@@ -145,11 +145,15 @@
     "q9": "¿Cuánto tiempo debo esperar sin cita?",
     "a9": "El tiempo de espera varía según la demanda del día, pero generalmente atendemos a los pacientes en 15-30 minutos. Le recomendamos llegar temprano para asegurar una atención más rápida.",
     "q10": "¿Hay estacionamiento disponible?",
-    "a10": "Sí, contamos con amplio estacionamiento gratuito frente a la clínica. Nuestras instalaciones también son accesibles para personas con discapacidad, incluyendo rampas y baños adaptados."
+    "a10": "Sí, contamos con amplio estacionamiento gratuito frente a la clínica. Nuestras instalaciones también son accesibles para personas con discapacidad, incluyendo rampas y baños adaptados.",
+    "q11": "¿Cómo encuentro una clínica hispana cerca de mí?",
+    "a11": "Si busca una clínica hispana cerca de mí en Houston, estamos en el East End: 7040 Lawndale St # B, Houston, TX 77023. Somos una clínica hispana y latina, un centro médico cerca de usted con atención sin cita todos los días de 9 AM a 9 PM.",
+    "q12": "¿Pueden ser mi médico primario?",
+    "a12": "Sí. Funcionamos como su médico primario en Houston: consultas de medicina familiar, control de enfermedades crónicas, laboratorio y seguimiento continuo, todo en español y sin necesidad de seguro médico."
   },
   "location": {
-    "title": "Nuestra Ubicación",
-    "subtitle": "Visítenos en Houston, TX",
+    "title": "Nuestro Centro Médico en Houston, TX",
+    "subtitle": "Visítenos en el East End de Houston",
     "howToGetHere": "Cómo Llegar",
     "getDirections": "Obtener Direcciones",
     "openInMaps": "Abrir en Google Maps",

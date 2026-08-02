@@ -398,6 +398,38 @@ function ServiceContent({ content }: { content: string }) {
       {sections.map((section, i) => {
         const trimmed = section.trim();
 
+        // "## Title" → real <h2> (los bloques WHY/PAYMENT/AREAS y las secciones
+        // del longDescription usan esta sintaxis; Google debe verlos como headings)
+        if (trimmed.startsWith("## ")) {
+          return (
+            <h2
+              key={i}
+              className="text-xl md:text-2xl font-heading font-bold text-slate-dark flex items-center gap-2"
+            >
+              <span className="size-1.5 rounded-full bg-blue-primary shrink-0" />
+              {trimmed.replace(/^## /, "")}
+            </h2>
+          );
+        }
+
+        // List block: consecutive "- item" lines
+        if (trimmed.startsWith("- ")) {
+          const items = trimmed
+            .split("\n")
+            .filter((l) => l.startsWith("- "))
+            .map((l) => l.replace(/^- /, ""));
+          return (
+            <ul key={i} className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
+              {items.map((item, j) => (
+                <li key={j} className="flex items-start gap-2.5 text-slate-600">
+                  <CheckCircle className="size-4 text-blue-primary shrink-0 mt-1" weight="fill" />
+                  <span className="text-sm md:text-base">{item}</span>
+                </li>
+              ))}
+            </ul>
+          );
+        }
+
         // Section with heading: **Title**\n content
         if (trimmed.startsWith("**")) {
           const lines = trimmed.split("\n");

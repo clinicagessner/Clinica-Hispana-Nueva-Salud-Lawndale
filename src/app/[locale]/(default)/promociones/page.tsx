@@ -21,7 +21,7 @@ const COPY = {
       "Promociones vigentes en Clínica Hispana Nueva Salud Lawndale, Houston: paquetes de salud a precios accesibles. Sin cita previa, atención en español.",
     backToHome: "Volver al inicio",
     eyebrow: "Promociones",
-    h1: "Promociones por tiempo limitado",
+    h1: "Promociones de salud en Houston por tiempo limitado",
     subtitle:
       "Paquetes de salud a precios accesibles en nuestra clínica del East End de Houston. Sin cita previa y con atención 100% en español.",
     reviewsLabel: "reseñas en Google",
@@ -56,7 +56,7 @@ const COPY = {
       "Current promotions at Clínica Hispana Nueva Salud Lawndale, Houston: affordable health packages. Walk-ins welcome, Spanish-speaking care.",
     backToHome: "Back to home",
     eyebrow: "Promotions",
-    h1: "Limited-time promotions",
+    h1: "Limited-time health promotions in Houston",
     subtitle:
       "Affordable health packages at our East End Houston clinic. No appointment needed and fully bilingual care.",
     reviewsLabel: "reviews on Google",

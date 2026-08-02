@@ -3,7 +3,7 @@ import type { Service, Promotion, ContactInfo, SiteConfig, SocialLinks, FAQItem 
 export const SITE_CONFIG: SiteConfig = {
   name: "Clínica Hispana Nueva Salud Lawndale",
   shortName: "Clínica Nueva Salud Lawndale",
-  tagline: "Atención médica profesional 100% en español",
+  tagline: "Clínica hispana en Houston, TX — Atención médica 100% en español",
   description: "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
   // Configurable por entorno (NEXT_PUBLIC_SITE_URL); fallback al dominio de producción.
   baseUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://www.nuevasaludlawndale.com",
@@ -60,11 +60,11 @@ export const GOOGLE_REVIEWS_DATA = {
 // Bloques de copy reutilizados (marca Nueva Salud Lawndale / East End Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Lawndale?
 
-En Clínica Hispana Nueva Salud Lawndale te atendemos 100% en español, sin cita previa y sin necesidad de seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Somos una clínica hispana y latina en Houston: te atendemos 100% en español, sin cita previa y sin necesidad de seguro. Encuentra un centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Lawndale?
 
-At Clínica Hispana Nueva Salud Lawndale we care for you 100% in Spanish, with no appointment needed and no insurance needed. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are a Hispanic and Latino clinic in Houston: we care for you 100% in Spanish, with no appointment needed and no insurance needed. Find a medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Seguros y formas de pago
 
@@ -76,11 +76,11 @@ We do not work with health insurance: we offer affordable, transparent self-pay 
 
 const AREAS_ES = `## Áreas que servimos
 
-Atendemos a pacientes del East End de Houston y áreas cercanas: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester y comunidades hispanas del East End de Houston.`;
+Atendemos a pacientes del East End de Houston y áreas cercanas: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild y Manchester, y recibimos pacientes de toda el área metropolitana de Houston, TX.`;
 
 const AREAS_EN = `## Areas we serve
 
-We care for patients across the East End of Houston and nearby areas: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester and surrounding Hispanic communities in Houston's East End.`;
+We care for patients across the East End of Houston and nearby areas: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild and Manchester, and welcome patients from across the greater Houston, TX metro area.`;
 
 export const SERVICES: Service[] = [
   {
@@ -498,27 +498,31 @@ ${AREAS_EN}`,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    title: "Ginecología en Houston: Papanicolaou y Cultivos",
+    titleEn: "Gynecology in Houston: Pap Smear & Cultures",
     shortDescription:
       "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, sin necesidad de seguro.",
+      "Ginecología en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones en una clínica hispana cerca de ti. En español, sin seguro.",
     descriptionEn:
-      "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, no insurance needed.",
+      "Gynecology in Houston, TX: Pap smear, vaginal cultures and infection treatment at a Hispanic clinic near you. In Spanish, no insurance needed.",
     keywords: [
+      "ginecologia houston",
       "ginecologo houston español",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
+      "ginecologia cerca de mi houston",
     ],
     keywordsEn: [
+      "gynecology houston",
       "gynecologist houston spanish",
       "pap smear houston",
       "vaginal culture houston",
       "vaginal infection treatment houston",
+      "gynecology near me houston",
     ],
     features: [
       "Papanicolaou y chequeo ginecológico",
@@ -546,6 +550,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Si buscas ginecología en Houston, en nuestra clínica hispana y latina del East End te atendemos sin cita previa, con total privacidad y en tu idioma. Ven el mismo día por tu papanicolaou, cultivo o tratamiento.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -564,6 +572,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+If you're looking for gynecology in Houston, our Hispanic and Latino clinic in the East End sees you with no appointment, with full privacy and in your language. Come in the same day for your Pap smear, culture or treatment.
 
 ${WHY_EN}
 
@@ -901,14 +913,14 @@ ${AREAS_EN}`,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
-    title: "Exámenes de Sangre | Laboratorio",
-    titleEn: "Blood Tests | Lab",
+    title: "Análisis de Sangre en Houston | Laboratorio",
+    titleEn: "Blood Tests in Houston | Lab",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
       "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
     description:
-      "Exámenes de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, sin necesidad de seguro.",
+      "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, sin necesidad de seguro.",
     descriptionEn:
       "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, no insurance needed.",
     keywords: [
@@ -982,27 +994,31 @@ ${AREAS_EN}`,
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
-    title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
-    titleEn: "Urinalysis & Urinary Infection Treatment",
+    title: "Infecciones Urinarias en Houston: Examen y Tratamiento",
+    titleEn: "Urinary Infections in Houston: Testing & Treatment",
     shortDescription:
       "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
       "Urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Houston, TX, el mismo día. En español, sin necesidad de seguro.",
+      "Tratamiento de infecciones urinarias y examen de orina el mismo día en una clínica hispana de Houston, TX. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Houston, TX, same day. In Spanish, no insurance needed.",
+      "Same-day urinary infection treatment and urinalysis at a Hispanic clinic in Houston, TX. In Spanish, no insurance needed.",
     keywords: [
+      "infecciones urinarias houston",
       "examen de orina houston",
       "infeccion urinaria houston",
       "tratamiento infeccion urinaria houston",
       "doctor infeccion de orina houston",
+      "clinica para infeccion urinaria cerca de mi",
     ],
     keywordsEn: [
+      "urinary infections houston",
       "urinalysis houston",
       "urinary tract infection houston",
       "uti treatment houston",
       "uti doctor houston",
+      "uti clinic near me houston",
     ],
     features: [
       "Examen de orina en la clínica",
@@ -1030,6 +1046,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Infecciones urinarias: atención en una clínica hispana cerca de ti
+
+Si tienes síntomas de infección urinaria en Houston, no necesitas cita: ven a nuestra clínica hispana del East End, te hacemos el examen de orina en el momento y empezamos tu tratamiento el mismo día.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1048,6 +1068,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## Urinary infections: care at a Hispanic clinic near you
+
+If you have urinary infection symptoms in Houston, you don't need an appointment: come to our Hispanic clinic in the East End, we run your urine test on the spot and start your treatment the same day.
 
 ${WHY_EN}
 
@@ -2553,6 +2577,16 @@ export const FAQ_ITEMS: FAQItem[] = [
     id: "estacionamiento",
     question: "faq.q10",
     answer: "faq.a10",
+  },
+  {
+    id: "clinica-cerca-de-mi",
+    question: "faq.q11",
+    answer: "faq.a11",
+  },
+  {
+    id: "medico-primario",
+    question: "faq.q12",
+    answer: "faq.a12",
   },
 ];
 

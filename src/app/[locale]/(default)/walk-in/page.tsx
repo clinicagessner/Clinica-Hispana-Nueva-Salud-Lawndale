@@ -95,7 +95,7 @@ const COPY = {
       },
       {
         question: "¿Cuál es la dirección de la clínica?",
-        answer: `Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city} ${CONTACT_INFO.state} ${CONTACT_INFO.zip}. Llame al ${CONTACT_INFO.phone} si necesita indicaciones.`,
+        answer: `Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city} ${CONTACT_INFO.state} ${CONTACT_INFO.zip}. Llame al ${CONTACT_INFO.phoneFormatted} si necesita indicaciones.`,
       },
     ],
   },
@@ -184,7 +184,7 @@ const COPY = {
       },
       {
         question: "What is your address?",
-        answer: `We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city} ${CONTACT_INFO.state} ${CONTACT_INFO.zip}. Call ${CONTACT_INFO.phone} if you need directions.`,
+        answer: `We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city} ${CONTACT_INFO.state} ${CONTACT_INFO.zip}. Call ${CONTACT_INFO.phoneFormatted} if you need directions.`,
       },
     ],
   },
@@ -248,7 +248,7 @@ export default async function WalkInPage({ params }: Props) {
                   className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold text-base md:text-lg rounded-lg px-7 py-3.5 shadow-lg hover:shadow-xl hover:bg-yellow-accent/90 transition-all"
                 >
                   <Phone weight="bold" className="size-5" />
-                  {c.callCta} — {CONTACT_INFO.phone}
+                  {c.callCta} — {CONTACT_INFO.phoneFormatted}
                 </a>
                 <Link
                   href={`${localePath}/#location`}
@@ -416,7 +416,7 @@ export default async function WalkInPage({ params }: Props) {
                 className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold rounded-lg px-7 py-3.5 shadow-md hover:shadow-lg transition-all text-lg"
               >
                 <Phone weight="bold" className="size-5" />
-                {CONTACT_INFO.phone}
+                {CONTACT_INFO.phoneFormatted}
               </a>
               <Link
                 href={`${localePath}/#location`}

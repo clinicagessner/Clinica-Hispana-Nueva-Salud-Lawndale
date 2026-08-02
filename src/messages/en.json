@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clinica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Hispanic medical clinic in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients without insurance. Family medicine, immigration exams, laboratory and more.",
+    "description": "Hispanic clinic and medical center in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients without insurance. Family medicine, immigration exams, laboratory and more.",
     "ogDescription": "Your trusted clinic in Houston. Professional medical care in Spanish for the whole family. Walk-ins welcome, affordable prices. {rating} stars on Google with more than {count} reviews."
   },
   "nav": {
@@ -44,7 +44,7 @@
     "badgeWalkIn": "Walk-ins welcome",
     "badgeWalkInSub": "No appointment",
     "badgeOpenDays": "Every day",
-    "title": "Your Trusted Hispanic Clinic in Houston",
+    "title": "Your Trusted Hispanic Clinic in Houston, TX",
     "subtitle": "Professional medical care 100% in Spanish. Walk-ins welcome, affordable prices.",
     "ctaCall": "Call Now",
     "ctaWhatsapp": "WhatsApp",
@@ -63,8 +63,8 @@
     }
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "Comprehensive medical care for the whole family",
+    "title": "Our Medical Services in Houston",
+    "subtitle": "Comprehensive medical care for the whole family at our East End Houston medical center",
     "servicesAvailable": "services available",
     "filterAll": "All",
     "noServices": "No services found",
@@ -94,7 +94,7 @@
     "reviews": "reviews"
   },
   "contact": {
-    "title": "Contact Us",
+    "title": "Contact Your Hispanic Clinic in Houston",
     "subtitle": "We're here to help you",
     "form": {
       "name": "Full Name",
@@ -133,7 +133,7 @@
     "q3": "Do you speak Spanish at the clinic?",
     "a3": "Yes, all our staff speaks Spanish. Our clinic was specifically created to serve Houston's Hispanic community, and we make sure you can communicate comfortably in your language.",
     "q4": "What are your business hours?",
-    "a4": "We're open Monday through Saturday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
+    "a4": "We're open Monday through Sunday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
     "q5": "What payment methods do you accept?",
     "a5": "We accept cash and all major credit and debit cards (Visa, MasterCard, American Express, Discover). We do not work with insurance: we offer affordable self-pay pricing.",
     "q6": "Do you offer payment plans?",
@@ -145,11 +145,15 @@
     "q9": "How long is the wait without an appointment?",
     "a9": "Wait times vary depending on daily demand, but we generally see patients within 15-30 minutes. We recommend arriving early to ensure faster service.",
     "q10": "Is parking available?",
-    "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms."
+    "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms.",
+    "q11": "How do I find a Hispanic clinic near me?",
+    "a11": "If you're searching for a Hispanic clinic near me in Houston, we're in the East End: 7040 Lawndale St # B, Houston, TX 77023. We're a Hispanic and Latino clinic — a medical center near you with walk-in care every day from 9 AM to 9 PM.",
+    "q12": "Can you be my primary care doctor?",
+    "a12": "Yes. We serve as your primary care clinic in Houston: family medicine visits, chronic disease management, lab work and ongoing follow-up, all in Spanish and no insurance needed."
   },
   "location": {
-    "title": "Our Location",
-    "subtitle": "Visit us in Houston, TX",
+    "title": "Our Medical Center in Houston, TX",
+    "subtitle": "Visit us in Houston's East End",
     "howToGetHere": "How to Get Here",
     "getDirections": "Get Directions",
     "openInMaps": "Open in Google Maps",
