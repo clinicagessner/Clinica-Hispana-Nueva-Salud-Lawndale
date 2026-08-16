@@ -2458,6 +2458,30 @@ ${AREAS_EN}`,
 // nunca en title/description/keywords de metadata.
 export const PROMOTIONS: Promotion[] = [
   {
+    slug: "chequeo-general-completo",
+    title: "Chequeo General Completo",
+    titleEn: "Complete General Checkup",
+    price: "$99",
+    blurb:
+      "Cuídate hoy, vive mejor mañana. Un chequeo general completo con valor regular de $250, ahora por solo $99 y con la consulta médica gratis. Incluye examen general de sangre, A1C (hemoglobina glicosilada) y examen general de orina, con resultados rápidos y atención personalizada.",
+    blurbEn:
+      "Take care of yourself today, live better tomorrow. A complete general checkup regularly valued at $250, now for only $99 with a free medical consultation. Includes a general blood test, A1C (glycated hemoglobin) and a general urine test, with fast results and personalized care.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "General blood test",
+      "A1C (glycated hemoglobin)",
+      "General urine test",
+      "Free medical consultation",
+    ],
+    alt: "Flyer de la promoción Chequeo General Completo por $99 con consulta gratis en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Complete General Checkup promotion flyer for $99 with free consultation at Clínica Hispana Nueva Salud Lawndale, Houston",
+  },
+  {
     slug: "salud-intima-femenina",
     title: "Salud Íntima Femenina",
     titleEn: "Women's Intimate Health",
