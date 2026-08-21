@@ -1890,16 +1890,16 @@ ${AREAS_EN}`,
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Sueros Vitaminados (Terapia IV)",
-    titleEn: "Vitamin IV Therapy",
+    title: "Sueros Vitaminados en Houston | Terapia IV",
+    titleEn: "Vitamin IV Therapy in Houston | IV Drips",
     shortDescription:
       "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
     shortDescriptionEn:
       "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, sin necesidad de seguro.",
+      "Sueros vitaminados y terapia IV en Houston, TX: hidratación intravenosa con vitaminas aplicada por personal médico. Sin cita previa, sin seguro y 100% en español.",
     descriptionEn:
-      "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, no insurance needed.",
+      "Vitamin IV therapy in Houston, TX: intravenous hydration with vitamins, administered by medical staff. Walk-ins welcome, no insurance needed, Spanish-speaking team.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
