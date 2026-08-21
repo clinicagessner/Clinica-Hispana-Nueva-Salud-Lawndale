@@ -107,7 +107,7 @@ Algunas clínicas también ofrecen escala según ingresos (sliding fee scale) pa
 
 ## Cómo Clínica Hispana Nueva Salud Lawndale la puede ayudar
 
-En **Clínica Hispana Nueva Salud Lawndale** ofrecemos servicios de ginecología 100% en español. Nuestro equipo está en **7040 Lawndale St # B, Houston TX 77023**, abierto los 7 días de la semana de 9 AM a 9 PM, sin cita previa.
+En **Clínica Hispana Nueva Salud Lawndale** ofrecemos [servicios de ginecología](/services/ginecologia) 100% en español. Nuestro equipo está en **7040 Lawndale St # B, Houston TX 77023**, abierto los 7 días de la semana de 9 AM a 9 PM, sin cita previa.
 
 Atendemos:
 
@@ -116,7 +116,7 @@ Atendemos:
 - Atención prenatal básica
 - Evaluación de irregularidades menstruales
 - Consulta de menopausia
-- Planificación familiar
+- Planificación familiar, [anticonceptivos](/services/anticonceptivos) y [prueba de embarazo](/services/prueba-embarazo)
 
 No trabajamos con seguros médicos; ofrecemos precios accesibles de pago directo para todos los pacientes. Llame al **(832) 530-4188** para confirmar disponibilidad.
 

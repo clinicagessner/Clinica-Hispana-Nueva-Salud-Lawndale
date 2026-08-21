@@ -107,7 +107,7 @@ Some clinics also offer sliding fee scales for patients without insurance.
 
 ## How Clinica Hispana Nueva Salud Lawndale can help
 
-At **Clinica Hispana Nueva Salud Lawndale** we offer gynecology services fully in Spanish. Our team is at **7040 Lawndale St # B, Houston TX 77023**, open 7 days a week from 9 AM to 9 PM, walk-ins welcome.
+At **Clinica Hispana Nueva Salud Lawndale** we offer [gynecology services](/services/ginecologia) fully in Spanish. Our team is at **7040 Lawndale St # B, Houston TX 77023**, open 7 days a week from 9 AM to 9 PM, walk-ins welcome.
 
 We provide:
 
@@ -116,7 +116,7 @@ We provide:
 - Basic prenatal care
 - Menstrual irregularity evaluation
 - Menopause consultation
-- Family planning
+- Family planning, [birth control](/services/anticonceptivos) and [pregnancy testing](/services/prueba-embarazo)
 
 We do not work with insurance; we offer affordable self-pay pricing for all patients. Call **(832) 530-4188** to confirm availability.
 

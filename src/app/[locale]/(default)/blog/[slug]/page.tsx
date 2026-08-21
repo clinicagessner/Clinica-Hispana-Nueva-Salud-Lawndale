@@ -166,7 +166,7 @@ export default async function BlogPostPage({ params }: Props) {
         <div className="container mx-auto px-4 py-12 md:py-16">
           <div className="max-w-3xl mx-auto">
             <div className="blog-content">
-              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content) }} />
+              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content, locale) }} />
             </div>
 
             {/* CTA Section */}
@@ -234,7 +234,10 @@ export default async function BlogPostPage({ params }: Props) {
 }
 
 // Simple markdown parser (for basic formatting)
-function parseMarkdown(markdown: string): string {
+function parseMarkdown(markdown: string, locale: string): string {
+  // Los enlaces internos del markdown son rutas sin prefijo (/services/x);
+  // en inglés deben apuntar a /en/services/x o el post enlaza a la versión española.
+  const prefix = locale === "es" ? "" : `/${locale}`;
   // The page already renders the post title as the h1 (from frontmatter), so any
   // leading `# Title` in the markdown body would produce a duplicate h1.
   const stripped = markdown.replace(/^\s*#\s+.+\r?\n+/, "");
@@ -248,7 +251,8 @@ function parseMarkdown(markdown: string): string {
     // Italic
     .replace(/\*(.*?)\*/gim, '<em>$1</em>')
     // Links
-    .replace(/\[(.*?)\]\((.*?)\)/gim, '<a href="$2">$1</a>')
+    .replace(/\[(.*?)\]\((.*?)\)/gim, (_m, text: string, href: string) =>
+      `<a href="${href.startsWith("/") ? prefix + href : href}">${text}</a>`)
     // Unordered lists
     .replace(/^- (.*$)/gim, '<li>$1</li>')
     // Ordered lists

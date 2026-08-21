@@ -112,13 +112,13 @@ For Houston's Hispanic community, the areas with the most Spanish-speaking Civil
 
 ## How Clinica Hispana Nueva Salud Lawndale can help
 
-At **Clinica Hispana Nueva Salud Lawndale** we have a USCIS-designated Civil Surgeon to perform the I-693 Green Card exam. We are located at **7040 Lawndale St # B, Houston TX 77023**, open 7 days a week from 9 AM to 9 PM.
+At **Clinica Hispana Nueva Salud Lawndale** we have a USCIS-designated Civil Surgeon to perform the [I-693 immigration medical exam](/services/examenes-inmigracion) for Green Card. We are located at **7040 Lawndale St # B, Houston TX 77023**, open 7 days a week from 9 AM to 9 PM.
 
 Benefits of doing your exam with us:
 
 - Full Spanish-language service
 - Complete I-693 form same day in most cases
-- USCIS-required vaccines available on-site
+- [USCIS-required vaccines](/services/vacunas) and [tuberculosis testing](/services/prueba-tuberculosis) available on-site
 - Competitive and transparent pricing
 - Walk-ins welcome for the first consultation
 

@@ -37,6 +37,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
+import { getPostsLinkingToService } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
@@ -140,6 +141,8 @@ export default async function ServicePage({ params }: Props) {
     (s) => s.category === rawService.category && s.id !== rawService.id
   ).slice(0, 3).map((s) => getLocalizedService(s, locale));
 
+  const relatedPosts = getPostsLinkingToService(rawService.slug, locale);
+
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
     { name: locale === "en" ? "Home" : "Inicio", url: `${SITE_CONFIG.baseUrl}${localePath}` },
@@ -167,7 +170,7 @@ export default async function ServicePage({ params }: Props) {
           <div className="container relative z-10 mx-auto px-4">
             {/* Back Link */}
             <Link
-              href="/services"
+              href={`${localePath}/services`}
               className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors"
             >
               <ArrowLeft className="size-4" weight="bold" />
@@ -335,7 +338,7 @@ export default async function ServicePage({ params }: Props) {
                   return (
                     <Link
                       key={related.id}
-                      href={`/services/${related.slug}`}
+                      href={`${localePath}/services/${related.slug}`}
                       className="group block"
                     >
                       <article className="relative h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200">
@@ -370,6 +373,50 @@ export default async function ServicePage({ params }: Props) {
                     </Link>
                   );
                 })}
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* Related Posts — posts que enlazan a este servicio */}
+        {relatedPosts.length > 0 && (
+          <section className="py-12 md:py-16 bg-linear-to-b from-blue-50/60 to-background">
+            <div className="container mx-auto px-4">
+              <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
+                {t("relatedPosts")}
+              </h2>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
+                {relatedPosts.map((post) => (
+                  <Link
+                    key={post.slug}
+                    href={`${localePath}/blog/${post.slug}`}
+                    className="group block h-full bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 hover:border-red-200"
+                  >
+                    {post.image && (
+                      <div className="relative h-36 overflow-hidden">
+                        <Image
+                          src={post.image}
+                          alt={`${post.title} - Blog Clínica Hispana Nueva Salud Lawndale Houston`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-500"
+                          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        />
+                      </div>
+                    )}
+                    <div className="p-4">
+                      <h3 className="font-heading font-bold text-slate-dark mb-1.5 line-clamp-2 group-hover:text-blue-primary transition-colors">
+                        {post.title}
+                      </h3>
+                      <p className="text-sm text-muted-foreground line-clamp-2 mb-2">
+                        {post.description}
+                      </p>
+                      <span className="inline-flex items-center gap-1 text-blue-primary font-medium text-sm group-hover:gap-2 transition-all">
+                        {t("learnMore")}
+                        <ArrowRight className="size-4" weight="bold" />
+                      </span>
+                    </div>
+                  </Link>
+                ))}
               </div>
             </div>
           </section>

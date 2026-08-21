@@ -146,10 +146,10 @@ Todo el proceso — desde el registro hasta la entrega de su certificado — es 
 Venga cuando le convenga. Atendemos de **lunes a domingo de 9:00 AM a 9:00 PM**. Esto es especialmente útil para camioneros con horarios irregulares.
 
 ### Resultados el Mismo Día
-Sale de nuestra clínica con su **certificado médico DOT y tarjeta médica** en mano. No tiene que esperar días ni volver otra cita.
+Sale de nuestra clínica con su **certificado médico DOT y tarjeta médica** en mano. Vea todos los detalles en nuestra página del [examen físico DOT para licencia CDL](/services/examen-dot). No tiene que esperar días ni volver otra cita.
 
 ### Precios Accesibles
-Ofrecemos precios competitivos sin sacrificar la calidad del examen. Aceptamos efectivo y tarjetas.
+Ofrecemos precios competitivos sin sacrificar la calidad del examen. Aceptamos efectivo y tarjetas. Si su empresa también le pide [prueba de alcohol y drogas](/services/examen-alcohol-drogas) o un [electrocardiograma](/services/electrocardiograma), puede hacerlo todo en la misma visita.
 
 ### Ubicación Conveniente
 Estamos en **7040 Lawndale St # B, Houston, TX 77023**, cerca de la Highway 59/69, con amplio estacionamiento gratuito para camiones y vehículos grandes.

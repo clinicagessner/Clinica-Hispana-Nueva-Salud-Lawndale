@@ -146,10 +146,10 @@ The entire process — from check-in to receiving your certificate — is in Spa
 Come when it's convenient. We're open **Monday through Saturday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
 
 ### Same-Day Results
-Leave our clinic with your **DOT medical certificate and medical card** in hand. No waiting days or coming back for another visit.
+Leave our clinic with your **DOT medical certificate and medical card** in hand. See full details on our [DOT physical exam for CDL license](/services/examen-dot) page. No waiting days or coming back for another visit.
 
 ### Affordable Prices
-We offer competitive prices without sacrificing exam quality. We accept cash and cards.
+We offer competitive prices without sacrificing exam quality. We accept cash and cards. If your employer also requires [drug and alcohol testing](/services/examen-alcohol-drogas) or an [electrocardiogram](/services/electrocardiograma), you can get everything done in the same visit.
 
 ### Convenient Location
 We're located at **7040 Lawndale St # B, Houston, TX 77023**, near Highway 59/69, with ample free parking for trucks and large vehicles.

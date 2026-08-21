@@ -63,3 +63,17 @@ export function getRelatedPosts(slug: string, locale: string = "es", limit: numb
   const posts = getBlogPosts(locale);
   return posts.filter((p) => p.slug !== slug).slice(0, limit);
 }
+
+// Posts que enlazan a /services/<slug> en su cuerpo. Se usa para el bloque
+// "Artículos relacionados" de cada página de servicio: el enlace post→servicio
+// ya existe en el markdown, así que esto cierra el bucle servicio→post.
+export function getPostsLinkingToService(
+  serviceSlug: string,
+  locale: string = "es",
+  limit: number = 3
+): BlogPost[] {
+  const needle = `/services/${serviceSlug})`;
+  return getBlogPosts(locale)
+    .filter((p) => p.content.includes(needle))
+    .slice(0, limit);
+}

@@ -112,13 +112,13 @@ Para la comunidad hispana de Houston, las zonas con más Civil Surgeons que habl
 
 ## Cómo Clínica Hispana Nueva Salud Lawndale puede ayudarle
 
-En **Clínica Hispana Nueva Salud Lawndale** contamos con Civil Surgeon designado por USCIS para realizar el examen I-693 de Green Card. Estamos en **7040 Lawndale St # B, Houston TX 77023**, abiertos los 7 días de la semana de 9 AM a 9 PM.
+En **Clínica Hispana Nueva Salud Lawndale** contamos con Civil Surgeon designado por USCIS para realizar el [examen médico de inmigración I-693](/services/examenes-inmigracion) de Green Card. Estamos en **7040 Lawndale St # B, Houston TX 77023**, abiertos los 7 días de la semana de 9 AM a 9 PM.
 
 Beneficios de hacer su examen con nosotros:
 
 - Atención 100% en español
 - Formulario I-693 completo el mismo día en la mayoría de los casos
-- Vacunas requeridas por USCIS disponibles en la clínica
+- [Vacunas requeridas por USCIS](/services/vacunas) y [prueba de tuberculosis](/services/prueba-tuberculosis) disponibles en la clínica
 - Precios competitivos y transparentes
 - Sin cita previa para la primera consulta
 

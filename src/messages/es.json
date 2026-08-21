@@ -83,7 +83,8 @@
     "categoryDiagnostico": "Diagnóstico",
     "categoryEspecialidad": "Especialidad",
     "categoryMujer": "Salud de la Mujer",
-    "categoryDefault": "Servicio Médico"
+    "categoryDefault": "Servicio Médico",
+    "relatedPosts": "Artículos Relacionados"
   },
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Pacientes",

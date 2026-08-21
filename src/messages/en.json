@@ -83,7 +83,8 @@
     "categoryDiagnostico": "Diagnostics",
     "categoryEspecialidad": "Specialty",
     "categoryMujer": "Women's Health",
-    "categoryDefault": "Medical Service"
+    "categoryDefault": "Medical Service",
+    "relatedPosts": "Related Articles"
   },
   "testimonials": {
     "title": "What Our Patients Say",
