@@ -30,7 +30,7 @@ export const CONTACT_INFO: ContactInfo = {
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
   // URLs ancladas al Place ID real del GBP (exactas, independientes del nombre del listado).
-  // NOTA: el Google Business Profile aún figura como "Clínica Hispana San Juan" — confirmar con el cliente si se renombra.
+  // Google Business Profile renombrado a "Clínica Hispana Nueva Salud Lawndale" (2026-08-26); NAP consistente con el sitio.
   googleMapsUrl:
     "https://www.google.com/maps/search/?api=1&query=7040+Lawndale+St+%23+B+Houston+TX+77023&query_place_id=ChIJ-RGohMW9QIYRMsoC5OO7apg",
   googleMapsEmbed:
