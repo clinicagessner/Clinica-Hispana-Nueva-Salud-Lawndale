@@ -1647,8 +1647,8 @@ ${AREAS_EN}`,
     category: "examenes",
     icon: "Truck",
     highlighted: true,
-    title: "Examen Físico DOT - Licencia CDL",
-    titleEn: "DOT Physical Exam - CDL License",
+    title: "Examen Físico DOT en Houston | Licencia CDL",
+    titleEn: "DOT Physical Exam in Houston | CDL License",
     shortDescription:
       "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
     shortDescriptionEn:
