@@ -19,7 +19,7 @@ El proyecto se construyó replicando la arquitectura del sitio hermano **Clínic
 - Dominio: `nuevasaludlawndale.com`.
 - Redes: Facebook `/NuevaSaludLawndale`, Instagram `/nuevasaludlawndale` (`SOCIAL_LINKS` pobladas).
 - **29 servicios** reales (ver `SERVICES` en `constants.ts`), todos con imagen `.webp` propia, copy es/en y FAQs. Logo, favicons y OG ya son de la marca nueva.
-- Google Place ID: `ChIJ-RGohMW9QIYRMsoC5OO7apg` (4.4★, 40 reseñas a 2026-06). Reviews/rating en vivo **activos** vía `GOOGLE_PLACE_ID` + `GOOGLE_PLACES_API_KEY`.
+- Google Place ID: `ChIJ-RGohMW9QIYRMsoC5OO7apg` (4.7★, 98 reseñas a 2026-08). Reviews/rating en vivo **activos** vía `GOOGLE_PLACE_ID` + `GOOGLE_PLACES_API_KEY`.
 
 **Branding del tema:** la paleta real (azul `#0180f9` / rojo `#fc0101` / ámbar `#ffb703`, del logo) vive en `src/app/globals.css`. **Footgun heredado:** los nombres de token CSS (`--blue-*`, `--red-*`, `--yellow-*`, `--cyan-*`, y clases `bg-blue-primary`, `text-red-accent`, etc.) vienen del sitio hermano — solo se cambiaron los VALORES, no los nombres, para no romper ~40 componentes. Si algún día se renombran a `--primary/--accent`, hacerlo de una sola vez (Tailwind v4 descarta clases desconocidas en silencio).
 
@@ -32,7 +32,7 @@ El proyecto se construyó replicando la arquitectura del sitio hermano **Clínic
 - Revisar/aprobar blog posts y FAQs (rebrandeados desde La Caridad, ya reubicados al East End) antes de campañas.
 
 **Decisiones de implementación vigentes:**
-- Reviews/rating: `JsonLdMedicalClinic` (`src/components/seo/json-ld.tsx`) tira de `getGooglePlaceData()` en vivo y **omite** `aggregateRating`/`review[]` solo si la API falla y el fallback (`GOOGLE_REVIEWS_DATA`, hoy 4.4/40) está en 0. Nunca reintroducir reseñas inventadas hardcodeadas.
+- Reviews/rating: `JsonLdMedicalClinic` (`src/components/seo/json-ld.tsx`) tira de `getGooglePlaceData()` en vivo y **omite** `aggregateRating`/`review[]` solo si la API falla y el fallback (`GOOGLE_REVIEWS_DATA`, hoy 4.7/98) está en 0. Nunca reintroducir reseñas inventadas hardcodeadas.
 - `SITE_CONFIG.baseUrl` lee `NEXT_PUBLIC_SITE_URL` con fallback al dominio de producción.
 - IndexNow key: `public/7a058d4b03962dd5ab69fe97c9a05382.txt`.
 
