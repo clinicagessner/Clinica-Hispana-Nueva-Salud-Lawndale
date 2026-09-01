@@ -2549,6 +2549,52 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Flyer de la promoción General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud Lawndale, Houston",
     altEn: "Blood Panel plus Vitamin B12 promotion flyer for $99 at Clínica Hispana Nueva Salud Lawndale, Houston",
   },
+  {
+    slug: "examen-testosterona",
+    title: "Revisa tu Testosterona",
+    titleEn: "Check Your Testosterone",
+    price: "$79",
+    blurb:
+      "¿Cansancio, poca energía, menos deseo sexual o dificultad con la erección? Un examen de testosterona te ayuda a saber si tus niveles hormonales tienen que ver. Paquete con valor regular de $220, ahora por solo $79: incluye examen de testosterona, examen de orina y consulta médica gratis.",
+    blurbEn:
+      "Tiredness, low energy, reduced sex drive or difficulty with erections? A testosterone test helps you find out whether your hormone levels play a role. A package regularly valued at $220, now for only $79: includes a testosterone test, a urine test and a free medical consultation.",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Flyer de la promoción Revisa tu Testosterona por $79 con consulta gratis en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Check Your Testosterone promotion flyer for $79 with free consultation at Clínica Hispana Nueva Salud Lawndale, Houston",
+  },
+  {
+    slug: "chequeo-completo-mujer",
+    title: "Chequeo Completo de la Mujer",
+    titleEn: "Complete Women's Checkup",
+    price: "$179",
+    blurb:
+      "Un chequeo pensado para el cuidado de la mujer, con valor regular de $300 y ahora por solo $179. Incluye ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis, con atención profesional y en español todos los días.",
+    blurbEn:
+      "A checkup designed for women's care, regularly valued at $300 and now for only $179. Includes a pelvic ultrasound, a Pap smear, a urine test and a free medical consultation, with professional, Spanish-speaking care every day.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Flyer de la promoción Chequeo Completo de la Mujer por $179 con consulta gratis en Clínica Hispana Nueva Salud Lawndale, Houston",
+    altEn: "Complete Women's Checkup promotion flyer for $179 with free consultation at Clínica Hispana Nueva Salud Lawndale, Houston",
+  },
 ];
 
 export const FAQ_ITEMS: FAQItem[] = [
