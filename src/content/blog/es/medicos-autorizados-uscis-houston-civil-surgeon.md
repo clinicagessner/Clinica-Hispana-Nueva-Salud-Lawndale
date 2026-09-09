@@ -3,7 +3,7 @@ slug: "medicos-autorizados-uscis-houston-civil-surgeon"
 title: "Médicos Autorizados por USCIS en Houston: Cómo Verificar"
 description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCIS en Houston para hacer el examen I-693 de Green Card. Lista oficial, requisitos y qué evitar."
 date: "2026-05-31"
-dateModified: "2026-05-31"
+dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/medicos-uscis.webp"
 featured: false
@@ -130,7 +130,7 @@ Llame al **(832) 530-4188** para confirmar disponibilidad y precios actualizados
 El costo varía por clínica y depende de qué vacunas necesite. En Nueva Salud Lawndale ofrecemos precios competitivos; llame para precio actual.
 
 **¿Cuánto tiempo es válido el I-693 firmado?**
-El formulario es válido por 2 años desde la fecha del examen, o 4 años si fue completado antes de presentar el I-485.
+Si fue firmado el 1 de noviembre de 2023 o después, no tiene fecha de vencimiento fija: vale mientras la solicitud con la que lo presentó (por ejemplo, el I-485) siga pendiente. Si esa solicitud se niega o se retira, necesita un examen nuevo (política de USCIS desde el 11 de junio de 2025).
 
 **¿Puedo hacer el examen si estoy embarazada?**
 Sí. El examen se puede realizar durante el embarazo. Algunas vacunas pueden posponerse según la indicación del médico.

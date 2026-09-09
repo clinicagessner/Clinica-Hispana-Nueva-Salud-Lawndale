@@ -3,7 +3,7 @@ slug: "medicos-autorizados-uscis-houston-civil-surgeon"
 title: "USCIS-Authorized Doctors in Houston: How to Verify"
 description: "How to verify if a doctor is a USCIS-authorized Civil Surgeon in Houston for the I-693 Green Card medical exam. Official list, requirements, and what to avoid."
 date: "2026-05-31"
-dateModified: "2026-05-31"
+dateModified: "2026-09-08"
 author: "Clinica Hispana Nueva Salud Lawndale"
 image: "/images/blog/medicos-uscis.webp"
 featured: false
@@ -130,7 +130,7 @@ Call **(832) 530-4188** to confirm availability and current pricing.
 The cost varies by clinic and depends on which vaccines you need. Nueva Salud Lawndale offers competitive pricing; call for current pricing.
 
 **How long is the signed I-693 valid?**
-The form is valid for 2 years from the exam date, or 4 years if completed before filing Form I-485.
+If signed on or after November 1, 2023, it has no fixed expiration date: it stays valid while the application it was filed with (for example, Form I-485) is pending. If that application is denied or withdrawn, you need a new exam (USCIS policy since June 11, 2025).
 
 **Can I do the exam while pregnant?**
 Yes. The exam can be performed during pregnancy. Some vaccines may be deferred per physician guidance.

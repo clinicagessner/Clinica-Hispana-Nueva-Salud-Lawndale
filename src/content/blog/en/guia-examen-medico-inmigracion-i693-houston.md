@@ -3,7 +3,7 @@ slug: "guia-examen-medico-inmigracion-i693-houston"
 title: "Complete Guide: I-693 Immigration Medical Exam in Houston TX"
 description: "Everything you need to know about the I-693 medical exam for a Green Card in Houston TX. Requirements, vaccines, costs, documents, and what to expect from USCIS-certified Civil Surgeons."
 date: "2026-03-18"
-dateModified: "2026-03-21"
+dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/i693.webp"
 featured: false
@@ -50,13 +50,14 @@ USCIS requires that all applicants be up to date with the vaccination schedule r
 - **Hepatitis A:** 2-dose series; protects against viral liver infection
 - **Hepatitis B:** 3-dose series; required for all applicants
 - **Influenza (flu):** One annual dose; required during flu season
-- **Measles, Mumps, and Rubella (MMR):** 2 doses; especially important for those born before 1957
+- **Measles, Mumps, and Rubella (MMR):** 2 doses; if you were born before 1957, USCIS considers you immune and you do not need it
 - **Tetanus, Diphtheria, and Pertussis (Tdap/Td):** Booster every 10 years
 - **Varicella (chickenpox):** 2 doses if you did not have the illness as a child
 - **Meningococcal:** Required for certain age groups
 - **Pneumococcal:** For older adults or those with chronic conditions
-- **COVID-19:** Complete schedule per current USCIS guidelines
 - **HPV (Human Papillomavirus):** For applicants ages 11 to 26
+
+As of January 20, 2025, USCIS **no longer requires the COVID-19 vaccine** for Form I-693.
 
 If you have already received some vaccines, bring your vaccination card or medical records. The Civil Surgeon will determine which vaccines are missing and only administer the ones you actually need.
 
@@ -80,7 +81,7 @@ Vaccines are billed separately based on which ones you need.
 
 At our Houston clinic, the examination is typically completed in **1-2 hours**. If you need additional vaccines, a follow-up visit may be needed to complete the series.
 
-Form I-693 is valid for **2 years** from the date of the Civil Surgeon's signature, or 4 years if vaccinations were administered during that period.
+A Form I-693 signed by the Civil Surgeon on or after November 1, 2023 **has no fixed expiration date**: it remains valid for as long as the application it was filed with (for example, Form I-485) is pending. If USCIS denies that application or you withdraw it, you will need a new exam for any future application. This is the USCIS policy in effect since June 11, 2025.
 
 ## Common Mistakes to Avoid
 
@@ -95,8 +96,8 @@ Only **designated Civil Surgeons** may sign the I-693. If another physician perf
 ### 3. Opening the sealed envelope
 Once the Civil Surgeon seals the envelope containing the form, you **must not open it**. If the envelope arrives opened or damaged, USCIS will reject it and you will have to repeat the exam.
 
-### 4. Submitting the form after it has expired
-The I-693 is valid for 2 years from the Civil Surgeon's signature date, and 4 years if vaccines were administered during that period. Plan your timeline carefully to avoid repeating the process.
+### 4. Reusing an I-693 from a previous application
+Since June 11, 2025, the I-693 is only valid for the application it was filed with. If that application was denied or withdrawn, do not reuse the form: USCIS will ask for a new one. File it with your application, or when USCIS requests it, to avoid repeating the process.
 
 ### 5. Not disclosing prior medical conditions
 Concealing health conditions can lead to more serious complications during the process. Health problems do not necessarily prevent immigration; there are waivers available for many conditions.
@@ -114,8 +115,8 @@ USCIS may return the form if sections are blank, signatures are missing, or info
 ### The envelope arrived opened or damaged
 You will need to repeat the full medical exam. Make sure to keep the envelope in a safe place and do not open it under any circumstances.
 
-### The form is expired
-If you submitted the I-693 after its expiration date, you will need a new exam. Keep track of the form's signature date and calculate the deadlines with your immigration attorney.
+### The form belongs to a denied or withdrawn application
+Since June 11, 2025, an I-693 is only valid for the application it was filed with. If that application was denied or withdrawn, you will need a new exam for the next one. If your form was signed before November 1, 2023, the older 2-year validity rule still applies; confirm it with your immigration attorney.
 
 ### A medical condition requires additional evaluation
 In some cases, USCIS may request additional specialist evaluations. The Civil Surgeon will guide you through the next steps, and in many cases it is possible to request a medical waiver from USCIS.
