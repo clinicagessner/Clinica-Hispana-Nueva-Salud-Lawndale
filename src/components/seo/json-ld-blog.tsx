@@ -7,7 +7,10 @@ type Props = {
 };
 
 export function JsonLdBlogPosting({ post, locale }: Props) {
-  const url = `${SITE_CONFIG.baseUrl}/${locale}/blog/${post.slug}`;
+  // localePrefix "as-needed": el español va sin prefijo. Antes se generaba
+  // /es/blog/... que redirige 307 y rompía @id, mainEntityOfPage y breadcrumb.
+  const localePath = locale === "es" ? "" : `/${locale}`;
+  const url = `${SITE_CONFIG.baseUrl}${localePath}/blog/${post.slug}`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -24,23 +27,17 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
       : `${SITE_CONFIG.baseUrl}/images/og.webp`,
     datePublished: post.date,
     dateModified: post.dateModified || post.date,
-    author: [
-      {
-        "@type": "Organization",
-        name: SITE_CONFIG.name,
-        url: SITE_CONFIG.baseUrl,
-      },
-      {
-        "@type": "Person",
-        name: post.author,
-        worksFor: {
-          "@type": "MedicalClinic",
-          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-        },
-      },
-    ],
+    // El autor es el equipo de la clínica (decisión del cliente), no una
+    // persona: se referencia la entidad MedicalClinic del schema global.
+    author: {
+      "@type": "MedicalClinic",
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+      name: post.author,
+      url: SITE_CONFIG.baseUrl,
+    },
     publisher: {
       "@type": "MedicalClinic",
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
       name: SITE_CONFIG.name,
       logo: {
         "@type": "ImageObject",
@@ -76,13 +73,13 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
         "@type": "ListItem",
         position: 1,
         name: locale === "es" ? "Inicio" : "Home",
-        item: SITE_CONFIG.baseUrl,
+        item: `${SITE_CONFIG.baseUrl}${localePath}`,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: `${SITE_CONFIG.baseUrl}${locale === "es" ? "" : `/${locale}`}/blog`,
+        item: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
       },
       {
         "@type": "ListItem",

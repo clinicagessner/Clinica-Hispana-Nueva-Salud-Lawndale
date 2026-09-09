@@ -96,10 +96,12 @@ export async function JsonLdMedicalClinic() {
           name: "Houston",
           "@id": "https://www.wikidata.org/wiki/Q16555",
         },
+        // Solo miembros reales de la enumeración MedicalSpecialty de schema.org
+        // (FamilyPractice, EmergencyMedicine y PreventiveMedicine no existen).
         medicalSpecialty: [
-          "https://schema.org/FamilyPractice",
-          "https://schema.org/EmergencyMedicine",
-          "https://schema.org/PreventiveMedicine",
+          "https://schema.org/PrimaryCare",
+          "https://schema.org/CommunityHealth",
+          "https://schema.org/PublicHealth",
           "https://schema.org/Gynecologic",
           "https://schema.org/LaboratoryScience",
         ],
