@@ -168,11 +168,14 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="preconnect" href="https://cdn.callrail.com" />
         <link rel="preconnect" href="https://connect.facebook.net" />
-        {/* Meta Pixel — plain script in head, NOT managed by React. ID vía env. */}
+        {/* Meta Pixel — plain script in head, NOT managed by React. ID vía env.
+            El stub fbq y la cola quedan listos de inmediato (dedup CAPI intacta);
+            solo la descarga de fbevents.js (la tarea larga mayor, ~156 ms) se
+            pospone a window.load para no competir con el LCP. */}
         {process.env.NEXT_PUBLIC_META_PIXEL_ID && (
           <script
             dangerouslySetInnerHTML={{
-              __html: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('set','autoConfig',false,'${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('init','${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('track','PageView');`,
+              __html: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];var l=function(){t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)};'complete'===b.readyState?l():f.addEventListener('load',l)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('set','autoConfig',false,'${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('init','${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('track','PageView');`,
             }}
           />
         )}
@@ -197,11 +200,12 @@ export default async function LocaleLayout({ children, params }: Props) {
         <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
       )}
       <GoogleAdsTag />
-      {/* CallRail swap script — solo si el cliente provee su URL (env). TODO(cliente). */}
+      {/* CallRail swap script (DNI). Activo en producción vía env; lazyOnload
+          para que no se precargue por delante del hero. */}
       {process.env.NEXT_PUBLIC_CALLRAIL_SWAP_URL && (
         <Script
           src={process.env.NEXT_PUBLIC_CALLRAIL_SWAP_URL}
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
       )}
     </html>
