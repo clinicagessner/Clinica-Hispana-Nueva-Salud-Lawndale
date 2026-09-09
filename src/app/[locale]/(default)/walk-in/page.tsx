@@ -232,7 +232,7 @@ export default async function WalkInPage({ params }: Props) {
         <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 bg-linear-to-br from-blue-900 via-blue-primary to-blue-900 text-white overflow-hidden">
           <div className="container mx-auto px-4 relative z-10">
             <div className="max-w-3xl">
-              <div className="inline-flex items-center gap-2 bg-yellow-accent text-blue-primary font-bold text-sm md:text-base rounded-full px-4 py-2 mb-5 shadow-md">
+              <div className="inline-flex items-center gap-2 bg-yellow-accent text-slate-dark font-bold text-sm md:text-base rounded-full px-4 py-2 mb-5 shadow-md">
                 <Clock weight="bold" className="size-4" />
                 {c.hoursLabel} — {locale === "en" ? "Open every day" : "Abierta todos los días"}
               </div>
@@ -245,7 +245,7 @@ export default async function WalkInPage({ params }: Props) {
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
                   href={`tel:${CONTACT_INFO.phone}`}
-                  className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold text-base md:text-lg rounded-lg px-7 py-3.5 shadow-lg hover:shadow-xl hover:bg-yellow-accent/90 transition-all"
+                  className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-slate-dark font-bold text-base md:text-lg rounded-lg px-7 py-3.5 shadow-lg hover:shadow-xl hover:bg-yellow-accent/90 transition-all"
                 >
                   <Phone weight="bold" className="size-5" />
                   {c.callCta} — {CONTACT_INFO.phoneFormatted}
@@ -330,7 +330,7 @@ export default async function WalkInPage({ params }: Props) {
                     key={i}
                     className="flex items-start gap-4 bg-white p-5 rounded-xl border border-slate-200 shadow-sm"
                   >
-                    <span className="shrink-0 size-9 rounded-full bg-blue-primary text-white font-bold flex items-center justify-center">
+                    <span className="shrink-0 size-9 rounded-full bg-blue-dark text-white font-bold flex items-center justify-center">
                       {i + 1}
                     </span>
                     <p className="text-slate-dark pt-1">{step}</p>
@@ -413,7 +413,7 @@ export default async function WalkInPage({ params }: Props) {
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-blue-primary font-bold rounded-lg px-7 py-3.5 shadow-md hover:shadow-lg transition-all text-lg"
+                className="inline-flex items-center justify-center gap-2 bg-yellow-accent text-slate-dark font-bold rounded-lg px-7 py-3.5 shadow-md hover:shadow-lg transition-all text-lg"
               >
                 <Phone weight="bold" className="size-5" />
                 {CONTACT_INFO.phoneFormatted}

@@ -40,7 +40,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
             href={CONTACT_INFO.googleReviewUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full bg-blue-primary px-7 py-3 font-bold text-white shadow-lg hover:bg-blue-dark transition-all"
+            className="inline-flex items-center gap-2 rounded-full bg-blue-dark px-7 py-3 font-bold text-white shadow-lg hover:bg-blue-deep transition-all"
           >
             {locale === "en" ? "Read reviews on Google" : "Ver reseñas en Google"}
           </a>
@@ -123,7 +123,7 @@ export async function LandingReviews({ locale }: { locale: Locale }) {
             href={CONTACT_INFO.googleReviewUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full bg-blue-primary px-7 py-3 font-bold text-white shadow-lg hover:bg-blue-dark transition-all text-sm"
+            className="inline-flex items-center gap-2 rounded-full bg-blue-dark px-7 py-3 font-bold text-white shadow-lg hover:bg-blue-deep transition-all text-sm"
           >
             <Star className="size-4 text-yellow-accent-dark" fill="currentColor" strokeWidth={0} />
             {locale === "en" ? "Read all reviews on Google" : "Ver todas las reseñas en Google"}

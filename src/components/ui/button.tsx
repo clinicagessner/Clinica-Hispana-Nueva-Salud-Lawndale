@@ -15,7 +15,7 @@ const buttonVariants = cva(
         brand:
           "bg-brand-gradient bg-[length:200%_200%] text-white shadow-brand hover:bg-[position:100%_50%] hover:-translate-y-0.5",
         default:
-          "bg-primary text-primary-foreground shadow-brand-soft hover:bg-blue-dark hover:-translate-y-0.5",
+          "bg-blue-dark text-white shadow-brand-soft hover:bg-blue-deep hover:-translate-y-0.5",
         // Rojo urgente (llamar / emergencia)
         urgent:
           "bg-red-accent text-white shadow-brand-red hover:bg-red-accent-dark hover:-translate-y-0.5",

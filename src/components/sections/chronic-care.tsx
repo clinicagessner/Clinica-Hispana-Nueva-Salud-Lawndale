@@ -47,7 +47,7 @@ export async function ChronicCare() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center max-w-6xl mx-auto">
           {/* Left — Content */}
           <div className="animate-on-scroll fade-up">
-            <span className="inline-flex items-center gap-2 bg-yellow-accent text-blue-primary text-xs font-bold px-4 py-1.5 rounded-full mb-5 shadow-md">
+            <span className="inline-flex items-center gap-2 bg-yellow-accent text-slate-dark text-xs font-bold px-4 py-1.5 rounded-full mb-5 shadow-md">
               <Heart className="size-4" weight="fill" />
               {t("badge")}
             </span>

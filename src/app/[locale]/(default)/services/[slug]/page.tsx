@@ -180,7 +180,7 @@ export default async function ServicePage({ params }: Props) {
 
             <div className="max-w-2xl">
               {/* Category Badge */}
-              <Badge className="mb-4 bg-blue-primary/90 hover:bg-blue-primary text-white border-0">
+              <Badge className="mb-4 bg-blue-dark hover:bg-blue-deep text-white border-0">
                 <IconComponent className="size-3.5 mr-1.5" weight="fill" />
                 {(() => {
                   const labels: Record<string, { es: string; en: string }> = {

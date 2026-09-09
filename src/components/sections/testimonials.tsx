@@ -52,7 +52,7 @@ export async function Testimonials() {
             href={CONTACT_INFO.googleReviewUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full bg-blue-primary px-7 py-3 font-bold text-white shadow-lg transition-all duration-300 hover:bg-blue-dark hover:-translate-y-0.5 hover:shadow-xl text-sm"
+            className="inline-flex items-center gap-2 rounded-full bg-blue-dark px-7 py-3 font-bold text-white shadow-lg transition-all duration-300 hover:bg-blue-deep hover:-translate-y-0.5 hover:shadow-xl text-sm"
           >
             <Star className="size-4 fill-yellow-accent text-yellow-accent" />
             {t("leaveReview")}

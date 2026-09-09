@@ -36,7 +36,7 @@ export async function Location() {
                 href={CONTACT_INFO.googleMapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-full bg-blue-primary px-5 py-2.5 text-sm font-semibold text-white shadow-md hover:bg-blue-dark transition-colors"
+                className="inline-flex items-center gap-2 rounded-full bg-blue-dark px-5 py-2.5 text-sm font-semibold text-white shadow-md hover:bg-blue-deep transition-colors"
               >
                 <NavigationArrow className="size-4" weight="fill" />
                 {t("getDirections")}

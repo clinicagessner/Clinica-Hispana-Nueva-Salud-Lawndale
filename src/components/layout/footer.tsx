@@ -64,7 +64,7 @@ export async function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Facebook de Clínica Hispana Nueva Salud Lawndale"
-                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-blue-primary flex items-center justify-center transition-colors"
+                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
                 >
                   <FacebookIcon className="size-4" />
                 </a>
@@ -75,7 +75,7 @@ export async function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Instagram de Clínica Hispana Nueva Salud Lawndale"
-                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-blue-primary flex items-center justify-center transition-colors"
+                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
                 >
                   <InstagramIcon className="size-4" />
                 </a>

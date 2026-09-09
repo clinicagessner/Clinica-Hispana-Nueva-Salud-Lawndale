@@ -57,7 +57,7 @@ export async function Promotions({ locale }: { locale: string }) {
         <div className="mt-10 text-center">
           <Link
             href="/promociones"
-            className="inline-flex items-center gap-2 rounded-lg bg-blue-primary px-6 py-3 font-bold text-white shadow-md transition-colors hover:bg-blue-dark focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
+            className="inline-flex items-center gap-2 rounded-lg bg-blue-dark px-6 py-3 font-bold text-white shadow-md transition-colors hover:bg-blue-deep focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary focus-visible:ring-offset-2"
           >
             {t("viewAll")}
             <ArrowRight className="size-5" aria-hidden="true" />

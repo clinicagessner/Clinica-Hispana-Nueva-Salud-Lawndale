@@ -131,7 +131,7 @@ export default async function BlogPostPage({ params }: Props) {
 
             <div className="max-w-3xl">
               {post.category && (
-                <Badge className="mb-4 bg-blue-primary hover:bg-blue-dark text-white border-0">
+                <Badge className="mb-4 bg-blue-dark hover:bg-blue-deep text-white border-0">
                   {post.category}
                 </Badge>
               )}
