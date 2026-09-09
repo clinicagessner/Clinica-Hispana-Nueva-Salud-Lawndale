@@ -57,7 +57,6 @@ export function Services() {
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
-                priority={i === 0}
               />
               <div
                 className={cn(
@@ -110,7 +109,7 @@ export function Services() {
 
         {/* Mobile — stacked horizontal cards */}
         <div className="flex md:hidden flex-col gap-3">
-          {featured.map((service, i) => (
+          {featured.map((service) => (
             <Link
               key={service.slug}
               href={`/services/${service.slug}`}
@@ -122,7 +121,6 @@ export function Services() {
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
                 sizes="(max-width: 768px) 100vw, 50vw"
-                priority={i === 0}
               />
               <div className="absolute inset-0 bg-linear-to-t from-black/70 via-black/20 to-transparent" />
               <div className="absolute inset-0 p-5 flex flex-col justify-end">

@@ -98,6 +98,8 @@ export default async function ServicesPage({ params }: Props) {
               src="/images/hero-bg.webp"
               alt=""
               fill
+              priority
+              fetchPriority="high"
               className="object-cover"
               sizes="100vw"
               aria-hidden="true"

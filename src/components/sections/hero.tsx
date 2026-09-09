@@ -43,11 +43,18 @@ export function Hero({
         aria-hidden="true"
         className="absolute inset-0 -z-30 bg-brand-gradient animate-brand-pan"
       />
-      {/* Capa 2 — foto de fondo (aparece al subir /images/hero-bg.jpg) */}
-      <div
+      {/* Capa 2 — foto de fondo. Es el elemento LCP de la home: como <img> con
+          priority el navegador la descubre en el HTML y la precarga; como
+          background-image CSS llegaba a 12 s de LCP en móvil. */}
+      <Image
+        src="/images/hero-bg.webp"
+        alt=""
         aria-hidden="true"
-        className="absolute inset-0 -z-20 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/hero-bg.webp')" }}
+        fill
+        priority
+        fetchPriority="high"
+        sizes="100vw"
+        className="-z-20 object-cover object-center"
       />
       {/* Capa 3 — scrim oscuro para legibilidad del texto */}
       <div
