@@ -1,6 +1,8 @@
 export interface Service {
   id: string;
   slug: string;
+  /** Fecha (YYYY-MM-DD) del último cambio real de título, copy o FAQs. Alimenta el lastmod del sitemap. */
+  dateModified: string;
   title: string;
   titleEn?: string;
   shortTitle: string;

@@ -3,7 +3,7 @@ slug: "salud-mujer-houston-servicios-ginecologia"
 title: "Salud de la Mujer Houston: Ginecología en Español"
 description: "Servicios de ginecología en Houston TX con atención en español. Papanicolaou, exámenes pélvicos, planificación familiar y más en Clínica Hispana Nueva Salud Lawndale."
 date: "2026-03-20"
-dateModified: "2026-03-21"
+dateModified: "2026-06-10"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/salud-mujer.webp"
 featured: false

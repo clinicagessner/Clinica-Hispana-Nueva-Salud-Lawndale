@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Atención Médica Sin Seguro en Houston: Opciones Accesibles"
 description: "¿No tiene seguro médico en Houston? Conozca sus opciones para recibir atención médica accesible y de calidad en Clínica Hispana Nueva Salud Lawndale."
 date: "2026-03-17"
-dateModified: "2026-03-21"
+dateModified: "2026-06-10"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/sin-seguro.webp"
 featured: false

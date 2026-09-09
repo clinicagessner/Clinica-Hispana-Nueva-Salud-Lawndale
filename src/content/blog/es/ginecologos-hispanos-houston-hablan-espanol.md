@@ -3,7 +3,7 @@ slug: "ginecologos-hispanos-houston-hablan-espanol"
 title: "Ginecólogos Hispanos en Houston que Hablan Español"
 description: "Cómo encontrar ginecólogos en Houston que hablen español. Qué preguntar, qué buscar y dónde están las opciones para hispanas en Houston TX."
 date: "2026-05-31"
-dateModified: "2026-05-31"
+dateModified: "2026-08-20"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/ginecologos.webp"
 featured: false

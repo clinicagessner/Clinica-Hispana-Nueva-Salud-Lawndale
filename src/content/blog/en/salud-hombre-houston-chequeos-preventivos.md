@@ -3,6 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Men's Health in Houston: Checkups That Save Lives"
 description: "Preventive checkups for men in Houston TX: PSA, testosterone, blood pressure, glucose and EKG. Care in Spanish, walk-ins welcome, no insurance needed."
 date: "2026-07-22"
+dateModified: "2026-07-22"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/salud-hombre.webp"
 featured: false

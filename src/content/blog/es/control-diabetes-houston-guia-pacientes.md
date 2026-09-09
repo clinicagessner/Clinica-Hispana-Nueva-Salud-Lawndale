@@ -3,7 +3,7 @@ slug: "control-diabetes-houston-guia-pacientes"
 title: "Control de Diabetes en Houston: Guía para Pacientes Hispanos"
 description: "Aprenda a controlar su diabetes con nuestra guía completa. Monitoreo de glucosa, alimentación, medicamentos y cómo Clínica Hispana Nueva Salud Lawndale puede ayudarle."
 date: "2026-03-19"
-dateModified: "2026-03-21"
+dateModified: "2026-06-10"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/control-diabetes.webp"
 featured: false
