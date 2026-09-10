@@ -1717,7 +1717,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-tuberculosis",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "prueba-tuberculosis",
     image: "/images/services/prueba-tuberculosis.webp",
     shortTitle: "Tuberculosis",
@@ -1758,36 +1758,64 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud Lawndale la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `**Prueba de tuberculosis en la piel (PPD) con lectura a las 48 a 72 horas, o prueba en sangre (IGRA) con una sola visita, para trabajo, escuela, inmigración o contacto con un caso.** En Clínica Hispana Nueva Salud Lawndale las hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿PPD o prueba en sangre?
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+- **PPD (prueba cutánea):** se inyecta una pequeña cantidad de tuberculina bajo la piel del antebrazo y debes volver entre 48 y 72 horas para la lectura. Es la más solicitada por empleadores y escuelas por su menor costo.
+- **IGRA (QuantiFERON o T-SPOT):** análisis de sangre con resultado en [confirmar] días, sin segunda visita. Es la prueba que exige USCIS para el examen de inmigración I-693 y la recomendada si recibiste la vacuna BCG de niño, porque la BCG puede dar falso positivo en la PPD.
 
-## Para qué la piden
+## ¿Qué significa el resultado?
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+Una induración de 10 milímetros o más en la PPD es positiva en la mayoría de las personas; de 5 milímetros en personas con VIH o contacto reciente; de 15 en personas sin factores de riesgo. Un resultado positivo indica infección latente o enfermedad, no distingue entre ambas: se necesita una radiografía de tórax y evaluación médica, que te indicamos en la misma visita.
+
+## ¿Cuándo debo hacerme la prueba?
+
+- Contratación en salud, cuidado de niños, escuelas o servicios de comida
+- Inscripción escolar o universitaria
+- Examen de inmigración I-693 (prueba en sangre obligatoria para mayores de 2 años)
+- Contacto con alguien con tuberculosis activa
+- Tos de más de 3 semanas, fiebre por las tardes, sudor nocturno o pérdida de peso
+
+## ¿Qué debo traer?
+
+Identificación, el formulario del empleador o la escuela, y el registro de una prueba anterior o de la vacuna BCG si lo tienes. No necesitas ayuno.
+
+## ¿Cuánto cuesta la prueba de tuberculosis?
+
+PPD con lectura: $[confirmar]. Prueba en sangre IGRA: $[confirmar]. La radiografía de tórax, si se necesita, se hace en un centro de imagen cercano [confirmar].
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud Lawndale we administer it and read the result, with everything explained in Spanish.
+    longDescriptionEn: `**Tuberculosis skin test (PPD) read at 48 to 72 hours, or a blood test (IGRA) with a single visit, for work, school, immigration or contact with a case.** At Clínica Hispana Nueva Salud Lawndale we do them without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## PPD or blood test?
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+- **PPD (skin test):** a small amount of tuberculin is injected under the skin of the forearm and you must return within 48 to 72 hours for the reading. It is the one most employers and schools request because of its lower cost.
+- **IGRA (QuantiFERON or T-SPOT):** blood test with results in [confirm] days, no second visit. It is the test USCIS requires for the I-693 immigration exam and the recommended one if you received the BCG vaccine as a child, because BCG can cause a false positive on the PPD.
 
-## Why it's required
+## What does the result mean?
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+An induration of 10 millimeters or more on the PPD is positive for most people; 5 millimeters for people with HIV or recent contact; 15 for people with no risk factors. A positive result indicates latent infection or disease and does not distinguish between them: a chest X-ray and medical evaluation are needed, which we arrange at the same visit.
+
+## When should I get tested?
+
+- Hiring in healthcare, childcare, schools or food service
+- School or college enrollment
+- I-693 immigration exam (blood test required for anyone over 2)
+- Contact with someone with active tuberculosis
+- Cough lasting more than 3 weeks, afternoon fevers, night sweats or weight loss
+
+## What should I bring?
+
+ID, the employer's or school's form, and the record of a previous test or BCG vaccine if you have it. No fasting needed.
+
+## How much does a TB test cost?
+
+PPD with reading: $[confirm]. IGRA blood test: $[confirm]. A chest X-ray, if needed, is done at a nearby imaging center [confirm].
 
 ${WHY_EN}
 
@@ -1797,7 +1825,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-transmision-sexual",
-    dateModified: "2026-06-11",
+    dateModified: "2026-09-09",
     id: "enfermedades-transmision-sexual",
     image: "/images/services/enfermedades-transmision-sexual.webp",
     shortTitle: "STD",
@@ -1838,38 +1866,84 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud Lawndale ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `**Pruebas confidenciales de VIH, sífilis, gonorrea, clamidia, hepatitis B y C, herpes y tricomonas, con tratamiento el mismo día cuando hay resultado positivo.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, sin seguro y sin juicios, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cuándo debo hacerme la prueba?
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+- Después de una relación sin condón o con una pareja nueva.
+- Si tienes síntomas: ardor al orinar, flujo o secreción, llagas, verrugas, comezón o dolor pélvico.
+- Una vez al año si tienes parejas nuevas o múltiples; cada 3 a 6 meses con más riesgo.
+- Al inicio del embarazo, para proteger al bebé.
+- Si tu pareja resultó positiva.
 
-## Cuándo hacerte la prueba
+Muchas infecciones no dan síntomas: la clamidia y la gonorrea son silenciosas en la mayoría de las mujeres, y la sífilis y el VIH pueden pasar años sin señales.
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+## ¿Qué pruebas hacemos?
+
+| Infección | Muestra | Resultado |
+|---|---|---|
+| VIH | Sangre (prueba rápida o de laboratorio) | 20 minutos la rápida; [confirmar] días la de laboratorio |
+| Sífilis | Sangre | [confirmar] días |
+| Gonorrea y clamidia | Orina o hisopado | [confirmar] días |
+| Hepatitis B y C | Sangre | [confirmar] días |
+| Herpes | Hisopado de la lesión o sangre | [confirmar] días |
+| Tricomonas y vaginosis | Cultivo vaginal | [confirmar] días |
+
+Ten en cuenta el periodo de ventana: el VIH se detecta con confianza a partir de las 2 a 4 semanas con pruebas de laboratorio y la sífilis a partir de las 3 a 6 semanas. Si la exposición fue reciente, repetimos la prueba.
+
+## ¿Cuál es el tratamiento?
+
+Gonorrea, clamidia, sífilis y tricomonas se curan con antibióticos, que recetamos el mismo día del resultado. Herpes y VIH no se curan, pero se controlan con medicamentos; para VIH te referimos a un programa de tratamiento en Houston, muchos gratuitos. Tu pareja también debe tratarse para evitar reinfección.
+
+## ¿Qué pasa con mi privacidad?
+
+El resultado se entrega solo a ti, en persona o por teléfono al número que indiques. Texas exige reportar algunas infecciones al departamento de salud con fines de seguimiento, no de inmigración.
+
+## ¿Cuánto cuestan las pruebas de ETS?
+
+Prueba rápida de VIH: $[confirmar]. Panel completo: $[confirmar]. Cada prueba individual tiene su precio; te lo decimos antes de tomar la muestra.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud Lawndale we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+    longDescriptionEn: `**Confidential testing for HIV, syphilis, gonorrhea, chlamydia, hepatitis B and C, herpes and trichomonas, with same-day treatment when a result is positive.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, without insurance and without judgment, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## When should I get tested?
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+- After sex without a condom or with a new partner.
+- If you have symptoms: burning when urinating, discharge, sores, warts, itching or pelvic pain.
+- Once a year if you have new or multiple partners; every 3 to 6 months with higher risk.
+- At the start of pregnancy, to protect the baby.
+- If your partner tested positive.
 
-## When to get tested
+Many infections cause no symptoms: chlamydia and gonorrhea are silent in most women, and syphilis and HIV can go years without signs.
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+## Which tests do we run?
+
+| Infection | Sample | Result |
+|---|---|---|
+| HIV | Blood (rapid or lab test) | 20 minutes rapid; [confirm] days lab |
+| Syphilis | Blood | [confirm] days |
+| Gonorrhea and chlamydia | Urine or swab | [confirm] days |
+| Hepatitis B and C | Blood | [confirm] days |
+| Herpes | Swab of the sore or blood | [confirm] days |
+| Trichomonas and vaginosis | Vaginal culture | [confirm] days |
+
+Keep the window period in mind: HIV is reliably detected from 2 to 4 weeks with lab tests and syphilis from 3 to 6 weeks. If the exposure was recent, we repeat the test.
+
+## What is the treatment?
+
+Gonorrhea, chlamydia, syphilis and trichomonas are cured with antibiotics, which we prescribe the same day as the result. Herpes and HIV are not cured but are controlled with medication; for HIV we refer you to a treatment program in Houston, many of them free. Your partner must also be treated to avoid reinfection.
+
+## What about my privacy?
+
+The result is given only to you, in person or by phone at the number you provide. Texas requires reporting some infections to the health department for follow-up purposes, not immigration.
+
+## How much does STD testing cost?
+
+Rapid HIV test: $[confirm]. Full panel: $[confirm]. Each individual test has its own price; we tell you before collecting the sample.
 
 ${WHY_EN}
 
@@ -1879,7 +1953,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-alcohol-drogas",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "examen-alcohol-drogas",
     image: "/images/services/examen-alcohol-drogas.webp",
     shortTitle: "Alcohol y Drogas",
@@ -1920,36 +1994,70 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud Lawndale la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `**Pruebas de drogas en orina de 5, 10 o 12 sustancias y prueba de alcohol, para empleo, DOT, escuela, custodia o control personal, con resultado rápido en minutos.** En Clínica Hispana Nueva Salud Lawndale las hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, con documentación del resultado.
 
-## ¿Qué incluye?
+## ¿Qué tipos de prueba hacemos?
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+- **Panel de 5 drogas:** marihuana, cocaína, opiáceos, anfetaminas y PCP. Es el estándar para empleo general.
+- **Panel de 10 o 12 drogas:** añade benzodiacepinas, barbitúricos, metadona, oxicodona, éxtasis y otras.
+- **Prueba de alcohol:** en aliento o en orina (etilglucurónido), según lo que pida quien la solicita.
+- **Pruebas para DOT:** las hacemos en la misma visita del examen físico DOT [confirmar si la clínica está registrada como sitio de colección DOT con cadena de custodia].
 
-## Para trabajo y trámites
+El resultado rápido en orina está en 10 a 15 minutos. Si sale positivo y se requiere confirmación oficial, la muestra se envía a laboratorio certificado y tarda [confirmar] días.
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+## ¿Cómo es el proceso?
+
+1. Presenta tu identificación con foto y el formulario del empleador, si lo hay.
+2. Entregas la muestra de orina en un baño preparado; para cadena de custodia se sella el frasco frente a ti.
+3. Resultado rápido en minutos y documento firmado con fecha, hora y sustancias analizadas.
+4. Enviamos el resultado al empleador solo si tú lo autorizas por escrito.
+
+## ¿Cuánto tiempo se detectan las sustancias?
+
+En orina: marihuana de 3 días a 4 semanas según el consumo, cocaína 2 a 4 días, anfetaminas 2 a 4 días, opiáceos 2 a 3 días, alcohol hasta 12 horas en aliento y hasta 80 horas con la prueba de etilglucurónido.
+
+## ¿Qué debo saber antes de venir?
+
+No necesitas ayuno. Toma agua normal; el exceso diluye la muestra y obliga a repetirla. Trae la lista de medicamentos recetados: algunos, como ciertos analgésicos o medicamentos para el TDAH, dan positivo y se aclaran con la receta.
+
+## ¿Cuánto cuesta la prueba de drogas?
+
+Panel de 5: $[confirmar]. Panel de 10 o 12: $[confirmar]. Prueba de alcohol: $[confirmar]. Confirmación en laboratorio con costo adicional.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud Lawndale we perform it quickly and give you the documentation you need.
+    longDescriptionEn: `**5-, 10- or 12-panel urine drug tests and alcohol testing for employment, DOT, school, custody or personal monitoring, with rapid results in minutes.** At Clínica Hispana Nueva Salud Lawndale we do them without an appointment, Monday to Sunday from 9 AM to 9 PM, with documented results.
 
-## What's included?
+## Which tests do we offer?
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+- **5-panel:** marijuana, cocaine, opiates, amphetamines and PCP. The standard for general employment.
+- **10- or 12-panel:** adds benzodiazepines, barbiturates, methadone, oxycodone, ecstasy and others.
+- **Alcohol test:** breath or urine (ethyl glucuronide), depending on what the requester needs.
+- **DOT testing:** done at the same visit as the DOT physical [confirm whether the clinic is a registered DOT collection site with chain of custody].
 
-## For work and paperwork
+The rapid urine result is ready in 10 to 15 minutes. If it is positive and official confirmation is required, the sample goes to a certified lab and takes [confirm] days.
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+## How does it work?
+
+1. Show your photo ID and the employer's form, if any.
+2. Provide the urine sample in a prepared restroom; for chain of custody the cup is sealed in front of you.
+3. Rapid result in minutes and a signed document with date, time and substances tested.
+4. We send the result to the employer only with your written authorization.
+
+## How long are substances detectable?
+
+In urine: marijuana from 3 days to 4 weeks depending on use, cocaine 2 to 4 days, amphetamines 2 to 4 days, opiates 2 to 3 days, alcohol up to 12 hours on breath and up to 80 hours with the ethyl glucuronide test.
+
+## What should I know before coming?
+
+No fasting needed. Drink water normally; too much dilutes the sample and requires a repeat. Bring your list of prescribed medications: some, such as certain painkillers or ADHD medications, test positive and are cleared with the prescription.
+
+## How much does a drug test cost?
+
+5-panel: $[confirm]. 10- or 12-panel: $[confirm]. Alcohol test: $[confirm]. Lab confirmation at an additional cost.
 
 ${WHY_EN}
 
@@ -1959,7 +2067,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "electrocardiograma",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "electrocardiograma",
     image: "/images/services/electrocardiograma.webp",
     shortTitle: "EKG",
@@ -2000,36 +2108,66 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud Lawndale lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `**El electrocardiograma (EKG) registra la actividad eléctrica del corazón en 5 minutos, sin dolor, y el médico lo interpreta en la misma visita.** En Clínica Hispana Nueva Salud Lawndale lo hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿Cuándo se necesita un electrocardiograma?
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+- Dolor o presión en el pecho, palpitaciones, falta de aire o mareos.
+- Control de presión alta, diabetes o colesterol alto, para detectar daño del corazón.
+- Antes de una cirugía o de empezar ciertos medicamentos.
+- Exámenes de trabajo, deportivos o de inmigración que lo pidan.
+- Chequeo anual a partir de los 40 años si hay factores de riesgo o antecedentes familiares de infarto.
 
-## Cuándo se recomienda
+Si tienes dolor en el pecho intenso, que se extiende al brazo o la mandíbula, con sudor frío o falta de aire, llama al 911: puede ser un infarto y el EKG en clínica no sustituye la atención de emergencia.
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+## ¿Qué detecta el EKG?
+
+Arritmias como la fibrilación auricular, signos de infarto reciente o antiguo, crecimiento del corazón por presión alta, bloqueos de la conducción y alteraciones por potasio o medicamentos. No detecta obstrucciones de las arterias en reposo; para eso se necesita una prueba de esfuerzo, a la que te referimos si hace falta.
+
+## ¿Cómo se hace?
+
+1. Te recuestas y se colocan 10 electrodos adhesivos en el pecho, brazos y piernas.
+2. El registro dura menos de un minuto; el proceso completo unos 5 minutos.
+3. El médico lee el trazado en la misma consulta y te entrega una copia impresa.
+
+No necesitas ayuno. Evita cremas en el pecho ese día y trae la lista de tus medicamentos.
+
+## ¿Cuánto cuesta un electrocardiograma?
+
+El EKG con interpretación cuesta $[confirmar]. Si se combina con consulta o análisis de sangre, te informamos el precio del paquete antes de empezar.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud Lawndale we perform it as part of checkups and medical exams.
+    longDescriptionEn: `**An electrocardiogram (EKG) records the heart's electrical activity in 5 minutes, painlessly, and the doctor interprets it at the same visit.** At Clínica Hispana Nueva Salud Lawndale we do it without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## When is an EKG needed?
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+- Chest pain or pressure, palpitations, shortness of breath or dizziness.
+- Monitoring of high blood pressure, diabetes or high cholesterol, to detect heart damage.
+- Before surgery or before starting certain medications.
+- Employment, sports or immigration exams that require it.
+- Annual checkup from age 40 with risk factors or a family history of heart attack.
 
-## When it's recommended
+If you have intense chest pain spreading to the arm or jaw, with cold sweat or shortness of breath, call 911: it may be a heart attack and a clinic EKG does not replace emergency care.
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+## What does an EKG detect?
+
+Arrhythmias such as atrial fibrillation, signs of a recent or old heart attack, heart enlargement from high blood pressure, conduction blocks and changes caused by potassium or medications. It does not detect artery blockages at rest; that requires a stress test, which we refer you for if needed.
+
+## How is it done?
+
+1. You lie down and 10 adhesive electrodes are placed on the chest, arms and legs.
+2. The recording takes under a minute; the whole process about 5 minutes.
+3. The doctor reads the tracing at the same visit and gives you a printed copy.
+
+No fasting needed. Avoid lotions on the chest that day and bring your list of medications.
+
+## How much does an EKG cost?
+
+The EKG with interpretation costs $[confirm]. If combined with a visit or blood tests, we tell you the package price before starting.
 
 ${WHY_EN}
 
@@ -2039,7 +2177,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ultrasonido",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "ultrasonido",
     image: "/images/services/ultrasonido.webp",
     shortTitle: "Ultrasonido",
@@ -2080,36 +2218,76 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud Lawndale contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `**Hacemos ultrasonidos abdominales, pélvicos, de embarazo, de tiroides y de tejidos blandos en la clínica, sin cita y con informe explicado en español.** En Clínica Hispana Nueva Salud Lawndale el estudio se realiza de lunes a domingo de 9 AM a 9 PM [confirmar horario del técnico de ultrasonido].
 
-## ¿Qué incluye?
+## ¿Qué ultrasonidos hacemos?
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+- **Abdominal:** hígado, vesícula y cálculos, páncreas, riñones y bazo. Para dolor abdominal, hígado graso o piedras.
+- **Pélvico y transvaginal:** útero y ovarios, para sangrado irregular, dolor pélvico, quistes o miomas.
+- **Obstétrico:** confirmación del embarazo desde las 6 semanas, latido, edad gestacional y seguimiento [confirmar semanas cubiertas].
+- **Tiroides:** nódulos y crecimiento de la glándula.
+- **Tejidos blandos y renal:** bultos, lipomas, quistes y vías urinarias.
 
-## Sin radiación y sin dolor
+No hacemos ecocardiograma ni doppler vascular; te referimos cuando se necesitan.
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+## ¿Cómo prepararme?
+
+1. **Abdominal:** ayuno de 6 a 8 horas para ver bien la vesícula.
+2. **Pélvico por abdomen:** vejiga llena; toma 1 litro de agua una hora antes y no orines.
+3. **Transvaginal, tiroides y tejidos blandos:** sin preparación.
+4. **Obstétrico:** en las primeras semanas, vejiga llena; después no hace falta.
+
+Trae tu identificación y, si tienes, estudios previos para comparar.
+
+## ¿Cuánto tarda y cuándo tengo el resultado?
+
+El estudio dura entre 15 y 30 minutos. El informe con las imágenes se entrega [confirmar: el mismo día o en X días] y el médico te explica los hallazgos en consulta. Si algo requiere seguimiento, te indicamos el siguiente paso o te referimos al especialista.
+
+## ¿Es seguro el ultrasonido?
+
+Sí. Usa ondas de sonido, no radiación, por lo que es seguro en el embarazo y se puede repetir las veces necesarias.
+
+## ¿Cuánto cuesta un ultrasonido?
+
+Desde $[confirmar] según el tipo de estudio. Pago en efectivo o tarjeta, sin seguro.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud Lawndale we have modern equipment and staff who explain everything in Spanish.
+    longDescriptionEn: `**We perform abdominal, pelvic, pregnancy, thyroid and soft-tissue ultrasounds in the clinic, without an appointment and with a report explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale the study is done Monday to Sunday from 9 AM to 9 PM [confirm sonographer hours].
 
-## What's included?
+## Which ultrasounds do we do?
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+- **Abdominal:** liver, gallbladder and stones, pancreas, kidneys and spleen. For abdominal pain, fatty liver or stones.
+- **Pelvic and transvaginal:** uterus and ovaries, for irregular bleeding, pelvic pain, cysts or fibroids.
+- **Obstetric:** pregnancy confirmation from 6 weeks, heartbeat, gestational age and follow-up [confirm weeks covered].
+- **Thyroid:** nodules and gland enlargement.
+- **Soft tissue and renal:** lumps, lipomas, cysts and urinary tract.
 
-## No radiation, no pain
+We do not perform echocardiograms or vascular Doppler; we refer you when they are needed.
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+## How do I prepare?
+
+1. **Abdominal:** fast 6 to 8 hours so the gallbladder is visible.
+2. **Pelvic through the abdomen:** full bladder; drink 1 liter of water an hour before and do not urinate.
+3. **Transvaginal, thyroid and soft tissue:** no preparation.
+4. **Obstetric:** in the first weeks, full bladder; later it is not needed.
+
+Bring your ID and, if you have them, previous studies for comparison.
+
+## How long does it take and when do I get the result?
+
+The study takes 15 to 30 minutes. The report with images is delivered [confirm: same day or in X days] and the doctor explains the findings at a visit. If something needs follow-up, we tell you the next step or refer you to a specialist.
+
+## Is ultrasound safe?
+
+Yes. It uses sound waves, not radiation, so it is safe in pregnancy and can be repeated as often as needed.
+
+## How much does an ultrasound cost?
+
+From $[confirm] depending on the type of study. Cash and cards accepted, no insurance needed.
 
 ${WHY_EN}
 
@@ -2588,7 +2766,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "suturas-heridas",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "suturas-heridas",
     image: "/images/services/suturas-heridas.webp",
     shortTitle: "Suturas",
@@ -2629,38 +2807,70 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud Lawndale cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `**Cerramos cortadas con puntos, grapas o adhesivo médico en una visita sin cita, con anestesia local, y retiramos los puntos sin costo adicional [confirmar].** En Clínica Hispana Nueva Salud Lawndale atendemos heridas de lunes a domingo de 9 AM a 9 PM; ven dentro de las primeras 6 a 8 horas para el mejor resultado.
 
-## ¿Qué incluye?
+## ¿Qué heridas necesitan puntos?
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+Cortadas de más de 1 centímetro que se abren al moverse, heridas profundas que dejan ver grasa o músculo, sangrado que no para tras 10 minutos de presión, y cortes en la cara, manos o articulaciones que pueden dejar cicatriz o limitar el movimiento. Las heridas por mordedura de animal o de persona y las muy sucias se limpian y a veces no se cierran de inmediato para evitar infección.
 
-## Cuándo acudir
+## ¿Qué heridas van a emergencias?
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+Sangrado abundante que no se controla, heridas con un objeto clavado, cortes con pérdida de sensibilidad o movimiento en los dedos, heridas por arma de fuego y lesiones en el ojo. Llama al 911 o acude a la sala de emergencias más cercana.
+
+## ¿Cómo es el procedimiento?
+
+1. Limpiamos la herida con suero a presión y revisamos que no haya cuerpos extraños ni daño de tendones.
+2. Aplicamos anestesia local; solo sientes el piquete inicial.
+3. Cerramos con puntos, grapas (cuero cabelludo) o adhesivo (cortes pequeños y limpios).
+4. Cubrimos con vendaje y te damos indicaciones por escrito.
+5. Aplicamos refuerzo de tétanos si tu última dosis fue hace más de 5 años y la herida está sucia, o más de 10 años en cualquier caso.
+
+## ¿Cuándo se retiran los puntos?
+
+Cara: 5 a 7 días. Cuero cabelludo y tronco: 7 a 10 días. Brazos y piernas: 10 a 14 días. Articulaciones: hasta 14 días. Vuelve en la fecha que te indicamos; dejarlos más tiempo marca más la cicatriz.
+
+## ¿Cómo cuidar los puntos?
+
+Mantén la herida seca 24 horas; después puedes ducharte sin frotar. Cambia el vendaje a diario, no apliques alcohol ni agua oxigenada y evita el sol directo sobre la cicatriz durante 6 meses. Acude antes si hay pus, enrojecimiento que crece, fiebre o si se abre la herida.
+
+## ¿Cuánto cuesta una sutura?
+
+Desde $[confirmar] según el tamaño y el número de puntos. Incluye anestesia, material y el retiro de puntos [confirmar]. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud Lawndale we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+    longDescriptionEn: `**We close cuts with stitches, staples or medical adhesive in a walk-in visit under local anesthesia, and remove the stitches at no additional cost [confirm].** At Clínica Hispana Nueva Salud Lawndale we treat wounds Monday to Sunday from 9 AM to 9 PM; come within the first 6 to 8 hours for the best result.
 
-## What's included?
+## Which wounds need stitches?
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+Cuts longer than 1 centimeter that open when you move, deep wounds that show fat or muscle, bleeding that does not stop after 10 minutes of pressure, and cuts on the face, hands or joints that may scar or limit movement. Animal or human bites and very dirty wounds are cleaned and sometimes not closed right away to avoid infection.
 
-## When to come in
+## Which wounds belong in the ER?
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+Heavy bleeding that cannot be controlled, wounds with an object stuck in them, cuts with loss of feeling or movement in the fingers, gunshot wounds and eye injuries. Call 911 or go to the nearest emergency room.
+
+## How is it done?
+
+1. We clean the wound with pressurized saline and check for foreign bodies or tendon damage.
+2. We apply local anesthesia; you only feel the initial pinch.
+3. We close with stitches, staples (scalp) or adhesive (small, clean cuts).
+4. We cover it with a dressing and give you written instructions.
+5. We give a tetanus booster if your last dose was more than 5 years ago and the wound is dirty, or more than 10 years ago in any case.
+
+## When are stitches removed?
+
+Face: 5 to 7 days. Scalp and trunk: 7 to 10 days. Arms and legs: 10 to 14 days. Joints: up to 14 days. Come back on the date we give you; leaving them longer makes the scar more visible.
+
+## How do I care for stitches?
+
+Keep the wound dry for 24 hours; after that you can shower without rubbing. Change the dressing daily, don't apply alcohol or hydrogen peroxide, and keep the scar out of direct sun for 6 months. Come back sooner if there is pus, spreading redness, fever or if the wound opens.
+
+## How much do stitches cost?
+
+From $[confirm] depending on size and number of stitches. Includes anesthesia, supplies and stitch removal [confirm]. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -2908,7 +3118,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "drenaje-abscesos",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "drenaje-abscesos",
     image: "/images/services/drenaje-abscesos.webp",
     shortTitle: "Abscesos",
@@ -2949,38 +3159,70 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud Lawndale lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `**Drenamos abscesos de la piel (nacidos, forúnculos, quistes infectados) con anestesia local en una visita de 20 a 30 minutos, sin cita, y sales con el dolor aliviado.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿Cómo sé si es un absceso?
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+Un bulto rojo, caliente, doloroso y que se siente blando o con líquido en el centro, a veces con un punto blanco o amarillo. Es frecuente en axilas, glúteos, ingle, espalda y cara interna de los muslos. Si solo hay enrojecimiento duro sin líquido (celulitis), se trata con antibiótico y no se drena todavía.
 
-## No lo dejes pasar
+## ¿Por qué no debo reventarlo en casa?
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+Exprimirlo empuja la infección hacia los tejidos profundos y la sangre, y deja peor cicatriz. Los antibióticos solos tampoco lo curan: el pus acumulado necesita salir. El drenaje médico con incisión limpia es el tratamiento correcto.
+
+## ¿Cómo es el procedimiento?
+
+1. Limpiamos la zona y aplicamos anestesia local.
+2. Hacemos una pequeña incisión y drenamos el pus por completo.
+3. Lavamos la cavidad con suero y, si es grande, dejamos una gasa (mecha) 1 a 2 días para que siga drenando.
+4. Cubrimos con vendaje y, si hay signos de infección extendida, fiebre o diabetes, recetamos antibiótico.
+5. Revisión a las 48 horas para retirar la mecha y ver la evolución.
+
+## ¿Cuándo venir de inmediato?
+
+Fiebre, escalofríos, enrojecimiento que se extiende rápido, absceso en la cara cerca de la nariz o los ojos, o si tienes diabetes o defensas bajas. En esos casos no esperes a que "madure".
+
+## ¿Cómo cuidarlo en casa?
+
+Compresas tibias 15 minutos, 3 veces al día, para ayudar a drenar; cambia el vendaje a diario; lávate las manos antes y después; no compartas toallas ni rasuradoras. El absceso suele cerrar en 1 a 2 semanas.
+
+## ¿Cuánto cuesta el drenaje de un absceso?
+
+$[confirmar], incluyendo anestesia, material y la revisión de control. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud Lawndale we treat it safely to relieve the discomfort and prevent the infection from spreading.
+    longDescriptionEn: `**We drain skin abscesses (boils, infected cysts) under local anesthesia in a 20 to 30 minute walk-in visit, and you leave with the pain relieved.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## How do I know it's an abscess?
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+A red, warm, painful lump that feels soft or fluid-filled in the center, sometimes with a white or yellow point. It is common in the armpits, buttocks, groin, back and inner thighs. If there is only hard redness without fluid (cellulitis), it is treated with antibiotics and not drained yet.
 
-## Don't let it go
+## Why shouldn't I pop it at home?
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+Squeezing pushes the infection into deeper tissue and the bloodstream, and leaves a worse scar. Antibiotics alone don't cure it either: the trapped pus needs to come out. Medical drainage through a clean incision is the right treatment.
+
+## How is it done?
+
+1. We clean the area and apply local anesthesia.
+2. We make a small incision and drain the pus completely.
+3. We rinse the cavity with saline and, if it is large, leave gauze packing for 1 to 2 days so it keeps draining.
+4. We cover it with a dressing and, if there are signs of spreading infection, fever or diabetes, prescribe antibiotics.
+5. Follow-up at 48 hours to remove the packing and check healing.
+
+## When should I come in right away?
+
+Fever, chills, redness spreading quickly, an abscess on the face near the nose or eyes, or if you have diabetes or a weakened immune system. In those cases don't wait for it to "ripen".
+
+## How do I care for it at home?
+
+Warm compresses for 15 minutes, 3 times a day, to help drainage; change the dressing daily; wash your hands before and after; don't share towels or razors. The abscess usually closes in 1 to 2 weeks.
+
+## How much does abscess drainage cost?
+
+$[confirm], including anesthesia, supplies and the follow-up check. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -2990,7 +3232,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "unas-encarnadas",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "unas-encarnadas",
     image: "/images/services/unas-encarnadas.webp",
     shortTitle: "Uñas Encarnadas",
@@ -3031,38 +3273,72 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud Lawndale la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `**Tratamos la uña encarnada con anestesia local en una visita de 20 minutos, sin cita: retiramos el borde de la uña que se clava y, si se repite, aplicamos un tratamiento para que no vuelva a crecer por ese lado.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿Cómo sé si tengo una uña encarnada?
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+Dolor en el borde de la uña del dedo gordo al caminar o con el zapato, enrojecimiento, hinchazón y, cuando ya hay infección, pus y un tejido rojo que crece sobre la uña. Las causas más comunes son cortar la uña muy corta o redondeada, zapatos apretados, sudoración y golpes.
 
-## Cuándo acudir
+## ¿Cuándo hay que venir?
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+Si el dolor no mejora en 3 días con baños de agua tibia, si hay pus o enrojecimiento que se extiende, si se repite más de dos veces, o siempre que tengas diabetes o mala circulación: en esos casos una uña encarnada puede complicarse y no debe tratarse en casa.
+
+## ¿Cómo es el procedimiento?
+
+1. Anestesia local en la base del dedo; solo sientes dos piquetes.
+2. Retiramos la porción lateral de la uña que se clava (avulsión parcial). La uña conserva su forma.
+3. Si es la segunda vez o más, aplicamos fenol en la raíz de ese borde (matricectomía) para que no vuelva a crecer por ahí; evita la recaída en más del 90 % de los casos.
+4. Vendaje, indicaciones por escrito y antibiótico si hay infección.
+
+Sales caminando con zapato abierto y puedes volver a tu rutina en 1 a 2 días.
+
+## ¿Cómo cuidar el dedo después?
+
+Baños de agua tibia con sal 10 minutos, 2 veces al día, durante una semana; vendaje limpio a diario; zapatos anchos por 2 semanas. Con fenol, el borde puede supurar líquido claro 2 a 4 semanas; es normal.
+
+## ¿Cómo evitar que vuelva?
+
+Corta la uña recta, sin redondear las esquinas ni dejarla más corta que la punta del dedo; usa zapatos con espacio en la punta; mantén los pies secos.
+
+## ¿Cuánto cuesta el tratamiento de la uña encarnada?
+
+Avulsión parcial: $[confirmar]. Con matricectomía (fenol): $[confirmar]. Incluye anestesia, material y revisión.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud Lawndale we treat it with a simple procedure and local anesthesia to relieve you the same day.
+    longDescriptionEn: `**We treat ingrown toenails under local anesthesia in a 20-minute walk-in visit: we remove the edge of the nail that digs in and, if it keeps coming back, apply a treatment so it doesn't regrow on that side.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## How do I know I have an ingrown toenail?
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+Pain at the edge of the big toe nail when walking or in shoes, redness, swelling and, once infected, pus and red tissue growing over the nail. The most common causes are cutting the nail too short or rounded, tight shoes, sweating and injuries.
 
-## When to come in
+## When should I come in?
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+If pain does not improve in 3 days with warm soaks, if there is pus or spreading redness, if it recurs more than twice, or whenever you have diabetes or poor circulation: in those cases an ingrown nail can get complicated and should not be treated at home.
+
+## How is it done?
+
+1. Local anesthesia at the base of the toe; you only feel two pinches.
+2. We remove the side portion of the nail that digs in (partial avulsion). The nail keeps its shape.
+3. If it is the second time or more, we apply phenol to the root of that edge (matrixectomy) so it does not regrow there; it prevents recurrence in over 90% of cases.
+4. Dressing, written instructions and antibiotics if there is infection.
+
+You walk out in an open shoe and can return to your routine in 1 to 2 days.
+
+## How do I care for the toe afterwards?
+
+Warm salt-water soaks for 10 minutes, twice a day, for a week; a clean dressing daily; wide shoes for 2 weeks. With phenol, the edge may ooze clear fluid for 2 to 4 weeks; that is normal.
+
+## How do I keep it from coming back?
+
+Cut the nail straight across, without rounding the corners or cutting shorter than the tip of the toe; wear shoes with room in the toe box; keep your feet dry.
+
+## How much does ingrown toenail treatment cost?
+
+Partial avulsion: $[confirm]. With matrixectomy (phenol): $[confirm]. Includes anesthesia, supplies and follow-up.
 
 ${WHY_EN}
 
@@ -3072,7 +3348,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "farmacia",
     image: "/images/services/farmacia.webp",
     shortTitle: "Farmacia",
@@ -3113,38 +3389,66 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud Lawndale puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `**Después de tu consulta puedes recoger tus medicamentos en la misma clínica, sin ir a otro lugar, con explicación en español de cómo tomarlos.** [Confirmar con el cliente: si la clínica dispensa medicamentos con receta, debe indicarse la licencia de farmacia de Texas; si solo entrega muestras o medicamentos de venta libre, ajustar este texto.] En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Qué medicamentos tenemos?
 
-- Surtido de tu receta justo al terminar la consulta
-- Medicamentos de marca y genéricos
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
+- **Con receta de nuestros médicos:** antibióticos, antiinflamatorios, medicamentos para presión, diabetes y colesterol, antialérgicos y tratamientos de infecciones comunes [confirmar lista].
+- **De venta libre:** analgésicos, antigripales, antiácidos, antihistamínicos, vitaminas y material de curación.
+- **Genéricos de bajo costo** siempre que existen, para que el tratamiento sea accesible.
 
-## ¿Por qué usar nuestra farmacia?
+No surtimos recetas de otros médicos ni medicamentos controlados [confirmar].
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+## ¿Por qué surtir en la clínica?
+
+Te ahorras la segunda parada: el médico te ve, te receta y sales con el medicamento en la mano, con la dosis, el horario y las precauciones explicadas en tu idioma. Para quien trabaja hasta tarde o no tiene transporte, esa diferencia es que sí empiece el tratamiento el mismo día.
+
+## ¿Cómo funciona?
+
+1. Terminas tu consulta y el médico registra la receta.
+2. En recepción te entregan el medicamento y te explican cómo tomarlo.
+3. Si necesitas refill de un medicamento crónico, llama antes para verificar disponibilidad [confirmar política de refills].
+
+## ¿Qué precio tienen los medicamentos?
+
+Cada medicamento tiene precio individual, visible antes de pagar; los genéricos cuestan desde $[confirmar]. Pago en efectivo o tarjeta. Si un medicamento no está disponible, te damos la receta impresa para surtirla en cualquier farmacia.
+
+## ¿Qué debo saber sobre mis medicamentos?
+
+Termina siempre los antibióticos aunque te sientas bien, no compartas medicamentos recetados, guarda los que lo requieren en refrigeración y trae la lista completa de lo que tomas a cada consulta para evitar interacciones.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud Lawndale you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `**After your visit you can pick up your medications at the clinic itself, without going anywhere else, with an explanation in Spanish or English of how to take them.** [Confirm with the client: if the clinic dispenses prescription drugs, the Texas pharmacy license must be stated; if it only provides samples or over-the-counter products, adjust this text.] At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## Which medications do we carry?
 
-- Your prescription filled right after your visit
-- Brand-name and generic medications
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
-- Prescription refills
+- **Prescribed by our doctors:** antibiotics, anti-inflammatories, blood pressure, diabetes and cholesterol medications, antihistamines and treatments for common infections [confirm list].
+- **Over the counter:** pain relievers, cold remedies, antacids, antihistamines, vitamins and wound care supplies.
+- **Low-cost generics** whenever they exist, so treatment stays affordable.
 
-## Why use our pharmacy?
+We do not fill prescriptions from other doctors or controlled substances [confirm].
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+## Why fill it at the clinic?
+
+You skip the second stop: the doctor sees you, prescribes, and you leave with the medication in hand, with dose, schedule and precautions explained in your language. For people who work late or have no transportation, that difference means treatment actually starts the same day.
+
+## How does it work?
+
+1. You finish your visit and the doctor records the prescription.
+2. At the front desk you receive the medication and an explanation of how to take it.
+3. For a refill of a chronic medication, call first to check availability [confirm refill policy].
+
+## How much do medications cost?
+
+Each medication has an individual price, visible before you pay; generics start at $[confirm]. Cash and cards accepted. If a medication is not available, we give you a printed prescription to fill at any pharmacy.
+
+## What should I know about my medications?
+
+Always finish antibiotics even if you feel better, don't share prescription medications, refrigerate those that require it, and bring the full list of what you take to every visit to avoid interactions.
 
 ${WHY_EN}
 
