@@ -167,7 +167,8 @@
       "security": "Área Segura"
     },
     "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
-    "call": "Llamar"
+    "call": "Llamar",
+    "lastPatient": "Último paciente: 8:30 PM"
   },
   "footer": {
     "tagline": "Su salud es nuestra prioridad",
@@ -196,7 +197,11 @@
     "phone": "Teléfono",
     "email": "Correo",
     "address": "Dirección",
-    "hours": "Horario"
+    "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    "lastPatient": "Último paciente: 8:30 PM",
+    "contact": "Contacto",
+    "navigation": "Navegación",
+    "tagline": "Clínica hispana en Houston, TX — Atención médica 100% en español"
   },
   "cta": {
     "callNow": "Llamar Ahora",

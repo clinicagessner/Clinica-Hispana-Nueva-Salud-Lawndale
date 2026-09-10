@@ -61,7 +61,7 @@ export async function Footer() {
               />
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-5 max-w-xs">
-              {SITE_CONFIG.tagline}
+              {t("common.tagline")}
             </p>
             <div className="flex items-center gap-3">
               {SOCIAL_LINKS.facebook && (
@@ -92,7 +92,7 @@ export async function Footer() {
           {/* Navigation — 2 cols */}
           <nav aria-label="Navegación" className="lg:col-span-2">
             <h3 className="text-xs font-bold uppercase tracking-widest text-yellow-accent mb-4">
-              Navegación
+              {t("common.navigation")}
             </h3>
             <ul className="space-y-2.5">
               <li>
@@ -161,7 +161,7 @@ export async function Footer() {
           {/* Contact — 3 cols */}
           <div className="lg:col-span-3">
             <h3 className="text-xs font-bold uppercase tracking-widest text-yellow-accent mb-4">
-              Contacto
+              {t("common.contact")}
             </h3>
             <ul className="space-y-3">
               <li>
@@ -197,7 +197,7 @@ export async function Footer() {
               </li>
               <li className="flex items-start gap-2.5 text-white/70 text-sm">
                 <Clock className="size-4 shrink-0 mt-0.5 text-yellow-accent" aria-hidden="true" />
-                <span>{CONTACT_INFO.hours}</span>
+                <span>{t("common.hours")}</span>
               </li>
             </ul>
           </div>
@@ -206,7 +206,7 @@ export async function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-white/40 text-xs text-center md:text-left">
-            &copy; {currentYear} {SITE_CONFIG.name}. Todos los derechos reservados.
+            {t("footer.copyright", { year: currentYear })}
           </p>
           <p className="text-white/40 text-xs text-center md:text-right">
             Sitio web creado por{" "}

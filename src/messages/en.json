@@ -167,14 +167,15 @@
       "security": "Safe Area"
     },
     "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
-    "call": "Call"
+    "call": "Call",
+    "lastPatient": "Last patient: 8:30 PM"
   },
   "footer": {
     "tagline": "Your health is our priority",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
     "followUs": "Follow Us",
-    "copyright": "© {year} Clinica Hispana Nueva Salud Lawndale. All rights reserved.",
+    "copyright": "© {year} Clínica Hispana Nueva Salud Lawndale. All rights reserved.",
     "madeBy": "Developed by",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -196,7 +197,11 @@
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
-    "hours": "Hours"
+    "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
+    "lastPatient": "Last patient: 8:30 PM",
+    "contact": "Contact",
+    "navigation": "Navigation",
+    "tagline": "Hispanic clinic in Houston, TX — Medical care 100% in Spanish"
   },
   "cta": {
     "callNow": "Call Now",

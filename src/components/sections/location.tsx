@@ -100,7 +100,7 @@ export async function Location() {
                       {t("hours")}
                     </p>
                     <p className="text-xs text-slate-muted mt-0.5">
-                      Último paciente: 8:30 PM
+                      {t("lastPatient")}
                     </p>
                   </div>
                 </div>

@@ -44,6 +44,7 @@ const NAV_LINKS: NavLink[] = [
 
 export function Header() {
   const t = useTranslations("nav");
+  const tc = useTranslations("common");
   const [isScrolled, setIsScrolled] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
 
@@ -66,7 +67,7 @@ export function Header() {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Clock className="size-4" aria-hidden="true" />
-              <span>{CONTACT_INFO.hours}</span>
+              <span>{tc("hours")}</span>
             </div>
             <span className="h-4 w-px bg-white/30" aria-hidden="true" />
             <div className="flex items-center gap-2">
@@ -254,7 +255,7 @@ export function Header() {
 
                     <div className="flex items-start gap-3 text-slate-dark">
                       <Clock className="size-5 mt-0.5 text-blue-primary shrink-0" aria-hidden="true" />
-                      <p className="text-sm">{CONTACT_INFO.hours}</p>
+                      <p className="text-sm">{tc("hours")}</p>
                     </div>
 
                     <a
