@@ -17,8 +17,10 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
     "@type": "BlogPosting",
     "@id": `${url}#article`,
     mainEntityOfPage: {
-      "@type": "WebPage",
+      "@type": "MedicalWebPage",
       "@id": url,
+      lastReviewed: post.dateModified || post.date,
+      reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
     },
     headline: post.title,
     description: post.description,

@@ -4,7 +4,7 @@ title: "USCIS-Authorized Doctors in Houston: How to Verify"
 description: "How to verify a USCIS-authorized Civil Surgeon in Houston for the I-693 Green Card medical exam: official list, requirements and what to avoid."
 date: "2026-05-31"
 dateModified: "2026-09-08"
-author: "Clinica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/medicos-uscis.webp"
 featured: false
 category: "Immigration"

@@ -4,7 +4,7 @@ title: "Welcome to Clínica Hispana Nueva Salud Lawndale!"
 description: "Discover our Hispanic medical clinic in Houston, TX. Professional care in Spanish, affordable prices, and a team committed to your health."
 date: "2026-03-16"
 dateModified: "2026-06-10"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/bienvenidos.webp"
 featured: false
 category: "Announcements"

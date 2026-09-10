@@ -4,7 +4,7 @@ title: "Women's Health Houston: Gynecology in Spanish"
 description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap smears, pelvic exams, family planning, and more at Clínica Hispana Nueva Salud Lawndale."
 date: "2026-03-20"
 dateModified: "2026-06-10"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/salud-mujer.webp"
 featured: false
 category: "Women's Health"

@@ -255,7 +255,11 @@
     "relatedPosts": "Artículos Relacionados",
     "ctaTitle": "¿Necesita atención médica?",
     "ctaDescription": "Estamos aquí para ayudarle. Llame ahora para agendar su cita o visite nuestra clínica sin cita previa.",
-    "callNow": "Llamar ahora:"
+    "callNow": "Llamar ahora:",
+    "updatedOn": "Actualizado el",
+    "reviewedOn": "Última revisión:",
+    "authorBoxTitle": "Escrito y revisado por",
+    "authorBoxBody": "Contenido elaborado y revisado por el equipo médico de Clínica Hispana Nueva Salud Lawndale, clínica de atención primaria en el East End de Houston. Es información general de salud y no sustituye una consulta médica."
   },
   "about": {
     "heading": "Sobre la clínica",

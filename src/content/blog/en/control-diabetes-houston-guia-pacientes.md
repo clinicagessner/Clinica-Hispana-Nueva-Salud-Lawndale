@@ -4,7 +4,7 @@ title: "Diabetes Management Houston: Guide for Hispanic Patients"
 description: "How to manage your diabetes: glucose monitoring, diet, medications and how Clínica Hispana Nueva Salud Lawndale helps Houston patients in Spanish."
 date: "2026-03-19"
 dateModified: "2026-09-08"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/control-diabetes.webp"
 featured: false
 category: "Health"

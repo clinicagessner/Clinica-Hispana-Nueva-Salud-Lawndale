@@ -4,7 +4,7 @@ title: "DOT Physical Exam Houston: Truck Driver Guide"
 description: "DOT physical exam guide for CDL drivers in Houston TX: requirements, what to expect, cost and where to get it in Spanish. No appointment needed."
 date: "2026-04-11"
 dateModified: "2026-09-09"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/examen-dot.webp"
 featured: true
 category: "Occupational Health"

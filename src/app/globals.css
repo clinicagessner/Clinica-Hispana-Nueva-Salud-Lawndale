@@ -587,6 +587,24 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--blue-primary);
 }
 
+.blog-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+.blog-content th,
+.blog-content td {
+  border: 1px solid var(--slate-light);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  vertical-align: top;
+}
+.blog-content th {
+  background: var(--cyan-bg);
+  color: var(--slate-dark);
+  font-weight: 600;
+}
+
 .blog-content h3 {
   font-family: var(--font-sora), system-ui, sans-serif;
   font-size: 1.25rem;

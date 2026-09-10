@@ -9,6 +9,13 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { CalendarDots, Clock, ArrowLeft, Phone } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
+import { PostMarkdown } from "@/components/blog/post-markdown";
+
+// Fechas YYYY-MM-DD como fecha local, sin el desfase UTC de new Date("...").
+function formatDate(iso: string, locale: string) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString(locale, { year: "numeric", month: "long", day: "numeric" });
+}
 
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
@@ -144,12 +151,14 @@ export default async function BlogPostPage({ params }: Props) {
               <div className="flex flex-wrap items-center gap-4 text-sm text-white/70">
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                   <CalendarDots className="w-4 h-4" weight="fill" />
-                  {new Date(post.date).toLocaleDateString(locale, {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
+                  <time dateTime={post.date}>{formatDate(post.date, locale)}</time>
                 </span>
+                {post.dateModified && post.dateModified > post.date && (
+                  <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
+                    {t("updatedOn")}{" "}
+                    <time dateTime={post.dateModified}>{formatDate(post.dateModified, locale)}</time>
+                  </span>
+                )}
                 {post.readTime && (
                   <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                     <Clock className="w-4 h-4" weight="fill" />
@@ -168,8 +177,26 @@ export default async function BlogPostPage({ params }: Props) {
         <div className="container mx-auto px-4 py-12 md:py-16">
           <div className="max-w-3xl mx-auto">
             <div className="blog-content">
-              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content, locale) }} />
+              <PostMarkdown content={post.content} locale={locale} />
             </div>
+
+            {/* Autoría y revisión: quién escribe y cuándo se revisó por última vez */}
+            <aside
+              aria-label={t("authorBoxTitle")}
+              className="mt-12 rounded-2xl border border-slate-light bg-cyan-warm p-6 md:p-8"
+            >
+              <p className="text-xs font-bold uppercase tracking-widest text-blue-dark mb-2">
+                {t("authorBoxTitle")}
+              </p>
+              <p className="font-semibold text-slate-dark mb-2">{post.author}</p>
+              <p className="text-sm leading-relaxed text-slate-primary mb-3">{t("authorBoxBody")}</p>
+              <p className="text-sm text-slate-muted">
+                {t("reviewedOn")}{" "}
+                <time dateTime={post.dateModified ?? post.date}>
+                  {formatDate(post.dateModified ?? post.date, locale)}
+                </time>
+              </p>
+            </aside>
 
             {/* CTA Section */}
             <div className="mt-16 p-8 md:p-10 bg-linear-to-br from-blue-primary via-blue-dark to-slate-900 rounded-2xl text-white text-center shadow-xl">
@@ -236,44 +263,3 @@ export default async function BlogPostPage({ params }: Props) {
 }
 
 // Simple markdown parser (for basic formatting)
-function parseMarkdown(markdown: string, locale: string): string {
-  // Los enlaces internos del markdown son rutas sin prefijo (/services/x);
-  // en inglés deben apuntar a /en/services/x o el post enlaza a la versión española.
-  const prefix = locale === "es" ? "" : `/${locale}`;
-  // The page already renders the post title as the h1 (from frontmatter), so any
-  // leading `# Title` in the markdown body would produce a duplicate h1.
-  const stripped = markdown.replace(/^\s*#\s+.+\r?\n+/, "");
-
-  let html = stripped
-    // Headers — `#` (single hash) is intentionally not handled: see strip above.
-    .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-    .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-    // Bold
-    .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
-    // Italic
-    .replace(/\*(.*?)\*/gim, '<em>$1</em>')
-    // Links
-    .replace(/\[(.*?)\]\((.*?)\)/gim, (_m, text: string, href: string) =>
-      `<a href="${href.startsWith("/") ? prefix + href : href}">${text}</a>`)
-    // Unordered lists
-    .replace(/^- (.*$)/gim, '<li>$1</li>')
-    // Ordered lists
-    .replace(/^\d+\. (.*$)/gim, '<li>$1</li>')
-    // Paragraphs
-    .replace(/\n\n/gim, '</p><p>')
-    // Line breaks
-    .replace(/\n/gim, '<br>');
-
-  // Wrap content in paragraph tags
-  html = `<p>${html}</p>`;
-
-  // Fix list structure
-  html = html
-    .replace(/<p><li>/g, '<ul><li>')
-    .replace(/<\/li><\/p>/g, '</li></ul>')
-    .replace(/<\/li><br><li>/g, '</li><li>')
-    .replace(/<br><ul>/g, '</p><ul>')
-    .replace(/<\/ul><br>/g, '</ul><p>');
-
-  return html;
-}

@@ -4,7 +4,7 @@ title: "Análisis de Sangre Houston: Resultados el Mismo Día"
 description: "Laboratorio clínico en Houston TX con resultados el mismo día. Análisis de sangre, glucosa, colesterol, tiroides y más. Precios accesibles en español."
 date: "2026-03-21"
 dateModified: "2026-06-10"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/laboratorio.webp"
 featured: false
 category: "Diagnóstico"

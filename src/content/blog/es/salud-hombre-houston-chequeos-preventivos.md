@@ -4,7 +4,7 @@ title: "Salud del Hombre en Houston: Chequeos que Salvan Vidas"
 description: "Chequeos preventivos para hombres en Houston TX: PSA, perfil hormonal, presión arterial, glucosa y electrocardiograma. En español, sin cita y sin seguro."
 date: "2026-07-22"
 dateModified: "2026-09-08"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/salud-hombre.webp"
 featured: false
 category: "Salud del Hombre"

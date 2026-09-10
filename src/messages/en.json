@@ -255,7 +255,11 @@
     "relatedPosts": "Related Articles",
     "ctaTitle": "Need medical attention?",
     "ctaDescription": "We're here to help. Call now to schedule your appointment or visit our clinic without an appointment.",
-    "callNow": "Call now:"
+    "callNow": "Call now:",
+    "updatedOn": "Updated on",
+    "reviewedOn": "Last reviewed:",
+    "authorBoxTitle": "Written and reviewed by",
+    "authorBoxBody": "Content written and reviewed by the medical team of Clínica Hispana Nueva Salud Lawndale, a primary care clinic in Houston's East End. It is general health information and does not replace a medical visit."
   },
   "about": {
     "heading": "About the clinic",

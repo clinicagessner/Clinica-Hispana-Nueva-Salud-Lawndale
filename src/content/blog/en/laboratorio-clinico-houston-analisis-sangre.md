@@ -4,7 +4,7 @@ title: "Blood Tests Houston: Same-Day Lab Results"
 description: "Clinical laboratory in Houston TX: blood tests, glucose, cholesterol and thyroid panel at affordable prices, with Spanish-speaking staff."
 date: "2026-03-21"
 dateModified: "2026-09-08"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/laboratorio.webp"
 featured: false
 category: "Diagnostics"

@@ -4,7 +4,7 @@ title: "Healthcare Without Insurance in Houston: Affordable Options"
 description: "No health insurance in Houston? Affordable, quality medical care at Clínica Hispana Nueva Salud Lawndale: transparent prices, no appointment needed."
 date: "2026-03-17"
 dateModified: "2026-09-09"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/sin-seguro.webp"
 featured: false
 category: "Information"

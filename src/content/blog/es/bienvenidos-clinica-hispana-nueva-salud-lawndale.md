@@ -4,7 +4,7 @@ title: "¡Bienvenidos a Clínica Hispana Nueva Salud Lawndale!"
 description: "Conoce nuestra clínica médica hispana en Houston, TX. Atención profesional en español, precios accesibles y un equipo comprometido con tu salud."
 date: "2026-03-16"
 dateModified: "2026-06-10"
-author: "Clínica Hispana Nueva Salud Lawndale"
+author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/bienvenidos.webp"
 featured: false
 category: "Anuncios"
