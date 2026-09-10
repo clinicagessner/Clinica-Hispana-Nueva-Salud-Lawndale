@@ -192,7 +192,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "tiroides",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "tiroides",
     image: "/images/services/tiroides.webp",
     shortTitle: "Tiroides",
@@ -233,38 +233,70 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud Lawndale evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
+    longDescription: `**Diagnosticamos hipotiroidismo e hipertiroidismo con un análisis de sangre (TSH, T4 libre y T3) y empezamos o ajustamos el tratamiento en la misma consulta.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español y sin seguro, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Qué síntomas indican un problema de tiroides?
 
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
+- **Tiroides lenta (hipotiroidismo):** cansancio constante, aumento de peso sin cambiar la dieta, frío, piel seca, caída de cabello, estreñimiento, depresión y reglas abundantes. Es la forma más común, sobre todo en mujeres mayores de 40 años y después del embarazo.
+- **Tiroides acelerada (hipertiroidismo):** pérdida de peso, palpitaciones, nerviosismo, temblor en las manos, calor, insomnio y ojos saltones.
 
-## Síntomas frecuentes
+Un bulto en el cuello o dificultad para tragar requieren un ultrasonido de tiroides, que también hacemos en la clínica.
 
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+## ¿Qué análisis hacemos?
+
+1. **TSH:** la prueba de detección principal. Valores por encima de 4.5 mUI/L sugieren hipotiroidismo y por debajo de 0.4 hipertiroidismo.
+2. **T4 libre y T3:** confirman el diagnóstico y miden la gravedad.
+3. **Anticuerpos anti-TPO:** cuando se sospecha tiroiditis de Hashimoto, la causa más frecuente de hipotiroidismo.
+4. **Ultrasonido de tiroides:** si hay nódulos o crecimiento de la glándula.
+
+No necesitas ayuno. El resultado de TSH tarda [confirmar] días.
+
+## ¿Cuál es el tratamiento?
+
+El hipotiroidismo se trata con levotiroxina, una pastilla diaria en ayunas, 30 a 60 minutos antes del desayuno y lejos del calcio y el hierro. La dosis se ajusta con una TSH de control cada 6 a 8 semanas hasta llegar a la meta, y después cada 6 a 12 meses. El hipertiroidismo se trata con metimazol y control cada 4 a 6 semanas; los casos complejos se refieren a endocrinología.
+
+## ¿Debo revisarme la tiroides si estoy embarazada?
+
+Sí, si tienes síntomas, antecedentes familiares o ya tomas levotiroxina: en el embarazo la dosis suele necesitar un aumento del 25 al 30 % y controles cada 4 semanas. También recomendamos la prueba a mujeres con infertilidad o abortos repetidos.
+
+## ¿Cuánto cuesta el examen de tiroides?
+
+El perfil tiroideo (TSH, T4 libre y T3) cuesta $[confirmar]; la consulta y el ultrasonido tienen precio aparte. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud Lawndale we evaluate your thyroid with lab work and provide the right treatment.
+    longDescriptionEn: `**We diagnose hypothyroidism and hyperthyroidism with a blood test (TSH, free T4 and T3) and start or adjust treatment at the same visit.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English and without insurance, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## Which symptoms point to a thyroid problem?
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+- **Underactive thyroid (hypothyroidism):** constant tiredness, weight gain without diet changes, feeling cold, dry skin, hair loss, constipation, depression and heavy periods. It is the most common form, especially in women over 40 and after pregnancy.
+- **Overactive thyroid (hyperthyroidism):** weight loss, palpitations, nervousness, hand tremor, feeling hot, insomnia and bulging eyes.
 
-## Common symptoms
+A lump in the neck or trouble swallowing calls for a thyroid ultrasound, which we also do in the clinic.
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+## Which tests do we run?
+
+1. **TSH:** the main screening test. Values above 4.5 mIU/L suggest hypothyroidism and below 0.4 hyperthyroidism.
+2. **Free T4 and T3:** confirm the diagnosis and measure severity.
+3. **Anti-TPO antibodies:** when Hashimoto's thyroiditis, the most common cause of hypothyroidism, is suspected.
+4. **Thyroid ultrasound:** if there are nodules or an enlarged gland.
+
+No fasting needed. TSH results take [confirm] days.
+
+## What is the treatment?
+
+Hypothyroidism is treated with levothyroxine, one daily pill on an empty stomach, 30 to 60 minutes before breakfast and away from calcium and iron. The dose is adjusted with a follow-up TSH every 6 to 8 weeks until you reach the goal, then every 6 to 12 months. Hyperthyroidism is treated with methimazole and checks every 4 to 6 weeks; complex cases are referred to endocrinology.
+
+## Should I check my thyroid if I'm pregnant?
+
+Yes, if you have symptoms, family history or already take levothyroxine: during pregnancy the dose usually needs a 25 to 30% increase and checks every 4 weeks. We also recommend the test for women with infertility or repeated miscarriages.
+
+## How much does a thyroid test cost?
+
+The thyroid panel (TSH, free T4 and T3) costs $[confirm]; the visit and ultrasound are priced separately. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -390,7 +422,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-respiratorias",
-    dateModified: "2026-06-11",
+    dateModified: "2026-09-09",
     id: "enfermedades-respiratorias",
     image: "/images/services/enfermedades-respiratorias.webp",
     shortTitle: "Respiratorias",
@@ -431,38 +463,72 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud Lawndale hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `**Hacemos pruebas rápidas de influenza y COVID-19 con resultado en 15 minutos y tratamos gripe, tos, bronquitis y sinusitis el mismo día, sin cita.** En Clínica Hispana Nueva Salud Lawndale atendemos a niños y adultos en español, de lunes a domingo de 9 AM a 9 PM, sin seguro.
 
-## ¿Qué incluye?
+## ¿Es gripe, COVID, resfriado o alergia?
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+Los cuatro pueden dar congestión y tos, pero se distinguen: la influenza empieza de golpe con fiebre alta, dolor de cuerpo y cansancio intenso; el COVID-19 puede dar fiebre, tos seca, dolor de garganta y pérdida del olfato; el resfriado es más leve y sin fiebre alta; la alergia da estornudos y comezón sin fiebre. La prueba rápida evita adivinar: en 15 minutos sabes si es influenza A o B, COVID-19 o ninguno.
 
-## No dejes que avance
+## ¿Qué tratamos?
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+- **Influenza:** antiviral (oseltamivir) si empezaste con síntomas hace menos de 48 horas, más medicamento para la fiebre y el malestar.
+- **COVID-19:** manejo de síntomas y, en personas de riesgo, antiviral en los primeros 5 días.
+- **Bronquitis y tos persistente:** evaluación de los pulmones, inhalador si hay silbido y jarabe según el tipo de tos.
+- **Sinusitis:** descongestionantes, lavados nasales y antibiótico solo si los síntomas duran más de 10 días o empeoran.
+- **Faringitis:** prueba de estreptococo cuando hay placas o fiebre sin tos.
+
+Los antibióticos no sirven contra virus; los recetamos solo cuando hay una infección bacteriana confirmada o muy probable.
+
+## ¿Cuándo venir el mismo día?
+
+Fiebre de 39 °C o más que no baja, dificultad para respirar, dolor en el pecho, labios morados, tos con sangre, o síntomas que empeoran después de haber mejorado. En bebés menores de 3 meses con fiebre, o en cualquier persona con falta de aire severa, acude a emergencias.
+
+## ¿Qué incluye la consulta?
+
+1. Toma de signos vitales y saturación de oxígeno.
+2. Revisión de garganta, oídos, nariz y pulmones.
+3. Prueba rápida de influenza y COVID-19 con hisopado nasal, resultado en 15 minutos.
+4. Receta, justificante médico para el trabajo o la escuela si lo necesitas, e indicaciones para no contagiar en casa.
+
+## ¿Cuánto cuesta?
+
+La consulta cuesta $[confirmar] y la prueba combinada de flu y COVID $[confirmar]. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud Lawndale we run rapid tests and provide same-day treatment, no appointment needed.
+    longDescriptionEn: `**We run rapid influenza and COVID-19 tests with results in 15 minutes and treat flu, cough, bronchitis and sinusitis the same day, no appointment needed.** At Clínica Hispana Nueva Salud Lawndale we see children and adults in Spanish or English, Monday to Sunday from 9 AM to 9 PM, without insurance.
 
-## What's included?
+## Is it the flu, COVID, a cold or allergies?
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+All four can cause congestion and cough, but they differ: influenza starts suddenly with high fever, body aches and intense fatigue; COVID-19 may cause fever, dry cough, sore throat and loss of smell; a cold is milder with no high fever; allergies cause sneezing and itching without fever. The rapid test removes the guesswork: in 15 minutes you know whether it is influenza A or B, COVID-19 or neither.
 
-## Don't let it progress
+## What do we treat?
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+- **Influenza:** an antiviral (oseltamivir) if symptoms started less than 48 hours ago, plus medication for fever and discomfort.
+- **COVID-19:** symptom management and, for people at risk, an antiviral within the first 5 days.
+- **Bronchitis and lingering cough:** lung evaluation, an inhaler if there is wheezing and a syrup suited to the type of cough.
+- **Sinusitis:** decongestants, nasal rinses and antibiotics only if symptoms last more than 10 days or get worse.
+- **Sore throat:** strep test when there are white patches or fever without cough.
+
+Antibiotics do not work against viruses; we prescribe them only when a bacterial infection is confirmed or very likely.
+
+## When should I come in the same day?
+
+Fever of 102 °F or higher that won't come down, difficulty breathing, chest pain, blue lips, coughing up blood, or symptoms that worsen after improving. For babies under 3 months with fever, or anyone with severe shortness of breath, go to the emergency room.
+
+## What does the visit include?
+
+1. Vital signs and oxygen saturation.
+2. Throat, ear, nose and lung exam.
+3. Rapid influenza and COVID-19 test with a nasal swab, results in 15 minutes.
+4. Prescription, a doctor's note for work or school if you need it, and instructions to avoid spreading it at home.
+
+## How much does it cost?
+
+The visit costs $[confirm] and the combined flu and COVID test $[confirm]. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -723,7 +789,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-embarazo",
-    dateModified: "2026-06-11",
+    dateModified: "2026-09-09",
     id: "prueba-embarazo",
     image: "/images/services/prueba-embarazo.webp",
     shortTitle: "Embarazo",
@@ -764,36 +830,70 @@ ${AREAS_EN}`,
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud Lawndale realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `**Confirmamos el embarazo con una prueba de orina en 5 minutos o un análisis de sangre cuantitativo, y te damos la constancia médica y la orientación para los siguientes pasos.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español y con privacidad, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cuándo puedo hacerme la prueba?
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+La prueba de orina en clínica detecta la hormona hCG desde el primer día de retraso de la regla, unas 2 semanas después de la concepción. El análisis de sangre cuantitativo la detecta desde 7 a 10 días después de la concepción, incluso antes del retraso, y mide la cantidad exacta de hormona.
 
-## Con confianza y respeto
+## ¿Qué incluye la visita?
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+1. **Prueba de orina** con resultado en 5 minutos, o **prueba de sangre** con resultado en [confirmar] horas.
+2. **Consulta médica** para calcular las semanas de embarazo y la fecha probable de parto a partir de tu última regla.
+3. **Constancia de embarazo** para tu trabajo, escuela, Medicaid o WIC.
+4. **Análisis iniciales** si lo deseas: grupo sanguíneo, hemoglobina, glucosa, VIH, sífilis y hepatitis B, los mismos que pide el control prenatal.
+5. **Ultrasonido** para confirmar que el embarazo está en el útero y ver el latido, a partir de las 6 semanas [confirmar disponibilidad de ultrasonido obstétrico].
+
+## ¿Qué hago después de confirmar el embarazo?
+
+Empieza a tomar ácido fólico (400 microgramos al día), evita alcohol, tabaco y medicamentos sin consultar, y programa tu primera cita prenatal antes de la semana 12. Te orientamos sobre dónde recibir control prenatal en Houston, incluidas opciones sin seguro y Medicaid para embarazadas.
+
+## ¿Cuándo venir de inmediato?
+
+Sangrado con dolor abdominal fuerte, dolor en un solo lado del abdomen, mareo o desmayo pueden indicar un embarazo ectópico o una pérdida: ven el mismo día o acude a emergencias.
+
+## ¿La prueba es confidencial?
+
+Sí. El resultado se entrega solo a ti. Si eres menor de edad, te explicamos tus opciones con respeto y sin juicios.
+
+## ¿Cuánto cuesta la prueba de embarazo?
+
+Prueba de orina con consulta: $[confirmar]. Prueba de sangre cuantitativa: $[confirmar]. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud Lawndale we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+    longDescriptionEn: `**We confirm pregnancy with a urine test in 5 minutes or a quantitative blood test, and give you a medical letter and guidance on next steps.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English and with privacy, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## When can I take the test?
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+The clinic urine test detects the hCG hormone from the first day of a missed period, about 2 weeks after conception. The quantitative blood test detects it from 7 to 10 days after conception, even before a missed period, and measures the exact hormone level.
 
-## With trust and respect
+## What does the visit include?
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+1. **Urine test** with results in 5 minutes, or **blood test** with results in [confirm] hours.
+2. **Medical visit** to calculate how many weeks pregnant you are and your due date from your last period.
+3. **Proof of pregnancy letter** for work, school, Medicaid or WIC.
+4. **Initial labs** if you wish: blood type, hemoglobin, glucose, HIV, syphilis and hepatitis B, the same ones prenatal care requires.
+5. **Ultrasound** to confirm the pregnancy is in the uterus and see the heartbeat, from 6 weeks on [confirm obstetric ultrasound availability].
+
+## What should I do after confirming?
+
+Start folic acid (400 micrograms a day), avoid alcohol, tobacco and unprescribed medications, and schedule your first prenatal visit before week 12. We guide you on where to get prenatal care in Houston, including options without insurance and Medicaid for pregnant women.
+
+## When should I come in right away?
+
+Bleeding with strong abdominal pain, pain on one side of the abdomen, dizziness or fainting may indicate an ectopic pregnancy or a miscarriage: come in the same day or go to the emergency room.
+
+## Is the test confidential?
+
+Yes. The result is given only to you. If you are a minor, we explain your options with respect and without judgment.
+
+## How much does a pregnancy test cost?
+
+Urine test with visit: $[confirm]. Quantitative blood test: $[confirm]. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -803,7 +903,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "anticonceptivos",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "anticonceptivos",
     image: "/images/services/anticonceptivos.webp",
     shortTitle: "Anticonceptivos",
@@ -844,38 +944,78 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud Lawndale te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `**Te ayudamos a elegir y empezar tu método anticonceptivo el mismo día: pastillas, inyección trimestral, parche, anillo o implante, con consulta en español y sin seguro.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, de lunes a domingo de 9 AM a 9 PM, con privacidad.
 
-## ¿Qué incluye?
+## ¿Qué métodos ofrecemos?
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+| Método | Cómo se usa | Efectividad con uso típico |
+|---|---|---|
+| Pastillas | Una cada día a la misma hora | 93 % |
+| Inyección (Depo-Provera) | Cada 12 a 13 semanas en la clínica | 96 % |
+| Parche o anillo | Semanal o mensual | 93 % |
+| Implante subdérmico | Dura 3 años | Más del 99 % |
+| DIU | Dura de 3 a 10 años | Más del 99 % (te referimos para colocación) [confirmar si se coloca en clínica] |
+| Píldora del día siguiente | Hasta 72 a 120 horas después | Emergencia, no de uso regular |
 
-## Una decisión informada
+Ningún método hormonal protege contra infecciones de transmisión sexual; para eso, condón.
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+## ¿Cómo elegimos el método?
+
+En la consulta revisamos tu presión arterial, si fumas, tu edad, migrañas, antecedentes de trombosis y si estás amamantando. Por ejemplo, las pastillas combinadas no se recomiendan si fumas y tienes más de 35 años o tienes migraña con aura; en esos casos la minipíldora, la inyección o el implante son más seguros.
+
+## ¿Cuándo empieza a proteger?
+
+Si empiezas las pastillas, el parche o el anillo en los primeros 5 días de la regla, protegen de inmediato; si empiezas otro día, usa condón 7 días. La inyección protege desde el primer día si se aplica en los primeros 7 días de la regla. El implante protege a las 24 horas en las mismas condiciones.
+
+## ¿Qué incluye la visita?
+
+1. Consulta y prueba de embarazo si hay dudas.
+2. Toma de presión y revisión de contraindicaciones.
+3. Aplicación de la inyección o colocación del implante en la misma visita [confirmar disponibilidad del implante], o receta de pastillas, parche o anillo.
+4. Cita de seguimiento a los 3 meses y refills sin consulta completa.
+
+## ¿Cuánto cuestan los anticonceptivos?
+
+Consulta: $[confirmar]. Inyección trimestral: $[confirmar]. Implante: $[confirmar]. Las pastillas se compran en farmacia con nuestra receta, con genéricos desde $[confirmar] al mes.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud Lawndale we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+    longDescriptionEn: `**We help you choose and start your birth control the same day: pills, the 3-month shot, patch, ring or implant, with a visit in Spanish or English and no insurance needed.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, Monday to Sunday from 9 AM to 9 PM, with privacy.
 
-## What's included?
+## Which methods do we offer?
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+| Method | How it's used | Typical-use effectiveness |
+|---|---|---|
+| Pills | One every day at the same time | 93% |
+| Shot (Depo-Provera) | Every 12 to 13 weeks at the clinic | 96% |
+| Patch or ring | Weekly or monthly | 93% |
+| Implant | Lasts 3 years | Over 99% |
+| IUD | Lasts 3 to 10 years | Over 99% (we refer you for placement) [confirm if placed in clinic] |
+| Morning-after pill | Up to 72 to 120 hours after | Emergency use, not regular |
 
-## An informed decision
+No hormonal method protects against sexually transmitted infections; for that, use condoms.
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+## How do we choose the method?
+
+At the visit we check your blood pressure, whether you smoke, your age, migraines, history of blood clots and whether you are breastfeeding. For example, combined pills are not recommended if you smoke and are over 35 or have migraine with aura; in those cases the minipill, the shot or the implant are safer.
+
+## When does it start working?
+
+If you start pills, the patch or the ring within the first 5 days of your period, they protect right away; if you start on another day, use condoms for 7 days. The shot protects from day one if given within the first 7 days of your period. The implant protects after 24 hours under the same conditions.
+
+## What does the visit include?
+
+1. Visit and a pregnancy test if there is any doubt.
+2. Blood pressure check and review of contraindications.
+3. The shot or implant placed at the same visit [confirm implant availability], or a prescription for pills, patch or ring.
+4. Follow-up at 3 months and refills without a full visit.
+
+## How much does birth control cost?
+
+Visit: $[confirm]. 3-month shot: $[confirm]. Implant: $[confirm]. Pills are bought at a pharmacy with our prescription, with generics from $[confirm] a month.
 
 ${WHY_EN}
 
@@ -1005,7 +1145,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "salud-hombre",
     image: "/images/services/salud-hombre.webp",
     shortTitle: "Salud del Hombre",
@@ -1047,38 +1187,70 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud Lawndale facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `**Chequeo de salud para hombres con análisis de sangre: PSA para la próstata, perfil hormonal, glucosa, colesterol y función renal, con resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, de lunes a domingo de 9 AM a 9 PM, sin seguro y con privacidad.
 
-## ¿Qué incluye?
+## ¿Qué revisa el chequeo del hombre?
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+- **PSA (antígeno prostático):** detección temprana de problemas de próstata. Se recomienda conversar sobre la prueba a partir de los 50 años, o desde los 45 si tienes antecedentes familiares de cáncer de próstata.
+- **Perfil hormonal:** testosterona total y, si hace falta, libre, LH y prolactina, cuando hay cansancio, baja de deseo sexual, pérdida de masa muscular o dificultad de erección.
+- **Glucosa y A1C, colesterol y triglicéridos:** los hombres hispanos tienen mayor riesgo de diabetes y enfermedad cardiaca.
+- **Función renal y hepática, biometría** y presión arterial.
+- **Pruebas de ETS** si hay riesgo o síntomas, con confidencialidad.
 
-## Por qué es importante
+## ¿Qué significa un PSA alto?
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+Un PSA por encima de 4 ng/mL, o que sube rápido entre un año y otro, requiere evaluación. No siempre es cáncer: la próstata crecida (hiperplasia benigna), una infección o haber eyaculado en las 48 horas previas también lo elevan. Si el resultado es alto, repetimos la prueba y te referimos a urología para decidir si hace falta una biopsia.
+
+## ¿Cuándo revisar la testosterona?
+
+Cuando hay síntomas persistentes: cansancio, poca energía, baja de deseo, dificultad de erección, pérdida de fuerza o ánimo bajo. La muestra se toma entre 7 y 10 de la mañana, en ayunas, y un resultado bajo se confirma con una segunda prueba otro día. El tratamiento de reemplazo hormonal solo se indica con dos resultados bajos y síntomas, y siempre con control de PSA y hematocrito.
+
+## ¿Cómo prepararme?
+
+Ayuno de 8 a 12 horas para glucosa y lípidos; sin ejercicio intenso, ciclismo ni eyaculación en las 48 horas previas al PSA; muestra de hormonas antes de las 10 AM. Trae tu identificación y la lista de medicamentos.
+
+## ¿Cuándo llegan los resultados?
+
+Glucosa, lípidos y biometría el mismo día [confirmar]; PSA y perfil hormonal en [confirmar] días. Te llamamos y el médico te explica cada valor.
+
+## ¿Cuánto cuesta el chequeo del hombre?
+
+Consulta: $[confirmar]. PSA: $[confirmar]. El paquete de perfil hormonal masculino y la promoción de testosterona aparecen en nuestras promociones vigentes con precio publicado.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud Lawndale we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+    longDescriptionEn: `**Men's health checkup with blood work: PSA for the prostate, hormone panel, glucose, cholesterol and kidney function, with results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, Monday to Sunday from 9 AM to 9 PM, no insurance needed and with privacy.
 
-## What's included?
+## What does the men's checkup include?
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+- **PSA (prostate-specific antigen):** early detection of prostate problems. A conversation about the test is recommended from age 50, or from 45 with a family history of prostate cancer.
+- **Hormone panel:** total testosterone and, if needed, free testosterone, LH and prolactin, when there is fatigue, low sex drive, loss of muscle mass or erection difficulty.
+- **Glucose and A1C, cholesterol and triglycerides:** Hispanic men have a higher risk of diabetes and heart disease.
+- **Kidney and liver function, CBC** and blood pressure.
+- **STD testing** when there is risk or symptoms, confidentially.
 
-## Why it matters
+## What does a high PSA mean?
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+A PSA above 4 ng/mL, or one that rises quickly from one year to the next, needs evaluation. It is not always cancer: an enlarged prostate (benign hyperplasia), an infection or ejaculation within the previous 48 hours also raise it. If the result is high, we repeat the test and refer you to urology to decide whether a biopsy is needed.
+
+## When should testosterone be checked?
+
+When symptoms persist: fatigue, low energy, low sex drive, erection difficulty, loss of strength or low mood. The sample is drawn between 7 and 10 AM, fasting, and a low result is confirmed with a second test on another day. Hormone replacement is only indicated with two low results plus symptoms, and always with PSA and hematocrit monitoring.
+
+## How do I prepare?
+
+Fast 8 to 12 hours for glucose and lipids; no intense exercise, cycling or ejaculation in the 48 hours before the PSA; hormone sample before 10 AM. Bring your ID and list of medications.
+
+## When are results ready?
+
+Glucose, lipids and CBC the same day [confirm]; PSA and hormone panel in [confirm] days. We call you and the doctor explains each value.
+
+## How much does the men's checkup cost?
+
+Visit: $[confirm]. PSA: $[confirm]. The men's hormone panel package and the testosterone promotion appear in our current promotions with published prices.
 
 ${WHY_EN}
 

@@ -23,14 +23,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "tiroides": {
     faqs: [
-      { question: "¿Qué prueba se usa para revisar la tiroides?", answer: "Usamos principalmente la TSH y, si es necesario, T3 y T4 para evaluar cómo funciona tu tiroides." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Necesito ayuno para el examen de tiroides?", answer: "No. TSH, T4 y T3 se pueden tomar a cualquier hora. Si ya tomas levotiroxina, toma la muestra antes de la pastilla del día." },
+      { question: "¿Cada cuánto se revisa la TSH con tratamiento?", answer: "Cada 6 a 8 semanas al inicio o tras cambiar la dosis, y cada 6 a 12 meses cuando ya está estable." },
+      { question: "¿El hipotiroidismo se cura?", answer: "La mayoría de los casos son permanentes y se controlan de por vida con levotiroxina. Con la dosis correcta los síntomas desaparecen y la vida es normal." },
     ],
     faqsEn: [
-      { question: "What test is used to check the thyroid?", answer: "We mainly use TSH and, if needed, T3 and T4 to evaluate how your thyroid is working." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Do I need to fast for a thyroid test?", answer: "No. TSH, T4 and T3 can be drawn at any time. If you already take levothyroxine, have the sample taken before that day's pill." },
+      { question: "How often is TSH checked during treatment?", answer: "Every 6 to 8 weeks at the start or after a dose change, and every 6 to 12 months once stable." },
+      { question: "Can hypothyroidism be cured?", answer: "Most cases are permanent and controlled for life with levothyroxine. With the right dose, symptoms disappear and life is normal." },
     ],
   },
   "alergias": {
@@ -47,14 +47,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "enfermedades-respiratorias": {
     faqs: [
-      { question: "¿Hacen prueba de flu y de COVID el mismo día?", answer: "Sí, hacemos pruebas rápidas de influenza y COVID y te damos el resultado y el tratamiento el mismo día." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cuánto tarda la prueba de flu y COVID?", answer: "15 minutos. Es un hisopado nasal que detecta influenza A, influenza B y COVID-19 en la misma muestra." },
+      { question: "¿Dan justificante médico para el trabajo?", answer: "Sí. Si la consulta lo justifica, te entregamos una nota médica con los días de reposo el mismo día." },
+      { question: "¿Cuándo sirve el antiviral para la gripe?", answer: "Cuando se empieza en las primeras 48 horas de síntomas. Reduce la duración y el riesgo de complicaciones, sobre todo en mayores de 65, embarazadas y personas con asma o diabetes." },
     ],
     faqsEn: [
-      { question: "Do you test for flu and COVID the same day?", answer: "Yes, we run rapid flu and COVID tests and give you the result and treatment the same day." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How long does the flu and COVID test take?", answer: "15 minutes. It is a nasal swab that detects influenza A, influenza B and COVID-19 from the same sample." },
+      { question: "Do you provide a doctor's note for work?", answer: "Yes. If the visit justifies it, we give you a medical note with the days of rest the same day." },
+      { question: "When does the flu antiviral help?", answer: "When started within the first 48 hours of symptoms. It shortens the illness and lowers the risk of complications, especially for adults over 65, pregnant women and people with asthma or diabetes." },
     ],
   },
   "examen-fisico-escolar": {
@@ -83,26 +83,26 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "prueba-embarazo": {
     faqs: [
-      { question: "¿Qué tan confiable es la prueba de embarazo?", answer: "Nuestras pruebas son confiables y las confirma personal médico; también podemos orientarte sobre los siguientes pasos." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Desde cuándo detecta el embarazo la prueba de sangre?", answer: "Desde 7 a 10 días después de la concepción, antes del retraso de la regla. La de orina es confiable desde el primer día de retraso." },
+      { question: "¿Me dan una constancia de embarazo?", answer: "Sí, el mismo día, con las semanas de gestación y la fecha probable de parto, válida para trabajo, escuela, Medicaid o WIC." },
+      { question: "¿Hacen ultrasonido para confirmar el embarazo?", answer: "A partir de las 6 semanas se puede ver el saco y el latido [confirmar disponibilidad]. Antes de eso, la prueba de sangre es el método más preciso." },
     ],
     faqsEn: [
-      { question: "How reliable is the pregnancy test?", answer: "Our tests are reliable and confirmed by medical staff; we can also guide you on next steps." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How early does the blood test detect pregnancy?", answer: "From 7 to 10 days after conception, before a missed period. The urine test is reliable from the first day of a missed period." },
+      { question: "Do you give a proof of pregnancy letter?", answer: "Yes, the same day, with weeks of gestation and due date, valid for work, school, Medicaid or WIC." },
+      { question: "Do you do an ultrasound to confirm pregnancy?", answer: "From 6 weeks on, the sac and heartbeat can be seen [confirm availability]. Before that, the blood test is the most accurate method." },
     ],
   },
   "anticonceptivos": {
     faqs: [
-      { question: "¿Qué métodos anticonceptivos ofrecen?", answer: "Ofrecemos orientación, pastillas anticonceptivas e inyección, y te ayudamos a elegir el método adecuado para ti." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Puedo empezar la inyección anticonceptiva el mismo día?", answer: "Sí. Si estás en los primeros 7 días de tu regla protege de inmediato; si no, usa condón 7 días. Hacemos prueba de embarazo antes si hay dudas." },
+      { question: "¿Qué método puedo usar si estoy amamantando?", answer: "La minipíldora, la inyección, el implante o el DIU. Las pastillas combinadas con estrógeno se evitan las primeras 6 semanas después del parto." },
+      { question: "¿Los anticonceptivos hormonales engordan?", answer: "Las pastillas, el parche y el anillo no producen aumento de peso significativo en los estudios. La inyección puede asociarse a un aumento de 2 a 3 kilos en algunas mujeres." },
     ],
     faqsEn: [
-      { question: "What contraceptive methods do you offer?", answer: "We offer guidance, birth control pills and the injection, and help you choose the right method for you." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Can I start the birth control shot the same day?", answer: "Yes. If you are within the first 7 days of your period it protects right away; if not, use condoms for 7 days. We do a pregnancy test first if there is any doubt." },
+      { question: "Which method can I use while breastfeeding?", answer: "The minipill, the shot, the implant or an IUD. Combined pills with estrogen are avoided for the first 6 weeks after delivery." },
+      { question: "Does hormonal birth control cause weight gain?", answer: "Pills, the patch and the ring do not cause significant weight gain in studies. The shot may be linked to a 4 to 6 pound gain in some women." },
     ],
   },
   "extraccion-implantes": {
@@ -119,14 +119,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "salud-hombre": {
     faqs: [
-      { question: "¿Qué incluye el examen del hombre?", answer: "Incluye antígeno prostático (PSA), nivel de testosterona y un chequeo general, con resultados explicados en español." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿A qué edad debo hacerme el PSA?", answer: "Conversa con el médico sobre la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Con síntomas urinarios, a cualquier edad." },
+      { question: "¿A qué hora se toma la muestra de testosterona?", answer: "Entre 7 y 10 de la mañana, en ayunas, porque el nivel baja durante el día. Un resultado bajo se confirma con una segunda muestra otro día." },
+      { question: "¿El PSA alto significa cáncer?", answer: "No siempre. La próstata crecida, una infección o la eyaculación reciente también lo suben. Si está alto se repite y, si persiste, te referimos a urología." },
     ],
     faqsEn: [
-      { question: "What does the men's exam include?", answer: "It includes prostate antigen (PSA), testosterone level and a general checkup, with results explained in Spanish." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "At what age should I get a PSA test?", answer: "Talk with the doctor about the test from age 50, or from 45 if your father or brother had prostate cancer. With urinary symptoms, at any age." },
+      { question: "What time is the testosterone sample drawn?", answer: "Between 7 and 10 AM, fasting, because the level drops during the day. A low result is confirmed with a second sample on another day." },
+      { question: "Does a high PSA mean cancer?", answer: "Not always. An enlarged prostate, an infection or recent ejaculation also raise it. If it is high we repeat it and, if it stays high, refer you to urology." },
     ],
   },
   "examenes-sangre": {
