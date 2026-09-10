@@ -11,14 +11,14 @@ interface ServiceFAQs {
 export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "condiciones-cronicas": {
     faqs: [
-      { question: "¿Cada cuánto debo hacerme exámenes de control?", answer: "Depende de tu condición; por lo general cada 3 a 6 meses para diabetes, presión o colesterol. Te damos un plan de seguimiento personalizado." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cada cuánto debo revisarme si tengo diabetes?", answer: "A1C cada 3 meses hasta alcanzar la meta y luego cada 6 meses; perfil de lípidos y riñón cada año; pies en cada consulta y retina una vez al año." },
+      { question: "¿Puedo controlar la presión alta sin medicamentos?", answer: "En casos leves, sí: menos sal, bajar de peso, ejercicio y limitar el alcohol pueden bajar 5 a 10 puntos. Si la presión sigue en 130/80 o más, el medicamento previene daños." },
+      { question: "¿Dan recetas de medicamentos genéricos?", answer: "Sí. Recetamos genéricos de bajo costo para diabetes, presión y colesterol, y te indicamos dónde conseguirlos al mejor precio." },
     ],
     faqsEn: [
-      { question: "How often should I get control labs?", answer: "It depends on your condition; usually every 3 to 6 months for diabetes, blood pressure or cholesterol. We give you a personalized follow-up plan." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How often should I get checked if I have diabetes?", answer: "A1C every 3 months until you reach your goal and then every 6 months; lipid panel and kidney function yearly; feet at every visit and retina once a year." },
+      { question: "Can I control high blood pressure without medication?", answer: "In mild cases, yes: less salt, weight loss, exercise and limiting alcohol can lower it 5 to 10 points. If it stays at 130/80 or higher, medication prevents damage." },
+      { question: "Do you prescribe generic medications?", answer: "Yes. We prescribe low-cost generics for diabetes, blood pressure and cholesterol, and tell you where to get them at the best price." },
     ],
   },
   "tiroides": {
@@ -59,14 +59,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examen-fisico-escolar": {
     faqs: [
-      { question: "¿Llenan el formulario de la escuela o el equipo?", answer: "Sí, trae el formulario de tu escuela o equipo deportivo y lo completamos durante la visita." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Hacen el examen físico de la UIL para deportes?", answer: "Sí. Trae el formulario de la UIL con la parte del historial llenada por los padres; lo completamos y firmamos en la misma visita." },
+      { question: "¿Cuánto tarda el examen físico escolar?", answer: "Entre 20 y 30 minutos. Sales con el formulario firmado el mismo día." },
+      { question: "¿El niño tiene que venir con un adulto?", answer: "Sí, un padre o tutor debe acompañar a los menores de 18 años y firmar el consentimiento y la parte del historial del formulario." },
     ],
     faqsEn: [
-      { question: "Do you fill out the school or team form?", answer: "Yes, bring your school or sports-team form and we complete it during the visit." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Do you do the UIL sports physical?", answer: "Yes. Bring the UIL form with the history section completed by the parents; we finish and sign it at the same visit." },
+      { question: "How long does a school physical take?", answer: "20 to 30 minutes. You leave with the signed form the same day." },
+      { question: "Does the child need to come with an adult?", answer: "Yes, a parent or guardian must accompany anyone under 18 and sign the consent and the history section of the form." },
     ],
   },
   "ginecologia": {
@@ -131,14 +131,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examenes-sangre": {
     faqs: [
-      { question: "¿En cuánto tiempo entregan los resultados?", answer: "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Necesito orden médica para hacerme análisis de sangre?", answer: "No. Puedes venir sin orden y el médico te indica qué exámenes convienen según tus síntomas, tu edad y tus antecedentes." },
+      { question: "¿Cuántas horas de ayuno necesito?", answer: "Entre 8 y 12 horas para glucosa, colesterol y química completa. Puedes tomar agua. Biometría, tiroides, A1C y B12 no requieren ayuno." },
+      { question: "¿Me explican los resultados?", answer: "Sí. Te llamamos cuando estén listos y el médico te explica cada valor en español, en consulta o por teléfono, y te dice si necesitas tratamiento." },
     ],
     faqsEn: [
-      { question: "How soon are results ready?", answer: "In most cases results are ready the same day or very soon, and we explain them to you in Spanish." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Do I need a doctor's order for blood tests?", answer: "No. You can walk in without an order and the doctor tells you which tests make sense for your symptoms, age and history." },
+      { question: "How many hours do I need to fast?", answer: "8 to 12 hours for glucose, cholesterol and a full metabolic panel. Water is fine. CBC, thyroid, A1C and B12 need no fasting." },
+      { question: "Will you explain my results?", answer: "Yes. We call you when they are ready and the doctor explains each value in Spanish or English, at a visit or by phone, and tells you whether you need treatment." },
     ],
   },
   "infecciones-urinarias": {
@@ -251,26 +251,26 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examenes-inmigracion": {
     faqs: [
-      { question: "¿El médico está autorizado por USCIS?", answer: "Sí, el examen lo realiza un médico autorizado (civil surgeon) y te entregamos el Formulario I-693 sellado." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cómo verifico que el médico es Civil Surgeon autorizado?", answer: "En la herramienta oficial \"Find a Doctor\" de uscis.gov, buscando por código postal 77023. Solo un Civil Surgeon designado puede firmar el I-693." },
+      { question: "¿El examen I-693 se entrega el mismo día?", answer: "El examen físico y las vacunas se hacen el mismo día. El sobre sellado se entrega cuando llega el resultado de la prueba de tuberculosis, en unos [confirmar] días." },
+      { question: "¿Necesito la vacuna contra COVID-19 para el I-693?", answer: "No. Desde el 20 de enero de 2025 USCIS ya no la exige. Sí revisamos MMR, Tdap, varicela, hepatitis B e influenza en temporada." },
     ],
     faqsEn: [
-      { question: "Is the doctor authorized by USCIS?", answer: "Yes, the exam is performed by an authorized civil surgeon and we give you the sealed Form I-693." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How do I verify the doctor is an authorized Civil Surgeon?", answer: "In the official USCIS \"Find a Doctor\" tool on uscis.gov, searching by ZIP code 77023. Only a designated Civil Surgeon can sign the I-693." },
+      { question: "Is the I-693 delivered the same day?", answer: "The physical exam and vaccines are done the same day. The sealed envelope is delivered when the TB test result arrives, in about [confirm] days." },
+      { question: "Do I need the COVID-19 vaccine for the I-693?", answer: "No. Since January 20, 2025 USCIS no longer requires it. We do review MMR, Tdap, varicella, hepatitis B and seasonal flu." },
     ],
   },
   "vacunas": {
     faqs: [
-      { question: "¿Qué vacunas aplican?", answer: "Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico; pregúntanos cuál te conviene." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿En qué mes conviene ponerse la vacuna de la gripe?", answer: "En septiembre u octubre, antes de la temporada que en Houston va de octubre a marzo. Si se te pasó, vale la pena ponerla en cualquier mes de la temporada." },
+      { question: "¿Necesito el tétanos si me corté con algo oxidado?", answer: "Si tu última dosis fue hace más de 5 años, sí, el mismo día. Si fue hace más de 10 años, lo necesitas aunque la herida esté limpia." },
+      { question: "¿Aplican las vacunas que faltan para el I-693?", answer: "Sí, en la misma visita del examen de inmigración. Trae tu cartilla: las dosis registradas no se repiten." },
     ],
     faqsEn: [
-      { question: "Which vaccines do you give?", answer: "We administer the influenza (flu) vaccine and tetanus toxoid; ask us which one you need." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Which month is best for the flu shot?", answer: "September or October, before the season, which in Houston runs from October to March. If you missed it, it is still worth getting in any month of the season." },
+      { question: "Do I need a tetanus shot if I cut myself on something rusty?", answer: "If your last dose was more than 5 years ago, yes, the same day. If it was more than 10 years ago, you need it even if the wound is clean." },
+      { question: "Do you give the vaccines missing for the I-693?", answer: "Yes, at the same visit as the immigration exam. Bring your card: recorded doses are not repeated." },
     ],
   },
   "sueros-vitaminados": {

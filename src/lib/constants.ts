@@ -85,7 +85,7 @@ We care for patients across the East End of Houston and nearby areas: Eastwood, 
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
-    dateModified: "2026-06-10",
+    dateModified: "2026-09-09",
     id: "condiciones-cronicas",
     image: "/images/services/condiciones-cronicas.webp",
     shortTitle: "Crónicas",
@@ -127,38 +127,62 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud Lawndale diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `**Diagnosticamos y damos seguimiento a diabetes, presión alta y colesterol alto con laboratorio en la clínica y consultas de control cada 3 meses, sin seguro y en español.** En Clínica Hispana Nueva Salud Lawndale puedes empezar el control el mismo día que llegas, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cómo sé si tengo diabetes, presión alta o colesterol alto?
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+Muchas veces no dan síntomas hasta que hay daño. Los valores que usamos para el diagnóstico son los de las guías médicas de Estados Unidos: glucosa en ayunas de 126 mg/dL o más, o A1C de 6.5 % o más, indican diabetes; presión de 130/80 o más en dos visitas indica hipertensión; colesterol LDL por encima de 100 a 160 mg/dL, según tu riesgo, requiere tratamiento. Un análisis de sangre y una toma de presión bastan para saberlo.
 
-## Por qué es importante el control
+## ¿Qué incluye el control?
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+- **Primera consulta:** historial, examen físico, análisis de sangre (glucosa, A1C, lípidos, riñón) y examen de orina para proteína.
+- **Plan de tratamiento:** medicamentos genéricos accesibles, metas personales de glucosa, presión y colesterol, y un plan de alimentación adaptado a la comida latina.
+- **Consultas de seguimiento cada 3 meses** con A1C y ajuste de dosis; cada 6 a 12 meses, perfil de lípidos y función renal.
+- **Revisión anual** de pies y referencia para examen de retina en pacientes con diabetes.
+- **Recetas y refills** sin necesidad de una consulta completa cada vez [confirmar política de refills].
+
+## ¿Cuáles son las metas del tratamiento?
+
+Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80 y LDL por debajo de 100 mg/dL, o de 70 si ya tuviste un infarto o derrame. El médico ajusta las metas según tu edad y otras enfermedades.
+
+## ¿Qué pasa si no me controlo?
+
+La diabetes y la presión alta mal controladas dañan con los años el corazón, los riñones, los ojos y los nervios de los pies. La mayoría de esos daños se previene con un control constante, y muchos pacientes reducen sus medicamentos al mejorar su alimentación y su peso.
+
+## ¿Cuánto cuesta el control de enfermedades crónicas?
+
+La consulta cuesta $[confirmar] y los análisis de seguimiento tienen precio individual; el paquete de chequeo general con A1C aparece en nuestras promociones. Trabajamos con medicamentos genéricos de bajo costo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud Lawndale we design a clear plan and support you every step of the way, in Spanish.
+    longDescriptionEn: `**We diagnose and manage diabetes, high blood pressure and high cholesterol with in-clinic lab work and follow-up visits every 3 months, no insurance needed and in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale you can start your care the same day you walk in, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## How do I know if I have diabetes, high blood pressure or high cholesterol?
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+They often cause no symptoms until damage is done. We use the diagnostic values from U.S. medical guidelines: fasting glucose of 126 mg/dL or more, or A1C of 6.5% or more, indicates diabetes; blood pressure of 130/80 or more at two visits indicates hypertension; LDL cholesterol above 100 to 160 mg/dL, depending on your risk, needs treatment. A blood test and a blood pressure reading are enough to find out.
 
-## Why control matters
+## What does the care include?
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+- **First visit:** history, physical exam, blood tests (glucose, A1C, lipids, kidney) and a urine test for protein.
+- **Treatment plan:** affordable generic medications, personal goals for glucose, blood pressure and cholesterol, and an eating plan adapted to Latino food.
+- **Follow-up visits every 3 months** with A1C and dose adjustment; every 6 to 12 months, a lipid panel and kidney function.
+- **Yearly foot check** and referral for a retina exam in patients with diabetes.
+- **Prescriptions and refills** without a full visit every time [confirm refill policy].
+
+## What are the treatment goals?
+
+For most adults: A1C below 7%, blood pressure below 130/80 and LDL below 100 mg/dL, or below 70 if you have already had a heart attack or stroke. The doctor adjusts the goals to your age and other conditions.
+
+## What happens if I don't manage them?
+
+Poorly controlled diabetes and high blood pressure damage the heart, kidneys, eyes and foot nerves over the years. Most of that damage is prevented with steady control, and many patients cut back on medication as their diet and weight improve.
+
+## How much does chronic disease care cost?
+
+The visit costs $[confirm] and follow-up tests are priced individually; the general checkup package with A1C appears in our promotions. We work with low-cost generic medications.
 
 ${WHY_EN}
 
@@ -448,7 +472,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-fisico-escolar",
-    dateModified: "2026-06-11",
+    dateModified: "2026-09-09",
     id: "examen-fisico-escolar",
     image: "/images/services/examen-fisico-escolar.webp",
     shortTitle: "Físico Escolar",
@@ -489,38 +513,80 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud Lawndale lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `**Hacemos exámenes físicos para escuela, deportes, campamentos y guarderías sin cita, en 20 a 30 minutos, y llenamos y firmamos el formulario que te pide la institución.** En Clínica Hispana Nueva Salud Lawndale atendemos a niños y adolescentes en español, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Qué formulario necesito?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
-- Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+- **Deportes escolares en Texas (UIL):** el formulario de evaluación física de preparticipación de la UIL, obligatorio cada año para practicar deportes de 7.º a 12.º grado. Debe firmarlo un médico, asistente médico o enfermera practicante.
+- **Escuela, guardería o Head Start:** el formulario de examen físico de la institución más el registro de vacunas.
+- **Campamentos, ligas y trabajo de verano:** el formulario propio de cada programa.
 
-## Para la escuela y el deporte
+Trae el formulario impreso o en el teléfono; si tu escuela no te dio uno, te entregamos una constancia médica general.
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+## ¿Qué revisa el examen?
+
+1. Peso, talla, índice de masa corporal y presión arterial.
+2. Visión y audición.
+3. Corazón y pulmones, con preguntas sobre desmayos o dolor en el pecho al hacer ejercicio.
+4. Abdomen, columna, articulaciones y fuerza muscular.
+5. Historial de lesiones, conmociones, asma, alergias y medicamentos.
+
+Si detectamos un soplo cardiaco, presión alta o una lesión que no ha sanado, indicamos qué estudio hace falta antes de autorizar el deporte.
+
+## ¿Qué debo traer?
+
+- Identificación del padre o tutor y del estudiante
+- Formulario de la escuela o equipo, con la parte del historial ya llenada por los padres
+- Cartilla de vacunación o registro de ImmTrac2
+- Lentes, si los usa, y lista de medicamentos
+
+## ¿Incluye vacunas?
+
+El examen físico y las vacunas son servicios distintos. Si el registro escolar exige vacunas que faltan, aplicamos influenza y Tdap en la misma visita [confirmar otras vacunas disponibles]; las demás te indicamos dónde conseguirlas.
+
+## ¿Cuánto cuesta el examen físico escolar o deportivo?
+
+El examen con formulario firmado cuesta $[confirmar]. Pago en efectivo o tarjeta, sin seguro. En julio y agosto la demanda es alta: ven temprano para evitar espera.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud Lawndale we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `**We do physicals for school, sports, camps and daycare without an appointment, in 20 to 30 minutes, and complete and sign the form your institution requires.** At Clínica Hispana Nueva Salud Lawndale we see children and teens in Spanish or English, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## Which form do I need?
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
-- Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+- **Texas school sports (UIL):** the UIL pre-participation physical evaluation form, required every year to play sports in grades 7 through 12. It must be signed by a physician, physician assistant or nurse practitioner.
+- **School, daycare or Head Start:** the institution's physical exam form plus the immunization record.
+- **Camps, leagues and summer jobs:** each program's own form.
 
-## For school and sports
+Bring the form printed or on your phone; if your school did not give you one, we provide a general medical certificate.
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+## What does the exam check?
+
+1. Weight, height, body mass index and blood pressure.
+2. Vision and hearing.
+3. Heart and lungs, with questions about fainting or chest pain during exercise.
+4. Abdomen, spine, joints and muscle strength.
+5. History of injuries, concussions, asthma, allergies and medications.
+
+If we find a heart murmur, high blood pressure or an injury that has not healed, we tell you which test is needed before clearing the student for sports.
+
+## What should I bring?
+
+- Parent or guardian ID and the student's ID
+- School or team form, with the history section already filled in by the parents
+- Vaccination card or ImmTrac2 record
+- Glasses, if worn, and list of medications
+
+## Does it include vaccines?
+
+The physical and vaccines are separate services. If school enrollment requires missing vaccines, we give flu and Tdap at the same visit [confirm other vaccines available]; for the rest we tell you where to get them.
+
+## How much does a school or sports physical cost?
+
+The exam with signed form costs $[confirm]. Cash and cards accepted, no insurance needed. Demand is high in July and August: come early to avoid waiting.
 
 ${WHY_EN}
 
@@ -1022,7 +1088,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-sangre",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "examenes-sangre",
     image: "/images/services/examenes-sangre.webp",
     shortTitle: "Lab. Sangre",
@@ -1064,38 +1130,68 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud Lawndale tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `**Hacemos análisis de sangre sin cita ni orden médica, con toma de muestra en la clínica y resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM; los exámenes más comunes se entregan el mismo día [confirmar cuáles].
 
-## ¿Qué incluye?
+## ¿Qué análisis hacemos?
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+- **Biometría hemática completa (CBC):** anemia, infecciones y plaquetas.
+- **Química sanguínea (CMP):** glucosa, riñón, hígado y electrolitos.
+- **Perfil de lípidos:** colesterol total, LDL, HDL y triglicéridos.
+- **Hemoglobina glicosilada (A1C):** promedio de glucosa de los últimos 3 meses.
+- **Perfil tiroideo:** TSH, T3 y T4.
+- **Otros:** vitamina B12, vitamina D, ácido úrico, PSA, hormonas, embarazo, ETS y tuberculosis en sangre.
 
-## Para qué sirven
+Si no sabes qué análisis necesitas, el médico te orienta en la misma visita según tus síntomas y tu edad.
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+## ¿Tengo que venir en ayunas?
+
+Sí para glucosa, perfil de lípidos y química completa: entre 8 y 12 horas sin comer, solo agua. Para biometría, tiroides, A1C, B12 o PSA no necesitas ayuno. Si tomas medicamentos, tómalos con agua salvo que el médico indique lo contrario.
+
+## ¿Cuándo llegan los resultados?
+
+Glucosa, A1C, biometría y química suelen estar el mismo día [confirmar]. Perfiles hormonales, vitamina D y pruebas especiales se envían a laboratorio externo y tardan de [confirmar] días. Te llamamos cuando estén listos y te explicamos cada valor en consulta o por teléfono.
+
+## ¿Cada cuánto debo hacerme un chequeo de sangre?
+
+Las guías de prevención de Estados Unidos recomiendan revisar el colesterol cada 4 a 6 años a partir de los 20 años, la glucosa desde los 35 años o antes si hay sobrepeso o antecedentes familiares, y cada año si ya tienes diabetes, presión alta o colesterol alto. Un chequeo anual básico detecta problemas antes de que den síntomas.
+
+## ¿Cuánto cuesta un análisis de sangre?
+
+Cada examen tiene precio individual desde $[confirmar]; los paquetes de chequeo general, perfil hormonal y sangre con vitamina B12 aparecen en nuestras promociones vigentes. Pago en efectivo o tarjeta, sin seguro.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud Lawndale we draw your samples on the spot and explain your results in Spanish, without the jargon.
+    longDescriptionEn: `**We run blood tests without an appointment or a doctor's order, with sample collection in the clinic and results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM; the most common tests are delivered the same day [confirm which].
 
-## What's included?
+## Which tests do we run?
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Panels for general checkups or follow-up
-- Fast results in most cases
+- **Complete blood count (CBC):** anemia, infections and platelets.
+- **Comprehensive metabolic panel (CMP):** glucose, kidney, liver and electrolytes.
+- **Lipid panel:** total cholesterol, LDL, HDL and triglycerides.
+- **Hemoglobin A1C:** average glucose over the last 3 months.
+- **Thyroid panel:** TSH, T3 and T4.
+- **Others:** vitamin B12, vitamin D, uric acid, PSA, hormones, pregnancy, STDs and TB blood test.
 
-## Why they matter
+If you don't know which test you need, the doctor guides you at the same visit based on your symptoms and age.
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+## Do I need to fast?
+
+Yes for glucose, lipid panel and full metabolic panel: 8 to 12 hours without food, water only. For CBC, thyroid, A1C, B12 or PSA no fasting is needed. If you take medications, take them with water unless the doctor says otherwise.
+
+## When are results ready?
+
+Glucose, A1C, CBC and metabolic panel are usually ready the same day [confirm]. Hormone panels, vitamin D and special tests go to an outside lab and take [confirm] days. We call you when they are ready and explain each value at a visit or by phone.
+
+## How often should I get blood work?
+
+U.S. preventive guidelines recommend checking cholesterol every 4 to 6 years from age 20, glucose from age 35 or earlier with overweight or family history, and yearly if you already have diabetes, high blood pressure or high cholesterol. A basic annual checkup finds problems before they cause symptoms.
+
+## How much does a blood test cost?
+
+Each test is priced individually from $[confirm]; the general checkup, hormone panel and blood-plus-B12 packages appear in our current promotions. Cash and cards accepted, no insurance needed.
 
 ${WHY_EN}
 
@@ -1976,7 +2072,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-inmigracion",
-    dateModified: "2026-06-10",
+    dateModified: "2026-09-09",
     id: "examenes-inmigracion",
     image: "/images/services/examenes-inmigracion.webp",
     shortTitle: "Inmigración",
@@ -2017,38 +2113,72 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud Lawndale lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `**Realizamos el examen médico de inmigración (Formulario I-693) con un Civil Surgeon designado por USCIS y te entregamos el sobre sellado el mismo día en la mayoría de los casos.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, de lunes a domingo de 9 AM a 9 PM. Puedes verificar nuestra designación en la herramienta "Find a Doctor" de USCIS [confirmar nombre del Civil Surgeon].
 
-## ¿Qué incluye?
+## ¿Quién necesita el examen I-693?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+Toda persona que solicita la residencia permanente (Green Card) desde dentro de Estados Unidos mediante el Formulario I-485, y en algunos casos de asilo, refugio o ajuste bajo programas especiales. Desde 2023, USCIS pide que el I-693 se presente junto con el I-485 o cuando el oficial lo solicite.
 
-## Qué traer a tu cita
+## ¿Qué incluye el examen?
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+1. **Revisión de historial médico** y examen físico general.
+2. **Prueba de tuberculosis en sangre (IGRA)** para mayores de 2 años; si sale positiva, radiografía de tórax.
+3. **Análisis de sangre para sífilis** (18 a 44 años) y **prueba de orina para gonorrea** (18 a 24 años).
+4. **Revisión de vacunas** según tu edad: MMR, Tdap, varicela, hepatitis B, influenza en temporada y otras que apliquen. Aplicamos las que falten en la misma visita.
+5. **Llenado y firma del Formulario I-693** (edición 01/20/2025) y entrega en sobre sellado.
+
+El examen toma entre 1 y 2 horas. La prueba de tuberculosis tarda [confirmar] días, por lo que el sobre se entrega cuando llega ese resultado.
+
+## ¿Qué debo traer?
+
+- Pasaporte o identificación con foto vigente
+- Cartilla o registros de vacunación, en cualquier idioma
+- Historial médico relevante y lista de medicamentos
+- Si tuviste tuberculosis o una prueba positiva antes: radiografías y tratamiento previos
+
+## ¿Cuánto tiempo es válido el I-693?
+
+Un I-693 firmado el 1 de noviembre de 2023 o después no tiene fecha de vencimiento fija: vale mientras la solicitud con la que lo presentaste siga pendiente. Si USCIS la niega o la retiras, necesitas un examen nuevo (política vigente desde el 11 de junio de 2025). No abras el sobre sellado: USCIS lo rechaza si llega abierto.
+
+## ¿Cuánto cuesta el examen médico de inmigración?
+
+El examen cuesta $[confirmar] e incluye la consulta, las pruebas de laboratorio requeridas y el formulario. Las vacunas que falten tienen costo aparte [confirmar]. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud Lawndale we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+    longDescriptionEn: `**We perform the immigration medical exam (Form I-693) with a USCIS-designated Civil Surgeon and hand you the sealed envelope the same day in most cases.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, Monday to Sunday from 9 AM to 9 PM. You can verify our designation in the USCIS "Find a Doctor" tool [confirm Civil Surgeon name].
 
-## What's included?
+## Who needs the I-693 exam?
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+Anyone applying for permanent residence (Green Card) from inside the United States through Form I-485, and in some asylum, refugee or special-program adjustment cases. Since 2023, USCIS asks that the I-693 be filed together with the I-485 or when the officer requests it.
 
-## What to bring
+## What does the exam include?
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+1. **Medical history review** and general physical exam.
+2. **TB blood test (IGRA)** for anyone over age 2; if positive, a chest X-ray.
+3. **Syphilis blood test** (ages 18 to 44) and **gonorrhea urine test** (ages 18 to 24).
+4. **Vaccine review** by age: MMR, Tdap, varicella, hepatitis B, seasonal flu and others that apply. We give any missing ones at the same visit.
+5. **Completion and signature of Form I-693** (01/20/2025 edition) delivered in a sealed envelope.
+
+The exam takes 1 to 2 hours. The TB test takes [confirm] days, so the envelope is delivered when that result arrives.
+
+## What should I bring?
+
+- Valid passport or photo ID
+- Vaccination card or records, in any language
+- Relevant medical history and list of medications
+- If you had TB or a positive test before: previous X-rays and treatment records
+
+## How long is the I-693 valid?
+
+An I-693 signed on or after November 1, 2023 has no fixed expiration date: it stays valid while the application it was filed with is pending. If USCIS denies it or you withdraw it, you need a new exam (policy in effect since June 11, 2025). Do not open the sealed envelope: USCIS rejects it if it arrives opened.
+
+## How much does the immigration medical exam cost?
+
+The exam costs $[confirm] and includes the visit, the required lab tests and the form. Missing vaccines are billed separately [confirm]. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -2058,7 +2188,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "vacunas",
-    dateModified: "2026-06-11",
+    dateModified: "2026-09-09",
     id: "vacunas",
     image: "/images/services/vacunas.webp",
     shortTitle: "Vacunas",
@@ -2099,38 +2229,66 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud Lawndale aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `**Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico (Td/Tdap) sin cita, a adultos y niños, todos los días de 9 AM a 9 PM.** En Clínica Hispana Nueva Salud Lawndale también revisamos y completamos las vacunas requeridas para el examen médico de inmigración I-693 [confirmar otras vacunas disponibles].
 
-## ¿Qué incluye?
+## ¿Cuándo debo ponerme la vacuna de la influenza?
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+Cada año, idealmente entre septiembre y octubre, antes de que empiece la temporada de gripe en Houston, que va de octubre a marzo. Se recomienda a partir de los 6 meses de edad, y en especial a mayores de 65 años, embarazadas, personas con diabetes, asma o enfermedades del corazón, y a quienes viven con ellas. La protección tarda unas 2 semanas en desarrollarse.
 
-## Por qué vacunarte
+## ¿Cada cuánto se pone el tétanos?
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+Un refuerzo de Td o Tdap cada 10 años. Si tienes una herida sucia, profunda o con un objeto oxidado y tu última dosis fue hace más de 5 años, necesitas un refuerzo el mismo día. Tdap incluye protección contra tos ferina y se recomienda en cada embarazo, entre las semanas 27 y 36.
+
+## ¿Qué vacunas pide USCIS para el I-693?
+
+Según la edad: MMR (sarampión, paperas, rubéola), Tdap o Td, varicela, hepatitis B, influenza en temporada, polio y, en niños, las del esquema pediátrico. La vacuna contra COVID-19 ya no se exige desde el 20 de enero de 2025. Trae tu cartilla de vacunas en cualquier idioma: si tienes registro de una dosis, no la repetimos.
+
+## ¿Qué debo traer?
+
+- Identificación con foto
+- Cartilla de vacunación o registro de ImmTrac2, si lo tienes
+- Lista de alergias y medicamentos
+
+## ¿Cuáles son los efectos secundarios?
+
+Dolor o enrojecimiento en el brazo por 1 a 2 días, cansancio leve y a veces fiebre baja. No se puede contraer la gripe por la vacuna inyectable. No la aplicamos si tienes fiebre ese día o alergia grave confirmada a una dosis anterior.
+
+## ¿Cuánto cuestan las vacunas?
+
+Vacuna de influenza: $[confirmar]. Toxoide tetánico o Tdap: $[confirmar]. El precio incluye la aplicación y el registro de la dosis.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud Lawndale we administer the influenza vaccine and tetanus toxoid safely and quickly.
+    longDescriptionEn: `**We give the influenza (flu) vaccine and tetanus toxoid (Td/Tdap) without an appointment, to adults and children, every day from 9 AM to 9 PM.** At Clínica Hispana Nueva Salud Lawndale we also review and complete the vaccines required for the I-693 immigration medical exam [confirm other vaccines available].
 
-## What's included?
+## When should I get the flu vaccine?
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+Every year, ideally in September or October, before Houston's flu season starts, which runs from October to March. It is recommended from 6 months of age, and especially for adults over 65, pregnant women, people with diabetes, asthma or heart disease, and those who live with them. Protection takes about 2 weeks to develop.
 
-## Why get vaccinated
+## How often do I need a tetanus shot?
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+A Td or Tdap booster every 10 years. If you have a dirty, deep or rusty-object wound and your last dose was more than 5 years ago, you need a booster the same day. Tdap includes whooping cough protection and is recommended during every pregnancy, between weeks 27 and 36.
+
+## Which vaccines does USCIS require for the I-693?
+
+By age: MMR (measles, mumps, rubella), Tdap or Td, varicella, hepatitis B, seasonal flu, polio and, for children, the pediatric schedule. The COVID-19 vaccine is no longer required since January 20, 2025. Bring your vaccination card in any language: if you have a record of a dose, we don't repeat it.
+
+## What should I bring?
+
+- Photo ID
+- Vaccination card or ImmTrac2 record, if you have one
+- List of allergies and medications
+
+## What are the side effects?
+
+Arm soreness or redness for 1 to 2 days, mild tiredness and sometimes a low fever. You cannot get the flu from the injectable vaccine. We don't give it if you have a fever that day or a confirmed severe allergy to a previous dose.
+
+## How much do vaccines cost?
+
+Flu vaccine: $[confirm]. Tetanus toxoid or Tdap: $[confirm]. The price includes administration and dose registration.
 
 ${WHY_EN}
 
