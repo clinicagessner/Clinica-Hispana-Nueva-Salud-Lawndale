@@ -3,7 +3,7 @@ slug: "examen-dot-cdl-camioneros-houston"
 title: "Examen DOT para Camioneros Houston: Guía Completa"
 description: "Guía completa del examen físico DOT para licencia CDL en Houston TX. Requisitos, qué esperar, costo y dónde hacerlo en español. Sin cita previa."
 date: "2026-04-11"
-dateModified: "2026-08-20"
+dateModified: "2026-09-09"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/examen-dot.webp"
 featured: true
@@ -152,7 +152,7 @@ Sale de nuestra clínica con su **certificado médico DOT y tarjeta médica** en
 Ofrecemos precios competitivos sin sacrificar la calidad del examen. Aceptamos efectivo y tarjetas. Si su empresa también le pide [prueba de alcohol y drogas](/services/examen-alcohol-drogas) o un [electrocardiograma](/services/electrocardiograma), puede hacerlo todo en la misma visita.
 
 ### Ubicación Conveniente
-Estamos en **7040 Lawndale St # B, Houston, TX 77023**, cerca de la Highway 59/69, con amplio estacionamiento gratuito para camiones y vehículos grandes.
+Estamos en **7040 Lawndale St # B, Houston, TX 77023**, cerca de la I-45 (Gulf Freeway) y la Loop 610, con amplio estacionamiento gratuito para camiones y vehículos grandes.
 
 ### Experiencia con Camioneros Hispanos
 Entendemos las necesidades específicas de la comunidad de camioneros hispanos en Houston. Muchos de nuestros pacientes son conductores que confían en nosotros para sus renovaciones año tras año.

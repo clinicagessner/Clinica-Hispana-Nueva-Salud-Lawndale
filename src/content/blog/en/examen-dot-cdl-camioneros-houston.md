@@ -3,7 +3,7 @@ slug: "examen-dot-cdl-camioneros-houston"
 title: "DOT Physical Exam Houston: Truck Driver Guide"
 description: "DOT physical exam guide for CDL drivers in Houston TX: requirements, what to expect, cost and where to get it in Spanish. No appointment needed."
 date: "2026-04-11"
-dateModified: "2026-09-08"
+dateModified: "2026-09-09"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/examen-dot.webp"
 featured: true
@@ -152,7 +152,7 @@ Leave our clinic with your **DOT medical certificate and medical card** in hand.
 We offer competitive prices without sacrificing exam quality. We accept cash and cards. If your employer also requires [drug and alcohol testing](/services/examen-alcohol-drogas) or an [electrocardiogram](/services/electrocardiograma), you can get everything done in the same visit.
 
 ### Convenient Location
-We're located at **7040 Lawndale St # B, Houston, TX 77023**, near Highway 59/69, with ample free parking for trucks and large vehicles.
+We're located at **7040 Lawndale St # B, Houston, TX 77023**, near I-45 (Gulf Freeway) and Loop 610, with ample free parking for trucks and large vehicles.
 
 ### Experience with Hispanic Truck Drivers
 We understand the specific needs of Houston's Hispanic trucking community. Many of our patients are drivers who trust us for their renewals year after year.

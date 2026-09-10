@@ -1,6 +1,7 @@
 import { setRequestLocale } from "next-intl/server";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { Hero } from "@/components/sections/hero";
+import { AboutClinic } from "@/components/sections/about-clinic";
 import { Services } from "@/components/sections/services";
 import { Promotions } from "@/components/sections/promotions";
 import { ChronicCare } from "@/components/sections/chronic-care";
@@ -24,6 +25,7 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       <Hero rating={placeData?.rating} totalReviews={placeData?.totalReviews} />
+      <AboutClinic />
       <Promotions locale={locale} />
       <Services />
       <ChronicCare />
