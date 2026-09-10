@@ -35,14 +35,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "alergias": {
     faqs: [
-      { question: "¿Tratan alergias en la piel y respiratorias?", answer: "Sí, evaluamos y tratamos alergias respiratorias (rinitis, congestión) y de la piel (ronchas, comezón)." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Hacen pruebas de alergia en la piel?", answer: "No hacemos pruebas cutáneas de punción. Ofrecemos análisis de sangre para los alérgenos más comunes y, si necesitas pruebas cutáneas, te referimos a un alergólogo." },
+      { question: "¿Qué antihistamínico no da sueño?", answer: "Los de segunda generación como loratadina, cetirizina o fexofenadina. El médico elige según tu edad, otros medicamentos y si estás embarazada." },
+      { question: "¿Cuándo es una emergencia una alergia?", answer: "Si hay dificultad para respirar, hinchazón de labios, lengua o garganta, o mareo intenso. Llama al 911; no esperes a venir a la clínica." },
     ],
     faqsEn: [
-      { question: "Do you treat both skin and respiratory allergies?", answer: "Yes, we evaluate and treat respiratory allergies (rhinitis, congestion) and skin allergies (hives, itching)." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Do you do skin allergy tests?", answer: "We do not perform skin prick tests. We offer blood tests for the most common allergens and, if you need skin tests, we refer you to an allergist." },
+      { question: "Which antihistamine won't make me drowsy?", answer: "Second-generation ones such as loratadine, cetirizine or fexofenadine. The doctor chooses based on your age, other medications and pregnancy." },
+      { question: "When is an allergic reaction an emergency?", answer: "When there is difficulty breathing, swelling of the lips, tongue or throat, or severe dizziness. Call 911; do not wait to come to the clinic." },
     ],
   },
   "enfermedades-respiratorias": {
@@ -107,14 +107,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "extraccion-implantes": {
     faqs: [
-      { question: "¿Duele la extracción del implante?", answer: "Se realiza con anestesia local, por lo que las molestias son mínimas. El procedimiento toma pocos minutos." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Duele retirar el implante?", answer: "Solo el piquete de la anestesia local. Después de eso sientes presión, no dolor. La molestia leve del brazo dura unos días." },
+      { question: "¿Cuándo puedo quedar embarazada después de retirarlo?", answer: "Desde la primera semana. Si no quieres embarazarte, empieza otro método el mismo día del retiro." },
+      { question: "¿Qué pasa si el implante no se siente en el brazo?", answer: "No intentamos retirarlo a ciegas: te referimos a un ultrasonido para localizarlo y evitar dañar nervios o vasos." },
     ],
     faqsEn: [
-      { question: "Does implant removal hurt?", answer: "It's done with local anesthesia, so discomfort is minimal. The procedure takes just a few minutes." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Does implant removal hurt?", answer: "Only the pinch of the local anesthetic. After that you feel pressure, not pain. Mild arm soreness lasts a few days." },
+      { question: "How soon can I get pregnant after removal?", answer: "As early as the first week. If you don't want to get pregnant, start another method the same day it is removed." },
+      { question: "What if the implant cannot be felt in the arm?", answer: "We do not attempt a blind removal: we refer you for an ultrasound to locate it and avoid damaging nerves or vessels." },
     ],
   },
   "salud-hombre": {
@@ -155,26 +155,26 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examen-heces": {
     faqs: [
-      { question: "¿Cómo se toma la muestra de heces?", answer: "Te entregamos un recipiente e instrucciones claras para recolectar la muestra en casa y traerla a la clínica." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cuánto tiempo puedo guardar la muestra de heces?", answer: "Entrégala dentro de 2 horas. Si no puedes, en el refrigerador aguanta hasta 24 horas; nunca la congeles." },
+      { question: "¿Necesito 3 muestras para el examen de parásitos?", answer: "Una muestra detecta la mayoría de los casos, pero los parásitos se eliminan de forma intermitente; la serie de 3 muestras en días distintos aumenta la sensibilidad." },
+      { question: "¿El examen de heces detecta cáncer de colon?", answer: "La prueba de sangre oculta detecta sangrado que puede venir de pólipos o tumores. Un resultado positivo no confirma cáncer, pero sí requiere una colonoscopia, a la que te referimos." },
     ],
     faqsEn: [
-      { question: "How is the stool sample collected?", answer: "We give you a container and clear instructions to collect the sample at home and bring it to the clinic." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How long can I keep the stool sample?", answer: "Bring it within 2 hours. If you can't, it keeps in the refrigerator for up to 24 hours; never freeze it." },
+      { question: "Do I need 3 samples for the parasite test?", answer: "One sample detects most cases, but parasites are shed intermittently; a series of 3 samples on different days increases sensitivity." },
+      { question: "Does a stool test detect colon cancer?", answer: "The occult blood test detects bleeding that may come from polyps or tumors. A positive result does not confirm cancer, but it does require a colonoscopy, which we refer you for." },
     ],
   },
   "prueba-strep": {
     faqs: [
-      { question: "¿Cuánto tarda el resultado del strep test?", answer: "La prueba rápida de estreptococo da resultado en pocos minutos durante tu visita." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cuánto tarda el resultado de la prueba de estreptococo?", answer: "Entre 5 y 10 minutos. Si es positivo, sales con la receta en la misma visita." },
+      { question: "¿Cuándo puedo volver a la escuela o al trabajo?", answer: "Después de 24 horas de antibiótico y sin fiebre ya no contagias." },
+      { question: "¿Los adultos también pueden tener estreptococo?", answer: "Sí, aunque es más frecuente entre 5 y 15 años. En adultos con dolor de garganta fuerte, fiebre y sin tos también hacemos la prueba." },
     ],
     faqsEn: [
-      { question: "How long does the strep test take?", answer: "The rapid strep test gives a result in just a few minutes during your visit." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How long does the strep test take?", answer: "Between 5 and 10 minutes. If positive, you leave with the prescription at the same visit." },
+      { question: "When can I go back to school or work?", answer: "After 24 hours of antibiotics and with no fever you are no longer contagious." },
+      { question: "Can adults get strep throat too?", answer: "Yes, although it is most common between ages 5 and 15. We also test adults with a severe sore throat, fever and no cough." },
     ],
   },
   "prueba-tuberculosis": {
@@ -299,26 +299,26 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "curacion-heridas": {
     faqs: [
-      { question: "¿Hacen cambios de vendaje y seguimiento?", answer: "Sí, limpiamos, curamos y cambiamos los vendajes, y damos seguimiento hasta que la herida cicatrice." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cada cuánto hay que cambiar el vendaje?", answer: "Normalmente cada 2 a 3 días, o antes si se moja o se ensucia. El médico te indica la frecuencia según el tipo de herida." },
+      { question: "¿Puedo usar alcohol o agua oxigenada en la herida?", answer: "No. Dañan el tejido nuevo y retrasan la cicatrización. Lava con agua limpia o suero fisiológico y cubre con vendaje limpio." },
+      { question: "¿Atienden úlceras de pie diabético?", answer: "Sí, en etapa inicial. Si hay hueso expuesto, mal olor intenso o la úlcera no mejora, te referimos a un especialista en heridas o al hospital." },
     ],
     faqsEn: [
-      { question: "Do you do dressing changes and follow-up?", answer: "Yes, we clean, treat and change the dressings, and follow up until the wound heals." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How often should the dressing be changed?", answer: "Usually every 2 to 3 days, or sooner if it gets wet or dirty. The doctor tells you the frequency based on the type of wound." },
+      { question: "Can I use alcohol or hydrogen peroxide on the wound?", answer: "No. They damage new tissue and slow healing. Wash with clean water or saline and cover with a clean dressing." },
+      { question: "Do you treat diabetic foot ulcers?", answer: "Yes, in the early stage. If there is exposed bone, a strong odor or the ulcer is not improving, we refer you to a wound specialist or the hospital." },
     ],
   },
   "cirugias-menores": {
     faqs: [
-      { question: "¿Qué cirugías menores realizan?", answer: "Realizamos extracción de lunares, quistes y lipomas, entre otros procedimientos ambulatorios con anestesia local." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Retirar un lunar deja cicatriz?", answer: "Queda una marca pequeña que se atenúa en meses. Con puntos finos y buen cuidado suele ser poco visible; en la cara te referimos a cirugía plástica." },
+      { question: "¿Qué pasa con el lunar o quiste que retiran?", answer: "Si tiene aspecto sospechoso, se envía a biopsia y te llamamos con el resultado en unos [confirmar] días." },
+      { question: "¿Puedo volver a trabajar el mismo día?", answer: "Sí, en trabajos de oficina. Si tu trabajo exige esfuerzo con la zona operada, espera 24 a 48 horas." },
     ],
     faqsEn: [
-      { question: "What minor surgeries do you perform?", answer: "We perform removal of moles, cysts and lipomas, among other outpatient procedures with local anesthesia." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Does mole removal leave a scar?", answer: "A small mark that fades over months. With fine stitches and good care it is usually barely visible; for the face we refer you to plastic surgery." },
+      { question: "What happens to the removed mole or cyst?", answer: "If it looks suspicious, it is sent for biopsy and we call you with the result in about [confirm] days." },
+      { question: "Can I go back to work the same day?", answer: "Yes, for desk jobs. If your job involves strain on the treated area, wait 24 to 48 hours." },
     ],
   },
   "drenaje-abscesos": {

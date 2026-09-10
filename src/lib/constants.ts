@@ -250,7 +250,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "alergias",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "alergias",
     image: "/images/services/alergias.webp",
     shortTitle: "Alergias",
@@ -291,38 +291,72 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud Lawndale identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `**Tratamos rinitis alérgica, alergias en la piel y reacciones leves a alimentos o picaduras, sin cita y en español.** En Clínica Hispana Nueva Salud Lawndale identificamos qué desencadena tus síntomas y te damos un tratamiento para controlarlos, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cómo sé si es alergia o resfriado?
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+La alergia produce estornudos en serie, comezón en nariz, ojos y paladar, lagrimeo y congestión que dura semanas, sin fiebre. El resfriado dura de 7 a 10 días, puede dar fiebre y dolor de cuerpo. En Houston los picos de polen son de febrero a mayo (robles) y de septiembre a noviembre (ambrosía); si tus síntomas coinciden con esas fechas, casi seguro es alergia.
 
-## Cuándo consultar
+## ¿Qué alergias atendemos?
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+- **Rinitis alérgica:** por polen, polvo, ácaros, moho o mascotas.
+- **Alergias en la piel:** urticaria (ronchas), dermatitis de contacto y eccema.
+- **Reacciones leves** a alimentos, medicamentos o picaduras de insecto.
+- **Asma alérgica leve:** en coordinación con el manejo de enfermedades respiratorias.
+
+Las reacciones graves con dificultad para respirar, hinchazón de labios o lengua o mareo son una emergencia: llama al 911 o ve a la sala de emergencias más cercana.
+
+## ¿Hacen pruebas de alergia?
+
+Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más comunes de Houston [confirmar panel disponible y tiempo de resultado]. No realizamos pruebas cutáneas de punción; si las necesitas, te referimos a un alergólogo.
+
+## ¿Cuál es el tratamiento?
+
+1. **Evitar el desencadenante:** te damos una lista práctica según tu alergia.
+2. **Antihistamínicos de segunda generación** que no dan sueño.
+3. **Spray nasal de corticoide** para la congestión persistente.
+4. **Cremas o antihistamínicos** para la piel.
+5. **Referencia a inmunoterapia** (vacunas de alergia) cuando los síntomas no se controlan.
+
+## ¿Cuánto cuesta?
+
+La consulta cuesta $[confirmar]. El panel de sangre para alergias tiene un costo adicional que te informamos antes de tomarlo.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud Lawndale we identify what triggers them and help you control them so you feel well again.
+    longDescriptionEn: `**We treat allergic rhinitis, skin allergies and mild reactions to foods or insect bites, without an appointment and in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we identify what triggers your symptoms and give you a treatment to control them, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## How do I know if it's an allergy or a cold?
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+Allergies cause bursts of sneezing, itching in the nose, eyes and roof of the mouth, watery eyes and congestion that lasts weeks, without fever. A cold lasts 7 to 10 days and may cause fever and body aches. In Houston, pollen peaks run February to May (oak) and September to November (ragweed); if your symptoms match those dates, it is almost certainly an allergy.
 
-## When to seek care
+## Which allergies do we treat?
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+- **Allergic rhinitis:** from pollen, dust, dust mites, mold or pets.
+- **Skin allergies:** hives, contact dermatitis and eczema.
+- **Mild reactions** to foods, medications or insect bites.
+- **Mild allergic asthma:** coordinated with respiratory illness care.
+
+Severe reactions with difficulty breathing, swelling of the lips or tongue, or dizziness are an emergency: call 911 or go to the nearest emergency room.
+
+## Do you do allergy testing?
+
+We offer blood tests for specific IgE against the most common Houston allergens [confirm available panel and turnaround]. We do not perform skin prick tests; if you need them, we refer you to an allergist.
+
+## What is the treatment?
+
+1. **Avoid the trigger:** we give you a practical list based on your allergy.
+2. **Second-generation antihistamines** that don't cause drowsiness.
+3. **Steroid nasal spray** for persistent congestion.
+4. **Creams or antihistamines** for the skin.
+5. **Referral for immunotherapy** (allergy shots) when symptoms are not controlled.
+
+## How much does it cost?
+
+The visit costs $[confirm]. The allergy blood panel has an additional cost that we tell you before drawing it.
 
 ${WHY_EN}
 
@@ -785,7 +819,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "extraccion-implantes",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "extraccion-implantes",
     image: "/images/services/extraccion-implantes.webp",
     shortTitle: "Implantes",
@@ -826,36 +860,76 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud Lawndale lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `**Retiramos el implante anticonceptivo subdérmico (Nexplanon o similar) en una visita de unos 20 minutos, con anestesia local y sin cita.** En Clínica Hispana Nueva Salud Lawndale lo hace personal médico, en español, de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cuándo hay que retirar el implante?
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+El implante Nexplanon está aprobado por 3 años; pasado ese tiempo deja de proteger y debe retirarse o cambiarse. También se retira antes si deseas embarazarte, si tienes sangrados irregulares que no toleras, o por indicación médica. Puedes quedar embarazada desde la primera semana después del retiro.
 
-## Un procedimiento sencillo
+## ¿Cómo es el procedimiento?
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+1. Localizamos el implante por palpación en la cara interna del brazo. Si no se palpa, te referimos a un ultrasonido antes de intentar retirarlo.
+2. Aplicamos anestesia local en la zona.
+3. Hacemos una incisión de 2 a 3 milímetros y extraemos el implante con una pinza.
+4. Cerramos con cinta adhesiva estéril y colocamos un vendaje compresivo.
+
+No hace falta suturar en la mayoría de los casos. El procedimiento dura entre 10 y 20 minutos y sales caminando.
+
+## ¿Qué debo traer?
+
+- Identificación con foto
+- La tarjeta o fecha de colocación del implante, si la tienes
+- Lista de medicamentos, sobre todo anticoagulantes
+
+## ¿Cómo cuidar el brazo después?
+
+Mantén el vendaje compresivo 24 horas y la cinta estéril de 3 a 5 días. Es normal un moretón y molestia leve durante una semana. Acude si hay sangrado que no para, pus, fiebre o enrojecimiento que se extiende.
+
+## ¿Puedo ponerme uno nuevo el mismo día?
+
+Sí, si quieres seguir con el mismo método, podemos colocar un implante nuevo en la misma incisión [confirmar disponibilidad del implante en clínica]. Si prefieres otro método, te orientamos sobre pastillas, inyección o DIU en la misma consulta.
+
+## ¿Cuánto cuesta retirar el implante?
+
+La extracción cuesta $[confirmar] e incluye la consulta, la anestesia y el material. Pago en efectivo o tarjeta, sin seguro.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud Lawndale we do it safely, quickly and with care.
+    longDescriptionEn: `**We remove the contraceptive implant (Nexplanon or similar) in a visit of about 20 minutes, with local anesthesia and no appointment.** At Clínica Hispana Nueva Salud Lawndale it is done by medical staff, in Spanish or English, Monday to Sunday from 9 AM to 9 PM.
 
-## What's included?
+## When should the implant be removed?
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+Nexplanon is approved for 3 years; after that it no longer protects and must be removed or replaced. It is also removed earlier if you want to get pregnant, if you have irregular bleeding you cannot tolerate, or on medical advice. You can become pregnant as early as the first week after removal.
 
-## A simple procedure
+## How is the procedure done?
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+1. We locate the implant by feeling the inner side of the arm. If it cannot be felt, we refer you for an ultrasound before attempting removal.
+2. We apply local anesthesia to the area.
+3. We make a 2 to 3 millimeter incision and pull the implant out with forceps.
+4. We close with sterile adhesive strips and apply a pressure bandage.
+
+Stitches are not needed in most cases. The procedure takes 10 to 20 minutes and you walk out.
+
+## What should I bring?
+
+- Photo ID
+- The implant card or insertion date, if you have it
+- List of medications, especially blood thinners
+
+## How do I care for the arm afterwards?
+
+Keep the pressure bandage on for 24 hours and the sterile strips for 3 to 5 days. A bruise and mild soreness for a week are normal. Come in if there is bleeding that does not stop, pus, fever or spreading redness.
+
+## Can I get a new one the same day?
+
+Yes, if you want to continue with the same method, we can place a new implant through the same incision [confirm implant availability at the clinic]. If you prefer another method, we discuss pills, the shot or an IUD during the same visit.
+
+## How much does implant removal cost?
+
+Removal costs $[confirm] and includes the visit, anesthesia and supplies. Cash and cards accepted, no insurance needed.
 
 ${WHY_EN}
 
@@ -1155,7 +1229,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-heces",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "examen-heces",
     image: "/images/services/examen-heces.webp",
     shortTitle: "Heces",
@@ -1196,38 +1270,66 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud Lawndale realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `**El examen de heces detecta parásitos, infecciones intestinales y sangre oculta que no se ve a simple vista.** En Clínica Hispana Nueva Salud Lawndale recibes el frasco, entregas la muestra y te explicamos el resultado en español, sin cita y sin seguro.
 
-## ¿Qué incluye?
+## ¿Cuándo se necesita un examen de heces?
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+Cuando hay diarrea de más de 3 días, dolor o inflamación abdominal, gases persistentes, moco o sangre en las evacuaciones, pérdida de peso sin causa, o después de un viaje con sospecha de parásitos. También se pide para trámites de trabajo en cocinas y para revisar a los niños con dolor de estómago frecuente.
 
-## Cuándo es útil
+## ¿Qué pruebas hacemos?
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+- **Coproparasitoscópico:** busca huevos y parásitos como giardia, amebas, áscaris y oxiuros. Se recomienda en serie de 3 muestras de días distintos para mayor sensibilidad.
+- **Coprocultivo:** identifica bacterias como salmonella, shigella o E. coli cuando hay fiebre o diarrea con sangre.
+- **Sangre oculta en heces:** detecta sangrado del tubo digestivo que puede indicar úlceras, pólipos o, en mayores de 45 años, ser parte del tamizaje de cáncer de colon.
+- **Examen general de heces:** consistencia, pH, grasa y leucocitos.
+
+## ¿Cómo recoger la muestra?
+
+1. Recoge la muestra en el frasco estéril que te damos, sin que toque el agua del inodoro ni la orina.
+2. Llena aproximadamente un tercio del frasco.
+3. Entrégala en la clínica dentro de las 2 horas; si no puedes, guárdala en el refrigerador un máximo de 24 horas.
+4. Para sangre oculta, evita carne roja, ibuprofeno y vitamina C en dosis altas 3 días antes.
+
+## ¿Cuándo llegan los resultados?
+
+El examen general y el parasitoscópico tardan [confirmar] días; el coprocultivo [confirmar] días. Te llamamos con el resultado y, si hay parásito o infección, te damos la receta en la misma llamada o en consulta.
+
+## ¿Cuánto cuesta?
+
+El examen de heces cuesta $[confirmar]; la serie de 3 muestras y el coprocultivo tienen precios distintos que te informamos al entregar el frasco.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud Lawndale we perform stool tests to find the source and give you the right treatment.
+    longDescriptionEn: `**A stool test detects parasites, intestinal infections and hidden blood that cannot be seen with the naked eye.** At Clínica Hispana Nueva Salud Lawndale you pick up the container, drop off the sample and we explain the result in Spanish or English, no appointment and no insurance needed.
 
-## What's included?
+## When is a stool test needed?
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+When diarrhea lasts more than 3 days, with abdominal pain or bloating, persistent gas, mucus or blood in the stool, unexplained weight loss, or after travel with suspected parasites. It is also required for food-handler paperwork and to check children with frequent stomach aches.
 
-## When it helps
+## Which tests do we run?
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+- **Ova and parasite exam:** looks for eggs and parasites such as giardia, amoebas, roundworms and pinworms. A series of 3 samples from different days is recommended for better sensitivity.
+- **Stool culture:** identifies bacteria such as salmonella, shigella or E. coli when there is fever or bloody diarrhea.
+- **Fecal occult blood:** detects bleeding in the digestive tract that may indicate ulcers, polyps or, over age 45, be part of colon cancer screening.
+- **General stool exam:** consistency, pH, fat and white blood cells.
+
+## How do I collect the sample?
+
+1. Collect the stool in the sterile container we give you, without letting it touch toilet water or urine.
+2. Fill about a third of the container.
+3. Bring it to the clinic within 2 hours; if you can't, refrigerate it for a maximum of 24 hours.
+4. For occult blood, avoid red meat, ibuprofen and high-dose vitamin C for 3 days beforehand.
+
+## When are results ready?
+
+The general exam and the parasite exam take [confirm] days; the stool culture [confirm] days. We call you with the result and, if there is a parasite or infection, we give you the prescription on that call or at a visit.
+
+## How much does it cost?
+
+A stool test costs $[confirm]; the 3-sample series and the culture have different prices that we tell you when you pick up the container.
 
 ${WHY_EN}
 
@@ -1237,7 +1339,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-strep",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "prueba-strep",
     image: "/images/services/prueba-strep.webp",
     shortTitle: "Strep",
@@ -1278,38 +1380,66 @@ ${AREAS_EN}`,
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud Lawndale hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `**La prueba rápida de estreptococo dice en 5 a 10 minutos si tu dolor de garganta es por la bacteria Streptococcus del grupo A, que necesita antibiótico.** En Clínica Hispana Nueva Salud Lawndale la hacemos sin cita a niños y adultos, todos los días de 9 AM a 9 PM.
 
-## ¿Qué incluye?
+## ¿Cómo sé si es estreptococo o un virus?
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+La faringitis por estreptococo suele dar dolor de garganta intenso de inicio brusco, fiebre de 38 °C o más, placas blancas en las amígdalas, ganglios inflamados en el cuello y, en niños, dolor de estómago o vómito. Si hay tos, mocos y ronquera, lo más probable es un virus, y el antibiótico no ayuda. Solo la prueba lo confirma.
 
-## Cuándo hacerla
+## ¿Cómo se hace la prueba?
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+1. Pasamos un hisopo por las amígdalas y la parte de atrás de la garganta; toma unos segundos y puede dar náusea leve.
+2. El resultado rápido está en 5 a 10 minutos.
+3. Si es positivo, empiezas el antibiótico en la misma visita.
+4. Si es negativo pero los síntomas son muy sugestivos, en niños y adolescentes enviamos un cultivo de garganta, que tarda [confirmar] días.
+
+## ¿Cuál es el tratamiento?
+
+Amoxicilina o penicilina por 10 días; si eres alérgico, otra alternativa. Después de 24 horas de antibiótico ya no contagias y puedes volver a la escuela o al trabajo si no tienes fiebre. Es importante terminar los 10 días aunque te sientas bien, para evitar complicaciones como fiebre reumática.
+
+## ¿Cuándo venir el mismo día?
+
+- Fiebre alta con dolor de garganta y sin tos
+- Dificultad para tragar saliva o para abrir la boca
+- Sarpullido rojo y áspero en el cuerpo (escarlatina)
+- Un contacto en casa o en la escuela con estreptococo confirmado
+
+## ¿Cuánto cuesta la prueba de estreptococo?
+
+La consulta con prueba rápida cuesta $[confirmar]. El cultivo de garganta, si se necesita, tiene costo adicional.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud Lawndale we run the rapid strep test and give you the result and treatment the same day.
+    longDescriptionEn: `**The rapid strep test tells you in 5 to 10 minutes whether your sore throat is caused by group A Streptococcus bacteria, which need antibiotics.** At Clínica Hispana Nueva Salud Lawndale we test children and adults without an appointment, every day from 9 AM to 9 PM.
 
-## What's included?
+## How do I know if it's strep or a virus?
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+Strep throat usually causes an intense sore throat that starts suddenly, fever of 100.4 °F or higher, white patches on the tonsils, swollen neck glands and, in children, stomach pain or vomiting. If there is cough, runny nose and hoarseness, a virus is more likely and antibiotics won't help. Only the test confirms it.
 
-## When to get it
+## How is the test done?
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+1. We swab the tonsils and the back of the throat; it takes seconds and may cause brief gagging.
+2. The rapid result is ready in 5 to 10 minutes.
+3. If positive, you start antibiotics at the same visit.
+4. If negative but symptoms strongly suggest strep, in children and teens we send a throat culture, which takes [confirm] days.
+
+## What is the treatment?
+
+Amoxicillin or penicillin for 10 days; an alternative if you are allergic. After 24 hours of antibiotics you are no longer contagious and can return to school or work if you have no fever. Finishing all 10 days matters even if you feel fine, to prevent complications such as rheumatic fever.
+
+## When should I come in the same day?
+
+- High fever with sore throat and no cough
+- Trouble swallowing saliva or opening the mouth
+- A red, sandpaper-like rash on the body (scarlet fever)
+- A household or school contact with confirmed strep
+
+## How much does a strep test cost?
+
+The visit with rapid test costs $[confirm]. A throat culture, if needed, has an additional cost.
 
 ${WHY_EN}
 
@@ -2210,7 +2340,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "curacion-heridas",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "curacion-heridas",
     image: "/images/services/curacion-heridas.webp",
     shortTitle: "Curación",
@@ -2251,38 +2381,80 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud Lawndale limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `**Limpiamos, desinfectamos y vendamos heridas, quemaduras leves y úlceras, y hacemos las curaciones de seguimiento hasta que cierran.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, todos los días de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿Qué heridas atendemos?
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+- Cortadas y raspones que no necesitan puntos, o después de suturarlos
+- Heridas postoperatorias que requieren cambio de vendaje
+- Quemaduras de primer grado y de segundo grado pequeñas (menores que la palma de la mano)
+- Úlceras de pie diabético y úlceras por presión en etapa inicial
+- Heridas infectadas que necesitan limpieza y antibiótico
 
-## Para todo tipo de heridas
+Quemaduras grandes, heridas profundas con sangrado que no para, o heridas en cara o articulaciones con pérdida de movimiento van a la sala de emergencias.
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+## ¿Cómo es una curación?
+
+1. Retiramos el vendaje anterior y evaluamos el tamaño, la profundidad y los signos de infección.
+2. Limpiamos con suero fisiológico y retiramos tejido muerto si lo hay.
+3. Aplicamos el apósito adecuado: hidrocoloide, alginato, gasa con antibiótico o vendaje simple, según la herida.
+4. Te damos instrucciones por escrito y la fecha de la siguiente curación, normalmente cada 2 a 3 días.
+
+## ¿Necesito la vacuna del tétanos?
+
+Sí, si tu última dosis fue hace más de 10 años, o hace más de 5 años y la herida está sucia o fue con un objeto oxidado. La aplicamos en la misma visita.
+
+## ¿Cómo cuidar la herida en casa?
+
+Lávate las manos antes de tocarla, mantén el vendaje limpio y seco, no uses alcohol ni agua oxigenada directamente sobre la herida porque retrasan la cicatrización, y no revientes las ampollas de una quemadura. Si tienes diabetes, revisa tus pies a diario.
+
+## ¿Cuándo volver antes de la fecha?
+
+Si aparece pus, mal olor, enrojecimiento que se extiende más de 2 centímetros del borde, fiebre, o si la herida no mejora en 7 días.
+
+## ¿Cuánto cuesta?
+
+La primera curación con evaluación cuesta $[confirmar]; las curaciones de seguimiento tienen un precio menor [confirmar]. El material está incluido.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud Lawndale we clean, treat and dress your wounds, and follow you until they heal.
+    longDescriptionEn: `**We clean, disinfect and dress wounds, minor burns and ulcers, and do follow-up dressing changes until they close.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, every day from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## Which wounds do we treat?
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+- Cuts and scrapes that don't need stitches, or after stitching
+- Post-surgical wounds that need dressing changes
+- First-degree burns and small second-degree burns (smaller than the palm of the hand)
+- Diabetic foot ulcers and early-stage pressure ulcers
+- Infected wounds that need cleaning and antibiotics
 
-## For all kinds of wounds
+Large burns, deep wounds with bleeding that won't stop, or wounds on the face or joints with loss of movement belong in the emergency room.
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+## What does wound care involve?
+
+1. We remove the old dressing and assess size, depth and signs of infection.
+2. We clean with saline and remove dead tissue if present.
+3. We apply the right dressing: hydrocolloid, alginate, antibiotic gauze or a simple bandage, depending on the wound.
+4. You get written instructions and the date of the next dressing change, usually every 2 to 3 days.
+
+## Do I need a tetanus shot?
+
+Yes, if your last dose was more than 10 years ago, or more than 5 years ago and the wound is dirty or was caused by a rusty object. We give it during the same visit.
+
+## How do I care for the wound at home?
+
+Wash your hands before touching it, keep the dressing clean and dry, don't put alcohol or hydrogen peroxide directly on the wound because they slow healing, and don't pop burn blisters. If you have diabetes, check your feet every day.
+
+## When should I come back early?
+
+If there is pus, a bad smell, redness spreading more than 2 centimeters from the edge, fever, or if the wound is not improving after 7 days.
+
+## How much does it cost?
+
+The first visit with evaluation costs $[confirm]; follow-up dressing changes have a lower price [confirm]. Supplies are included.
 
 ${WHY_EN}
 
@@ -2292,7 +2464,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "cirugias-menores",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "cirugias-menores",
     image: "/images/services/cirugias-menores.webp",
     shortTitle: "Cirugías Menores",
@@ -2333,38 +2505,70 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud Lawndale realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `**Retiramos lunares, quistes sebáceos, lipomas, verrugas y otras lesiones de piel en un procedimiento ambulatorio de 20 a 45 minutos con anestesia local.** En Clínica Hispana Nueva Salud Lawndale lo hace personal médico, en español, y sales caminando el mismo día.
 
-## ¿Qué incluye?
+## ¿Qué procedimientos hacemos?
 
-- Evaluación del lunar, quiste o lesión
-- Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+- **Quistes sebáceos y epidermoides:** extracción completa con su cápsula para que no vuelvan a salir.
+- **Lipomas:** bultos de grasa bajo la piel, generalmente en espalda, brazos o cuello.
+- **Lunares y verrugas:** retiro por rasurado o extirpación; si el lunar tiene aspecto sospechoso se envía a biopsia.
+- **Uñas encarnadas, abscesos y suturas:** ver sus páginas específicas.
 
-## Rápido y seguro
+No hacemos procedimientos que requieran anestesia general ni lesiones en la cara que precisen cirujano plástico; en esos casos te referimos.
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+## ¿Cómo es la visita?
+
+1. El médico revisa la lesión, su tamaño y su ubicación, y decide si se puede retirar en clínica.
+2. Se limpia la zona y se aplica anestesia local; solo sientes el piquete inicial.
+3. Se retira la lesión y, si hace falta, se cierra con puntos.
+4. Recibes indicaciones por escrito y la fecha para retirar los puntos, normalmente entre 7 y 14 días.
+
+## ¿Cuándo conviene retirar un lunar?
+
+Cuando cambia de tamaño, color o forma, tiene bordes irregulares, mide más de 6 milímetros, sangra o pica. Estas señales no siempre son cáncer, pero justifican retirarlo y analizarlo. El resultado de la biopsia tarda [confirmar] días.
+
+## ¿Qué cuidados necesito después?
+
+Mantén la herida seca 24 a 48 horas, cambia el vendaje a diario y evita esfuerzo con esa parte del cuerpo hasta retirar los puntos. Acude si hay sangrado abundante, pus, fiebre o enrojecimiento que crece.
+
+## ¿Cuánto cuesta una cirugía menor?
+
+El precio depende del tipo y tamaño de la lesión: desde $[confirmar]. Incluye anestesia, material, retiro de puntos y, si aplica, el envío a biopsia [confirmar si la biopsia tiene costo aparte].
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud Lawndale we perform minor outpatient surgery with local anesthesia, in a single day.
+    longDescriptionEn: `**We remove moles, sebaceous cysts, lipomas, warts and other skin lesions in an outpatient procedure of 20 to 45 minutes under local anesthesia.** At Clínica Hispana Nueva Salud Lawndale it is done by medical staff, in Spanish or English, and you walk out the same day.
 
-## What's included?
+## Which procedures do we perform?
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+- **Sebaceous and epidermoid cysts:** complete removal with the capsule so they don't come back.
+- **Lipomas:** fatty lumps under the skin, usually on the back, arms or neck.
+- **Moles and warts:** shave or excision removal; a suspicious-looking mole is sent for biopsy.
+- **Ingrown toenails, abscesses and stitches:** see their own pages.
 
-## Fast and safe
+We do not perform procedures that require general anesthesia or facial lesions that need a plastic surgeon; in those cases we refer you.
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+## What is the visit like?
+
+1. The doctor examines the lesion, its size and location, and decides whether it can be removed in clinic.
+2. The area is cleaned and local anesthesia is applied; you only feel the initial pinch.
+3. The lesion is removed and, if needed, closed with stitches.
+4. You receive written instructions and the date to remove the stitches, usually 7 to 14 days later.
+
+## When should a mole be removed?
+
+When it changes in size, color or shape, has irregular edges, measures more than 6 millimeters, bleeds or itches. These signs are not always cancer, but they justify removing and analyzing it. Biopsy results take [confirm] days.
+
+## What care do I need afterwards?
+
+Keep the wound dry for 24 to 48 hours, change the dressing daily and avoid strain on that body part until the stitches are out. Come in if there is heavy bleeding, pus, fever or spreading redness.
+
+## How much does minor surgery cost?
+
+The price depends on the type and size of the lesion: from $[confirm]. It includes anesthesia, supplies, stitch removal and, when applicable, sending the sample for biopsy [confirm whether biopsy is billed separately].
 
 ${WHY_EN}
 
