@@ -39,6 +39,7 @@ import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
 import { getPostsLinkingToService } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
+import { ServiceContent } from "@/components/services/service-content";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -245,7 +246,7 @@ export default async function ServicePage({ params }: Props) {
         <section className="py-12 md:py-16">
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
-              <ServiceContent content={service.longDescription} />
+              <ServiceContent content={service.longDescription} locale={locale} />
             </div>
           </div>
         </section>
@@ -450,88 +451,3 @@ export default async function ServicePage({ params }: Props) {
   );
 }
 
-function ServiceContent({ content }: { content: string }) {
-  const sections = content.split("\n\n");
-
-  return (
-    <div className="space-y-6">
-      {sections.map((section, i) => {
-        const trimmed = section.trim();
-
-        // "## Title" → real <h2> (los bloques WHY/PAYMENT/AREAS y las secciones
-        // del longDescription usan esta sintaxis; Google debe verlos como headings)
-        if (trimmed.startsWith("## ")) {
-          return (
-            <h2
-              key={i}
-              className="text-xl md:text-2xl font-heading font-bold text-slate-dark flex items-center gap-2"
-            >
-              <span className="size-1.5 rounded-full bg-blue-primary shrink-0" />
-              {trimmed.replace(/^## /, "")}
-            </h2>
-          );
-        }
-
-        // List block: consecutive "- item" lines
-        if (trimmed.startsWith("- ")) {
-          const items = trimmed
-            .split("\n")
-            .filter((l) => l.startsWith("- "))
-            .map((l) => l.replace(/^- /, ""));
-          return (
-            <ul key={i} className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
-              {items.map((item, j) => (
-                <li key={j} className="flex items-start gap-2.5 text-slate-600">
-                  <CheckCircle className="size-4 text-blue-primary shrink-0 mt-1" weight="fill" />
-                  <span className="text-sm md:text-base">{item}</span>
-                </li>
-              ))}
-            </ul>
-          );
-        }
-
-        // Section with heading: **Title**\n content
-        if (trimmed.startsWith("**")) {
-          const lines = trimmed.split("\n");
-          const headingMatch = lines[0].match(/^\*\*(.*?)\*\*$/);
-          const heading = headingMatch ? headingMatch[1] : lines[0].replace(/\*\*/g, "");
-          const listItems = lines.slice(1).filter((l) => l.startsWith("- ")).map((l) => l.replace(/^- /, ""));
-          const paragraphs = lines.slice(1).filter((l) => !l.startsWith("- ") && l.trim());
-
-          return (
-            <div key={i}>
-              <h3 className="text-lg md:text-xl font-heading font-bold text-slate-dark mb-3 flex items-center gap-2">
-                <span className="size-1.5 rounded-full bg-blue-primary shrink-0" />
-                {heading}
-              </h3>
-              {listItems.length > 0 && (
-                <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
-                  {listItems.map((item, j) => (
-                    <li key={j} className="flex items-start gap-2.5 text-slate-600">
-                      <CheckCircle className="size-4 text-blue-primary shrink-0 mt-1" weight="fill" />
-                      <span className="text-sm md:text-base">{item}</span>
-                    </li>
-                  ))}
-                </ul>
-              )}
-              {paragraphs.map((p, j) => (
-                <p key={j} className="text-slate-600 leading-relaxed mt-2 ml-4 text-sm md:text-base">{p}</p>
-              ))}
-            </div>
-          );
-        }
-
-        // Regular paragraph
-        if (trimmed) {
-          return (
-            <p key={i} className="text-slate-600 leading-relaxed text-sm md:text-base">
-              {trimmed}
-            </p>
-          );
-        }
-
-        return null;
-      })}
-    </div>
-  );
-}
