@@ -73,24 +73,24 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     faqs: [
       { question: "¿A partir de qué edad y cada cuánto se hace el papanicolaou?", answer: "Desde los 21 años. De 21 a 29 cada 3 años; de 30 a 65 cada 3 años, o cada 5 si se combina con la prueba de VPH. Con resultados anormales previos, el intervalo es más corto." },
       { question: "¿Puedo hacerme el papanicolaou si tengo la regla?", answer: "Es mejor esperar a que termine, porque la sangre puede alterar la muestra. Si tienes síntomas de infección, ven de todos modos y te atendemos el mismo día." },
-      { question: "¿Cuánto tardan los resultados del cultivo vaginal?", answer: "Aproximadamente [confirmar] días. Te llamamos con el resultado y, si hay infección, te enviamos la receta sin necesidad de otra consulta." },
+      { question: "¿Cuánto tardan los resultados del cultivo vaginal?", answer: "Unos días, porque se procesa en laboratorio. Te llamamos con el resultado y, si hay infección, te enviamos la receta sin necesidad de otra consulta." },
     ],
     faqsEn: [
       { question: "At what age and how often should I get a Pap smear?", answer: "From age 21. Ages 21 to 29 every 3 years; ages 30 to 65 every 3 years, or every 5 years combined with an HPV test. With previous abnormal results, the interval is shorter." },
       { question: "Can I get a Pap smear during my period?", answer: "It is better to wait until it ends, because blood can affect the sample. If you have infection symptoms, come anyway and we see you the same day." },
-      { question: "How long do vaginal culture results take?", answer: "About [confirm] days. We call you with the result and, if there is an infection, we send the prescription without another visit." },
+      { question: "How long do vaginal culture results take?", answer: "A few days, because it is processed at the lab. We call you with the result and, if there is an infection, we send the prescription without another visit." },
     ],
   },
   "prueba-embarazo": {
     faqs: [
       { question: "¿Desde cuándo detecta el embarazo la prueba de sangre?", answer: "Desde 7 a 10 días después de la concepción, antes del retraso de la regla. La de orina es confiable desde el primer día de retraso." },
       { question: "¿Me dan una constancia de embarazo?", answer: "Sí, el mismo día, con las semanas de gestación y la fecha probable de parto, válida para trabajo, escuela, Medicaid o WIC." },
-      { question: "¿Hacen ultrasonido para confirmar el embarazo?", answer: "A partir de las 6 semanas se puede ver el saco y el latido [confirmar disponibilidad]. Antes de eso, la prueba de sangre es el método más preciso." },
+      { question: "¿Hacen ultrasonido para confirmar el embarazo?", answer: "A partir de las 6 semanas se puede ver el saco y el latido. Antes de eso, la prueba de sangre es el método más preciso." },
     ],
     faqsEn: [
       { question: "How early does the blood test detect pregnancy?", answer: "From 7 to 10 days after conception, before a missed period. The urine test is reliable from the first day of a missed period." },
       { question: "Do you give a proof of pregnancy letter?", answer: "Yes, the same day, with weeks of gestation and due date, valid for work, school, Medicaid or WIC." },
-      { question: "Do you do an ultrasound to confirm pregnancy?", answer: "From 6 weeks on, the sac and heartbeat can be seen [confirm availability]. Before that, the blood test is the most accurate method." },
+      { question: "Do you do an ultrasound to confirm pregnancy?", answer: "From 6 weeks on, the sac and heartbeat can be seen. Before that, the blood test is the most accurate method." },
     ],
   },
   "anticonceptivos": {
@@ -144,12 +144,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "infecciones-urinarias": {
     faqs: [
       { question: "¿Cuánto tarda el resultado del examen de orina?", answer: "Minutos. Hacemos la tira reactiva y el microscopio en la clínica, así que el médico decide el tratamiento en la misma visita." },
-      { question: "¿Cuándo hace falta un urocultivo?", answer: "Cuando la infección se repite, no mejora en 72 horas, o si estás embarazada, eres hombre o tienes diabetes. Tarda [confirmar] días e indica el antibiótico más efectivo." },
+      { question: "¿Cuándo hace falta un urocultivo?", answer: "Cuando la infección se repite, no mejora en 72 horas, o si estás embarazada, eres hombre o tienes diabetes. Tarda unos días e indica el antibiótico más efectivo." },
       { question: "¿Una infección urinaria se quita sola?", answer: "Rara vez, y sin tratamiento puede subir al riñón. Con fiebre, escalofríos o dolor en la espalda baja, ven el mismo día." },
     ],
     faqsEn: [
       { question: "How long does the urine test take?", answer: "Minutes. We do the dipstick and microscope test in the clinic, so the doctor decides the treatment during the same visit." },
-      { question: "When is a urine culture needed?", answer: "When the infection keeps coming back, does not improve within 72 hours, or if you are pregnant, male or diabetic. It takes [confirm] days and shows the most effective antibiotic." },
+      { question: "When is a urine culture needed?", answer: "When the infection keeps coming back, does not improve within 72 hours, or if you are pregnant, male or diabetic. It takes a few days and shows the most effective antibiotic." },
       { question: "Does a UTI go away on its own?", answer: "Rarely, and without treatment it can spread to the kidney. With fever, chills or lower back pain, come in the same day." },
     ],
   },
@@ -203,13 +203,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examen-alcohol-drogas": {
     faqs: [
-      { question: "¿Cuánto tarda el resultado de la prueba de drogas?", answer: "El resultado rápido en orina está en 10 a 15 minutos. Una confirmación de laboratorio, si se requiere, tarda [confirmar] días." },
-      { question: "¿Hacen pruebas de drogas para DOT?", answer: "Sí, en la misma visita del examen físico DOT [confirmar registro como sitio de colección DOT]. Trae el formulario de tu empresa." },
+      { question: "¿Cuánto tarda el resultado de la prueba de drogas?", answer: "El resultado rápido en orina está en 10 a 15 minutos. Una confirmación de laboratorio, si se requiere, tarda unos días." },
+      { question: "¿Hacen pruebas de drogas para DOT?", answer: "Sí, la prueba rápida en la misma visita del examen físico DOT. Trae el formulario de tu empresa y dinos si exige cadena de custodia federal." },
       { question: "¿Mis medicamentos recetados pueden dar positivo?", answer: "Sí, algunos analgésicos, ansiolíticos y medicamentos para el TDAH. Trae la receta y lo dejamos documentado en el resultado." },
     ],
     faqsEn: [
-      { question: "How long does a drug test take?", answer: "The rapid urine result is ready in 10 to 15 minutes. Lab confirmation, if required, takes [confirm] days." },
-      { question: "Do you do DOT drug testing?", answer: "Yes, at the same visit as the DOT physical [confirm DOT collection site registration]. Bring your company's form." },
+      { question: "How long does a drug test take?", answer: "The rapid urine result is ready in 10 to 15 minutes. Lab confirmation, if required, takes a few days." },
+      { question: "Do you do DOT drug testing?", answer: "Yes, the rapid test at the same visit as the DOT physical. Bring your company's form and let us know if it requires federal chain of custody." },
       { question: "Can my prescription medications test positive?", answer: "Yes, some painkillers, anxiety medications and ADHD medications. Bring the prescription and we document it with the result." },
     ],
   },
@@ -252,12 +252,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examenes-inmigracion": {
     faqs: [
       { question: "¿Cómo verifico que el médico es Civil Surgeon autorizado?", answer: "En la herramienta oficial \"Find a Doctor\" de uscis.gov, buscando por código postal 77023. Solo un Civil Surgeon designado puede firmar el I-693." },
-      { question: "¿El examen I-693 se entrega el mismo día?", answer: "El examen físico y las vacunas se hacen el mismo día. El sobre sellado se entrega cuando llega el resultado de la prueba de tuberculosis, en unos [confirmar] días." },
+      { question: "¿El examen I-693 se entrega el mismo día?", answer: "El examen físico y las vacunas se hacen el mismo día. El sobre sellado se entrega cuando llega el resultado de la prueba de tuberculosis, en unos días." },
       { question: "¿Necesito la vacuna contra COVID-19 para el I-693?", answer: "No. Desde el 20 de enero de 2025 USCIS ya no la exige. Sí revisamos MMR, Tdap, varicela, hepatitis B e influenza en temporada." },
     ],
     faqsEn: [
       { question: "How do I verify the doctor is an authorized Civil Surgeon?", answer: "In the official USCIS \"Find a Doctor\" tool on uscis.gov, searching by ZIP code 77023. Only a designated Civil Surgeon can sign the I-693." },
-      { question: "Is the I-693 delivered the same day?", answer: "The physical exam and vaccines are done the same day. The sealed envelope is delivered when the TB test result arrives, in about [confirm] days." },
+      { question: "Is the I-693 delivered the same day?", answer: "The physical exam and vaccines are done the same day. The sealed envelope is delivered when the TB test result arrives, in a few days." },
       { question: "Do I need the COVID-19 vaccine for the I-693?", answer: "No. Since January 20, 2025 USCIS no longer requires it. We do review MMR, Tdap, varicella, hepatitis B and seasonal flu." },
     ],
   },
@@ -312,12 +312,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "cirugias-menores": {
     faqs: [
       { question: "¿Retirar un lunar deja cicatriz?", answer: "Queda una marca pequeña que se atenúa en meses. Con puntos finos y buen cuidado suele ser poco visible; en la cara te referimos a cirugía plástica." },
-      { question: "¿Qué pasa con el lunar o quiste que retiran?", answer: "Si tiene aspecto sospechoso, se envía a biopsia y te llamamos con el resultado en unos [confirmar] días." },
+      { question: "¿Qué pasa con el lunar o quiste que retiran?", answer: "Si tiene aspecto sospechoso, se envía a biopsia y te llamamos con el resultado en unas semanas." },
       { question: "¿Puedo volver a trabajar el mismo día?", answer: "Sí, en trabajos de oficina. Si tu trabajo exige esfuerzo con la zona operada, espera 24 a 48 horas." },
     ],
     faqsEn: [
       { question: "Does mole removal leave a scar?", answer: "A small mark that fades over months. With fine stitches and good care it is usually barely visible; for the face we refer you to plastic surgery." },
-      { question: "What happens to the removed mole or cyst?", answer: "If it looks suspicious, it is sent for biopsy and we call you with the result in about [confirm] days." },
+      { question: "What happens to the removed mole or cyst?", answer: "If it looks suspicious, it is sent for biopsy and we call you with the result in a few weeks." },
       { question: "Can I go back to work the same day?", answer: "Yes, for desk jobs. If your job involves strain on the treated area, wait 24 to 48 hours." },
     ],
   },
@@ -347,12 +347,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "farmacia": {
     faqs: [
-      { question: "¿Puedo surtir en la clínica una receta de otro médico?", answer: "No [confirmar]. Solo entregamos medicamentos recetados por nuestros médicos en la consulta del día." },
+      { question: "¿Puedo surtir en la clínica una receta de otro médico?", answer: "No. Solo entregamos medicamentos recetados por nuestros médicos en la consulta del día." },
       { question: "¿Tienen medicamentos genéricos?", answer: "Sí, siempre que existan. Son el mismo principio activo a menor precio y te decimos el costo antes de pagar." },
       { question: "¿Qué pasa si no tienen mi medicamento?", answer: "Te entregamos la receta impresa para surtirla en cualquier farmacia y te indicamos dónde conseguirla al mejor precio." },
     ],
     faqsEn: [
-      { question: "Can I fill a prescription from another doctor at the clinic?", answer: "No [confirm]. We only provide medications prescribed by our doctors at that day's visit." },
+      { question: "Can I fill a prescription from another doctor at the clinic?", answer: "No. We only provide medications prescribed by our doctors at that day's visit." },
       { question: "Do you have generic medications?", answer: "Yes, whenever they exist. Same active ingredient at a lower price, and we tell you the cost before you pay." },
       { question: "What if you don't have my medication?", answer: "We give you a printed prescription to fill at any pharmacy and tell you where to get it at the best price." },
     ],

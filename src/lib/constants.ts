@@ -139,7 +139,7 @@ Muchas veces no dan síntomas hasta que hay daño. Los valores que usamos para e
 - **Plan de tratamiento:** medicamentos genéricos accesibles, metas personales de glucosa, presión y colesterol, y un plan de alimentación adaptado a la comida latina.
 - **Consultas de seguimiento cada 3 meses** con A1C y ajuste de dosis; cada 6 a 12 meses, perfil de lípidos y función renal.
 - **Revisión anual** de pies y referencia para examen de retina en pacientes con diabetes.
-- **Recetas y refills** sin necesidad de una consulta completa cada vez [confirmar política de refills].
+- **Recetas y refills:** llama antes para verificar disponibilidad y evitar una consulta completa cada vez.
 
 ## ¿Cuáles son las metas del tratamiento?
 
@@ -151,7 +151,7 @@ La diabetes y la presión alta mal controladas dañan con los años el corazón,
 
 ## ¿Cuánto cuesta el control de enfermedades crónicas?
 
-La consulta cuesta $[confirmar] y los análisis de seguimiento tienen precio individual; el paquete de chequeo general con A1C aparece en nuestras promociones. Trabajamos con medicamentos genéricos de bajo costo.
+El paquete de Chequeo General Completo (examen general de sangre, A1C y examen de orina, con consulta médica gratis) cuesta $99 en nuestras promociones vigentes. Los análisis de seguimiento tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico. Trabajamos con medicamentos genéricos de bajo costo.
 
 ${WHY_ES}
 
@@ -170,7 +170,7 @@ They often cause no symptoms until damage is done. We use the diagnostic values 
 - **Treatment plan:** affordable generic medications, personal goals for glucose, blood pressure and cholesterol, and an eating plan adapted to Latino food.
 - **Follow-up visits every 3 months** with A1C and dose adjustment; every 6 to 12 months, a lipid panel and kidney function.
 - **Yearly foot check** and referral for a retina exam in patients with diabetes.
-- **Prescriptions and refills** without a full visit every time [confirm refill policy].
+- **Prescriptions and refills:** call ahead to check availability and avoid a full visit every time.
 
 ## What are the treatment goals?
 
@@ -182,7 +182,7 @@ Poorly controlled diabetes and high blood pressure damage the heart, kidneys, ey
 
 ## How much does chronic disease care cost?
 
-The visit costs $[confirm] and follow-up tests are priced individually; the general checkup package with A1C appears in our promotions. We work with low-cost generic medications.
+The Complete General Checkup package (blood panel, A1C and urinalysis, with a free medical visit) costs $99 in our current promotions. Follow-up tests are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed. We work with low-cost generic medications.
 
 ${WHY_EN}
 
@@ -249,7 +249,7 @@ Un bulto en el cuello o dificultad para tragar requieren un ultrasonido de tiroi
 3. **Anticuerpos anti-TPO:** cuando se sospecha tiroiditis de Hashimoto, la causa más frecuente de hipotiroidismo.
 4. **Ultrasonido de tiroides:** si hay nódulos o crecimiento de la glándula.
 
-No necesitas ayuno. El resultado de TSH tarda [confirmar] días.
+No necesitas ayuno. Te llamamos en cuanto el resultado de TSH esté listo.
 
 ## ¿Cuál es el tratamiento?
 
@@ -261,7 +261,7 @@ Sí, si tienes síntomas, antecedentes familiares o ya tomas levotiroxina: en el
 
 ## ¿Cuánto cuesta el examen de tiroides?
 
-El perfil tiroideo (TSH, T4 libre y T3) cuesta $[confirmar]; la consulta y el ultrasonido tienen precio aparte. Pago en efectivo o tarjeta.
+El perfil tiroideo, la consulta y el ultrasonido tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -284,7 +284,7 @@ A lump in the neck or trouble swallowing calls for a thyroid ultrasound, which w
 3. **Anti-TPO antibodies:** when Hashimoto's thyroiditis, the most common cause of hypothyroidism, is suspected.
 4. **Thyroid ultrasound:** if there are nodules or an enlarged gland.
 
-No fasting needed. TSH results take [confirm] days.
+No fasting needed. We call you as soon as the TSH result is ready.
 
 ## What is the treatment?
 
@@ -296,7 +296,7 @@ Yes, if you have symptoms, family history or already take levothyroxine: during 
 
 ## How much does a thyroid test cost?
 
-The thyroid panel (TSH, free T4 and T3) costs $[confirm]; the visit and ultrasound are priced separately. Cash and cards accepted.
+The thyroid panel, the visit and the ultrasound are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -364,7 +364,7 @@ Las reacciones graves con dificultad para respirar, hinchazón de labios o lengu
 
 ## ¿Hacen pruebas de alergia?
 
-Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más comunes de Houston [confirmar panel disponible y tiempo de resultado]. No realizamos pruebas cutáneas de punción; si las necesitas, te referimos a un alergólogo.
+Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más comunes de Houston; pregúntanos por el panel disponible. No realizamos pruebas cutáneas de punción; si las necesitas, te referimos a un alergólogo.
 
 ## ¿Cuál es el tratamiento?
 
@@ -376,7 +376,7 @@ Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más 
 
 ## ¿Cuánto cuesta?
 
-La consulta cuesta $[confirmar]. El panel de sangre para alergias tiene un costo adicional que te informamos antes de tomarlo.
+La consulta y el panel de sangre para alergias tienen precio individual, que te informamos antes de tomar la muestra. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -400,7 +400,7 @@ Severe reactions with difficulty breathing, swelling of the lips or tongue, or d
 
 ## Do you do allergy testing?
 
-We offer blood tests for specific IgE against the most common Houston allergens [confirm available panel and turnaround]. We do not perform skin prick tests; if you need them, we refer you to an allergist.
+We offer blood tests for specific IgE against the most common Houston allergens; ask us about the available panel. We do not perform skin prick tests; if you need them, we refer you to an allergist.
 
 ## What is the treatment?
 
@@ -412,7 +412,7 @@ We offer blood tests for specific IgE against the most common Houston allergens 
 
 ## How much does it cost?
 
-The visit costs $[confirm]. The allergy blood panel has an additional cost that we tell you before drawing it.
+The visit and the allergy blood panel are priced individually, and we tell you the cost before drawing the sample. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -492,7 +492,7 @@ Fiebre de 39 °C o más que no baja, dificultad para respirar, dolor en el pecho
 
 ## ¿Cuánto cuesta?
 
-La consulta cuesta $[confirmar] y la prueba combinada de flu y COVID $[confirmar]. Pago en efectivo o tarjeta.
+La consulta y la prueba combinada de flu y COVID tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -528,7 +528,7 @@ Fever of 102 °F or higher that won't come down, difficulty breathing, chest pai
 
 ## How much does it cost?
 
-The visit costs $[confirm] and the combined flu and COVID test $[confirm]. Cash and cards accepted.
+The visit and the combined flu and COVID test are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -608,11 +608,11 @@ Si detectamos un soplo cardiaco, presión alta o una lesión que no ha sanado, i
 
 ## ¿Incluye vacunas?
 
-El examen físico y las vacunas son servicios distintos. Si el registro escolar exige vacunas que faltan, aplicamos influenza y Tdap en la misma visita [confirmar otras vacunas disponibles]; las demás te indicamos dónde conseguirlas.
+El examen físico y las vacunas son servicios distintos. Si el registro escolar exige vacunas que faltan, aplicamos influenza y Tdap en la misma visita; para las demás te indicamos dónde conseguirlas.
 
 ## ¿Cuánto cuesta el examen físico escolar o deportivo?
 
-El examen con formulario firmado cuesta $[confirmar]. Pago en efectivo o tarjeta, sin seguro. En julio y agosto la demanda es alta: ven temprano para evitar espera.
+El examen incluye el formulario firmado. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico. En julio y agosto la demanda es alta: ven temprano para evitar espera.
 
 ${WHY_ES}
 
@@ -648,11 +648,11 @@ If we find a heart murmur, high blood pressure or an injury that has not healed,
 
 ## Does it include vaccines?
 
-The physical and vaccines are separate services. If school enrollment requires missing vaccines, we give flu and Tdap at the same visit [confirm other vaccines available]; for the rest we tell you where to get them.
+The physical and vaccines are separate services. If school enrollment requires missing vaccines, we give flu and Tdap at the same visit; for the rest we tell you where to get them.
 
 ## How much does a school or sports physical cost?
 
-The exam with signed form costs $[confirm]. Cash and cards accepted, no insurance needed. Demand is high in July and August: come early to avoid waiting.
+The exam includes the signed form. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed. Demand is high in July and August: come early to avoid waiting.
 
 ${WHY_EN}
 
@@ -708,7 +708,7 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `**Atención ginecológica sin cita, en español y con privacidad: papanicolaou, cultivos vaginales y tratamiento de infecciones el mismo día.** En Clínica Hispana Nueva Salud Lawndale te atiende [confirmar: médica o médico] de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro.
+    longDescription: `**Atención ginecológica sin cita, en español y con privacidad: papanicolaou, cultivos vaginales y tratamiento de infecciones el mismo día.** En Clínica Hispana Nueva Salud Lawndale te atendemos de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro.
 
 ## ¿Cada cuánto debo hacerme el papanicolaou?
 
@@ -725,7 +725,7 @@ Según las guías de prevención de Estados Unidos, de los 21 a los 29 años se 
 
 ## ¿Cuándo llegan los resultados?
 
-El cultivo vaginal tarda [confirmar] días y el papanicolaou entre [confirmar] días. Te llamamos cuando están listos y, si hay que tratar algo, te damos la receta sin una segunda consulta.
+El cultivo vaginal y el papanicolaou se procesan en laboratorio y tardan unos días. Te llamamos cuando están listos y, si hay que tratar algo, te damos la receta sin una segunda consulta.
 
 ## ¿Qué síntomas justifican un cultivo vaginal?
 
@@ -740,14 +740,14 @@ Comezón, ardor, flujo con color o cantidad distinta a lo habitual, mal olor o d
 
 ## ¿Cuánto cuesta la consulta de ginecología?
 
-La consulta cuesta $[confirmar]; el papanicolaou y el cultivo tienen un costo adicional que te informamos antes de realizarlos. Consulta nuestras promociones vigentes de salud íntima femenina y chequeo completo de la mujer.
+Promociones vigentes: Salud Íntima Femenina por $69 (cultivo íntimo, consulta médica y examen de orina) y Chequeo Completo de la Mujer por $179. Fuera de esos paquetes, la consulta, el papanicolaou y el cultivo tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**Walk-in gynecology care, in Spanish or English and with privacy: Pap smear, vaginal cultures and same-day treatment of infections.** At Clínica Hispana Nueva Salud Lawndale you are seen by [confirm: female or male physician] Monday to Sunday from 9 AM to 9 PM, no insurance needed.
+    longDescriptionEn: `**Walk-in gynecology care, in Spanish or English and with privacy: Pap smear, vaginal cultures and same-day treatment of infections.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, no insurance needed.
 
 ## How often should I get a Pap smear?
 
@@ -764,7 +764,7 @@ Under U.S. preventive guidelines, women aged 21 to 29 should have a Pap smear ev
 
 ## When do results come back?
 
-The vaginal culture takes [confirm] days and the Pap smear [confirm] days. We call you when they are ready and, if something needs treatment, we send the prescription without a second visit.
+The vaginal culture and the Pap smear are processed at the lab and take a few days. We call you when they are ready and, if something needs treatment, we send the prescription without a second visit.
 
 ## Which symptoms call for a vaginal culture?
 
@@ -779,7 +779,7 @@ Itching, burning, discharge that differs in color or amount from your usual, odo
 
 ## How much does a gynecology visit cost?
 
-The visit costs $[confirm]; the Pap smear and culture have an additional cost that we tell you before performing them. See our current women's intimate health and complete women's checkup promotions.
+Current promotions: Women's Intimate Health for $69 (intimate culture, medical visit and urine test) and Complete Women's Checkup for $179. Outside those packages, the visit, Pap smear and culture are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -838,11 +838,11 @@ La prueba de orina en clínica detecta la hormona hCG desde el primer día de re
 
 ## ¿Qué incluye la visita?
 
-1. **Prueba de orina** con resultado en 5 minutos, o **prueba de sangre** con resultado en [confirmar] horas.
+1. **Prueba de orina** con resultado en 5 minutos, o **prueba de sangre** cuantitativa, cuyo resultado te llamamos a dar en cuanto llega del laboratorio.
 2. **Consulta médica** para calcular las semanas de embarazo y la fecha probable de parto a partir de tu última regla.
 3. **Constancia de embarazo** para tu trabajo, escuela, Medicaid o WIC.
 4. **Análisis iniciales** si lo deseas: grupo sanguíneo, hemoglobina, glucosa, VIH, sífilis y hepatitis B, los mismos que pide el control prenatal.
-5. **Ultrasonido** para confirmar que el embarazo está en el útero y ver el latido, a partir de las 6 semanas [confirmar disponibilidad de ultrasonido obstétrico].
+5. **Ultrasonido** para confirmar que el embarazo está en el útero y ver el latido, a partir de las 6 semanas.
 
 ## ¿Qué hago después de confirmar el embarazo?
 
@@ -858,7 +858,7 @@ Sí. El resultado se entrega solo a ti. Si eres menor de edad, te explicamos tus
 
 ## ¿Cuánto cuesta la prueba de embarazo?
 
-Prueba de orina con consulta: $[confirmar]. Prueba de sangre cuantitativa: $[confirmar]. Pago en efectivo o tarjeta.
+La prueba de orina con consulta y la prueba de sangre cuantitativa tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -873,11 +873,11 @@ The clinic urine test detects the hCG hormone from the first day of a missed per
 
 ## What does the visit include?
 
-1. **Urine test** with results in 5 minutes, or **blood test** with results in [confirm] hours.
+1. **Urine test** with results in 5 minutes, or **quantitative blood test**, and we call you with the result as soon as it comes back from the lab.
 2. **Medical visit** to calculate how many weeks pregnant you are and your due date from your last period.
 3. **Proof of pregnancy letter** for work, school, Medicaid or WIC.
 4. **Initial labs** if you wish: blood type, hemoglobin, glucose, HIV, syphilis and hepatitis B, the same ones prenatal care requires.
-5. **Ultrasound** to confirm the pregnancy is in the uterus and see the heartbeat, from 6 weeks on [confirm obstetric ultrasound availability].
+5. **Ultrasound** to confirm the pregnancy is in the uterus and see the heartbeat, from 6 weeks on.
 
 ## What should I do after confirming?
 
@@ -893,7 +893,7 @@ Yes. The result is given only to you. If you are a minor, we explain your option
 
 ## How much does a pregnancy test cost?
 
-Urine test with visit: $[confirm]. Quantitative blood test: $[confirm]. Cash and cards accepted.
+The urine test with visit and the quantitative blood test are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -954,7 +954,7 @@ ${AREAS_EN}`,
 | Inyección (Depo-Provera) | Cada 12 a 13 semanas en la clínica | 96 % |
 | Parche o anillo | Semanal o mensual | 93 % |
 | Implante subdérmico | Dura 3 años | Más del 99 % |
-| DIU | Dura de 3 a 10 años | Más del 99 % (te referimos para colocación) [confirmar si se coloca en clínica] |
+| DIU | Dura de 3 a 10 años | Más del 99 % (te referimos para la colocación) |
 | Píldora del día siguiente | Hasta 72 a 120 horas después | Emergencia, no de uso regular |
 
 Ningún método hormonal protege contra infecciones de transmisión sexual; para eso, condón.
@@ -971,12 +971,12 @@ Si empiezas las pastillas, el parche o el anillo en los primeros 5 días de la r
 
 1. Consulta y prueba de embarazo si hay dudas.
 2. Toma de presión y revisión de contraindicaciones.
-3. Aplicación de la inyección o colocación del implante en la misma visita [confirmar disponibilidad del implante], o receta de pastillas, parche o anillo.
+3. Aplicación de la inyección o colocación del implante en la misma visita, o receta de pastillas, parche o anillo.
 4. Cita de seguimiento a los 3 meses y refills sin consulta completa.
 
 ## ¿Cuánto cuestan los anticonceptivos?
 
-Consulta: $[confirmar]. Inyección trimestral: $[confirmar]. Implante: $[confirmar]. Las pastillas se compran en farmacia con nuestra receta, con genéricos desde $[confirmar] al mes.
+La consulta, la inyección trimestral y el implante tienen precio individual. Las pastillas se compran en farmacia con nuestra receta; te indicamos los genéricos más económicos. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -993,7 +993,7 @@ ${AREAS_ES}`,
 | Shot (Depo-Provera) | Every 12 to 13 weeks at the clinic | 96% |
 | Patch or ring | Weekly or monthly | 93% |
 | Implant | Lasts 3 years | Over 99% |
-| IUD | Lasts 3 to 10 years | Over 99% (we refer you for placement) [confirm if placed in clinic] |
+| IUD | Lasts 3 to 10 years | Over 99% (we refer you for placement) |
 | Morning-after pill | Up to 72 to 120 hours after | Emergency use, not regular |
 
 No hormonal method protects against sexually transmitted infections; for that, use condoms.
@@ -1010,12 +1010,12 @@ If you start pills, the patch or the ring within the first 5 days of your period
 
 1. Visit and a pregnancy test if there is any doubt.
 2. Blood pressure check and review of contraindications.
-3. The shot or implant placed at the same visit [confirm implant availability], or a prescription for pills, patch or ring.
+3. The shot or implant placed at the same visit, or a prescription for pills, patch or ring.
 4. Follow-up at 3 months and refills without a full visit.
 
 ## How much does birth control cost?
 
-Visit: $[confirm]. 3-month shot: $[confirm]. Implant: $[confirm]. Pills are bought at a pharmacy with our prescription, with generics from $[confirm] a month.
+The visit, the 3-month shot and the implant are priced individually. Pills are bought at a pharmacy with our prescription; we point you to the cheapest generics. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1093,11 +1093,11 @@ Mantén el vendaje compresivo 24 horas y la cinta estéril de 3 a 5 días. Es no
 
 ## ¿Puedo ponerme uno nuevo el mismo día?
 
-Sí, si quieres seguir con el mismo método, podemos colocar un implante nuevo en la misma incisión [confirmar disponibilidad del implante en clínica]. Si prefieres otro método, te orientamos sobre pastillas, inyección o DIU en la misma consulta.
+Sí, si quieres seguir con el mismo método, podemos colocar un implante nuevo en la misma incisión. Si prefieres otro método, te orientamos sobre pastillas, inyección o DIU en la misma consulta.
 
 ## ¿Cuánto cuesta retirar el implante?
 
-La extracción cuesta $[confirmar] e incluye la consulta, la anestesia y el material. Pago en efectivo o tarjeta, sin seguro.
+La extracción incluye la consulta, la anestesia y el material. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1131,11 +1131,11 @@ Keep the pressure bandage on for 24 hours and the sterile strips for 3 to 5 days
 
 ## Can I get a new one the same day?
 
-Yes, if you want to continue with the same method, we can place a new implant through the same incision [confirm implant availability at the clinic]. If you prefer another method, we discuss pills, the shot or an IUD during the same visit.
+Yes, if you want to continue with the same method, we can place a new implant through the same incision. If you prefer another method, we discuss pills, the shot or an IUD during the same visit.
 
 ## How much does implant removal cost?
 
-Removal costs $[confirm] and includes the visit, anesthesia and supplies. Cash and cards accepted, no insurance needed.
+Removal includes the visit, anesthesia and supplies. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1211,11 +1211,11 @@ Ayuno de 8 a 12 horas para glucosa y lípidos; sin ejercicio intenso, ciclismo n
 
 ## ¿Cuándo llegan los resultados?
 
-Glucosa, lípidos y biometría el mismo día [confirmar]; PSA y perfil hormonal en [confirmar] días. Te llamamos y el médico te explica cada valor.
+Glucosa, lípidos y biometría suelen estar el mismo día; PSA y perfil hormonal se procesan en laboratorio y tardan unos días. Te llamamos y el médico te explica cada valor.
 
 ## ¿Cuánto cuesta el chequeo del hombre?
 
-Consulta: $[confirmar]. PSA: $[confirmar]. El paquete de perfil hormonal masculino y la promoción de testosterona aparecen en nuestras promociones vigentes con precio publicado.
+Promociones vigentes: Perfil Hormonal Masculino por $200 y Revisa tu Testosterona por $79 (prueba de testosterona, examen de orina y consulta médica gratis). Fuera de esos paquetes, la consulta y el PSA tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1246,11 +1246,11 @@ Fast 8 to 12 hours for glucose and lipids; no intense exercise, cycling or ejacu
 
 ## When are results ready?
 
-Glucose, lipids and CBC the same day [confirm]; PSA and hormone panel in [confirm] days. We call you and the doctor explains each value.
+Glucose, lipids and CBC are usually ready the same day; PSA and the hormone panel are processed at the lab and take a few days. We call you and the doctor explains each value.
 
 ## How much does the men's checkup cost?
 
-Visit: $[confirm]. PSA: $[confirm]. The men's hormone panel package and the testosterone promotion appear in our current promotions with published prices.
+Current promotions: Men's Hormone Panel for $200 and Check Your Testosterone for $79 (testosterone test, urine test and free medical visit). Outside those packages, the visit and the PSA are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1302,7 +1302,7 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `**Hacemos análisis de sangre sin cita ni orden médica, con toma de muestra en la clínica y resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM; los exámenes más comunes se entregan el mismo día [confirmar cuáles].
+    longDescription: `**Hacemos análisis de sangre sin cita ni orden médica, con toma de muestra en la clínica y resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM; los exámenes más comunes se entregan el mismo día.
 
 ## ¿Qué análisis hacemos?
 
@@ -1321,7 +1321,7 @@ Sí para glucosa, perfil de lípidos y química completa: entre 8 y 12 horas sin
 
 ## ¿Cuándo llegan los resultados?
 
-Glucosa, A1C, biometría y química suelen estar el mismo día [confirmar]. Perfiles hormonales, vitamina D y pruebas especiales se envían a laboratorio externo y tardan de [confirmar] días. Te llamamos cuando estén listos y te explicamos cada valor en consulta o por teléfono.
+Glucosa, A1C, biometría y química suelen estar el mismo día. Perfiles hormonales, vitamina D y pruebas especiales se envían a laboratorio externo y tardan unos días. Te llamamos cuando estén listos y te explicamos cada valor en consulta o por teléfono.
 
 ## ¿Cada cuánto debo hacerme un chequeo de sangre?
 
@@ -1329,14 +1329,14 @@ Las guías de prevención de Estados Unidos recomiendan revisar el colesterol ca
 
 ## ¿Cuánto cuesta un análisis de sangre?
 
-Cada examen tiene precio individual desde $[confirmar]; los paquetes de chequeo general, perfil hormonal y sangre con vitamina B12 aparecen en nuestras promociones vigentes. Pago en efectivo o tarjeta, sin seguro.
+Promociones vigentes: Chequeo General Completo por $99 (sangre, A1C y orina con consulta gratis), General de Sangre + Vitamina B12 por $99 y Perfil Hormonal Masculino por $200. Cada examen suelto tiene precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We run blood tests without an appointment or a doctor's order, with sample collection in the clinic and results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM; the most common tests are delivered the same day [confirm which].
+    longDescriptionEn: `**We run blood tests without an appointment or a doctor's order, with sample collection in the clinic and results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM; the most common tests are delivered the same day.
 
 ## Which tests do we run?
 
@@ -1355,7 +1355,7 @@ Yes for glucose, lipid panel and full metabolic panel: 8 to 12 hours without foo
 
 ## When are results ready?
 
-Glucose, A1C, CBC and metabolic panel are usually ready the same day [confirm]. Hormone panels, vitamin D and special tests go to an outside lab and take [confirm] days. We call you when they are ready and explain each value at a visit or by phone.
+Glucose, A1C, CBC and metabolic panel are usually ready the same day. Hormone panels, vitamin D and special tests go to an outside lab and take a few days. We call you when they are ready and explain each value at a visit or by phone.
 
 ## How often should I get blood work?
 
@@ -1363,7 +1363,7 @@ U.S. preventive guidelines recommend checking cholesterol every 4 to 6 years fro
 
 ## How much does a blood test cost?
 
-Each test is priced individually from $[confirm]; the general checkup, hormone panel and blood-plus-B12 packages appear in our current promotions. Cash and cards accepted, no insurance needed.
+Current promotions: Complete General Checkup for $99 (blood, A1C and urine with a free visit), Blood Panel + Vitamin B12 for $99 and Men's Hormone Panel for $200. Individual tests are priced separately. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1429,7 +1429,7 @@ Los síntomas más frecuentes son ardor o dolor al orinar, necesidad de orinar m
 1. **Examen general de orina** con tira reactiva y microscopio: el resultado está en minutos.
 2. **Evaluación médica** de tus síntomas, tu historial y tus medicamentos.
 3. **Tratamiento el mismo día:** receta de antibiótico según el tipo de infección y tu historial, más medicamento para el ardor si lo necesitas.
-4. **Urocultivo** cuando la infección se repite, no mejora con el tratamiento, o si estás embarazada, eres hombre o tienes diabetes. El resultado tarda [confirmar] días e indica qué antibiótico funciona mejor.
+4. **Urocultivo** cuando la infección se repite, no mejora con el tratamiento, o si estás embarazada, eres hombre o tienes diabetes. El resultado tarda unos días e indica qué antibiótico funciona mejor.
 
 ## ¿En cuánto tiempo mejora?
 
@@ -1449,7 +1449,7 @@ Dos o más infecciones en seis meses se consideran recurrentes. Las causas más 
 
 ## ¿Cuánto cuesta?
 
-La consulta con examen de orina cuesta $[confirmar]. El urocultivo tiene un costo adicional que te informamos antes de tomarlo. Pago en efectivo o tarjeta.
+La consulta con examen de orina y el urocultivo tienen precio individual, que te informamos antes de tomar la muestra. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1467,7 +1467,7 @@ The most common symptoms are burning or pain when urinating, needing to urinate 
 1. **Urinalysis** with dipstick and microscope: results in minutes.
 2. **Medical evaluation** of your symptoms, history and medications.
 3. **Same-day treatment:** an antibiotic prescription based on the type of infection and your history, plus medication for the burning if you need it.
-4. **Urine culture** when the infection keeps coming back, does not improve with treatment, or if you are pregnant, male or diabetic. The result takes [confirm] days and shows which antibiotic works best.
+4. **Urine culture** when the infection keeps coming back, does not improve with treatment, or if you are pregnant, male or diabetic. The result takes a few days and shows which antibiotic works best.
 
 ## How soon will I feel better?
 
@@ -1487,7 +1487,7 @@ Two or more infections in six months are considered recurrent. The most common c
 
 ## How much does it cost?
 
-The visit with urinalysis costs $[confirm]. The urine culture has an additional cost that we tell you before collecting it. Cash and cards accepted.
+The visit with urinalysis and the urine culture are priced individually, and we tell you the cost before collecting the sample. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1560,11 +1560,11 @@ Cuando hay diarrea de más de 3 días, dolor o inflamación abdominal, gases per
 
 ## ¿Cuándo llegan los resultados?
 
-El examen general y el parasitoscópico tardan [confirmar] días; el coprocultivo [confirmar] días. Te llamamos con el resultado y, si hay parásito o infección, te damos la receta en la misma llamada o en consulta.
+El examen general y el parasitoscópico se procesan en laboratorio; el coprocultivo tarda algo más porque necesita cultivo. Te llamamos con el resultado y, si hay parásito o infección, te damos la receta en la misma llamada o en consulta.
 
 ## ¿Cuánto cuesta?
 
-El examen de heces cuesta $[confirmar]; la serie de 3 muestras y el coprocultivo tienen precios distintos que te informamos al entregar el frasco.
+El examen de heces, la serie de 3 muestras y el coprocultivo tienen precios distintos, que te informamos al entregar el frasco. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1593,11 +1593,11 @@ When diarrhea lasts more than 3 days, with abdominal pain or bloating, persisten
 
 ## When are results ready?
 
-The general exam and the parasite exam take [confirm] days; the stool culture [confirm] days. We call you with the result and, if there is a parasite or infection, we give you the prescription on that call or at a visit.
+The general exam and the parasite exam are processed at the lab; the stool culture takes a little longer because it must be cultured. We call you with the result and, if there is a parasite or infection, we give you the prescription on that call or at a visit.
 
 ## How much does it cost?
 
-A stool test costs $[confirm]; the 3-sample series and the culture have different prices that we tell you when you pick up the container.
+The stool test, the 3-sample series and the culture have different prices, which we tell you when you pick up the container. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1659,7 +1659,7 @@ La faringitis por estreptococo suele dar dolor de garganta intenso de inicio bru
 1. Pasamos un hisopo por las amígdalas y la parte de atrás de la garganta; toma unos segundos y puede dar náusea leve.
 2. El resultado rápido está en 5 a 10 minutos.
 3. Si es positivo, empiezas el antibiótico en la misma visita.
-4. Si es negativo pero los síntomas son muy sugestivos, en niños y adolescentes enviamos un cultivo de garganta, que tarda [confirmar] días.
+4. Si es negativo pero los síntomas son muy sugestivos, en niños y adolescentes enviamos un cultivo de garganta al laboratorio y te llamamos con el resultado.
 
 ## ¿Cuál es el tratamiento?
 
@@ -1674,7 +1674,7 @@ Amoxicilina o penicilina por 10 días; si eres alérgico, otra alternativa. Desp
 
 ## ¿Cuánto cuesta la prueba de estreptococo?
 
-La consulta con prueba rápida cuesta $[confirmar]. El cultivo de garganta, si se necesita, tiene costo adicional.
+La consulta con prueba rápida y el cultivo de garganta, si se necesita, tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1692,7 +1692,7 @@ Strep throat usually causes an intense sore throat that starts suddenly, fever o
 1. We swab the tonsils and the back of the throat; it takes seconds and may cause brief gagging.
 2. The rapid result is ready in 5 to 10 minutes.
 3. If positive, you start antibiotics at the same visit.
-4. If negative but symptoms strongly suggest strep, in children and teens we send a throat culture, which takes [confirm] days.
+4. If negative but symptoms strongly suggest strep, in children and teens we send a throat culture to the lab and call you with the result.
 
 ## What is the treatment?
 
@@ -1707,7 +1707,7 @@ Amoxicillin or penicillin for 10 days; an alternative if you are allergic. After
 
 ## How much does a strep test cost?
 
-The visit with rapid test costs $[confirm]. A throat culture, if needed, has an additional cost.
+The visit with rapid test and a throat culture, if needed, are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1763,7 +1763,7 @@ ${AREAS_EN}`,
 ## ¿PPD o prueba en sangre?
 
 - **PPD (prueba cutánea):** se inyecta una pequeña cantidad de tuberculina bajo la piel del antebrazo y debes volver entre 48 y 72 horas para la lectura. Es la más solicitada por empleadores y escuelas por su menor costo.
-- **IGRA (QuantiFERON o T-SPOT):** análisis de sangre con resultado en [confirmar] días, sin segunda visita. Es la prueba que exige USCIS para el examen de inmigración I-693 y la recomendada si recibiste la vacuna BCG de niño, porque la BCG puede dar falso positivo en la PPD.
+- **IGRA (QuantiFERON o T-SPOT):** análisis de sangre con resultado en unos días, sin segunda visita. Es la prueba que exige USCIS para el examen de inmigración I-693 y la recomendada si recibiste la vacuna BCG de niño, porque la BCG puede dar falso positivo en la PPD.
 
 ## ¿Qué significa el resultado?
 
@@ -1783,7 +1783,7 @@ Identificación, el formulario del empleador o la escuela, y el registro de una 
 
 ## ¿Cuánto cuesta la prueba de tuberculosis?
 
-PPD con lectura: $[confirmar]. Prueba en sangre IGRA: $[confirmar]. La radiografía de tórax, si se necesita, se hace en un centro de imagen cercano [confirmar].
+La PPD con lectura y la prueba en sangre IGRA tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico. La radiografía de tórax, si se necesita, se hace en un centro de imagen cercano al que te referimos.
 
 ${WHY_ES}
 
@@ -1795,7 +1795,7 @@ ${AREAS_ES}`,
 ## PPD or blood test?
 
 - **PPD (skin test):** a small amount of tuberculin is injected under the skin of the forearm and you must return within 48 to 72 hours for the reading. It is the one most employers and schools request because of its lower cost.
-- **IGRA (QuantiFERON or T-SPOT):** blood test with results in [confirm] days, no second visit. It is the test USCIS requires for the I-693 immigration exam and the recommended one if you received the BCG vaccine as a child, because BCG can cause a false positive on the PPD.
+- **IGRA (QuantiFERON or T-SPOT):** blood test with results in a few days, no second visit. It is the test USCIS requires for the I-693 immigration exam and the recommended one if you received the BCG vaccine as a child, because BCG can cause a false positive on the PPD.
 
 ## What does the result mean?
 
@@ -1815,7 +1815,7 @@ ID, the employer's or school's form, and the record of a previous test or BCG va
 
 ## How much does a TB test cost?
 
-PPD with reading: $[confirm]. IGRA blood test: $[confirm]. A chest X-ray, if needed, is done at a nearby imaging center [confirm].
+The PPD with reading and the IGRA blood test are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed. A chest X-ray, if needed, is done at a nearby imaging center we refer you to.
 
 ${WHY_EN}
 
@@ -1882,12 +1882,12 @@ Muchas infecciones no dan síntomas: la clamidia y la gonorrea son silenciosas e
 
 | Infección | Muestra | Resultado |
 |---|---|---|
-| VIH | Sangre (prueba rápida o de laboratorio) | 20 minutos la rápida; [confirmar] días la de laboratorio |
-| Sífilis | Sangre | [confirmar] días |
-| Gonorrea y clamidia | Orina o hisopado | [confirmar] días |
-| Hepatitis B y C | Sangre | [confirmar] días |
-| Herpes | Hisopado de la lesión o sangre | [confirmar] días |
-| Tricomonas y vaginosis | Cultivo vaginal | [confirmar] días |
+| VIH | Sangre (prueba rápida o de laboratorio) | 20 minutos la rápida; unos días la de laboratorio |
+| Sífilis | Sangre | Unos días (laboratorio) |
+| Gonorrea y clamidia | Orina o hisopado | Unos días (laboratorio) |
+| Hepatitis B y C | Sangre | Unos días (laboratorio) |
+| Herpes | Hisopado de la lesión o sangre | Unos días (laboratorio) |
+| Tricomonas y vaginosis | Cultivo vaginal | Unos días (laboratorio) |
 
 Ten en cuenta el periodo de ventana: el VIH se detecta con confianza a partir de las 2 a 4 semanas con pruebas de laboratorio y la sífilis a partir de las 3 a 6 semanas. Si la exposición fue reciente, repetimos la prueba.
 
@@ -1901,7 +1901,7 @@ El resultado se entrega solo a ti, en persona o por teléfono al número que ind
 
 ## ¿Cuánto cuestan las pruebas de ETS?
 
-Prueba rápida de VIH: $[confirmar]. Panel completo: $[confirmar]. Cada prueba individual tiene su precio; te lo decimos antes de tomar la muestra.
+La prueba rápida de VIH, el panel completo y cada prueba individual tienen su precio, que te decimos antes de tomar la muestra. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1924,12 +1924,12 @@ Many infections cause no symptoms: chlamydia and gonorrhea are silent in most wo
 
 | Infection | Sample | Result |
 |---|---|---|
-| HIV | Blood (rapid or lab test) | 20 minutes rapid; [confirm] days lab |
-| Syphilis | Blood | [confirm] days |
-| Gonorrhea and chlamydia | Urine or swab | [confirm] days |
-| Hepatitis B and C | Blood | [confirm] days |
-| Herpes | Swab of the sore or blood | [confirm] days |
-| Trichomonas and vaginosis | Vaginal culture | [confirm] days |
+| HIV | Blood (rapid or lab test) | 20 minutes rapid; a few days lab |
+| Syphilis | Blood | A few days (lab) |
+| Gonorrhea and chlamydia | Urine or swab | A few days (lab) |
+| Hepatitis B and C | Blood | A few days (lab) |
+| Herpes | Swab of the sore or blood | A few days (lab) |
+| Trichomonas and vaginosis | Vaginal culture | A few days (lab) |
 
 Keep the window period in mind: HIV is reliably detected from 2 to 4 weeks with lab tests and syphilis from 3 to 6 weeks. If the exposure was recent, we repeat the test.
 
@@ -1943,7 +1943,7 @@ The result is given only to you, in person or by phone at the number you provide
 
 ## How much does STD testing cost?
 
-Rapid HIV test: $[confirm]. Full panel: $[confirm]. Each individual test has its own price; we tell you before collecting the sample.
+The rapid HIV test, the full panel and each individual test have their own price, which we tell you before collecting the sample. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2001,9 +2001,9 @@ ${AREAS_EN}`,
 - **Panel de 5 drogas:** marihuana, cocaína, opiáceos, anfetaminas y PCP. Es el estándar para empleo general.
 - **Panel de 10 o 12 drogas:** añade benzodiacepinas, barbitúricos, metadona, oxicodona, éxtasis y otras.
 - **Prueba de alcohol:** en aliento o en orina (etilglucurónido), según lo que pida quien la solicita.
-- **Pruebas para DOT:** las hacemos en la misma visita del examen físico DOT [confirmar si la clínica está registrada como sitio de colección DOT con cadena de custodia].
+- **Pruebas para DOT:** pregúntanos si tu empresa exige cadena de custodia federal; la prueba rápida la hacemos en la misma visita del examen físico DOT.
 
-El resultado rápido en orina está en 10 a 15 minutos. Si sale positivo y se requiere confirmación oficial, la muestra se envía a laboratorio certificado y tarda [confirmar] días.
+El resultado rápido en orina está en 10 a 15 minutos. Si sale positivo y se requiere confirmación oficial, la muestra se envía a laboratorio certificado y el resultado tarda unos días.
 
 ## ¿Cómo es el proceso?
 
@@ -2022,7 +2022,7 @@ No necesitas ayuno. Toma agua normal; el exceso diluye la muestra y obliga a rep
 
 ## ¿Cuánto cuesta la prueba de drogas?
 
-Panel de 5: $[confirmar]. Panel de 10 o 12: $[confirmar]. Prueba de alcohol: $[confirmar]. Confirmación en laboratorio con costo adicional.
+El panel de 5, el de 10 o 12, la prueba de alcohol y la confirmación en laboratorio tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -2036,9 +2036,9 @@ ${AREAS_ES}`,
 - **5-panel:** marijuana, cocaine, opiates, amphetamines and PCP. The standard for general employment.
 - **10- or 12-panel:** adds benzodiazepines, barbiturates, methadone, oxycodone, ecstasy and others.
 - **Alcohol test:** breath or urine (ethyl glucuronide), depending on what the requester needs.
-- **DOT testing:** done at the same visit as the DOT physical [confirm whether the clinic is a registered DOT collection site with chain of custody].
+- **DOT testing:** ask us if your company requires federal chain of custody; the rapid test is done at the same visit as the DOT physical.
 
-The rapid urine result is ready in 10 to 15 minutes. If it is positive and official confirmation is required, the sample goes to a certified lab and takes [confirm] days.
+The rapid urine result is ready in 10 to 15 minutes. If it is positive and official confirmation is required, the sample goes to a certified lab and the result takes a few days.
 
 ## How does it work?
 
@@ -2057,7 +2057,7 @@ No fasting needed. Drink water normally; too much dilutes the sample and require
 
 ## How much does a drug test cost?
 
-5-panel: $[confirm]. 10- or 12-panel: $[confirm]. Alcohol test: $[confirm]. Lab confirmation at an additional cost.
+The 5-panel, the 10- or 12-panel, the alcohol test and lab confirmation are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2134,7 +2134,7 @@ No necesitas ayuno. Evita cremas en el pecho ese día y trae la lista de tus med
 
 ## ¿Cuánto cuesta un electrocardiograma?
 
-El EKG con interpretación cuesta $[confirmar]. Si se combina con consulta o análisis de sangre, te informamos el precio del paquete antes de empezar.
+El EKG con interpretación tiene precio individual; si se combina con consulta o análisis de sangre, te informamos el precio del paquete antes de empezar. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -2167,7 +2167,7 @@ No fasting needed. Avoid lotions on the chest that day and bring your list of me
 
 ## How much does an EKG cost?
 
-The EKG with interpretation costs $[confirm]. If combined with a visit or blood tests, we tell you the package price before starting.
+The EKG with interpretation is priced individually; if combined with a visit or blood tests, we tell you the package price before starting. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2218,13 +2218,13 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `**Hacemos ultrasonidos abdominales, pélvicos, de embarazo, de tiroides y de tejidos blandos en la clínica, sin cita y con informe explicado en español.** En Clínica Hispana Nueva Salud Lawndale el estudio se realiza de lunes a domingo de 9 AM a 9 PM [confirmar horario del técnico de ultrasonido].
+    longDescription: `**Hacemos ultrasonidos abdominales, pélvicos, de embarazo, de tiroides y de tejidos blandos en la clínica, sin cita y con informe explicado en español.** En Clínica Hispana Nueva Salud Lawndale el estudio se realiza de lunes a domingo de 9 AM a 9 PM; llama antes para confirmar la disponibilidad del técnico ese día.
 
 ## ¿Qué ultrasonidos hacemos?
 
 - **Abdominal:** hígado, vesícula y cálculos, páncreas, riñones y bazo. Para dolor abdominal, hígado graso o piedras.
 - **Pélvico y transvaginal:** útero y ovarios, para sangrado irregular, dolor pélvico, quistes o miomas.
-- **Obstétrico:** confirmación del embarazo desde las 6 semanas, latido, edad gestacional y seguimiento [confirmar semanas cubiertas].
+- **Obstétrico:** confirmación del embarazo desde las 6 semanas, latido, edad gestacional y seguimiento.
 - **Tiroides:** nódulos y crecimiento de la glándula.
 - **Tejidos blandos y renal:** bultos, lipomas, quistes y vías urinarias.
 
@@ -2241,7 +2241,7 @@ Trae tu identificación y, si tienes, estudios previos para comparar.
 
 ## ¿Cuánto tarda y cuándo tengo el resultado?
 
-El estudio dura entre 15 y 30 minutos. El informe con las imágenes se entrega [confirmar: el mismo día o en X días] y el médico te explica los hallazgos en consulta. Si algo requiere seguimiento, te indicamos el siguiente paso o te referimos al especialista.
+El estudio dura entre 15 y 30 minutos. El informe con las imágenes se entrega en cuanto el médico lo revisa, y te explica los hallazgos en consulta. Si algo requiere seguimiento, te indicamos el siguiente paso o te referimos al especialista.
 
 ## ¿Es seguro el ultrasonido?
 
@@ -2249,20 +2249,20 @@ Sí. Usa ondas de sonido, no radiación, por lo que es seguro en el embarazo y s
 
 ## ¿Cuánto cuesta un ultrasonido?
 
-Desde $[confirmar] según el tipo de estudio. Pago en efectivo o tarjeta, sin seguro.
+Cada tipo de estudio tiene precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We perform abdominal, pelvic, pregnancy, thyroid and soft-tissue ultrasounds in the clinic, without an appointment and with a report explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale the study is done Monday to Sunday from 9 AM to 9 PM [confirm sonographer hours].
+    longDescriptionEn: `**We perform abdominal, pelvic, pregnancy, thyroid and soft-tissue ultrasounds in the clinic, without an appointment and with a report explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale the study is done Monday to Sunday from 9 AM to 9 PM; call ahead to confirm the sonographer is available that day.
 
 ## Which ultrasounds do we do?
 
 - **Abdominal:** liver, gallbladder and stones, pancreas, kidneys and spleen. For abdominal pain, fatty liver or stones.
 - **Pelvic and transvaginal:** uterus and ovaries, for irregular bleeding, pelvic pain, cysts or fibroids.
-- **Obstetric:** pregnancy confirmation from 6 weeks, heartbeat, gestational age and follow-up [confirm weeks covered].
+- **Obstetric:** pregnancy confirmation from 6 weeks, heartbeat, gestational age and follow-up.
 - **Thyroid:** nodules and gland enlargement.
 - **Soft tissue and renal:** lumps, lipomas, cysts and urinary tract.
 
@@ -2279,7 +2279,7 @@ Bring your ID and, if you have them, previous studies for comparison.
 
 ## How long does it take and when do I get the result?
 
-The study takes 15 to 30 minutes. The report with images is delivered [confirm: same day or in X days] and the doctor explains the findings at a visit. If something needs follow-up, we tell you the next step or refer you to a specialist.
+The study takes 15 to 30 minutes. The report with images is delivered as soon as the doctor reviews it, and the findings are explained at a visit. If something needs follow-up, we tell you the next step or refer you to a specialist.
 
 ## Is ultrasound safe?
 
@@ -2287,7 +2287,7 @@ Yes. It uses sound waves, not radiation, so it is safe in pregnancy and can be r
 
 ## How much does an ultrasound cost?
 
-From $[confirm] depending on the type of study. Cash and cards accepted, no insurance needed.
+Each type of study is priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2339,7 +2339,7 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `**El examen físico DOT es el chequeo médico que exige la FMCSA (Administración Federal de Seguridad de Autotransportes) para conducir un vehículo comercial en Estados Unidos.** En Clínica Hispana Nueva Salud Lawndale lo realiza un examinador médico certificado e inscrito en el Registro Nacional de la FMCSA (NRCME) [confirmar nombre y número de registro]. Sales con tu certificado médico (formulario MCSA-5876) el mismo día, sin cita y en español.
+    longDescription: `**El examen físico DOT es el chequeo médico que exige la FMCSA (Administración Federal de Seguridad de Autotransportes) para conducir un vehículo comercial en Estados Unidos.** En Clínica Hispana Nueva Salud Lawndale lo realiza un examinador médico certificado e inscrito en el Registro Nacional de la FMCSA (NRCME); pide su número de registro en recepción para verificarlo. Sales con tu certificado médico (formulario MCSA-5876) el mismo día, sin cita y en español.
 
 ## ¿Quién necesita el examen DOT?
 
@@ -2364,7 +2364,7 @@ El examen completo toma entre 30 y 45 minutos.
 
 ## ¿Cuánto cuesta el examen DOT en Houston?
 
-El examen DOT en nuestra clínica cuesta $[confirmar precio] e incluye el examen completo, el análisis de orina y el certificado MCSA-5876. Se paga en efectivo o tarjeta. Muchas empresas de transporte reembolsan el costo.
+El examen DOT incluye el examen completo, el análisis de orina y el certificado MCSA-5876. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico. Muchas empresas de transporte reembolsan el costo.
 
 ## ¿Cuánto dura el certificado médico DOT?
 
@@ -2379,7 +2379,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**The DOT physical is the medical exam required by the FMCSA (Federal Motor Carrier Safety Administration) to drive a commercial vehicle in the United States.** At Clínica Hispana Nueva Salud Lawndale it is performed by a certified medical examiner listed on the FMCSA National Registry (NRCME) [confirm name and registry number]. You leave with your Medical Examiner's Certificate (form MCSA-5876) the same day, no appointment needed, in Spanish or English.
+    longDescriptionEn: `**The DOT physical is the medical exam required by the FMCSA (Federal Motor Carrier Safety Administration) to drive a commercial vehicle in the United States.** At Clínica Hispana Nueva Salud Lawndale it is performed by a certified medical examiner listed on the FMCSA National Registry (NRCME); ask at the front desk for the registry number to verify it. You leave with your Medical Examiner's Certificate (form MCSA-5876) the same day, no appointment needed, in Spanish or English.
 
 ## Who needs a DOT physical?
 
@@ -2404,7 +2404,7 @@ The full exam takes 30 to 45 minutes.
 
 ## How much does a DOT physical cost in Houston?
 
-The DOT physical at our clinic costs $[confirm price] and includes the full exam, the urinalysis and the MCSA-5876 certificate. Cash and cards accepted. Many trucking companies reimburse the cost.
+The DOT physical includes the full exam, the urinalysis and the MCSA-5876 certificate. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed. Many trucking companies reimburse the cost.
 
 ## How long is the DOT medical certificate valid?
 
@@ -2463,7 +2463,7 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `**Realizamos el examen médico de inmigración (Formulario I-693) con un Civil Surgeon designado por USCIS y te entregamos el sobre sellado el mismo día en la mayoría de los casos.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, de lunes a domingo de 9 AM a 9 PM. Puedes verificar nuestra designación en la herramienta "Find a Doctor" de USCIS [confirmar nombre del Civil Surgeon].
+    longDescription: `**Realizamos el examen médico de inmigración (Formulario I-693) con un Civil Surgeon designado por USCIS y te entregamos el sobre sellado el mismo día en la mayoría de los casos.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, de lunes a domingo de 9 AM a 9 PM. Puedes verificar la designación en la herramienta "Find a Doctor" de USCIS buscando por el código postal 77023.
 
 ## ¿Quién necesita el examen I-693?
 
@@ -2477,7 +2477,7 @@ Toda persona que solicita la residencia permanente (Green Card) desde dentro de 
 4. **Revisión de vacunas** según tu edad: MMR, Tdap, varicela, hepatitis B, influenza en temporada y otras que apliquen. Aplicamos las que falten en la misma visita.
 5. **Llenado y firma del Formulario I-693** (edición 01/20/2025) y entrega en sobre sellado.
 
-El examen toma entre 1 y 2 horas. La prueba de tuberculosis tarda [confirmar] días, por lo que el sobre se entrega cuando llega ese resultado.
+El examen toma entre 1 y 2 horas. La prueba de tuberculosis se procesa en laboratorio y tarda unos días, por lo que el sobre se entrega cuando llega ese resultado.
 
 ## ¿Qué debo traer?
 
@@ -2492,14 +2492,14 @@ Un I-693 firmado el 1 de noviembre de 2023 o después no tiene fecha de vencimie
 
 ## ¿Cuánto cuesta el examen médico de inmigración?
 
-El examen cuesta $[confirmar] e incluye la consulta, las pruebas de laboratorio requeridas y el formulario. Las vacunas que falten tienen costo aparte [confirmar]. Pago en efectivo o tarjeta.
+El examen incluye la consulta, las pruebas de laboratorio requeridas y el formulario; las vacunas que falten tienen costo aparte. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We perform the immigration medical exam (Form I-693) with a USCIS-designated Civil Surgeon and hand you the sealed envelope the same day in most cases.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, Monday to Sunday from 9 AM to 9 PM. You can verify our designation in the USCIS "Find a Doctor" tool [confirm Civil Surgeon name].
+    longDescriptionEn: `**We perform the immigration medical exam (Form I-693) with a USCIS-designated Civil Surgeon and hand you the sealed envelope the same day in most cases.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, Monday to Sunday from 9 AM to 9 PM. You can verify the designation in the USCIS "Find a Doctor" tool by searching ZIP code 77023.
 
 ## Who needs the I-693 exam?
 
@@ -2513,7 +2513,7 @@ Anyone applying for permanent residence (Green Card) from inside the United Stat
 4. **Vaccine review** by age: MMR, Tdap, varicella, hepatitis B, seasonal flu and others that apply. We give any missing ones at the same visit.
 5. **Completion and signature of Form I-693** (01/20/2025 edition) delivered in a sealed envelope.
 
-The exam takes 1 to 2 hours. The TB test takes [confirm] days, so the envelope is delivered when that result arrives.
+The exam takes 1 to 2 hours. The TB test is processed at the lab and takes a few days, so the envelope is delivered when that result arrives.
 
 ## What should I bring?
 
@@ -2528,7 +2528,7 @@ An I-693 signed on or after November 1, 2023 has no fixed expiration date: it st
 
 ## How much does the immigration medical exam cost?
 
-The exam costs $[confirm] and includes the visit, the required lab tests and the form. Missing vaccines are billed separately [confirm]. Cash and cards accepted.
+The exam includes the visit, the required lab tests and the form; missing vaccines are billed separately. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2579,7 +2579,7 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `**Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico (Td/Tdap) sin cita, a adultos y niños, todos los días de 9 AM a 9 PM.** En Clínica Hispana Nueva Salud Lawndale también revisamos y completamos las vacunas requeridas para el examen médico de inmigración I-693 [confirmar otras vacunas disponibles].
+    longDescription: `**Aplicamos la vacuna contra la influenza (flu) y el toxoide tetánico (Td/Tdap) sin cita, a adultos y niños, todos los días de 9 AM a 9 PM.** En Clínica Hispana Nueva Salud Lawndale también revisamos y completamos las vacunas requeridas para el examen médico de inmigración I-693.
 
 ## ¿Cuándo debo ponerme la vacuna de la influenza?
 
@@ -2605,14 +2605,14 @@ Dolor o enrojecimiento en el brazo por 1 a 2 días, cansancio leve y a veces fie
 
 ## ¿Cuánto cuestan las vacunas?
 
-Vacuna de influenza: $[confirmar]. Toxoide tetánico o Tdap: $[confirmar]. El precio incluye la aplicación y el registro de la dosis.
+Cada vacuna tiene precio individual, que incluye la aplicación y el registro de la dosis. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We give the influenza (flu) vaccine and tetanus toxoid (Td/Tdap) without an appointment, to adults and children, every day from 9 AM to 9 PM.** At Clínica Hispana Nueva Salud Lawndale we also review and complete the vaccines required for the I-693 immigration medical exam [confirm other vaccines available].
+    longDescriptionEn: `**We give the influenza (flu) vaccine and tetanus toxoid (Td/Tdap) without an appointment, to adults and children, every day from 9 AM to 9 PM.** At Clínica Hispana Nueva Salud Lawndale we also review and complete the vaccines required for the I-693 immigration medical exam.
 
 ## When should I get the flu vaccine?
 
@@ -2638,7 +2638,7 @@ Arm soreness or redness for 1 to 2 days, mild tiredness and sometimes a low feve
 
 ## How much do vaccines cost?
 
-Flu vaccine: $[confirm]. Tetanus toxoid or Tdap: $[confirm]. The price includes administration and dose registration.
+Each vaccine is priced individually, including administration and dose registration. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2696,13 +2696,13 @@ ${AREAS_EN}`,
 - **Hidratación:** suero fisiológico o solución con electrolitos para deshidratación por calor, vómito, diarrea o exceso de alcohol.
 - **Energía y defensas:** vitamina C, complejo B (B1, B6, B12) y zinc, para cansancio prolongado o después de una gripe.
 - **Recuperación muscular:** magnesio y complejo B, para calambres y fatiga tras trabajo físico intenso.
-- **Personalizado:** el médico ajusta la fórmula según tus síntomas y tus análisis. [confirmar lista exacta de sueros y componentes]
+- **Personalizado:** el médico ajusta la fórmula según tus síntomas y tus análisis.
 
 Cada aplicación incluye evaluación médica, toma de signos vitales, la infusión y monitoreo durante todo el proceso.
 
 ## ¿Cuánto cuesta un suero vitaminado en Houston?
 
-Los sueros cuestan desde $[confirmar precio] según la fórmula. El precio incluye la evaluación, el material y la aplicación. Pago en efectivo o tarjeta; no necesitas seguro médico.
+El precio depende de la fórmula e incluye la evaluación, el material y la aplicación. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ## ¿Cuándo puede ayudar un suero?
 
@@ -2733,13 +2733,13 @@ ${AREAS_ES}`,
 - **Hydration:** saline or electrolyte solution for dehydration from heat, vomiting, diarrhea or too much alcohol.
 - **Energy and immunity:** vitamin C, B complex (B1, B6, B12) and zinc, for lasting fatigue or after the flu.
 - **Muscle recovery:** magnesium and B complex, for cramps and fatigue after heavy physical work.
-- **Custom:** the doctor adjusts the formula to your symptoms and lab results. [confirm exact list of drips and ingredients]
+- **Custom:** the doctor adjusts the formula to your symptoms and lab results.
 
 Every session includes a medical evaluation, vital signs, the infusion and monitoring throughout.
 
 ## How much does a vitamin IV cost in Houston?
 
-Drips start at $[confirm price] depending on the formula. The price includes the evaluation, supplies and administration. Cash and cards accepted; no insurance needed.
+The price depends on the formula and includes the evaluation, supplies and administration. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ## When can an IV drip help?
 
@@ -2807,7 +2807,7 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `**Cerramos cortadas con puntos, grapas o adhesivo médico en una visita sin cita, con anestesia local, y retiramos los puntos sin costo adicional [confirmar].** En Clínica Hispana Nueva Salud Lawndale atendemos heridas de lunes a domingo de 9 AM a 9 PM; ven dentro de las primeras 6 a 8 horas para el mejor resultado.
+    longDescription: `**Cerramos cortadas con puntos, grapas o adhesivo médico en una visita sin cita, con anestesia local, y programamos el retiro de los puntos.** En Clínica Hispana Nueva Salud Lawndale atendemos heridas de lunes a domingo de 9 AM a 9 PM; ven dentro de las primeras 6 a 8 horas para el mejor resultado.
 
 ## ¿Qué heridas necesitan puntos?
 
@@ -2835,14 +2835,14 @@ Mantén la herida seca 24 horas; después puedes ducharte sin frotar. Cambia el 
 
 ## ¿Cuánto cuesta una sutura?
 
-Desde $[confirmar] según el tamaño y el número de puntos. Incluye anestesia, material y el retiro de puntos [confirmar]. Pago en efectivo o tarjeta.
+El precio depende del tamaño de la herida y del número de puntos, e incluye anestesia y material. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We close cuts with stitches, staples or medical adhesive in a walk-in visit under local anesthesia, and remove the stitches at no additional cost [confirm].** At Clínica Hispana Nueva Salud Lawndale we treat wounds Monday to Sunday from 9 AM to 9 PM; come within the first 6 to 8 hours for the best result.
+    longDescriptionEn: `**We close cuts with stitches, staples or medical adhesive in a walk-in visit under local anesthesia, and schedule the stitch removal.** At Clínica Hispana Nueva Salud Lawndale we treat wounds Monday to Sunday from 9 AM to 9 PM; come within the first 6 to 8 hours for the best result.
 
 ## Which wounds need stitches?
 
@@ -2870,7 +2870,7 @@ Keep the wound dry for 24 hours; after that you can shower without rubbing. Chan
 
 ## How much do stitches cost?
 
-From $[confirm] depending on size and number of stitches. Includes anesthesia, supplies and stitch removal [confirm]. Cash and cards accepted.
+The price depends on the size of the wound and the number of stitches, and includes anesthesia and supplies. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -2954,7 +2954,7 @@ Si aparece pus, mal olor, enrojecimiento que se extiende más de 2 centímetros 
 
 ## ¿Cuánto cuesta?
 
-La primera curación con evaluación cuesta $[confirmar]; las curaciones de seguimiento tienen un precio menor [confirmar]. El material está incluido.
+La primera curación con evaluación y las curaciones de seguimiento tienen precio individual; el material está incluido. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -2994,7 +2994,7 @@ If there is pus, a bad smell, redness spreading more than 2 centimeters from the
 
 ## How much does it cost?
 
-The first visit with evaluation costs $[confirm]; follow-up dressing changes have a lower price [confirm]. Supplies are included.
+The first visit with evaluation and follow-up dressing changes are priced individually; supplies are included. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -3065,7 +3065,7 @@ No hacemos procedimientos que requieran anestesia general ni lesiones en la cara
 
 ## ¿Cuándo conviene retirar un lunar?
 
-Cuando cambia de tamaño, color o forma, tiene bordes irregulares, mide más de 6 milímetros, sangra o pica. Estas señales no siempre son cáncer, pero justifican retirarlo y analizarlo. El resultado de la biopsia tarda [confirmar] días.
+Cuando cambia de tamaño, color o forma, tiene bordes irregulares, mide más de 6 milímetros, sangra o pica. Estas señales no siempre son cáncer, pero justifican retirarlo y analizarlo. El resultado de la biopsia llega del laboratorio en unas semanas y te llamamos para explicártelo.
 
 ## ¿Qué cuidados necesito después?
 
@@ -3073,7 +3073,7 @@ Mantén la herida seca 24 a 48 horas, cambia el vendaje a diario y evita esfuerz
 
 ## ¿Cuánto cuesta una cirugía menor?
 
-El precio depende del tipo y tamaño de la lesión: desde $[confirmar]. Incluye anestesia, material, retiro de puntos y, si aplica, el envío a biopsia [confirmar si la biopsia tiene costo aparte].
+El precio depende del tipo y tamaño de la lesión e incluye anestesia, material y retiro de puntos; el análisis de biopsia, si aplica, se cobra aparte. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -3100,7 +3100,7 @@ We do not perform procedures that require general anesthesia or facial lesions t
 
 ## When should a mole be removed?
 
-When it changes in size, color or shape, has irregular edges, measures more than 6 millimeters, bleeds or itches. These signs are not always cancer, but they justify removing and analyzing it. Biopsy results take [confirm] days.
+When it changes in size, color or shape, has irregular edges, measures more than 6 millimeters, bleeds or itches. These signs are not always cancer, but they justify removing and analyzing it. Biopsy results come back from the lab in a few weeks and we call you to explain them.
 
 ## What care do I need afterwards?
 
@@ -3108,7 +3108,7 @@ Keep the wound dry for 24 to 48 hours, change the dressing daily and avoid strai
 
 ## How much does minor surgery cost?
 
-The price depends on the type and size of the lesion: from $[confirm]. It includes anesthesia, supplies, stitch removal and, when applicable, sending the sample for biopsy [confirm whether biopsy is billed separately].
+The price depends on the type and size of the lesion and includes anesthesia, supplies and stitch removal; the biopsy analysis, when applicable, is billed separately. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -3187,7 +3187,7 @@ Compresas tibias 15 minutos, 3 veces al día, para ayudar a drenar; cambia el ve
 
 ## ¿Cuánto cuesta el drenaje de un absceso?
 
-$[confirmar], incluyendo anestesia, material y la revisión de control. Pago en efectivo o tarjeta.
+El drenaje incluye anestesia, material y la revisión de control. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -3222,7 +3222,7 @@ Warm compresses for 15 minutes, 3 times a day, to help drainage; change the dres
 
 ## How much does abscess drainage cost?
 
-$[confirm], including anesthesia, supplies and the follow-up check. Cash and cards accepted.
+Drainage includes anesthesia, supplies and the follow-up check. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -3302,7 +3302,7 @@ Corta la uña recta, sin redondear las esquinas ni dejarla más corta que la pun
 
 ## ¿Cuánto cuesta el tratamiento de la uña encarnada?
 
-Avulsión parcial: $[confirmar]. Con matricectomía (fenol): $[confirmar]. Incluye anestesia, material y revisión.
+La avulsión parcial y la matricectomía con fenol tienen precio individual; ambas incluyen anestesia, material y revisión. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -3338,7 +3338,7 @@ Cut the nail straight across, without rounding the corners or cutting shorter th
 
 ## How much does ingrown toenail treatment cost?
 
-Partial avulsion: $[confirm]. With matrixectomy (phenol): $[confirm]. Includes anesthesia, supplies and follow-up.
+Partial avulsion and phenol matrixectomy are priced individually; both include anesthesia, supplies and follow-up. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -3389,15 +3389,15 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `**Después de tu consulta puedes recoger tus medicamentos en la misma clínica, sin ir a otro lugar, con explicación en español de cómo tomarlos.** [Confirmar con el cliente: si la clínica dispensa medicamentos con receta, debe indicarse la licencia de farmacia de Texas; si solo entrega muestras o medicamentos de venta libre, ajustar este texto.] En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM.
+    longDescription: `**Después de tu consulta puedes recoger tus medicamentos en la misma clínica, sin ir a otro lugar, con explicación en español de cómo tomarlos.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM.
 
 ## ¿Qué medicamentos tenemos?
 
-- **Con receta de nuestros médicos:** antibióticos, antiinflamatorios, medicamentos para presión, diabetes y colesterol, antialérgicos y tratamientos de infecciones comunes [confirmar lista].
+- **Con receta de nuestros médicos:** antibióticos, antiinflamatorios, medicamentos para presión, diabetes y colesterol, antialérgicos y tratamientos de infecciones comunes, según existencia.
 - **De venta libre:** analgésicos, antigripales, antiácidos, antihistamínicos, vitaminas y material de curación.
 - **Genéricos de bajo costo** siempre que existen, para que el tratamiento sea accesible.
 
-No surtimos recetas de otros médicos ni medicamentos controlados [confirmar].
+No surtimos recetas de otros médicos ni medicamentos controlados.
 
 ## ¿Por qué surtir en la clínica?
 
@@ -3407,11 +3407,11 @@ Te ahorras la segunda parada: el médico te ve, te receta y sales con el medicam
 
 1. Terminas tu consulta y el médico registra la receta.
 2. En recepción te entregan el medicamento y te explican cómo tomarlo.
-3. Si necesitas refill de un medicamento crónico, llama antes para verificar disponibilidad [confirmar política de refills].
+3. Si necesitas refill de un medicamento crónico, llama antes para verificar disponibilidad.
 
 ## ¿Qué precio tienen los medicamentos?
 
-Cada medicamento tiene precio individual, visible antes de pagar; los genéricos cuestan desde $[confirmar]. Pago en efectivo o tarjeta. Si un medicamento no está disponible, te damos la receta impresa para surtirla en cualquier farmacia.
+Cada medicamento tiene precio individual, visible antes de pagar, y los genéricos son la opción más económica. Pago en efectivo o tarjeta. Si un medicamento no está disponible, te damos la receta impresa para surtirla en cualquier farmacia.
 
 ## ¿Qué debo saber sobre mis medicamentos?
 
@@ -3422,15 +3422,15 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**After your visit you can pick up your medications at the clinic itself, without going anywhere else, with an explanation in Spanish or English of how to take them.** [Confirm with the client: if the clinic dispenses prescription drugs, the Texas pharmacy license must be stated; if it only provides samples or over-the-counter products, adjust this text.] At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM.
+    longDescriptionEn: `**After your visit you can pick up your medications at the clinic itself, without going anywhere else, with an explanation in Spanish or English of how to take them.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM.
 
 ## Which medications do we carry?
 
-- **Prescribed by our doctors:** antibiotics, anti-inflammatories, blood pressure, diabetes and cholesterol medications, antihistamines and treatments for common infections [confirm list].
+- **Prescribed by our doctors:** antibiotics, anti-inflammatories, blood pressure, diabetes and cholesterol medications, antihistamines and treatments for common infections, subject to availability.
 - **Over the counter:** pain relievers, cold remedies, antacids, antihistamines, vitamins and wound care supplies.
 - **Low-cost generics** whenever they exist, so treatment stays affordable.
 
-We do not fill prescriptions from other doctors or controlled substances [confirm].
+We do not fill prescriptions from other doctors or controlled substances.
 
 ## Why fill it at the clinic?
 
@@ -3440,11 +3440,11 @@ You skip the second stop: the doctor sees you, prescribes, and you leave with th
 
 1. You finish your visit and the doctor records the prescription.
 2. At the front desk you receive the medication and an explanation of how to take it.
-3. For a refill of a chronic medication, call first to check availability [confirm refill policy].
+3. For a refill of a chronic medication, call first to check availability.
 
 ## How much do medications cost?
 
-Each medication has an individual price, visible before you pay; generics start at $[confirm]. Cash and cards accepted. If a medication is not available, we give you a printed prescription to fill at any pharmacy.
+Each medication has an individual price, visible before you pay, and generics are the most affordable option. Cash and cards accepted. If a medication is not available, we give you a printed prescription to fill at any pharmacy.
 
 ## What should I know about my medications?
 
