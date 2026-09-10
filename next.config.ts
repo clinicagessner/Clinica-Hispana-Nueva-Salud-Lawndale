@@ -11,9 +11,13 @@ const devConnectSrc = isDev ? " ws://localhost:* ws://127.0.0.1:* http://localho
 const nextConfig: NextConfig = {
   images: {
     // Optimizador de Vercel desactivado: la cuenta tiene topada la cuota de Image
-    // Optimization (/_next/image devuelve HTTP 402). Servimos los originales de
-    // public/, ya comprimidos a mano (WebP q80 / PNG pngquant+oxipng).
-    unoptimized: true,
+    // Optimization (/_next/image devuelve HTTP 402). Un loader propio sirve
+    // variantes pregeneradas en public/ (scripts/generate-image-variants.mjs)
+    // para que next/image emita srcset y las tarjetas no carguen 1024 px.
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
+    deviceSizes: [384, 640, 828, 1080, 1376],
+    imageSizes: [128, 256, 512],
     qualities: [60, 75],
     minimumCacheTTL: 31536000,
     remotePatterns: [
