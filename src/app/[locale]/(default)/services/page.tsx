@@ -4,19 +4,11 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { ArrowLeft } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { ServicesFilter } from "@/components/services/services-filter";
+import { SERVICE_CATEGORIES, SERVICE_CATEGORY_ORDER, getCategoryLabel } from "@/lib/service-categories";
 import { SERVICES, SITE_CONFIG } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { JsonLdCollectionPage, JsonLdBreadcrumb } from "@/components/seo/json-ld";
 
-const categoryInfo: Record<string, { label: string; labelEn: string; iconName: string }> = {
-  "medicina-general": { label: "Medicina General", labelEn: "General Medicine", iconName: "Stethoscope" },
-  "salud-mujer": { label: "Salud de la Mujer", labelEn: "Women's Health", iconName: "Flower2" },
-  "examenes": { label: "Exámenes y Certificados", labelEn: "Exams & Certificates", iconName: "ClipboardList" },
-  "laboratorio": { label: "Laboratorio y Pruebas", labelEn: "Lab & Testing", iconName: "FlaskConical" },
-  "tratamientos": { label: "Tratamientos", labelEn: "Treatments", iconName: "Syringe" },
-};
-
-const categoryOrder = ["medicina-general", "salud-mujer", "examenes", "laboratorio", "tratamientos"];
 
 type MetadataProps = {
   params: Promise<{ locale: string }>;
@@ -66,10 +58,10 @@ export default async function ServicesPage({ params }: Props) {
 
   const t = await getTranslations("services");
 
-  const categories = categoryOrder.map((id) => ({
+  const categories = SERVICE_CATEGORY_ORDER.map((id) => ({
     id,
-    label: locale === "en" ? categoryInfo[id].labelEn : categoryInfo[id].label,
-    iconName: categoryInfo[id].iconName,
+    label: getCategoryLabel(id, locale),
+    iconName: SERVICE_CATEGORIES[id].iconName,
   }));
 
   const sortedServices = [...SERVICES].sort((a, b) => a.order - b.order).map((s) => getLocalizedService(s, locale));

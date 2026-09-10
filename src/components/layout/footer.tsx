@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import { Phone, Mail, MapPin, Clock } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import {
@@ -8,6 +8,7 @@ import {
   SOCIAL_LINKS,
   SERVICES,
 } from "@/lib/constants";
+import { SERVICE_CATEGORY_ORDER, getCategoryLabel, getServiceNavLabel } from "@/lib/service-categories";
 
 const FacebookIcon = ({ className }: { className?: string }) => (
   <svg viewBox="0 0 24 24" fill="currentColor" className={className} aria-hidden="true">
@@ -25,11 +26,16 @@ const InstagramIcon = ({ className }: { className?: string }) => (
 
 export async function Footer() {
   const t = await getTranslations();
+  const locale = await getLocale();
   const currentYear = new Date().getFullYear();
 
-  const topServices = [...SERVICES]
-    .sort((a, b) => a.order - b.order)
-    .slice(0, 6);
+  // Todos los servicios, agrupados por categoría: el footer es el único
+  // enlace interno que reciben muchos servicios desde cada página del sitio.
+  const servicesByCategory = SERVICE_CATEGORY_ORDER.map((id) => ({
+    id,
+    label: getCategoryLabel(id, locale),
+    services: SERVICES.filter((s) => s.category === id).sort((a, b) => a.order - b.order),
+  })).filter((group) => group.services.length > 0);
 
   return (
     <footer role="contentinfo" className="relative overflow-hidden bg-blue-dark text-white">
@@ -122,23 +128,34 @@ export async function Footer() {
             </ul>
           </nav>
 
-          {/* Services — 3 cols */}
-          <nav aria-label="Servicios" className="lg:col-span-3">
+          {/* Services — 3 cols, all services by category */}
+          <nav aria-label={t("nav.services")} className="lg:col-span-3">
             <h3 className="text-xs font-bold uppercase tracking-widest text-yellow-accent mb-4">
-              {t("nav.services")}
+              <Link href="/services" className="hover:text-white transition-colors">
+                {t("nav.services")}
+              </Link>
             </h3>
-            <ul className="space-y-2.5">
-              {topServices.map((service) => (
-                <li key={service.id}>
-                  <Link
-                    href={`/services/${service.slug}`}
-                    className="text-white/70 hover:text-white text-sm transition-colors"
-                  >
-                    {service.shortTitle || service.title}
-                  </Link>
-                </li>
+            <div className="grid grid-cols-2 gap-x-6 gap-y-5 sm:grid-cols-1">
+              {servicesByCategory.map((group) => (
+                <div key={group.id}>
+                  <h4 className="text-[11px] font-semibold uppercase tracking-wider text-white/50 mb-1.5">
+                    {group.label}
+                  </h4>
+                  <ul className="space-y-1.5">
+                    {group.services.map((service) => (
+                      <li key={service.id}>
+                        <Link
+                          href={`/services/${service.slug}`}
+                          className="text-white/70 hover:text-white text-sm transition-colors"
+                        >
+                          {getServiceNavLabel(service, locale)}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               ))}
-            </ul>
+            </div>
           </nav>
 
           {/* Contact — 3 cols */}

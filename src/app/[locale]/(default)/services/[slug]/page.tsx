@@ -136,10 +136,20 @@ export default async function ServicePage({ params }: Props) {
   const service = getLocalizedService(rawService, locale);
   const IconComponent = iconMap[service.icon] || Stethoscope;
 
-  // Get related services (same category, excluding current)
-  const relatedServices = SERVICES.filter(
-    (s) => s.category === rawService.category && s.id !== rawService.id
-  ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+  // Servicios relacionados: los 3 siguientes de la misma categoría a partir
+  // del actual (con vuelta), y si la categoría es corta se completa con el
+  // orden global. Antes eran siempre los 3 primeros de la categoría, así
+  // que los últimos nunca recibían enlaces de sus pares.
+  const byOrder = [...SERVICES].sort((a, b) => a.order - b.order);
+  const peers = byOrder.filter((s) => s.category === rawService.category);
+  const peerIdx = peers.findIndex((s) => s.id === rawService.id);
+  const rotatedPeers = [...peers.slice(peerIdx + 1), ...peers.slice(0, peerIdx)];
+  const globalIdx = byOrder.findIndex((s) => s.id === rawService.id);
+  const rotatedAll = [...byOrder.slice(globalIdx + 1), ...byOrder.slice(0, globalIdx)];
+  const relatedServices = [...rotatedPeers, ...rotatedAll]
+    .filter((s, i, arr) => s.id !== rawService.id && arr.findIndex((x) => x.id === s.id) === i)
+    .slice(0, 3)
+    .map((s) => getLocalizedService(s, locale));
 
   const relatedPosts = getPostsLinkingToService(rawService.slug, locale);
 
