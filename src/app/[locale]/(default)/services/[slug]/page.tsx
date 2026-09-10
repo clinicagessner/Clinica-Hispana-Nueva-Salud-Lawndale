@@ -436,10 +436,12 @@ export default async function ServicePage({ params }: Props) {
 
       <JsonLdBreadcrumb items={breadcrumbs} />
       <JsonLdMedicalProcedure
+        service={rawService}
         name={service.title}
         description={service.description}
         image={service.image}
         url={`${SITE_CONFIG.baseUrl}${localePath}/services/${service.slug}`}
+        locale={locale}
       />
       {getServiceFAQs(rawService.slug, locale).length > 0 && (
         <JsonLdFAQ questions={getServiceFAQs(rawService.slug, locale)} />

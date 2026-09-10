@@ -8,7 +8,7 @@ import { getGooglePlaceData } from "@/lib/google-places";
 import { StarRating } from "@/components/shared/star-rating";
 import { ContactForm } from "@/components/forms/contact-form";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
-import { JsonLdBreadcrumb, JsonLdFAQ } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdFAQ, JsonLdOfferCatalog } from "@/components/seo/json-ld";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -251,6 +251,7 @@ export default async function PromocionesPage({ params }: Props) {
 
       <JsonLdBreadcrumb items={breadcrumbs} />
       <JsonLdFAQ questions={c.faqs.map((f) => ({ question: f.question, answer: f.answer }))} />
+      <JsonLdOfferCatalog locale={locale} />
     </>
   );
 }
