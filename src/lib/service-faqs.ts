@@ -71,14 +71,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "ginecologia": {
     faqs: [
-      { question: "¿Necesito cita para el papanicolaou?", answer: "No es obligatorio, atendemos sin cita; pero puedes llamarnos para reservar un horario cómodo." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿A partir de qué edad y cada cuánto se hace el papanicolaou?", answer: "Desde los 21 años. De 21 a 29 cada 3 años; de 30 a 65 cada 3 años, o cada 5 si se combina con la prueba de VPH. Con resultados anormales previos, el intervalo es más corto." },
+      { question: "¿Puedo hacerme el papanicolaou si tengo la regla?", answer: "Es mejor esperar a que termine, porque la sangre puede alterar la muestra. Si tienes síntomas de infección, ven de todos modos y te atendemos el mismo día." },
+      { question: "¿Cuánto tardan los resultados del cultivo vaginal?", answer: "Aproximadamente [confirmar] días. Te llamamos con el resultado y, si hay infección, te enviamos la receta sin necesidad de otra consulta." },
     ],
     faqsEn: [
-      { question: "Do I need an appointment for a Pap smear?", answer: "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "At what age and how often should I get a Pap smear?", answer: "From age 21. Ages 21 to 29 every 3 years; ages 30 to 65 every 3 years, or every 5 years combined with an HPV test. With previous abnormal results, the interval is shorter." },
+      { question: "Can I get a Pap smear during my period?", answer: "It is better to wait until it ends, because blood can affect the sample. If you have infection symptoms, come anyway and we see you the same day." },
+      { question: "How long do vaginal culture results take?", answer: "About [confirm] days. We call you with the result and, if there is an infection, we send the prescription without another visit." },
     ],
   },
   "prueba-embarazo": {
@@ -143,14 +143,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "infecciones-urinarias": {
     faqs: [
-      { question: "¿Puedo recibir tratamiento el mismo día?", answer: "Sí, hacemos el examen de orina y, si hay infección, iniciamos el tratamiento el mismo día." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cuánto tarda el resultado del examen de orina?", answer: "Minutos. Hacemos la tira reactiva y el microscopio en la clínica, así que el médico decide el tratamiento en la misma visita." },
+      { question: "¿Cuándo hace falta un urocultivo?", answer: "Cuando la infección se repite, no mejora en 72 horas, o si estás embarazada, eres hombre o tienes diabetes. Tarda [confirmar] días e indica el antibiótico más efectivo." },
+      { question: "¿Una infección urinaria se quita sola?", answer: "Rara vez, y sin tratamiento puede subir al riñón. Con fiebre, escalofríos o dolor en la espalda baja, ven el mismo día." },
     ],
     faqsEn: [
-      { question: "Can I get treatment the same day?", answer: "Yes, we run the urine test and, if there's an infection, we start treatment the same day." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How long does the urine test take?", answer: "Minutes. We do the dipstick and microscope test in the clinic, so the doctor decides the treatment during the same visit." },
+      { question: "When is a urine culture needed?", answer: "When the infection keeps coming back, does not improve within 72 hours, or if you are pregnant, male or diabetic. It takes [confirm] days and shows the most effective antibiotic." },
+      { question: "Does a UTI go away on its own?", answer: "Rarely, and without treatment it can spread to the kidney. With fever, chills or lower back pain, come in the same day." },
     ],
   },
   "examen-heces": {
@@ -239,14 +239,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examen-dot": {
     faqs: [
-      { question: "¿Me entregan el certificado DOT el mismo día?", answer: "Sí, al terminar el examen físico DOT te entregamos tu certificado el mismo día." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿El examen DOT incluye la prueba de drogas?", answer: "No. Son procesos separados: el examen DOT es físico. Si tu empresa también pide prueba de alcohol y drogas, la hacemos en la misma visita." },
+      { question: "¿Puedo hacer el examen DOT si tengo diabetes?", answer: "Sí, si la controlas con dieta o pastillas. Si usas insulina, trae el formulario MCSA-5870 firmado por tu médico y podrás certificarte por hasta 1 año." },
+      { question: "¿Cuánto dura el certificado DOT?", answer: "Hasta 2 años con presión y salud normales. Con presión alta controlada o diabetes suele ser de 1 año. Desde junio de 2025 el resultado se envía electrónicamente a la FMCSA y al Texas DPS." },
     ],
     faqsEn: [
-      { question: "Do I get the DOT certificate the same day?", answer: "Yes, after the DOT physical we give you your certificate the same day." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "Does the DOT physical include a drug test?", answer: "No. They are separate: the DOT physical is a medical exam. If your company also requires alcohol and drug testing, we do it during the same visit." },
+      { question: "Can I pass the DOT physical if I have diabetes?", answer: "Yes, if it is controlled with diet or pills. If you use insulin, bring form MCSA-5870 signed by your doctor and you can be certified for up to 1 year." },
+      { question: "How long is the DOT certificate valid?", answer: "Up to 2 years with normal blood pressure and health. With controlled high blood pressure or diabetes it is usually 1 year. Since June 2025 the result is sent electronically to the FMCSA and Texas DPS." },
     ],
   },
   "examenes-inmigracion": {
@@ -275,14 +275,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "sueros-vitaminados": {
     faqs: [
-      { question: "¿Quién aplica el suero vitaminado?", answer: "Lo aplica y supervisa personal médico, tras una breve evaluación para elegir el suero adecuado para ti." },
-      { question: "¿Necesito cita previa?", answer: "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario." },
-      { question: "¿Atienden a pacientes sin seguro?", answer: "Sí. Atendemos sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita." },
+      { question: "¿Cuánto dura la aplicación de un suero vitaminado?", answer: "Entre 30 y 60 minutos según la fórmula, más unos minutos de evaluación previa. Sales el mismo día y puedes conducir." },
+      { question: "¿Necesito análisis antes de ponerme un suero?", answer: "No siempre. El médico te evalúa primero; si tienes cansancio de más de dos semanas o una condición como diabetes o enfermedad renal, sí pedimos análisis para elegir bien la fórmula." },
+      { question: "¿Los sueros vitaminados curan la resaca o la gripe?", answer: "Alivian la deshidratación y el cansancio, pero no curan una infección. Si tienes fiebre o síntomas de gripe, primero te revisa el médico y decide si el suero conviene." },
     ],
     faqsEn: [
-      { question: "Who administers the vitamin IV?", answer: "It's administered and monitored by medical staff, after a brief evaluation to choose the right drip for you." },
-      { question: "Do I need an appointment?", answer: "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time." },
-      { question: "Do you accept patients without insurance?", answer: "Yes. We see patients without insurance, with affordable and transparent pricing. Ask us about the cost before your visit." },
+      { question: "How long does a vitamin IV take?", answer: "Between 30 and 60 minutes depending on the formula, plus a few minutes of evaluation beforehand. You leave the same day and can drive." },
+      { question: "Do I need lab tests before an IV drip?", answer: "Not always. The doctor evaluates you first; if you have had fatigue for more than two weeks or a condition such as diabetes or kidney disease, we do order tests to choose the right formula." },
+      { question: "Do vitamin IVs cure a hangover or the flu?", answer: "They relieve dehydration and fatigue, but they do not cure an infection. If you have a fever or flu symptoms, the doctor examines you first and decides whether a drip is appropriate." },
     ],
   },
   "suturas-heridas": {

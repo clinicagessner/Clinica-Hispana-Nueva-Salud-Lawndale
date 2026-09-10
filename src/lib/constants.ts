@@ -496,7 +496,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-08-01",
+    dateModified: "2026-09-09",
     id: "ginecologia",
     image: "/images/services/ginecologia.webp",
     shortTitle: "Ginecología",
@@ -542,46 +542,78 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud Lawndale ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `**Atención ginecológica sin cita, en español y con privacidad: papanicolaou, cultivos vaginales y tratamiento de infecciones el mismo día.** En Clínica Hispana Nueva Salud Lawndale te atiende [confirmar: médica o médico] de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro.
 
-## ¿Qué incluye?
+## ¿Cada cuánto debo hacerme el papanicolaou?
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+Según las guías de prevención de Estados Unidos, de los 21 a los 29 años se recomienda un papanicolaou cada 3 años. De los 30 a los 65 años, cada 3 años, o cada 5 años si se combina con la prueba de VPH (virus del papiloma humano). Si tuviste un resultado anormal antes, el intervalo puede ser más corto. El papanicolaou detecta cambios en el cuello del útero años antes de que se conviertan en cáncer.
 
-## No te quedes con la duda
+## ¿Qué incluye la consulta ginecológica?
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+- Papanicolaou (citología cervical) y, si corresponde, prueba de VPH
+- Examen pélvico y de mamas
+- Cultivo vaginal para identificar hongos, bacterias o tricomonas
+- Tratamiento de infecciones vaginales y urinarias el mismo día
+- Prueba de embarazo y orientación sobre anticonceptivos
+- Referencia a ginecólogo especialista cuando el caso lo requiere
 
-## Ginecología en una clínica hispana cerca de ti
+## ¿Cuándo llegan los resultados?
 
-Si buscas ginecología en Houston, en nuestra clínica hispana y latina del East End te atendemos sin cita previa, con total privacidad y en tu idioma. Ven el mismo día por tu papanicolaou, cultivo o tratamiento.
+El cultivo vaginal tarda [confirmar] días y el papanicolaou entre [confirmar] días. Te llamamos cuando están listos y, si hay que tratar algo, te damos la receta sin una segunda consulta.
+
+## ¿Qué síntomas justifican un cultivo vaginal?
+
+Comezón, ardor, flujo con color o cantidad distinta a lo habitual, mal olor o dolor durante las relaciones. Cada infección tiene un tratamiento diferente: un hongo no se cura con el antibiótico de una vaginosis. El cultivo evita adivinar y repetir tratamientos que no funcionan.
+
+## ¿Cómo prepararme para la cita?
+
+- Evita duchas vaginales, óvulos y relaciones sexuales 48 horas antes del papanicolaou.
+- Si es posible, ven cuando no tengas la menstruación.
+- Trae tu identificación, la fecha de tu última regla y la lista de medicamentos.
+- Si tomas anticonceptivos, trae la caja o el nombre.
+
+## ¿Cuánto cuesta la consulta de ginecología?
+
+La consulta cuesta $[confirmar]; el papanicolaou y el cultivo tienen un costo adicional que te informamos antes de realizarlos. Consulta nuestras promociones vigentes de salud íntima femenina y chequeo completo de la mujer.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud Lawndale we offer gynecology care in Spanish, with the privacy and respect you deserve.
+    longDescriptionEn: `**Walk-in gynecology care, in Spanish or English and with privacy: Pap smear, vaginal cultures and same-day treatment of infections.** At Clínica Hispana Nueva Salud Lawndale you are seen by [confirm: female or male physician] Monday to Sunday from 9 AM to 9 PM, no insurance needed.
 
-## What's included?
+## How often should I get a Pap smear?
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+Under U.S. preventive guidelines, women aged 21 to 29 should have a Pap smear every 3 years. From 30 to 65, every 3 years, or every 5 years when combined with an HPV (human papillomavirus) test. If you had an abnormal result before, the interval may be shorter. A Pap smear detects changes in the cervix years before they can become cancer.
 
-## Don't stay in doubt
+## What does the gynecology visit include?
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+- Pap smear (cervical cytology) and, when appropriate, HPV test
+- Pelvic and breast exam
+- Vaginal culture to identify yeast, bacteria or trichomonas
+- Same-day treatment of vaginal and urinary infections
+- Pregnancy test and contraception counseling
+- Referral to a gynecology specialist when the case requires it
 
-## Gynecology at a Hispanic clinic near you
+## When do results come back?
 
-If you're looking for gynecology in Houston, our Hispanic and Latino clinic in the East End sees you with no appointment, with full privacy and in your language. Come in the same day for your Pap smear, culture or treatment.
+The vaginal culture takes [confirm] days and the Pap smear [confirm] days. We call you when they are ready and, if something needs treatment, we send the prescription without a second visit.
+
+## Which symptoms call for a vaginal culture?
+
+Itching, burning, discharge that differs in color or amount from your usual, odor, or pain during sex. Each infection has a different treatment: yeast is not cured by the antibiotic used for bacterial vaginosis. The culture avoids guessing and repeating treatments that don't work.
+
+## How do I prepare for the visit?
+
+- Avoid douching, vaginal suppositories and sex for 48 hours before a Pap smear.
+- If possible, come when you are not on your period.
+- Bring your ID, the date of your last period and your list of medications.
+- If you use birth control, bring the box or the name.
+
+## How much does a gynecology visit cost?
+
+The visit costs $[confirm]; the Pap smear and culture have an additional cost that we tell you before performing them. See our current women's intimate health and complete women's checkup promotions.
 
 ${WHY_EN}
 
@@ -999,7 +1031,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-08-01",
+    dateModified: "2026-09-09",
     id: "infecciones-urinarias",
     image: "/images/services/infecciones-urinarias.webp",
     shortTitle: "Orina e ITU",
@@ -1044,46 +1076,76 @@ ${AREAS_EN}`,
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud Lawndale te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `**Si tienes ardor al orinar o ganas constantes de ir al baño, te hacemos el examen de orina en el momento y, si hay infección, sales con tratamiento el mismo día.** En Clínica Hispana Nueva Salud Lawndale atendemos infecciones urinarias sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
-## ¿Qué incluye?
+## ¿Cómo sé si tengo una infección urinaria?
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
+Los síntomas más frecuentes son ardor o dolor al orinar, necesidad de orinar muchas veces y en poca cantidad, orina turbia, con sangre o con mal olor, y presión en la parte baja del abdomen. Si además tienes fiebre, escalofríos, náuseas o dolor en la espalda baja a un lado, la infección puede haber llegado al riñón: ven el mismo día.
 
-## Síntomas frecuentes
+## ¿Qué incluye la visita?
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+1. **Examen general de orina** con tira reactiva y microscopio: el resultado está en minutos.
+2. **Evaluación médica** de tus síntomas, tu historial y tus medicamentos.
+3. **Tratamiento el mismo día:** receta de antibiótico según el tipo de infección y tu historial, más medicamento para el ardor si lo necesitas.
+4. **Urocultivo** cuando la infección se repite, no mejora con el tratamiento, o si estás embarazada, eres hombre o tienes diabetes. El resultado tarda [confirmar] días e indica qué antibiótico funciona mejor.
 
-## Infecciones urinarias: atención en una clínica hispana cerca de ti
+## ¿En cuánto tiempo mejora?
 
-Si tienes síntomas de infección urinaria en Houston, no necesitas cita: ven a nuestra clínica hispana del East End, te hacemos el examen de orina en el momento y empezamos tu tratamiento el mismo día.
+Con el antibiótico correcto, el ardor suele mejorar en 24 a 48 horas. Es importante terminar todo el tratamiento aunque ya te sientas bien; dejarlo a medias es la causa más común de que la infección regrese. Si a las 72 horas no mejoras, vuelve para revisar el cultivo y cambiar el antibiótico.
+
+## ¿Por qué me repiten las infecciones urinarias?
+
+Dos o más infecciones en seis meses se consideran recurrentes. Las causas más comunes son no tomar suficiente agua, aguantar la orina, la actividad sexual, la menopausia, la diabetes mal controlada y cálculos en el riñón. En la consulta buscamos la causa y, si hace falta, pedimos análisis de sangre o un ultrasonido.
+
+## ¿Cómo prevenirlas?
+
+- Toma entre 6 y 8 vasos de agua al día y no aguantes las ganas de orinar.
+- Orina después de las relaciones sexuales.
+- Límpiate de adelante hacia atrás.
+- Evita duchas vaginales y jabones perfumados en la zona íntima.
+- Si tienes diabetes, mantén la glucosa controlada.
+
+## ¿Cuánto cuesta?
+
+La consulta con examen de orina cuesta $[confirmar]. El urocultivo tiene un costo adicional que te informamos antes de tomarlo. Pago en efectivo o tarjeta.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud Lawndale we run the test and, if there's an infection, we start treatment the same day.
+    longDescriptionEn: `**If you have burning when you urinate or a constant urge to go, we run the urine test on the spot and, if there is an infection, you leave with treatment the same day.** At Clínica Hispana Nueva Salud Lawndale we treat urinary tract infections without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
-## What's included?
+## How do I know if I have a UTI?
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
+The most common symptoms are burning or pain when urinating, needing to urinate often and in small amounts, cloudy urine, blood in the urine or a strong odor, and pressure in the lower abdomen. If you also have fever, chills, nausea or pain in your lower back on one side, the infection may have reached the kidney: come in the same day.
 
-## Common symptoms
+## What does the visit include?
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+1. **Urinalysis** with dipstick and microscope: results in minutes.
+2. **Medical evaluation** of your symptoms, history and medications.
+3. **Same-day treatment:** an antibiotic prescription based on the type of infection and your history, plus medication for the burning if you need it.
+4. **Urine culture** when the infection keeps coming back, does not improve with treatment, or if you are pregnant, male or diabetic. The result takes [confirm] days and shows which antibiotic works best.
 
-## Urinary infections: care at a Hispanic clinic near you
+## How soon will I feel better?
 
-If you have urinary infection symptoms in Houston, you don't need an appointment: come to our Hispanic clinic in the East End, we run your urine test on the spot and start your treatment the same day.
+With the right antibiotic, burning usually improves within 24 to 48 hours. It is important to finish the full course even if you feel fine; stopping early is the most common reason infections come back. If you are not better after 72 hours, come back so we can check the culture and change the antibiotic.
+
+## Why do my UTIs keep coming back?
+
+Two or more infections in six months are considered recurrent. The most common causes are not drinking enough water, holding urine, sexual activity, menopause, poorly controlled diabetes and kidney stones. During the visit we look for the cause and, if needed, order blood tests or an ultrasound.
+
+## How can I prevent them?
+
+- Drink 6 to 8 glasses of water a day and don't hold your urine.
+- Urinate after sex.
+- Wipe from front to back.
+- Avoid douching and scented soaps in the intimate area.
+- If you have diabetes, keep your glucose under control.
+
+## How much does it cost?
+
+The visit with urinalysis costs $[confirm]. The urine culture has an additional cost that we tell you before collecting it. Cash and cards accepted.
 
 ${WHY_EN}
 
@@ -1659,7 +1721,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-dot",
-    dateModified: "2026-08-26",
+    dateModified: "2026-09-09",
     id: "examen-dot",
     image: "/images/services/examen-dot.webp",
     shortTitle: "Examen DOT",
@@ -1701,38 +1763,80 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud Lawndale lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `**El examen físico DOT es el chequeo médico que exige la FMCSA (Administración Federal de Seguridad de Autotransportes) para conducir un vehículo comercial en Estados Unidos.** En Clínica Hispana Nueva Salud Lawndale lo realiza un examinador médico certificado e inscrito en el Registro Nacional de la FMCSA (NRCME) [confirmar nombre y número de registro]. Sales con tu certificado médico (formulario MCSA-5876) el mismo día, sin cita y en español.
 
-## ¿Qué incluye?
+## ¿Quién necesita el examen DOT?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+Lo necesitas si manejas un vehículo de más de 10,001 libras en comercio interestatal, un autobús de 16 o más pasajeros, o transportas materiales peligrosos (HAZMAT). Aplica para sacar la licencia CDL por primera vez y para cada renovación del certificado médico. Muchas empresas también lo piden para conductores intraestatales en Texas.
 
-## Para conductores comerciales
+## ¿Qué revisa el examen DOT?
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+1. **Visión:** al menos 20/40 en cada ojo, con o sin lentes, y campo visual de 70 grados por ojo.
+2. **Audición:** escuchar un susurro a 5 pies de distancia, con o sin audífono.
+3. **Presión arterial y pulso:** con menos de 140/90 el certificado dura 2 años; entre 140/90 y 159/99 dura 1 año; de 160/100 a 179/109 se emite un certificado temporal de 3 meses mientras se controla.
+4. **Examen de orina:** glucosa, proteína y sangre. **No es prueba de drogas**; esa la pide tu empleador por separado y la hacemos en la misma visita si la necesitas.
+5. **Examen físico e historial:** corazón, pulmones, abdomen, hernias, reflejos, columna, medicamentos actuales y cirugías previas.
+
+El examen completo toma entre 30 y 45 minutos.
+
+## ¿Qué debo traer?
+
+- Identificación con foto y tu licencia de conducir actual
+- Lentes o audífonos, si los usas
+- Lista de medicamentos con dosis
+- Si tienes diabetes, presión alta, apnea del sueño o problemas del corazón: tus últimos resultados o una carta de tu médico. Así evitas una segunda visita.
+
+## ¿Cuánto cuesta el examen DOT en Houston?
+
+El examen DOT en nuestra clínica cuesta $[confirmar precio] e incluye el examen completo, el análisis de orina y el certificado MCSA-5876. Se paga en efectivo o tarjeta. Muchas empresas de transporte reembolsan el costo.
+
+## ¿Cuánto dura el certificado médico DOT?
+
+Hasta 2 años. Con presión alta controlada o diabetes sin insulina suele ser de 1 año. Renueva con al menos 2 semanas de anticipación para no quedarte sin poder trabajar. Desde el 23 de junio de 2025 los examinadores certificados envían el resultado por vía electrónica al Registro Nacional de la FMCSA, que lo transmite al Texas DPS, así que en la mayoría de los casos ya no tienes que entregar la tarjeta en papel.
+
+## ¿Qué pasa si no paso el examen?
+
+Presión muy alta, visión por debajo de 20/40 o diabetes con insulina no significan un "no" definitivo. Te explicamos qué documento o tratamiento necesitas y cuándo volver. Si usas insulina, la FMCSA acepta el formulario MCSA-5870 llenado por tu médico tratante, y con él puedes certificarte por hasta 1 año.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Nueva Salud Lawndale we perform it quickly and give you your certificate the same day.
+    longDescriptionEn: `**The DOT physical is the medical exam required by the FMCSA (Federal Motor Carrier Safety Administration) to drive a commercial vehicle in the United States.** At Clínica Hispana Nueva Salud Lawndale it is performed by a certified medical examiner listed on the FMCSA National Registry (NRCME) [confirm name and registry number]. You leave with your Medical Examiner's Certificate (form MCSA-5876) the same day, no appointment needed, in Spanish or English.
 
-## What's included?
+## Who needs a DOT physical?
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+You need one if you drive a vehicle over 10,001 lb in interstate commerce, a bus with 16 or more passengers, or you haul hazardous materials (HAZMAT). It applies when you get your CDL for the first time and every time your medical certificate is renewed. Many companies also require it for intrastate drivers in Texas.
 
-## For commercial drivers
+## What does the DOT exam check?
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+1. **Vision:** at least 20/40 in each eye, with or without glasses, and a 70-degree field of vision per eye.
+2. **Hearing:** hear a forced whisper from 5 feet away, with or without a hearing aid.
+3. **Blood pressure and pulse:** under 140/90 gives a 2-year certificate; 140/90 to 159/99 gives 1 year; 160/100 to 179/109 gives a one-time 3-month certificate while it is brought under control.
+4. **Urinalysis:** glucose, protein and blood. **It is not a drug test**; your employer orders that separately, and we can do it during the same visit if you need it.
+5. **Physical exam and history:** heart, lungs, abdomen, hernias, reflexes, spine, current medications and past surgeries.
+
+The full exam takes 30 to 45 minutes.
+
+## What should I bring?
+
+- Photo ID and your current driver's license
+- Glasses or hearing aids, if you use them
+- List of medications with doses
+- If you have diabetes, high blood pressure, sleep apnea or heart problems: your latest results or a letter from your doctor. This avoids a second visit.
+
+## How much does a DOT physical cost in Houston?
+
+The DOT physical at our clinic costs $[confirm price] and includes the full exam, the urinalysis and the MCSA-5876 certificate. Cash and cards accepted. Many trucking companies reimburse the cost.
+
+## How long is the DOT medical certificate valid?
+
+Up to 2 years. With controlled high blood pressure or non-insulin diabetes it is usually 1 year. Renew at least 2 weeks before it expires so you don't lose work days. Since June 23, 2025, certified examiners submit results electronically to the FMCSA National Registry, which forwards them to Texas DPS, so in most cases you no longer need to hand in the paper card.
+
+## What if I don't pass?
+
+Very high blood pressure, vision below 20/40 or insulin-treated diabetes do not mean a permanent "no". We explain which document or treatment you need and when to come back. If you use insulin, the FMCSA accepts form MCSA-5870 completed by your treating doctor, and with it you can be certified for up to 1 year.
 
 ${WHY_EN}
 
@@ -1906,7 +2010,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "sueros-vitaminados",
-    dateModified: "2026-09-08",
+    dateModified: "2026-09-09",
     id: "sueros-vitaminados",
     image: "/images/services/sueros-vitaminados.webp",
     shortTitle: "Sueros IV",
@@ -1947,38 +2051,74 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud Lawndale los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `**Un suero vitaminado es una infusión intravenosa de suero fisiológico con vitaminas y minerales, aplicada por personal médico en 30 a 60 minutos.** En Clínica Hispana Nueva Salud Lawndale lo recibes sin cita, todos los días de 9 AM a 9 PM, después de una evaluación breve que confirma que es adecuado para ti.
 
-## ¿Qué incluye?
+## ¿Qué sueros ofrecemos?
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+- **Hidratación:** suero fisiológico o solución con electrolitos para deshidratación por calor, vómito, diarrea o exceso de alcohol.
+- **Energía y defensas:** vitamina C, complejo B (B1, B6, B12) y zinc, para cansancio prolongado o después de una gripe.
+- **Recuperación muscular:** magnesio y complejo B, para calambres y fatiga tras trabajo físico intenso.
+- **Personalizado:** el médico ajusta la fórmula según tus síntomas y tus análisis. [confirmar lista exacta de sueros y componentes]
 
-## Cuándo pueden ayudar
+Cada aplicación incluye evaluación médica, toma de signos vitales, la infusión y monitoreo durante todo el proceso.
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+## ¿Cuánto cuesta un suero vitaminado en Houston?
+
+Los sueros cuestan desde $[confirmar precio] según la fórmula. El precio incluye la evaluación, el material y la aplicación. Pago en efectivo o tarjeta; no necesitas seguro médico.
+
+## ¿Cuándo puede ayudar un suero?
+
+Puede ayudar cuando llevas días con cansancio, después de una deshidratación fuerte, en periodos de mucho trabajo físico o tras una enfermedad que te dejó débil. Un suero no sustituye una consulta: si el cansancio dura más de dos semanas, pedimos análisis de sangre para buscar la causa, por ejemplo anemia, tiroides o diabetes.
+
+## ¿Quién no debe recibir un suero vitaminado?
+
+No lo aplicamos, o lo ajustamos, si tienes insuficiencia cardiaca, enfermedad renal, presión muy alta sin control, embarazo o alergia a alguno de los componentes. Por eso la evaluación previa es obligatoria y forma parte del servicio.
+
+## ¿Cómo es la visita?
+
+1. Llegas sin cita y te registras con una identificación.
+2. El médico revisa tus síntomas, tus medicamentos y tus signos vitales.
+3. Se coloca una vía en el brazo y la infusión dura entre 30 y 60 minutos en un sillón cómodo.
+4. Sales el mismo día y puedes conducir; te recomendamos tomar agua el resto del día.
+
+Los efectos secundarios más comunes son leves: sabor metálico, sensación de calor o una pequeña molestia en el sitio de la aguja.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud Lawndale we administer them with medical staff in a comfortable, safe setting.
+    longDescriptionEn: `**A vitamin IV drip is an intravenous infusion of saline with vitamins and minerals, given by medical staff over 30 to 60 minutes.** At Clínica Hispana Nueva Salud Lawndale you can get one without an appointment, every day from 9 AM to 9 PM, after a brief evaluation that confirms it is right for you.
 
-## What's included?
+## Which IV drips do we offer?
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+- **Hydration:** saline or electrolyte solution for dehydration from heat, vomiting, diarrhea or too much alcohol.
+- **Energy and immunity:** vitamin C, B complex (B1, B6, B12) and zinc, for lasting fatigue or after the flu.
+- **Muscle recovery:** magnesium and B complex, for cramps and fatigue after heavy physical work.
+- **Custom:** the doctor adjusts the formula to your symptoms and lab results. [confirm exact list of drips and ingredients]
 
-## When they can help
+Every session includes a medical evaluation, vital signs, the infusion and monitoring throughout.
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+## How much does a vitamin IV cost in Houston?
+
+Drips start at $[confirm price] depending on the formula. The price includes the evaluation, supplies and administration. Cash and cards accepted; no insurance needed.
+
+## When can an IV drip help?
+
+It can help when you have felt tired for days, after severe dehydration, during periods of hard physical work or after an illness that left you weak. A drip does not replace a visit: if fatigue lasts more than two weeks, we order blood tests to look for the cause, such as anemia, thyroid problems or diabetes.
+
+## Who should not get a vitamin IV?
+
+We do not give it, or we adjust it, if you have heart failure, kidney disease, uncontrolled high blood pressure, pregnancy or an allergy to any ingredient. That is why the evaluation is required and included in the service.
+
+## What is the visit like?
+
+1. Walk in without an appointment and check in with an ID.
+2. The doctor reviews your symptoms, medications and vital signs.
+3. An IV line is placed in your arm and the infusion takes 30 to 60 minutes in a comfortable chair.
+4. You leave the same day and can drive; we recommend drinking water for the rest of the day.
+
+The most common side effects are mild: a metallic taste, a feeling of warmth or slight discomfort at the needle site.
 
 ${WHY_EN}
 
