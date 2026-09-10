@@ -28,10 +28,10 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("title"),
-    description: locale === "en"
-      ? "Medical services in Houston TX: family medicine, I-693 immigration exams, lab tests, gynecology, ultrasound, DOT physicals and more. Walk-ins welcome, Spanish-speaking staff."
-      : "Servicios médicos en Houston TX: medicina familiar, exámenes I-693, laboratorio, ginecología, ultrasonido, examen DOT y más. Sin cita previa, atención en español.",
+    // metaTitle/metaDescription son solo para el SERP; `title` sigue siendo el H1
+    // y el encabezado de la sección en la home.
+    title: t("metaTitle"),
+    description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/services`,
       languages: {
@@ -41,8 +41,8 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       },
     },
     openGraph: {
-      title: t("title"),
-      description: t("subtitle"),
+      title: t("metaTitle"),
+      description: t("metaDescription"),
       url: `${SITE_CONFIG.baseUrl}${localePath}/services`,
       images: [
         {

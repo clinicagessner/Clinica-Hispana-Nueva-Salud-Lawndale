@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clinica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Hispanic clinic and medical center in Houston, TX. Professional healthcare 100% in Spanish, walk-ins welcome, we accept patients without insurance. Family medicine, immigration exams, laboratory and more.",
+    "description": "Hispanic clinic in Houston, TX. Care 100% in Spanish, walk-ins welcome, no insurance needed. Family medicine, I-693 immigration exam, lab tests and more.",
     "ogDescription": "Your trusted clinic in Houston. Professional medical care in Spanish for the whole family. Walk-ins welcome, affordable prices. {rating} stars on Google with more than {count} reviews."
   },
   "nav": {
@@ -84,7 +84,9 @@
     "categoryEspecialidad": "Specialty",
     "categoryMujer": "Women's Health",
     "categoryDefault": "Medical Service",
-    "relatedPosts": "Related Articles"
+    "relatedPosts": "Related Articles",
+    "metaTitle": "Walk-In Medical Services in Houston | Hispanic Clinic",
+    "metaDescription": "29 walk-in medical services in Houston: general visits, lab tests, gynecology, I-693 immigration exam, DOT physical, ultrasound and more. In Spanish."
   },
   "testimonials": {
     "title": "What Our Patients Say",
@@ -242,7 +244,7 @@
     "title": "Health Blog",
     "subtitle": "Health tips, news and updates from our clinic",
     "metaTitle": "Blog | Clinica Hispana Nueva Salud Lawndale Houston",
-    "metaDescription": "Health tips, medical information and news from Clinica Hispana Nueva Salud Lawndale in Houston, TX. Articles in Spanish about family medicine, prevention and wellness.",
+    "metaDescription": "Health tips and articles in Spanish from Clinica Hispana Nueva Salud Lawndale, Houston TX: family medicine, prevention and wellness.",
     "featured": "Featured",
     "readMore": "Read More",
     "viewAll": "View All Articles",

@@ -1,7 +1,7 @@
 ---
 slug: "guia-examen-medico-inmigracion-i693-houston"
 title: "Guía Completa: Examen Médico de Inmigración I-693 en Houston"
-description: "Todo lo que necesita saber sobre el examen médico I-693 para Green Card en Houston TX. Requisitos, vacunas, costos y qué esperar con Civil Surgeons certificados."
+description: "Examen médico I-693 para Green Card en Houston TX: requisitos, vacunas, costos y qué esperar con un Civil Surgeon autorizado por USCIS."
 date: "2026-03-18"
 dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"

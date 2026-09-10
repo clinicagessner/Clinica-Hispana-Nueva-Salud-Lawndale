@@ -1,9 +1,9 @@
 ---
 slug: "vitamina-b12-beneficios-inyecciones-houston"
-title: "Vitamin B12: Benefits, Deficiency Symptoms and Injections"
-description: "What vitamin B12 is for, deficiency symptoms and when an injection makes sense. B12 testing and shots with Spanish-speaking staff in Houston's East End, no appointment and no insurance needed."
+title: "Vitamin B12: Benefits, Deficiency and Injections"
+description: "What vitamin B12 does, deficiency symptoms and when an injection helps. B12 testing and shots in Spanish in Houston's East End, no appointment needed."
 date: "2026-08-18"
-dateModified: "2026-08-18"
+dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false

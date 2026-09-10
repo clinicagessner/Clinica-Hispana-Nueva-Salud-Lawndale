@@ -1,9 +1,9 @@
 ---
 slug: "vitamina-b12-beneficios-inyecciones-houston"
-title: "Vitamina B12: Beneficios, Síntomas de Deficiencia e Inyecciones"
-description: "Para qué sirve la vitamina B12, síntomas de deficiencia y cuándo conviene la inyección. Prueba de B12 e inyecciones en español en el East End de Houston, sin cita y sin seguro."
+title: "Vitamina B12: Beneficios, Deficiencia e Inyecciones"
+description: "Para qué sirve la vitamina B12, síntomas de deficiencia y cuándo conviene la inyección. Prueba e inyecciones en español en el East End de Houston."
 date: "2026-08-18"
-dateModified: "2026-08-18"
+dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false

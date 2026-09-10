@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clínica Hispana Nueva Salud Lawndale | Houston TX",
     "titleTemplate": "%s",
-    "description": "Clínica hispana y centro médico en Houston, TX. Atención profesional 100% en español, sin cita previa, atendemos a pacientes sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "description": "Clínica hispana en Houston, TX. Atención 100% en español, sin cita previa y sin seguro. Medicina familiar, examen de inmigración I-693, laboratorio y más.",
     "ogDescription": "Su clínica de confianza en Houston. Atención médica profesional en español para toda la familia. Sin cita previa, precios accesibles. {rating} estrellas en Google con más de {count} reseñas."
   },
   "nav": {
@@ -84,7 +84,9 @@
     "categoryEspecialidad": "Especialidad",
     "categoryMujer": "Salud de la Mujer",
     "categoryDefault": "Servicio Médico",
-    "relatedPosts": "Artículos Relacionados"
+    "relatedPosts": "Artículos Relacionados",
+    "metaTitle": "Servicios Médicos en Houston Sin Cita | Clínica Hispana",
+    "metaDescription": "29 servicios médicos en Houston sin cita: consulta general, laboratorio, ginecología, examen I-693, DOT, ultrasonido y más. Precios accesibles, en español."
   },
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Pacientes",
@@ -242,7 +244,7 @@
     "title": "Blog de Salud",
     "subtitle": "Consejos de salud, noticias y actualizaciones de nuestra clínica",
     "metaTitle": "Blog | Clínica Hispana Nueva Salud Lawndale Houston",
-    "metaDescription": "Consejos de salud, información médica y noticias de Clínica Hispana Nueva Salud Lawndale en Houston, TX. Artículos en español sobre medicina familiar, prevención y bienestar.",
+    "metaDescription": "Consejos de salud y artículos en español de Clínica Hispana Nueva Salud Lawndale, Houston TX: medicina familiar, prevención y bienestar.",
     "featured": "Destacado",
     "readMore": "Leer Más",
     "viewAll": "Ver Todos los Artículos",

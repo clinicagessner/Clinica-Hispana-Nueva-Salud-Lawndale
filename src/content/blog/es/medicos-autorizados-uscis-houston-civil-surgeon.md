@@ -1,7 +1,7 @@
 ---
 slug: "medicos-autorizados-uscis-houston-civil-surgeon"
 title: "Médicos Autorizados por USCIS en Houston: Cómo Verificar"
-description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCIS en Houston para hacer el examen I-693 de Green Card. Lista oficial, requisitos y qué evitar."
+description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCIS en Houston para el examen I-693: lista oficial, requisitos y qué evitar."
 date: "2026-05-31"
 dateModified: "2026-09-08"
 author: "Clínica Hispana Nueva Salud Lawndale"
