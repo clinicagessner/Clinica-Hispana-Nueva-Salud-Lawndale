@@ -2,6 +2,19 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Antes de nada: leer el playbook
+
+Esta clínica es una de 17 de la misma red. El método, el estado y la bitácora **no están en este
+repo**: viven en `../playbook/` (repo propio, en git).
+
+1. `../playbook/PROMPT.md` — el método. Se carga entero al empezar cualquier sesión.
+2. `../playbook/RED.md` — estado de la red.
+3. `../playbook/clinicas/lawndale.md` — la bitácora de esta clínica: qué se hizo, cuándo y qué sigue.
+
+Nada operativo se guarda en `~/Desktop`, en `/tmp` ni en el scratchpad: se perdió dos veces.
+El estado que pertenece a esta clínica va a `docs/` de este repo (p. ej. la lista de indexación
+en `docs/seo/indexacion-gsc.md`) y se referencia desde la bitácora.
+
 ## Project
 
 Bilingual (es default / en) marketing site for **Clínica Hispana Nueva Salud Lawndale** — a medical clinic in Houston, TX (East End). Next.js 16 App Router + React 19 + Tailwind 4 + shadcn/ui, deployed on Vercel. Production URL: `https://www.nuevasaludlawndale.com`.
