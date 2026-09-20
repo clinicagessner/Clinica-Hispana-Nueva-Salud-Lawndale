@@ -25,11 +25,22 @@ Informe de Páginas, datos al 17/09/2026:
 
 Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-in` · `/promociones` · `/services/condiciones-cronicas` · `/en/services/condiciones-cronicas` · `/services/examenes-inmigracion` · `/services/sueros-vitaminados` · `/blog/vitamina-b12-beneficios-inyecciones-houston` · `/blog/examen-dot-cdl-camioneros-houston` · `/en/blog/examen-dot-cdl-camioneros-houston` · `/blog/salud-hombre-houston-chequeos-preventivos` · `/en/blog/salud-hombre-houston-chequeos-preventivos`
 
+## Historial de solicitudes
+
+| Fecha | URLs | Notas |
+|---|---|---|
+| 2026-09-09 | 10 | Contenido no registrado en su momento |
+| 2026-09-12 | 10 | examenes-inmigracion, walk-in, examen-fisico-escolar, vacunas, prueba-tuberculosis (es+en). Funcionó: examenes-inmigracion y walk-in ya están indexadas |
+| 2026-09-13 → 19 | 0 | Parón de 8 días |
+| 2026-09-20 | 10 | Tanda 1 de abajo. Repitió sin querer vacunas y examen-fisico-escolar |
+
 ## Tandas
 
 78 URLs pendientes. Orden: servicios en español → índices y blog en español → todo el inglés → legales.
 
 ## Tanda 1 — domingo 20 de septiembre de 2026  ✅ PEDIDA 20/09/2026
+
+> Ojo: `vacunas` y `examen-fisico-escolar` ya se habían pedido el 12/09.
 
 - [x] https://www.nuevasaludlawndale.com/services/examen-dot
 - [x] https://www.nuevasaludlawndale.com/services/examenes-sangre
