@@ -54,22 +54,21 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/services/salud-hombre
 
 
-## Tanda 2 — lunes 21 de septiembre de 2026
+## Tanda 2 — lunes 21 de septiembre de 2026  ✅ PEDIDA 23/09/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias
-- [ ] https://www.nuevasaludlawndale.com/services/alergias
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual
-- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep
-- [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia
-- [ ] https://www.nuevasaludlawndale.com/services/examen-heces
+- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias
+- [x] https://www.nuevasaludlawndale.com/services/alergias
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual
+- [x] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas
+- [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep
+- [x] https://www.nuevasaludlawndale.com/services/electrocardiograma
+- [x] https://www.nuevasaludlawndale.com/services/farmacia
+- [x] https://www.nuevasaludlawndale.com/services/examen-heces
 
 
-## Tanda 3 — martes 22 de septiembre de 2026
-
+## Tanda 3
 - [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores
 - [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos
@@ -82,8 +81,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [ ] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
 
 
-## Tanda 4 — miércoles 23 de septiembre de 2026
-
+## Tanda 4
 - [ ] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston
 - [ ] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre
 - [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes
@@ -96,8 +94,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre
 
 
-## Tanda 5 — jueves 24 de septiembre de 2026
-
+## Tanda 5
 - [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia
 - [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias
 - [ ] https://www.nuevasaludlawndale.com/en/services/vacunas
@@ -110,8 +107,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias
 
 
-## Tanda 6 — viernes 25 de septiembre de 2026
-
+## Tanda 6
 - [ ] https://www.nuevasaludlawndale.com/en/services/alergias
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas
@@ -124,8 +120,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas
 
 
-## Tanda 7 — sábado 26 de septiembre de 2026
-
+## Tanda 7
 - [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos
 - [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes
 - [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas
@@ -138,8 +133,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston
 
 
-## Tanda 8 — domingo 27 de septiembre de 2026
-
+## Tanda 8
 - [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre
 - [ ] https://www.nuevasaludlawndale.com/en/blog/control-diabetes-houston-guia-pacientes
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol
