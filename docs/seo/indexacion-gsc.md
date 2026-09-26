@@ -34,6 +34,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-09-13 → 19 | 0 | Parón de 8 días |
 | 2026-09-20 | 10 | Tanda 1 de abajo. Repitió sin querer vacunas y examen-fisico-escolar |
 
+| 2026-09-25 | 10 | Tanda 3 |
 ## Tandas
 
 78 URLs pendientes. Orden: servicios en español → índices y blog en español → todo el inglés → legales.
@@ -68,17 +69,17 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/services/examen-heces
 
 
-## Tanda 3
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores
-- [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas
-- [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos
-- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes
-- [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas
-- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas
-- [ ] https://www.nuevasaludlawndale.com/services
-- [ ] https://www.nuevasaludlawndale.com/blog
-- [ ] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston
-- [ ] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
+## Tanda 3  ✅ PEDIDA 25/09/2026
+- [x] https://www.nuevasaludlawndale.com/services/cirugias-menores
+- [x] https://www.nuevasaludlawndale.com/services/curacion-heridas
+- [x] https://www.nuevasaludlawndale.com/services/drenaje-abscesos
+- [x] https://www.nuevasaludlawndale.com/services/extraccion-implantes
+- [x] https://www.nuevasaludlawndale.com/services/suturas-heridas
+- [x] https://www.nuevasaludlawndale.com/services/unas-encarnadas
+- [x] https://www.nuevasaludlawndale.com/services
+- [x] https://www.nuevasaludlawndale.com/blog
+- [x] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston
+- [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
 
 
 ## Tanda 4
