@@ -33,6 +33,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-09-12 | 10 | examenes-inmigracion, walk-in, examen-fisico-escolar, vacunas, prueba-tuberculosis (es+en). Funcionó: examenes-inmigracion y walk-in ya están indexadas |
 | 2026-09-13 → 19 | 0 | Parón de 8 días |
 | 2026-09-20 | 10 | Tanda 1 de abajo. Repitió sin querer vacunas y examen-fisico-escolar |
+| 2026-09-27 | 10 | Tanda 4 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 ## Tandas
@@ -82,17 +83,17 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon
 
 
-## Tanda 4
-- [ ] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston
-- [ ] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre
-- [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes
-- [ ] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol
-- [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia
-- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion
-- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre
+## Tanda 4  ✅ PEDIDA 27/09/2026
+- [x] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston
+- [x] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre
+- [x] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes
+- [x] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol
+- [x] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia
+- [x] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion
+- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre
 
 
 ## Tanda 5
