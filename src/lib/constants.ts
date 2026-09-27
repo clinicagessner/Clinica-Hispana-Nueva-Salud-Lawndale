@@ -538,7 +538,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-fisico-escolar",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "examen-fisico-escolar",
     image: "/images/services/examen-fisico-escolar.webp",
     shortTitle: "Físico Escolar",
@@ -552,9 +552,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Physical exams for school and sports, fast and with the forms completed.",
     description:
-      "Chequeos físicos escolares y deportivos en Houston, TX. Rápidos, en español y sin necesidad de seguro.",
+      "Examen físico escolar y deportivo en el East End de Houston: formularios UIL, de escuela y de campamento llenados en una visita, sin cita y sin seguro.",
     descriptionEn:
-      "School and sports physical exams in Houston, TX. Fast, in Spanish, no insurance needed.",
+      "School and sports physicals in Houston's East End: UIL, school and summer camp forms completed in one visit. Walk-ins welcome, bilingual, no insurance.",
     keywords: [
       "examen fisico escolar houston",
       "physical para la escuela houston",
@@ -1497,7 +1497,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-heces",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "examen-heces",
     image: "/images/services/examen-heces.webp",
     shortTitle: "Heces",
@@ -1511,9 +1511,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Stool analysis to detect infections and digestive problems, in Spanish.",
     description:
-      "Exámenes de heces fecales en Houston, TX. Detección de parásitos e infecciones, en español, sin necesidad de seguro.",
+      "Examen de heces en el East End de Houston: detecta parásitos, bacterias y sangre oculta, y te explicamos el resultado en español. Sin cita y sin seguro.",
     descriptionEn:
-      "Stool tests in Houston, TX. Detection of parasites and infections, in Spanish, no insurance needed.",
+      "Stool tests in Houston's East End to detect parasites, bacteria and hidden blood, with results explained in Spanish or English. No insurance needed.",
     keywords: [
       "examen de heces houston",
       "analisis de heces fecales houston",
@@ -1717,7 +1717,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-tuberculosis",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "prueba-tuberculosis",
     image: "/images/services/prueba-tuberculosis.webp",
     shortTitle: "Tuberculosis",
@@ -1731,9 +1731,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Tuberculosis (PPD) test for work, school or paperwork, with reading in Spanish.",
     description:
-      "Examen de tuberculosis (TB/PPD) en Houston, TX. Para trabajo y escuela, en español, sin necesidad de seguro.",
+      "Prueba de tuberculosis en el East End de Houston: PPD en la piel o prueba en sangre (IGRA) para trabajo, escuela o inmigración. Sin cita y sin seguro.",
     descriptionEn:
-      "Tuberculosis (TB/PPD) test in Houston, TX. For work and school, in Spanish, no insurance needed.",
+      "TB testing in Houston's East End: PPD skin test or IGRA blood test for work, school or immigration. Walk-ins welcome, bilingual staff, no insurance needed.",
     keywords: [
       "examen de tuberculosis houston",
       "prueba ppd houston",
@@ -2766,7 +2766,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "suturas-heridas",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "suturas-heridas",
     image: "/images/services/suturas-heridas.webp",
     shortTitle: "Suturas",
@@ -2780,9 +2780,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Sutures (stitches) to close wounds safely, walk-ins welcome and in Spanish.",
     description:
-      "Suturas de heridas en Houston, TX. Cierre de cortes y heridas en español, sin necesidad de seguro.",
+      "Suturas de heridas en el East End de Houston: cerramos cortadas con puntos, grapas o adhesivo y anestesia local. Sin cita, en español y sin seguro.",
     descriptionEn:
-      "Wound suturing in Houston, TX. Closing cuts and wounds in Spanish, no insurance needed.",
+      "Wound stitches in Houston's East End: we close cuts with sutures, staples or skin glue under local anesthesia. Walk-ins welcome, no insurance needed.",
     keywords: [
       "suturas houston",
       "puntos para herida houston",
@@ -2880,7 +2880,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "curacion-heridas",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "curacion-heridas",
     image: "/images/services/curacion-heridas.webp",
     shortTitle: "Curación",
@@ -2894,9 +2894,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Cleaning, wound care and dressing changes for proper healing, in Spanish.",
     description:
-      "Cura y curación de heridas en Houston, TX. Limpieza y vendajes en español, sin necesidad de seguro.",
+      "Curación de heridas en el East End de Houston: limpieza, desinfección, cambio de vendajes y seguimiento de la cicatrización. Sin cita y sin seguro.",
     descriptionEn:
-      "Wound care in Houston, TX. Cleaning and dressings in Spanish, no insurance needed.",
+      "Wound care in Houston's East End: cleaning, disinfection, dressing changes and healing follow-up for cuts, burns and infected wounds. No insurance needed.",
     keywords: [
       "curacion de heridas houston",
       "cura de heridas houston",
@@ -3118,7 +3118,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "drenaje-abscesos",
-    dateModified: "2026-09-09",
+    dateModified: "2026-09-26",
     id: "drenaje-abscesos",
     image: "/images/services/drenaje-abscesos.webp",
     shortTitle: "Abscesos",
@@ -3132,9 +3132,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Drainage of abscesses and skin infections to relieve pain and promote healing.",
     description:
-      "Drenaje de abscesos en Houston, TX. Tratamiento de infecciones de piel en español, sin necesidad de seguro.",
+      "Drenaje de abscesos en el East End de Houston: abrimos y limpiamos nacidos, forúnculos y quistes infectados con anestesia local. Sin cita y sin seguro.",
     descriptionEn:
-      "Abscess drainage in Houston, TX. Treatment of skin infections in Spanish, no insurance needed.",
+      "Abscess drainage in Houston's East End: we open and clean boils and infected cysts under local anesthesia in one visit. Walk-ins welcome, no insurance.",
     keywords: [
       "drenaje de absceso houston",
       "drenar absceso houston",
