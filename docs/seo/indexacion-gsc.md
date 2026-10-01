@@ -34,6 +34,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-09-13 → 19 | 0 | Parón de 8 días |
 | 2026-09-20 | 10 | Tanda 1 de abajo. Repitió sin querer vacunas y examen-fisico-escolar |
 | 2026-09-27 | 10 | Tanda 4 |
+| 2026-09-30 | 10 | Tanda 5 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 ## Tandas
@@ -96,17 +97,17 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre
 
 
-## Tanda 5
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias
-- [ ] https://www.nuevasaludlawndale.com/en/services/vacunas
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo
-- [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar
-- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias
+## Tanda 5  ✅ PEDIDA 30/09/2026
+- [x] https://www.nuevasaludlawndale.com/en/services/ginecologia
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias
+- [x] https://www.nuevasaludlawndale.com/en/services/vacunas
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar
+- [x] https://www.nuevasaludlawndale.com/en/services/tiroides
+- [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre
+- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias
 
 
 ## Tanda 6
