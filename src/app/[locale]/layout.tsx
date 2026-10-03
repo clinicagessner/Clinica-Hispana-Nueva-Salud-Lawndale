@@ -14,6 +14,7 @@ import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
+import { ConversionEvents } from "@/components/tracking/conversion-events";
 
 // Sora (display/titulares) + Inter (cuerpo) — pareja moderna del rediseño Nueva Salud Lawndale.
 const sora = Sora({
@@ -198,6 +199,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             <ScrollAnimations />
           </TooltipProvider>
         </NextIntlClientProvider>
+        <ConversionEvents />
       </body>
       {process.env.NEXT_PUBLIC_GA_ID && (
         <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />

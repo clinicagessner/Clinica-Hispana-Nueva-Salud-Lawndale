@@ -18,6 +18,7 @@ import {
 } from "@/components/ui/select";
 import { contactFormSchema, type ContactFormData, serviceOptions } from "@/lib/validations";
 import { sendContactEmail } from "@/app/actions/send-contact-email";
+import { trackEvent } from "@/components/tracking/conversion-events";
 
 export function ContactForm() {
   const t = useTranslations("contact.form");
@@ -64,6 +65,7 @@ export function ContactForm() {
             content_name: "Contact Form",
           }, { eventID });
         }
+        trackEvent("formulario", { form_name: "contacto" });
         setStatus("success");
         reset();
         setTimeout(() => setStatus("idle"), 5000);
