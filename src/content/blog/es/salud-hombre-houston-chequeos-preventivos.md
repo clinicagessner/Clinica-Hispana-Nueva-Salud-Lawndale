@@ -128,7 +128,7 @@ Sabemos que hablar de la próstata, la testosterona o la salud sexual no es fác
 - **Sin seguro médico:** precios accesibles de pago directo
 - **Todo en un solo lugar:** laboratorio, electrocardiograma y consulta médica
 - **Resultados rápidos** y explicados en su idioma
-- **Ubicación conveniente** en el East End de Houston, con estacionamiento
+- **Ubicación conveniente** en el East End de Houston, con estacionamiento gratuito
 
 Atendemos a hombres de todo el East End de Houston: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester y comunidades cercanas.
 

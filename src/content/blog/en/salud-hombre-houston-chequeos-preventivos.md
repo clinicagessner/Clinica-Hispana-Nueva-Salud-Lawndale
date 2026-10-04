@@ -128,7 +128,7 @@ We know that talking about the prostate, testosterone or sexual health isn't eas
 - **No insurance required:** affordable self-pay pricing
 - **Everything in one place:** lab, EKG and medical consultation
 - **Fast results** explained in your language
-- **Convenient location** in Houston's East End, with parking
+- **Convenient location** in Houston's East End, with free parking
 
 We serve men across Houston's East End: Eastwood, Segundo Barrio, Magnolia Park, Forest Hill, Gulfgate, Idylwild, Manchester and nearby communities.
 

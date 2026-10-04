@@ -83,6 +83,9 @@ export async function JsonLdMedicalClinic({ withRating = false }: { withRating?:
         priceRange: "$$",
         currenciesAccepted: "USD",
         paymentAccepted: "Cash, Credit Card, Debit Card",
+        amenityFeature: [
+          { "@type": "LocationFeatureSpecification", name: locale === "en" ? "Free parking" : "Estacionamiento gratuito", value: true },
+        ],
         address: {
           "@type": "PostalAddress",
           streetAddress: CONTACT_INFO.address,

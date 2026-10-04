@@ -37,7 +37,7 @@ Sabemos que las emergencias de salud no esperan. Por eso ofrecemos atención sin
 Creemos que la salud no debe ser un lujo. Ofrecemos precios justos y transparentes, y atendemos a pacientes sin seguro médico.
 
 ### Ubicación Conveniente
-Estamos ubicados en **7040 Lawndale St # B, Houston, TX 77023**, con fácil acceso y amplio estacionamiento.
+Estamos ubicados en **7040 Lawndale St # B, Houston, TX 77023**, con fácil acceso y amplio estacionamiento gratuito.
 
 ## Nuestros Servicios
 
