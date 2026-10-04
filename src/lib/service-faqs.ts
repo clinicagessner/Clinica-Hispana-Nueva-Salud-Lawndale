@@ -143,12 +143,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "infecciones-urinarias": {
     faqs: [
-      { question: "¿Cuánto tarda el resultado del examen de orina?", answer: "Minutos. Hacemos la tira reactiva y el microscopio en la clínica, así que el médico decide el tratamiento en la misma visita." },
+      { question: "¿Cuánto tarda el resultado del examen de orina?", answer: "Minutos. Hacemos la tira reactiva y el microscopio en la clínica, así que, si hay infección, sales con tu tratamiento el mismo día." },
       { question: "¿Cuándo hace falta un urocultivo?", answer: "Cuando la infección se repite, no mejora en 72 horas, o si estás embarazada, eres hombre o tienes diabetes. Tarda unos días e indica el antibiótico más efectivo." },
       { question: "¿Una infección urinaria se quita sola?", answer: "Rara vez, y sin tratamiento puede subir al riñón. Con fiebre, escalofríos o dolor en la espalda baja, ven el mismo día." },
     ],
     faqsEn: [
-      { question: "How long does the urine test take?", answer: "Minutes. We do the dipstick and microscope test in the clinic, so the doctor decides the treatment during the same visit." },
+      { question: "How long does the urine test take?", answer: "Minutes. We do the dipstick and microscope test in the clinic, so if there is an infection you leave with your treatment the same day." },
       { question: "When is a urine culture needed?", answer: "When the infection keeps coming back, does not improve within 72 hours, or if you are pregnant, male or diabetic. It takes a few days and shows the most effective antibiotic." },
       { question: "Does a UTI go away on its own?", answer: "Rarely, and without treatment it can spread to the kidney. With fever, chills or lower back pain, come in the same day." },
     ],

@@ -1373,7 +1373,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-04",
     id: "infecciones-urinarias",
     image: "/images/services/infecciones-urinarias.webp",
     shortTitle: "Orina e ITU",
