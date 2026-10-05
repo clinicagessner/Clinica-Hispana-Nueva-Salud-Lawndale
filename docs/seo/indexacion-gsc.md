@@ -9,46 +9,46 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-04; URL Inspection API, datos de hoy 2026-10-04):** 24 de 90 URLs del sitemap indexadas · 66 sin indexar (31 desconocida · 29 descubierta sin indexar · 6 rastreada sin indexar).
+**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 23 de 90 URLs del sitemap indexadas · 67 sin indexar (33 descubierta sin indexar · 27 desconocida · 7 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 37 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 11 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 37 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 12 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 25 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-07).
 <!-- /tandas:auto -->
 
-## Tanda 6
+## Tanda 6 — 📨 ENVIADA 05/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 173 impr.
-- [ ] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 142 impr.
-- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-27 · indexada · pedida 2026-09-27 · 12 impr.
+- [ ] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 190 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 141 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-27 · indexada · pedida 2026-09-27 · 21 impr.
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-07-23 · indexada · 5 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-09-23 · 0 impr.
 
 ## Tanda 7
 
 - [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 542 impr.
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 574 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 37 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-07-24 · rastreada sin indexar · 14 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-09-10 · rastreada 2026-09-03 · indexada · 12 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-10 · rastreada 2026-06-10 · rastreada sin indexar · 2 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-10 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-10 · desconocida · 0 impr.
 
 ## Tanda 8
 
 - [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · 0 impr.
@@ -57,24 +57,25 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 9
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
 
 ## Tanda 10
 
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-09-10 · rastreada 2026-09-20 · rastreada sin indexar · 51 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 6 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog  — rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
