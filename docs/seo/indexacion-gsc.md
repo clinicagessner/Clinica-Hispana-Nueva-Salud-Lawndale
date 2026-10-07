@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 31 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-07).
 <!-- /tandas:auto -->
 
-## Tanda 7  📨 ENVIADA 06/10/2026
+## Tanda 7  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 574 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 37 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-07-24 · rastreada sin indexar · 14 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-09-10 · rastreada 2026-09-03 · indexada · 12 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-10 · rastreada 2026-06-10 · rastreada sin indexar · 2 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-09-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-04 · rastreada 2026-09-18 · indexada · 574 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-10 · rastreada 2026-08-21 · indexada · 37 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-04 · rastreada 2026-07-24 · rastreada sin indexar · 14 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-09-10 · rastreada 2026-09-03 · indexada · 12 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-10 · rastreada 2026-06-10 · rastreada sin indexar · 2 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-10 · desconocida · 0 impr.
 
 ## Tanda 8
 
