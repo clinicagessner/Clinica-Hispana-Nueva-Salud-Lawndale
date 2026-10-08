@@ -118,6 +118,10 @@ export async function ChronicCare() {
                   className="inline-flex items-center gap-2 text-yellow-accent text-sm font-semibold hover:text-white transition-colors"
                 >
                   {t("learnMore")}
+                  <span className="sr-only">
+                    {" — "}
+                    {locale === "en" ? "Chronic Disease Care" : "Enfermedades Crónicas"}
+                  </span>
                   <span aria-hidden="true">→</span>
                 </Link>
               </div>

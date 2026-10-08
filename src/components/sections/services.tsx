@@ -85,6 +85,7 @@ export function Services() {
                   className="service-link inline-flex items-center gap-2 font-medium w-fit"
                 >
                   <span>{t("learnMore")}</span>
+                  <span className="sr-only"> — {service.title}</span>
                   <ArrowRight className="size-4" aria-hidden="true" />
                 </a>
               </div>
