@@ -160,19 +160,24 @@ export function PromotionsCarousel({
       </div>
 
       {/* Dots */}
-      <div className="mt-6 flex items-center justify-center gap-2">
+      <div className="mt-6 flex items-center justify-center gap-1">
         {scrollSnaps.map((_, i) => (
           <button
             key={i}
             type="button"
             onClick={() => scrollTo(i)}
             aria-label={`${labels.openAria} ${i + 1}`}
-            className={`h-2 rounded-full transition-all duration-300 ${
-              i === selectedIndex
-                ? "w-6 bg-blue-primary"
-                : "w-2 bg-blue-primary/30 hover:bg-blue-primary/50"
-            }`}
-          />
+            className="group flex h-6 min-w-6 items-center justify-center"
+          >
+            <span
+              aria-hidden="true"
+              className={`h-2 rounded-full transition-all duration-300 ${
+                i === selectedIndex
+                  ? "w-6 bg-blue-primary"
+                  : "w-2 bg-blue-primary/30 group-hover:bg-blue-primary/50"
+              }`}
+            />
+          </button>
         ))}
       </div>
 

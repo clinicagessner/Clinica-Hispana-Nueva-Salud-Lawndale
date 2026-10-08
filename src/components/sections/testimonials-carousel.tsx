@@ -152,19 +152,24 @@ export function TestimonialsCarousel({ reviews }: TestimonialsCarouselProps) {
       </button>
 
       {/* Dots */}
-      <div className="mt-8 flex items-center justify-center gap-2">
+      <div className="mt-8 flex items-center justify-center gap-1">
         {scrollSnaps.map((_, index) => (
           <button
             key={index}
             type="button"
             onClick={() => scrollTo(index)}
             aria-label={`Ir a reseña ${index + 1}`}
-            className={`size-2 rounded-full transition-all duration-300 ${
-              index === selectedIndex
-                ? "w-6 bg-blue-primary"
-                : "bg-cyan-bg-alt hover:bg-blue-primary/50"
-            }`}
-          />
+            className="group flex h-6 min-w-6 items-center justify-center"
+          >
+            <span
+              aria-hidden="true"
+              className={`size-2 rounded-full transition-all duration-300 ${
+                index === selectedIndex
+                  ? "w-6 bg-blue-primary"
+                  : "bg-cyan-bg-alt group-hover:bg-blue-primary/50"
+              }`}
+            />
+          </button>
         ))}
       </div>
     </div>
