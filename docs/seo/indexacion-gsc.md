@@ -16,7 +16,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 22 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 8  📨 ENVIADA 07/10/2026
+## Tanda 8  📨 ENVIADA 08/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
