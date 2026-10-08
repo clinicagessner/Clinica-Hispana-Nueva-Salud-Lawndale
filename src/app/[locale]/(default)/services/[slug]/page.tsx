@@ -282,7 +282,7 @@ export default async function ServicePage({ params }: Props) {
                 <h3 className="text-xl md:text-2xl font-heading font-bold text-white mb-1">
                   {t("readyToSchedule")}
                 </h3>
-                <p className="text-white/90">
+                <p className="text-white">
                   {t("callOrVisit")}
                 </p>
               </div>
