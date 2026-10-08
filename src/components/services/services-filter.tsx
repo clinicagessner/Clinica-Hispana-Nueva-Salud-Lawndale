@@ -170,9 +170,9 @@ export function ServicesFilter({ services, categories }: ServicesFilterProps) {
                 </div>
 
                 <div className="min-w-0 flex-1">
-                  <h3 className="text-base md:text-lg font-heading font-bold text-slate-dark leading-snug group-hover:text-blue-primary transition-colors pr-8">
+                  <h2 className="text-base md:text-lg font-heading font-bold text-slate-dark leading-snug group-hover:text-blue-primary transition-colors pr-8">
                     {service.shortTitle || service.title}
-                  </h3>
+                  </h2>
                   <p className="mt-1 text-sm text-slate-muted line-clamp-2">
                     {service.description}
                   </p>
@@ -202,9 +202,9 @@ export function ServicesFilter({ services, categories }: ServicesFilterProps) {
                 <Link
                   href={`/services/${service.slug}`}
                   className="inline-flex items-center gap-1.5 text-blue-primary font-semibold text-sm group-hover:text-blue-dark group-hover:gap-2.5 transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-primary rounded"
-                  aria-label={`${t("learnMore")} — ${service.title}`}
                 >
                   {t("learnMore")}
+                  <span className="sr-only"> — {service.title}</span>
                   <ArrowRight className="size-4" aria-hidden="true" />
                 </Link>
               </div>
