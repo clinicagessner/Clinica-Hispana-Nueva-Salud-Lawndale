@@ -17,7 +17,8 @@
      ========================================================== */
 
   /* AZUL — Color principal (logo) */
-  --blue-primary: #0180f9;
+  /* Azul de marca un punto más oscuro: #0180f9 daba 3,84:1 con blanco (AA pide 4,5); #006bd6 da 5,1 */
+  --blue-primary: #006bd6;
   --blue-dark: #0a64c8;
   --blue-deep: #063e87;
   --blue-medium: #2b8cf5;
@@ -31,8 +32,9 @@
 
   /* ROJO — Acento urgente / CTA (logo) */
   --red-pure: #fc0101;          /* rojo puro del logo, solo para el degradado firma */
-  --red-accent: #ed1b2e;        /* rojo de UI, un punto más legible en fills grandes */
-  --red-accent-dark: #c20f20;
+  /* Rojo de UI más oscuro: #ed1b2e daba 4,37:1 con blanco y 3,52 sobre su tinte (AA pide 4,5); #c8102e da 5,8 y 4,7 */
+  --red-accent: #c8102e;
+  --red-accent-dark: #a50d1f;
   --red-accent-light: #fecdd3;
   --red-accent-bg: #fef2f3;
 
@@ -43,13 +45,14 @@
   --yellow-accent-bg: #fff8e6;
 
   /* WHATSAPP — color oficial de la marca (solo botones de chat) */
-  --whatsapp: #25d366;
-  --whatsapp-dark: #1da851;
+  /* Verde oscuro de WhatsApp: el blanco sobre #25d366 daba 1,98:1 (AA pide 4,5) */
+  --whatsapp: #15803d;
+  --whatsapp-dark: #166534;
 
   /* INK / SLATE — Neutros fríos (pareados con el azul) */
   --slate-dark: #0f1e3d;
   --slate-primary: #36456b;
-  --slate-muted: #6b7a99;
+  --slate-muted: #5a6785; /* #6b7a99 daba 4,05:1 sobre #f5f8ff */
   --slate-light: #eef2fb;
 
   /* Degradado firma + sombras de marca (elementos del rediseño) */
@@ -77,14 +80,14 @@
   --card-foreground: #0f1e3d;
   --popover: #ffffff;
   --popover-foreground: #0f1e3d;
-  --primary: #0180f9;
+  --primary: #006bd6;
   --primary-foreground: #ffffff;
   --secondary: #36456b;
   --secondary-foreground: #ffffff;
   --muted: #eef4ff;
   --muted-foreground: #6b7a99;
   --accent: #eef4ff;
-  --accent-foreground: #0180f9;
+  --accent-foreground: #006bd6;
   --destructive: #ed1b2e;
   --destructive-foreground: #ffffff;
   --border: #e3e9f5;
