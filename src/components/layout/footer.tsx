@@ -38,7 +38,7 @@ export async function Footer() {
   })).filter((group) => group.services.length > 0);
 
   return (
-    <footer role="contentinfo" className="relative overflow-hidden bg-blue-dark text-white">
+    <footer role="contentinfo" className="relative overflow-hidden bg-blue-deep text-white">
       {/* Top accent band */}
       <div className="h-1 w-full bg-yellow-accent" aria-hidden="true" />
 
@@ -60,7 +60,7 @@ export async function Footer() {
                 className="size-18 object-contain"
               />
             </Link>
-            <p className="text-white/60 text-sm leading-relaxed mb-5 max-w-xs">
+            <p className="text-white/80 text-sm leading-relaxed mb-5 max-w-xs">
               {t("common.tagline")}
             </p>
             <div className="flex items-center gap-3">
@@ -96,32 +96,32 @@ export async function Footer() {
             </h3>
             <ul className="space-y-2.5">
               <li>
-                <Link href="/services" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/services" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.services")}
                 </Link>
               </li>
               <li>
-                <Link href="/#chronic-care" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/#chronic-care" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.chronicCare")}
                 </Link>
               </li>
               <li>
-                <Link href="/blog" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/blog" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.blog")}
                 </Link>
               </li>
               <li>
-                <Link href="/walk-in" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/walk-in" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.walkIn")}
                 </Link>
               </li>
               <li>
-                <Link href="/promociones" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/promociones" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.promotions")}
                 </Link>
               </li>
               <li>
-                <Link href="/#contact" className="text-white/70 hover:text-white text-sm transition-colors">
+                <Link href="/#contact" className="text-white/80 hover:text-white text-sm transition-colors">
                   {t("nav.contact")}
                 </Link>
               </li>
@@ -138,7 +138,7 @@ export async function Footer() {
             <div className="grid grid-cols-2 gap-x-6 gap-y-5 sm:grid-cols-1">
               {servicesByCategory.map((group) => (
                 <div key={group.id}>
-                  <h4 className="text-[11px] font-semibold uppercase tracking-wider text-white/50 mb-1.5">
+                  <h4 className="text-[11px] font-semibold uppercase tracking-wider text-white/70 mb-1.5">
                     {group.label}
                   </h4>
                   <ul className="space-y-1.5">
@@ -146,7 +146,7 @@ export async function Footer() {
                       <li key={service.id}>
                         <Link
                           href={`/services/${service.slug}`}
-                          className="text-white/70 hover:text-white text-sm transition-colors"
+                          className="text-white/80 hover:text-white text-sm transition-colors"
                         >
                           {getServiceNavLabel(service, locale)}
                         </Link>
@@ -169,7 +169,7 @@ export async function Footer() {
                   href={CONTACT_INFO.googleMapsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-start gap-2.5 text-white/70 hover:text-white text-sm transition-colors"
+                  className="flex items-start gap-2.5 text-white/80 hover:text-white text-sm transition-colors"
                 >
                   <MapPin className="size-4 shrink-0 mt-0.5 text-yellow-accent" aria-hidden="true" />
                   <span>
@@ -180,7 +180,7 @@ export async function Footer() {
               <li>
                 <a
                   href={`tel:${CONTACT_INFO.phone}`}
-                  className="flex items-center gap-2.5 text-white/70 hover:text-white text-sm transition-colors"
+                  className="flex items-center gap-2.5 text-white/80 hover:text-white text-sm transition-colors"
                 >
                   <Phone className="size-4 shrink-0 text-yellow-accent" aria-hidden="true" />
                   {CONTACT_INFO.phoneFormatted}
@@ -189,13 +189,13 @@ export async function Footer() {
               <li>
                 <a
                   href={`mailto:${CONTACT_INFO.email}`}
-                  className="flex items-center gap-2.5 text-white/70 hover:text-white text-sm transition-colors break-all"
+                  className="flex items-center gap-2.5 text-white/80 hover:text-white text-sm transition-colors break-all"
                 >
                   <Mail className="size-4 shrink-0 text-yellow-accent" aria-hidden="true" />
                   {CONTACT_INFO.email}
                 </a>
               </li>
-              <li className="flex items-start gap-2.5 text-white/70 text-sm">
+              <li className="flex items-start gap-2.5 text-white/80 text-sm">
                 <Clock className="size-4 shrink-0 mt-0.5 text-yellow-accent" aria-hidden="true" />
                 <span>{t("common.hours")}</span>
               </li>
@@ -205,10 +205,10 @@ export async function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-white/10 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
-          <p className="text-white/40 text-xs text-center md:text-left">
+          <p className="text-white/70 text-xs text-center md:text-left">
             {t("footer.copyright", { year: currentYear })}
           </p>
-          <p className="text-white/40 text-xs text-center md:text-right">
+          <p className="text-white/70 text-xs text-center md:text-right">
             Sitio web creado por{" "}
             <a
               href="https://rcweb.dev"
@@ -222,7 +222,7 @@ export async function Footer() {
         </div>
 
         {/* Medical disclaimer */}
-        <p className="text-white/30 text-[10px] text-center mt-6 max-w-3xl mx-auto leading-relaxed">
+        <p className="text-white/70 text-[10px] text-center mt-6 max-w-3xl mx-auto leading-relaxed">
           La información proporcionada en este sitio web es solo con fines informativos y no sustituye el consejo médico profesional. Consulte a un profesional de la salud para diagnóstico y tratamiento.
         </p>
       </div>
