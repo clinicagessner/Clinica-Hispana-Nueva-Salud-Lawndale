@@ -8,8 +8,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel";
-import { GoogleAdsTag } from "@/components/tracking/google-ads";
-import { GoogleAnalytics } from "@next/third-parties/google";
+import { GoogleTags } from "@/components/tracking/google-tags";
 import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -171,18 +170,6 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="preconnect" href="https://cdn.callrail.com" />
-        <link rel="preconnect" href="https://connect.facebook.net" />
-        {/* Meta Pixel — plain script in head, NOT managed by React. ID vía env.
-            El stub fbq y la cola quedan listos de inmediato (dedup CAPI intacta);
-            solo la descarga de fbevents.js (la tarea larga mayor, ~156 ms) se
-            pospone a window.load para no competir con el LCP. */}
-        {process.env.NEXT_PUBLIC_META_PIXEL_ID && (
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];var l=function(){t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)};'complete'===b.readyState?l():f.addEventListener('load',l)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('set','autoConfig',false,'${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('init','${process.env.NEXT_PUBLIC_META_PIXEL_ID}');fbq('track','PageView');`,
-            }}
-          />
-        )}
       </head>
       <body className="antialiased min-h-screen flex flex-col" suppressHydrationWarning>
         <MetaPixelSPATracker />
@@ -201,10 +188,8 @@ export default async function LocaleLayout({ children, params }: Props) {
         </NextIntlClientProvider>
         <ConversionEvents />
       </body>
-      {process.env.NEXT_PUBLIC_GA_ID && (
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
-      )}
-      <GoogleAdsTag />
+      {/* GA4, Ads y Meta Pixel: con la primera interacción (google-tags.tsx) */}
+      <GoogleTags />
       {/* CallRail swap script (DNI). Activo en producción vía env; lazyOnload
           para que no se precargue por delante del hero. */}
       {process.env.NEXT_PUBLIC_CALLRAIL_SWAP_URL && (
