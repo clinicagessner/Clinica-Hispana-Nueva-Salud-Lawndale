@@ -9,14 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-09; URL Inspection API, datos ANTIGUOS del 2026-10-08: antiguos (2026-10-08): --sin-fetch):** 29 de 92 URLs del sitemap indexadas · 63 sin indexar (29 desconocida · 28 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-08: antiguos (2026-10-08): --sin-fetch):** 29 de 92 URLs del sitemap indexadas · 63 sin indexar (29 desconocida · 28 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 9 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 20 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 19 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-11).
 <!-- /tandas:auto -->
 
-## Tanda 8  📨 ENVIADA 09/10/2026
+## Tanda 8  📨 ENVIADA 10/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
