@@ -9,27 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-08: antiguos (2026-10-08): --sin-fetch):** 29 de 92 URLs del sitemap indexadas · 63 sin indexar (29 desconocida · 28 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-08: antiguos (2026-10-08): --sin-fetch):** 29 de 92 URLs del sitemap indexadas · 63 sin indexar (29 desconocida · 28 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 9 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 20 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 9 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 24 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-19 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-11).
+25 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-14).
 <!-- /tandas:auto -->
 
-## Tanda 8  ✅ PEDIDA 11/10/2026
-
-- [x] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
-
-## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)
+## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  📨 ENVIADA 11/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-08
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-08
@@ -76,6 +63,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 3 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog  — rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+
+## Tanda 16
+
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -207,3 +201,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-10 · desconocida · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-10 · desconocida · 0 impr.
+
+## Tanda 8  ✅ PEDIDA 11/10/2026
+
+- [x] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
