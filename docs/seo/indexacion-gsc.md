@@ -9,14 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-08: antiguos (2026-10-08): --sin-fetch):** 29 de 92 URLs del sitemap indexadas · 63 sin indexar (29 desconocida · 28 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-12; URL Inspection API, datos de hoy 2026-10-12):** 31 de 92 URLs del sitemap indexadas · 61 sin indexar (35 desconocida · 20 descubierta sin indexar · 6 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 9 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 24 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-25 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-14).
+23 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-14).
 <!-- /tandas:auto -->
 
-## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  📨 ENVIADA 11/10/2026
+## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  📨 ENVIADA 12/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-08
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-08
@@ -28,48 +28,48 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 13
 
-- [ ] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · sin datos de inspección · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · sin datos de inspección · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · pedida 2026-09-30 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-10 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-09-27 · 8 impr.
 
 ## Tanda 14
 
+- [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 
 ## Tanda 15
 
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 3 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog  — rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
 
 ## Tanda 16
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
