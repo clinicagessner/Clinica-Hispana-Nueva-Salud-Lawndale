@@ -16,6 +16,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 23 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-14).
 <!-- /tandas:auto -->
 
+## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-13
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-13
+
 ## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  ✅ PEDIDA 13/10/2026
 
 - [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-08
