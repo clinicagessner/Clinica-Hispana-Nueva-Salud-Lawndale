@@ -16,15 +16,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 23 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-14).
 <!-- /tandas:auto -->
 
-## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  📨 ENVIADA 13/10/2026
+## Tanda 12 — cambios del 2026-10-08 (análisis diario: velocidad, contraste y enlaces (global) + landings de Ads sin indexar)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-08
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/services  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-08
+- [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-08
 
 ## Tanda 13
 
