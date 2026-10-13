@@ -7,6 +7,7 @@ import {
   CalendarCheck,
   ChevronDown,
   ArrowRight,
+  Check,
 } from "lucide-react";
 import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
@@ -107,6 +108,14 @@ export function Hero({
           {/* Subtítulo */}
           <p className="animate-hero-subtitle mx-auto max-w-2xl text-base md:text-lg text-blue-light/95 mb-8 leading-relaxed">
             {t("subtitle")}
+          </p>
+
+          {/* Consulta inicial gratis (confirmado por el usuario, 2026-10-13) */}
+          <p className="-mt-3 mb-8 flex justify-center">
+            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-gray-900 shadow-md md:text-base">
+              <Check className="h-5 w-5 shrink-0 text-green-600" aria-hidden="true" />
+              {t("freeConsultation")}
+            </span>
           </p>
 
           {/* CTAs */}
