@@ -29,13 +29,22 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · 0 impr.
 
+## Tanda 22 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-10-15
+
 ## Tanda 18
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-10 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-09-27 · 8 impr.
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-10 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-09-27 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
@@ -46,9 +55,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
@@ -58,7 +65,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 20
 
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-09-30 · 0 impr.
