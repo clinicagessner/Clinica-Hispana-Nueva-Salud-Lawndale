@@ -120,7 +120,8 @@ export async function JsonLdMedicalClinic({ withRating = false }: { withRating?:
             alternateName: "en",
           },
         ],
-        // Los 29 servicios (la farmacia va como departamento), cada uno con el
+        // Los servicios clínicos (sin la página de receta electrónica: la clínica
+        // no tiene farmacia), cada uno con el
         // mismo @id que emite su propia página.
         availableService: SERVICES.filter((s) => s.slug !== "farmacia").map((raw) => {
           const service = getLocalizedService(raw, locale);
@@ -131,15 +132,6 @@ export async function JsonLdMedicalClinic({ withRating = false }: { withRating?:
             url: `${SITE_CONFIG.baseUrl}${locale === "es" ? "" : `/${locale}`}/services/${raw.slug}`,
           };
         }),
-        ...(SERVICES.some((s) => s.slug === "farmacia")
-          ? {
-              department: {
-                "@type": "Pharmacy",
-                name: `Farmacia ${SITE_CONFIG.shortName}`,
-                url: `${SITE_CONFIG.baseUrl}/services/farmacia`,
-              },
-            }
-          : {}),
         sameAs: [
           SOCIAL_LINKS.facebook,
           SOCIAL_LINKS.instagram,

@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Healthcare Without Insurance in Houston: Affordable Options"
 description: "No health insurance in Houston? Affordable, quality medical care at Clínica Hispana Nueva Salud Lawndale: transparent prices, no appointment needed."
 date: "2026-03-17"
-dateModified: "2026-09-09"
+dateModified: "2026-10-15"
 author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/sin-seguro.webp"
 featured: false
@@ -95,8 +95,8 @@ Some vaccines are available at low or no cost:
 ### Generic Medications
 Just as effective as brand names at a fraction of the cost.
 
-### Discount Programs
-Pharmacies like Walmart, Costco, and HEB offer $4 medications.
+### E-Prescriptions
+After your visit we send the [e-prescription](/services/farmacia) to the pharmacy you choose; ask there about discount programs for generics.
 
 ### Manufacturer Assistance
 Many pharmaceutical companies offer patient assistance programs.

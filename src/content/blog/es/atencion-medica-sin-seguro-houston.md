@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Atención Médica Sin Seguro en Houston: Opciones Accesibles"
 description: "¿No tiene seguro médico en Houston? Conozca sus opciones para recibir atención médica accesible y de calidad en Clínica Hispana Nueva Salud Lawndale."
 date: "2026-03-17"
-dateModified: "2026-09-09"
+dateModified: "2026-10-15"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/sin-seguro.webp"
 featured: false
@@ -95,8 +95,8 @@ Algunas vacunas están disponibles a bajo costo o gratis:
 ### Medicamentos Genéricos
 Igual de efectivos que los de marca a una fracción del costo.
 
-### Programas de Descuento
-Farmacias como Walmart, Costco y HEB ofrecen medicamentos a $4.
+### Receta Electrónica
+Al terminar su consulta enviamos la [receta electrónica](/services/farmacia) a la farmacia que usted elija; pregunte ahí si tienen programas de descuento para genéricos.
 
 ### Asistencia del Fabricante
 Muchas farmacéuticas ofrecen programas de asistencia para pacientes.

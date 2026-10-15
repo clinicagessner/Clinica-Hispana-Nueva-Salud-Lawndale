@@ -13,12 +13,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     faqs: [
       { question: "¿Cada cuánto debo revisarme si tengo diabetes?", answer: "A1C cada 3 meses hasta alcanzar la meta y luego cada 6 meses; perfil de lípidos y riñón cada año; pies en cada consulta y retina una vez al año." },
       { question: "¿Puedo controlar la presión alta sin medicamentos?", answer: "En casos leves, sí: menos sal, bajar de peso, ejercicio y limitar el alcohol pueden bajar 5 a 10 puntos. Si la presión sigue en 130/80 o más, el medicamento previene daños." },
-      { question: "¿Dan recetas de medicamentos genéricos?", answer: "Sí. Recetamos genéricos de bajo costo para diabetes, presión y colesterol, y te indicamos dónde conseguirlos al mejor precio." },
+      { question: "¿Dan recetas de medicamentos genéricos?", answer: "Sí. Recetamos genéricos de bajo costo para diabetes, presión y colesterol, y enviamos la receta electrónica a la farmacia que prefieras." },
     ],
     faqsEn: [
       { question: "How often should I get checked if I have diabetes?", answer: "A1C every 3 months until you reach your goal and then every 6 months; lipid panel and kidney function yearly; feet at every visit and retina once a year." },
       { question: "Can I control high blood pressure without medication?", answer: "In mild cases, yes: less salt, weight loss, exercise and limiting alcohol can lower it 5 to 10 points. If it stays at 130/80 or higher, medication prevents damage." },
-      { question: "Do you prescribe generic medications?", answer: "Yes. We prescribe low-cost generics for diabetes, blood pressure and cholesterol, and tell you where to get them at the best price." },
+      { question: "Do you prescribe generic medications?", answer: "Yes. We prescribe low-cost generics for diabetes, blood pressure and cholesterol, and send the e-prescription to the pharmacy you prefer." },
     ],
   },
   "tiroides": {
@@ -167,12 +167,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "prueba-strep": {
     faqs: [
-      { question: "¿Cuánto tarda el resultado de la prueba de estreptococo?", answer: "Entre 5 y 10 minutos. Si es positivo, sales con la receta en la misma visita." },
+      { question: "¿Cuánto tarda el resultado de la prueba de estreptococo?", answer: "Entre 5 y 10 minutos. Si es positivo, el médico te receta en la misma visita y enviamos la receta electrónica a tu farmacia." },
       { question: "¿Cuándo puedo volver a la escuela o al trabajo?", answer: "Después de 24 horas de antibiótico y sin fiebre ya no contagias." },
       { question: "¿Los adultos también pueden tener estreptococo?", answer: "Sí, aunque es más frecuente entre 5 y 15 años. En adultos con dolor de garganta fuerte, fiebre y sin tos también hacemos la prueba." },
     ],
     faqsEn: [
-      { question: "How long does the strep test take?", answer: "Between 5 and 10 minutes. If positive, you leave with the prescription at the same visit." },
+      { question: "How long does the strep test take?", answer: "Between 5 and 10 minutes. If positive, the doctor prescribes at the same visit and we send the e-prescription to your pharmacy." },
       { question: "When can I go back to school or work?", answer: "After 24 hours of antibiotics and with no fever you are no longer contagious." },
       { question: "Can adults get strep throat too?", answer: "Yes, although it is most common between ages 5 and 15. We also test adults with a severe sore throat, fever and no cough." },
     ],
@@ -347,14 +347,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "farmacia": {
     faqs: [
-      { question: "¿Puedo surtir en la clínica una receta de otro médico?", answer: "No. Solo entregamos medicamentos recetados por nuestros médicos en la consulta del día." },
-      { question: "¿Tienen medicamentos genéricos?", answer: "Sí, siempre que existan. Son el mismo principio activo a menor precio y te decimos el costo antes de pagar." },
-      { question: "¿Qué pasa si no tienen mi medicamento?", answer: "Te entregamos la receta impresa para surtirla en cualquier farmacia y te indicamos dónde conseguirla al mejor precio." },
+      { question: "¿La clínica tiene farmacia?", answer: "No. No vendemos ni entregamos medicamentos: el médico te atiende, decide el tratamiento y envía tu receta de forma electrónica a la farmacia que elijas, donde la recoges." },
+      { question: "¿Puedo escoger a qué farmacia va mi receta?", answer: "Sí, a la que te quede mejor, cerca de tu casa o de tu trabajo. Solo dinos el nombre y la dirección o el teléfono de esa sucursal durante la consulta." },
+      { question: "¿Y si cambio de farmacia o la receta no llegó?", answer: "Llámanos a la clínica con el nombre de la nueva farmacia y lo revisamos contigo. En tu próxima visita también puedes actualizar la farmacia que prefieres." },
     ],
     faqsEn: [
-      { question: "Can I fill a prescription from another doctor at the clinic?", answer: "No. We only provide medications prescribed by our doctors at that day's visit." },
-      { question: "Do you have generic medications?", answer: "Yes, whenever they exist. Same active ingredient at a lower price, and we tell you the cost before you pay." },
-      { question: "What if you don't have my medication?", answer: "We give you a printed prescription to fill at any pharmacy and tell you where to get it at the best price." },
+      { question: "Does the clinic have a pharmacy?", answer: "No. We do not sell or hand out medication: the doctor sees you, decides on the treatment and sends your prescription electronically to the pharmacy you choose, where you pick it up." },
+      { question: "Can I choose which pharmacy gets my prescription?", answer: "Yes, whichever works best for you, near home or work. Just give us the name and the address or phone number of that branch during your visit." },
+      { question: "What if I switch pharmacies or the prescription didn't arrive?", answer: "Call the clinic with the name of the new pharmacy and we'll sort it out with you. You can also update your preferred pharmacy at your next visit." },
     ],
   },
 };

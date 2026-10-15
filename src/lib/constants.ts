@@ -85,7 +85,7 @@ We care for patients across the East End of Houston and nearby areas: Eastwood, 
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-15",
     id: "condiciones-cronicas",
     image: "/images/services/condiciones-cronicas.webp",
     shortTitle: "Crónicas",
@@ -139,7 +139,7 @@ Muchas veces no dan síntomas hasta que hay daño. Los valores que usamos para e
 - **Plan de tratamiento:** medicamentos genéricos accesibles, metas personales de glucosa, presión y colesterol, y un plan de alimentación adaptado a la comida latina.
 - **Consultas de seguimiento cada 3 meses** con A1C y ajuste de dosis; cada 6 a 12 meses, perfil de lípidos y función renal.
 - **Revisión anual** de pies y referencia para examen de retina en pacientes con diabetes.
-- **Recetas y refills:** llama antes para verificar disponibilidad y evitar una consulta completa cada vez.
+- **Recetas de seguimiento:** en cada control renovamos tu receta y la enviamos de forma electrónica a la farmacia que elijas.
 
 ## ¿Cuáles son las metas del tratamiento?
 
@@ -170,7 +170,7 @@ They often cause no symptoms until damage is done. We use the diagnostic values 
 - **Treatment plan:** affordable generic medications, personal goals for glucose, blood pressure and cholesterol, and an eating plan adapted to Latino food.
 - **Follow-up visits every 3 months** with A1C and dose adjustment; every 6 to 12 months, a lipid panel and kidney function.
 - **Yearly foot check** and referral for a retina exam in patients with diabetes.
-- **Prescriptions and refills:** call ahead to check availability and avoid a full visit every time.
+- **Follow-up prescriptions:** at each check-up we renew your prescription and send it electronically to the pharmacy you choose.
 
 ## What are the treatment goals?
 
@@ -903,7 +903,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "anticonceptivos",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-15",
     id: "anticonceptivos",
     image: "/images/services/anticonceptivos.webp",
     shortTitle: "Anticonceptivos",
@@ -972,11 +972,11 @@ Si empiezas las pastillas, el parche o el anillo en los primeros 5 días de la r
 1. Consulta y prueba de embarazo si hay dudas.
 2. Toma de presión y revisión de contraindicaciones.
 3. Aplicación de la inyección o colocación del implante en la misma visita, o receta de pastillas, parche o anillo.
-4. Cita de seguimiento a los 3 meses y refills sin consulta completa.
+4. Cita de seguimiento a los 3 meses, con la receta de continuación enviada de forma electrónica a tu farmacia.
 
 ## ¿Cuánto cuestan los anticonceptivos?
 
-La consulta, la inyección trimestral y el implante tienen precio individual. Las pastillas se compran en farmacia con nuestra receta; te indicamos los genéricos más económicos. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
+La consulta, la inyección trimestral y el implante tienen precio individual. Para pastillas, parche o anillo enviamos la receta electrónica a la farmacia que prefieras y te indicamos los genéricos más económicos. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1011,11 +1011,11 @@ If you start pills, the patch or the ring within the first 5 days of your period
 1. Visit and a pregnancy test if there is any doubt.
 2. Blood pressure check and review of contraindications.
 3. The shot or implant placed at the same visit, or a prescription for pills, patch or ring.
-4. Follow-up at 3 months and refills without a full visit.
+4. Follow-up at 3 months, with the continuation prescription sent electronically to your pharmacy.
 
 ## How much does birth control cost?
 
-The visit, the 3-month shot and the implant are priced individually. Pills are bought at a pharmacy with our prescription; we point you to the cheapest generics. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
+The visit, the 3-month shot and the implant are priced individually. For pills, the patch or the ring, we send an e-prescription to the pharmacy you prefer and point you to the most affordable generics. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1607,7 +1607,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-strep",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-15",
     id: "prueba-strep",
     image: "/images/services/prueba-strep.webp",
     shortTitle: "Strep",
@@ -3348,107 +3348,101 @@ ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-15",
     id: "farmacia",
     image: "/images/services/farmacia.webp",
-    shortTitle: "Farmacia",
+    shortTitle: "Receta electrónica",
     order: 29,
     category: "tratamientos",
     icon: "Pill",
-    title: "Farmacia en Houston East End | Medicamentos en Español",
-    titleEn: "Pharmacy in Houston East End | Spanish-Speaking Staff",
+    title: "Receta Electrónica en Houston: Enviada a tu Farmacia",
+    titleEn: "E-Prescriptions in Houston: Sent to Your Pharmacy",
     shortDescription:
-      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+      "Tu receta viaja sola: la enviamos a la farmacia que elijas al terminar la consulta.",
     shortDescriptionEn:
-      "Pick up your medications right after your visit — no second stop.",
+      "Your prescription travels on its own: we send it to the pharmacy you pick after your visit.",
     description:
-      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Receta electrónica en Houston, TX: al terminar la consulta la enviamos a la farmacia que prefieras, cerca de tu casa o del trabajo. Atención en español.",
     descriptionEn:
-      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "E-prescriptions in Houston, TX: after your visit we send your prescription electronically to the pharmacy you choose. Spanish-speaking staff.",
     keywords: [
-      "farmacia en houston",
-      "farmacia hispana houston",
-      "farmacia cerca de mí houston",
-      "surtir receta houston",
+      "receta electrónica houston",
+      "enviar receta a mi farmacia houston",
+      "clínica con receta electrónica east end",
+      "receta médica en español houston",
     ],
     keywordsEn: [
-      "pharmacy houston",
-      "hispanic pharmacy houston",
-      "pharmacy near me houston",
-      "fill prescription houston",
+      "e-prescription houston",
+      "electronic prescription east end houston",
+      "send prescription to my pharmacy houston",
+      "spanish-speaking doctor prescription houston",
     ],
     features: [
-      "Surtido de tu receta al instante",
-      "Medicamentos de marca y genéricos",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español",
+      "Receta electrónica a la farmacia que tú elijas",
+      "Farmacia cerca de tu casa o de tu trabajo",
+      "Dosis y horario explicados en español",
+      "Sin receta de papel que se pierda",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
-      "Brand-name and generic medications",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish",
+      "E-prescription to the pharmacy of your choice",
+      "A pharmacy near your home or job",
+      "Dose and schedule explained in Spanish",
+      "No paper prescription to misplace",
     ],
-    longDescription: `**Después de tu consulta puedes recoger tus medicamentos en la misma clínica, sin ir a otro lugar, con explicación en español de cómo tomarlos.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM.
+    longDescription: `**Al terminar tu consulta, el médico envía tu receta de forma electrónica a la farmacia que prefieras, cerca de tu casa o de tu trabajo, y la recoges cuando te quede mejor.** En Clínica Hispana Nueva Salud Lawndale no tenemos farmacia propia ni vendemos medicamentos; atendemos de lunes a domingo de 9 AM a 9 PM.
 
-## ¿Qué medicamentos tenemos?
+## ¿Cómo funciona la receta electrónica?
 
-- **Con receta de nuestros médicos:** antibióticos, antiinflamatorios, medicamentos para presión, diabetes y colesterol, antialérgicos y tratamientos de infecciones comunes, según existencia.
-- **De venta libre:** analgésicos, antigripales, antiácidos, antihistamínicos, vitaminas y material de curación.
-- **Genéricos de bajo costo** siempre que existen, para que el tratamiento sea accesible.
+1. El médico te revisa, define el tratamiento y te explica la dosis, el horario y las precauciones en tu idioma.
+2. Nos dices a qué farmacia quieres que llegue: basta con el nombre y la dirección o el teléfono de la sucursal.
+3. La receta se envía de forma electrónica directamente a esa farmacia.
+4. Pasas por ella cuando te acomode; si quieres asegurarte de que ya la recibieron, llama a la farmacia antes de ir.
 
-No surtimos recetas de otros médicos ni medicamentos controlados.
+## ¿Por qué es más práctica que una receta en papel?
 
-## ¿Por qué surtir en la clínica?
+Nadie tiene que descifrar la letra, la receta no se pierde en la bolsa y no tienes que volver a la clínica si la dejaste en casa. Para quien trabaja hasta tarde o depende del transporte público, poder escoger la farmacia de su rumbo hace la diferencia.
 
-Te ahorras la segunda parada: el médico te ve, te receta y sales con el medicamento en la mano, con la dosis, el horario y las precauciones explicadas en tu idioma. Para quien trabaja hasta tarde o no tiene transporte, esa diferencia es que sí empiece el tratamiento el mismo día.
+## ¿Qué recetas enviamos?
 
-## ¿Cómo funciona?
+- Las que indica nuestro médico en tu consulta: antibióticos, antiinflamatorios, tratamientos para presión, diabetes y colesterol, antialérgicos y medicamentos para infecciones comunes.
+- Recetas de seguimiento de tus tratamientos crónicos, que se renuevan en tu control con el médico.
+- Siempre que existe, te indicamos la opción genérica, que suele ser la más económica.
 
-1. Terminas tu consulta y el médico registra la receta.
-2. En recepción te entregan el medicamento y te explican cómo tomarlo.
-3. Si necesitas refill de un medicamento crónico, llama antes para verificar disponibilidad.
-
-## ¿Qué precio tienen los medicamentos?
-
-Cada medicamento tiene precio individual, visible antes de pagar, y los genéricos son la opción más económica. Pago en efectivo o tarjeta. Si un medicamento no está disponible, te damos la receta impresa para surtirla en cualquier farmacia.
+No enviamos recetas de medicamentos controlados.
 
 ## ¿Qué debo saber sobre mis medicamentos?
 
-Termina siempre los antibióticos aunque te sientas bien, no compartas medicamentos recetados, guarda los que lo requieren en refrigeración y trae la lista completa de lo que tomas a cada consulta para evitar interacciones.
+Termina siempre los antibióticos aunque te sientas bien, no compartas medicamentos recetados, guarda en refrigeración los que lo requieren y trae la lista completa de lo que tomas a cada consulta para evitar interacciones. Si cambias de farmacia, avísanos en tu próxima visita.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**After your visit you can pick up your medications at the clinic itself, without going anywhere else, with an explanation in Spanish or English of how to take them.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM.
+    longDescriptionEn: `**After your visit, the doctor sends your prescription electronically to the pharmacy you choose, near home or work, so you can pick it up whenever it suits you.** Clínica Hispana Nueva Salud Lawndale does not have its own pharmacy or sell medication; we are open Monday to Sunday from 9 AM to 9 PM.
 
-## Which medications do we carry?
+## How does an e-prescription work?
 
-- **Prescribed by our doctors:** antibiotics, anti-inflammatories, blood pressure, diabetes and cholesterol medications, antihistamines and treatments for common infections, subject to availability.
-- **Over the counter:** pain relievers, cold remedies, antacids, antihistamines, vitamins and wound care supplies.
-- **Low-cost generics** whenever they exist, so treatment stays affordable.
+1. The doctor examines you, decides on the treatment and explains the dose, schedule and precautions in your language.
+2. You tell us which pharmacy it should go to: the branch name and its address or phone number are enough.
+3. The prescription is sent electronically straight to that pharmacy.
+4. You stop by whenever it fits your day; if you want to be sure they received it, call the pharmacy before you go.
 
-We do not fill prescriptions from other doctors or controlled substances.
+## Why is it more practical than a paper prescription?
 
-## Why fill it at the clinic?
+No one has to read handwriting, the prescription can't get lost in your bag, and you don't have to come back to the clinic if you left it at home. For people who work late or ride the bus, choosing a pharmacy along their own route makes a real difference.
 
-You skip the second stop: the doctor sees you, prescribes, and you leave with the medication in hand, with dose, schedule and precautions explained in your language. For people who work late or have no transportation, that difference means treatment actually starts the same day.
+## Which prescriptions do we send?
 
-## How does it work?
+- The ones our doctor orders at your visit: antibiotics, anti-inflammatories, treatments for blood pressure, diabetes and cholesterol, antihistamines and medication for common infections.
+- Follow-up prescriptions for your chronic treatments, renewed at your check-up with the doctor.
+- Whenever one exists, we point you to the generic option, which is usually the most affordable.
 
-1. You finish your visit and the doctor records the prescription.
-2. At the front desk you receive the medication and an explanation of how to take it.
-3. For a refill of a chronic medication, call first to check availability.
-
-## How much do medications cost?
-
-Each medication has an individual price, visible before you pay, and generics are the most affordable option. Cash and cards accepted. If a medication is not available, we give you a printed prescription to fill at any pharmacy.
+We do not send prescriptions for controlled substances.
 
 ## What should I know about my medications?
 
-Always finish antibiotics even if you feel better, don't share prescription medications, refrigerate those that require it, and bring the full list of what you take to every visit to avoid interactions.
+Always finish antibiotics even if you feel better, don't share prescription medications, refrigerate those that require it, and bring the full list of what you take to every visit to avoid interactions. If you switch pharmacies, let us know at your next visit.
 
 ${WHY_EN}
 
