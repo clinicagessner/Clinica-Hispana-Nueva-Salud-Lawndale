@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 21 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 22 — cambios del 2026-10-15 (receta electrónica (sin farmacia) + post del blog semanal)  📨 ENVIADA 16/10/2026
+## Tanda 22 — cambios del 2026-10-15 (receta electrónica (sin farmacia) + post del blog semanal)  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — post nuevo 2026-10-15 (blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — post nuevo 2026-10-15 (blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-13
+- [x] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — post nuevo 2026-10-15 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — post nuevo 2026-10-15 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-13
 
 ## Tanda 17 — cambios del 2026-10-13 (consulta inicial gratis en la home)
 
