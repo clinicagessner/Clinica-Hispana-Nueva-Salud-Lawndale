@@ -9,14 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 31 de 94 URLs del sitemap indexadas · 63 sin indexar (35 desconocida · 20 descubierta sin indexar · 6 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-18; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 31 de 94 URLs del sitemap indexadas · 63 sin indexar (35 desconocida · 20 descubierta sin indexar · 6 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 27 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 27 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 26 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  📨 ENVIADA 17/10/2026
+## Tanda 26 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  📨 ENVIADA 18/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-13
 - [ ] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
