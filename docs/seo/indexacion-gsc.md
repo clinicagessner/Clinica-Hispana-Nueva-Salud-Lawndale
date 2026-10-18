@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 27 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-19).
 <!-- /tandas:auto -->
 
-## Tanda 26 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  📨 ENVIADA 18/10/2026
+## Tanda 26 — cambios del 2026-10-15 (cambiadas sin pedir y pendientes)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-13
-- [ ] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-09-27 · indexada · pedida 2026-09-27 · 64 impr.
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-13
+- [x] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-04 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-09-27 · indexada · pedida 2026-09-27 · 64 impr.
 
 ## Tanda 27
 
