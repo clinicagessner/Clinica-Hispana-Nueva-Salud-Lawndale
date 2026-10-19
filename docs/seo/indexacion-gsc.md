@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 25 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-20).
 <!-- /tandas:auto -->
 
-## Tanda 27  📨 ENVIADA 19/10/2026
+## Tanda 27  ✅ PEDIDA 19/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 45 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · 45 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-23 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-23 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
 
 ## Tanda 28
 
