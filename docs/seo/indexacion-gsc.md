@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 32 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 28  📨 ENVIADA 20/10/2026
+## Tanda 28  ✅ PEDIDA 20/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-04 · descubierta sin indexar · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-05 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-06 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
 
 ## Tanda 29
 
