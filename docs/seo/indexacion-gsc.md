@@ -18,6 +18,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 30 📨 ENVIADA 22/10/2026
 
+- [ ] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
+- [ ] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
