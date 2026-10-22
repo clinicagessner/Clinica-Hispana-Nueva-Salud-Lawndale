@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 42 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 29  📨 ENVIADA 21/10/2026
+## Tanda 29  ✅ PEDIDA 21/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog  — rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-15 · rastreada sin indexar · pedida 2026-10-06 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog  — rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-04 · rastreada 2026-09-15 · rastreada sin indexar · pedida 2026-10-06 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-10 · rastreada 2026-09-15 · rastreada sin indexar · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
 
 ## Tanda 30
 
