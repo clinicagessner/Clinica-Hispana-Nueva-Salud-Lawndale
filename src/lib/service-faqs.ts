@@ -121,12 +121,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     faqs: [
       { question: "¿A qué edad debo hacerme el PSA?", answer: "Conversa con el médico sobre la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Con síntomas urinarios, a cualquier edad." },
       { question: "¿A qué hora se toma la muestra de testosterona?", answer: "Entre 7 y 10 de la mañana, en ayunas, porque el nivel baja durante el día. Un resultado bajo se confirma con una segunda muestra otro día." },
-      { question: "¿El PSA alto significa cáncer?", answer: "No siempre. La próstata crecida, una infección o la eyaculación reciente también lo suben. Si está alto se repite y, si persiste, te referimos a urología." },
+      { question: "¿El PSA alto significa cáncer?", answer: "No siempre. La próstata crecida, una infección o la eyaculación reciente también lo suben. Si está alto se repite y te explicamos el siguiente paso." },
     ],
     faqsEn: [
       { question: "At what age should I get a PSA test?", answer: "Talk with the doctor about the test from age 50, or from 45 if your father or brother had prostate cancer. With urinary symptoms, at any age." },
       { question: "What time is the testosterone sample drawn?", answer: "Between 7 and 10 AM, fasting, because the level drops during the day. A low result is confirmed with a second sample on another day." },
-      { question: "Does a high PSA mean cancer?", answer: "Not always. An enlarged prostate, an infection or recent ejaculation also raise it. If it is high we repeat it and, if it stays high, refer you to urology." },
+      { question: "Does a high PSA mean cancer?", answer: "Not always. An enlarged prostate, an infection or recent ejaculation also raise it. If it is high we repeat it and explain the next step." },
     ],
   },
   "examenes-sangre": {

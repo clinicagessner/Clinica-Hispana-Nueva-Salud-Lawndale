@@ -721,7 +721,6 @@ Según las guías de prevención de Estados Unidos, de los 21 a los 29 años se 
 - Cultivo vaginal para identificar hongos, bacterias o tricomonas
 - Tratamiento de infecciones vaginales y urinarias el mismo día
 - Prueba de embarazo y orientación sobre anticonceptivos
-- Referencia a ginecólogo especialista cuando el caso lo requiere
 
 ## ¿Cuándo llegan los resultados?
 
@@ -760,7 +759,6 @@ Under U.S. preventive guidelines, women aged 21 to 29 should have a Pap smear ev
 - Vaginal culture to identify yeast, bacteria or trichomonas
 - Same-day treatment of vaginal and urinary infections
 - Pregnancy test and contraception counseling
-- Referral to a gynecology specialist when the case requires it
 
 ## When do results come back?
 
@@ -846,7 +844,7 @@ La prueba de orina en clínica detecta la hormona hCG desde el primer día de re
 
 ## ¿Qué hago después de confirmar el embarazo?
 
-Empieza a tomar ácido fólico (400 microgramos al día), evita alcohol, tabaco y medicamentos sin consultar, y programa tu primera cita prenatal antes de la semana 12. Te orientamos sobre dónde recibir control prenatal en Houston, incluidas opciones sin seguro y Medicaid para embarazadas.
+Empieza a tomar ácido fólico (400 microgramos al día), evita alcohol, tabaco y medicamentos sin consultar, y programa tu primera cita prenatal antes de la semana 12.
 
 ## ¿Cuándo venir de inmediato?
 
@@ -881,7 +879,7 @@ The clinic urine test detects the hCG hormone from the first day of a missed per
 
 ## What should I do after confirming?
 
-Start folic acid (400 micrograms a day), avoid alcohol, tobacco and unprescribed medications, and schedule your first prenatal visit before week 12. We guide you on where to get prenatal care in Houston, including options without insurance and Medicaid for pregnant women.
+Start folic acid (400 micrograms a day), avoid alcohol, tobacco and unprescribed medications, and schedule your first prenatal visit before week 12.
 
 ## When should I come in right away?
 
@@ -954,7 +952,7 @@ ${AREAS_EN}`,
 | Inyección (Depo-Provera) | Cada 12 a 13 semanas en la clínica | 96 % |
 | Parche o anillo | Semanal o mensual | 93 % |
 | Implante subdérmico | Dura 3 años | Más del 99 % |
-| DIU | Dura de 3 a 10 años | Más del 99 % (te referimos para la colocación) |
+| DIU | Dura de 3 a 10 años | Más del 99 % (te orientamos sobre dónde colocarlo) |
 | Píldora del día siguiente | Hasta 72 a 120 horas después | Emergencia, no de uso regular |
 
 Ningún método hormonal protege contra infecciones de transmisión sexual; para eso, condón.
@@ -993,7 +991,7 @@ ${AREAS_ES}`,
 | Shot (Depo-Provera) | Every 12 to 13 weeks at the clinic | 96% |
 | Patch or ring | Weekly or monthly | 93% |
 | Implant | Lasts 3 years | Over 99% |
-| IUD | Lasts 3 to 10 years | Over 99% (we refer you for placement) |
+| IUD | Lasts 3 to 10 years | Over 99% (we guide you on where to get it placed) |
 | Morning-after pill | Up to 72 to 120 hours after | Emergency use, not regular |
 
 No hormonal method protects against sexually transmitted infections; for that, use condoms.
@@ -1199,7 +1197,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué significa un PSA alto?
 
-Un PSA por encima de 4 ng/mL, o que sube rápido entre un año y otro, requiere evaluación. No siempre es cáncer: la próstata crecida (hiperplasia benigna), una infección o haber eyaculado en las 48 horas previas también lo elevan. Si el resultado es alto, repetimos la prueba y te referimos a urología para decidir si hace falta una biopsia.
+Un PSA por encima de 4 ng/mL, o que sube rápido entre un año y otro, requiere evaluación. No siempre es cáncer: la próstata crecida (hiperplasia benigna), una infección o haber eyaculado en las 48 horas previas también lo elevan. Si el resultado es alto, repetimos la prueba y te explicamos el siguiente paso.
 
 ## ¿Cuándo revisar la testosterona?
 
@@ -1234,7 +1232,7 @@ ${AREAS_ES}`,
 
 ## What does a high PSA mean?
 
-A PSA above 4 ng/mL, or one that rises quickly from one year to the next, needs evaluation. It is not always cancer: an enlarged prostate (benign hyperplasia), an infection or ejaculation within the previous 48 hours also raise it. If the result is high, we repeat the test and refer you to urology to decide whether a biopsy is needed.
+A PSA above 4 ng/mL, or one that rises quickly from one year to the next, needs evaluation. It is not always cancer: an enlarged prostate (benign hyperplasia), an infection or ejaculation within the previous 48 hours also raise it. If the result is high, we repeat the test and explain the next step.
 
 ## When should testosterone be checked?
 

@@ -3,7 +3,7 @@ slug: "infeccion-urinaria-ninos-senales-por-edad"
 title: "Infección urinaria en niñas y niños: señales según la edad"
 description: "Cómo se nota una infección urinaria en bebés, preescolares y escolares, cómo se toma la muestra de orina y cuándo ir a urgencias. Guía para padres."
 date: "2026-10-15"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -80,7 +80,7 @@ Con cualquiera de estas, lleve al niño a emergencias en lugar de esperar turno:
 
 ## Cuando sí puede consultar en la clínica
 
-La clínica atiende a niños y adultos. Si su hija o su hijo ya va solo al baño, puede dar una muestra limpia y no tiene ninguna de las señales de alarma anteriores, puede traerlo a nuestro servicio de [infecciones urinarias](/services/infecciones-urinarias): le hacemos el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día, calculado según el peso del niño, y le explicamos cómo darlo en casa, qué mejoría esperar en los próximos días y qué cambios deben hacerle volver. Si el caso lo pide, se manda el urocultivo y se orienta la referencia a un especialista en vías urinarias de niños.
+La clínica atiende a niños y adultos. Si su hija o su hijo ya va solo al baño, puede dar una muestra limpia y no tiene ninguna de las señales de alarma anteriores, puede traerlo a nuestro servicio de [infecciones urinarias](/services/infecciones-urinarias): le hacemos el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día, calculado según el peso del niño, y le explicamos cómo darlo en casa, qué mejoría esperar en los próximos días y qué cambios deben hacerle volver. Si el caso lo pide, se manda el urocultivo y le explicamos el siguiente paso.
 
 Si el niño necesita tratamiento, la receta se envía de forma electrónica a la [farmacia](/services/farmacia) que usted elija, la que le quede de camino a casa por el East End, y así no anda cargando papeles con un pequeño cansado y con calentura en el asiento de atrás. Y si la fiebre viene con dolor de garganta fuerte y sin tos, a veces el problema no está en la orina: la [prueba rápida de estreptococo](/services/prueba-strep) ayuda a distinguirlo.
 
