@@ -9,22 +9,13 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-22; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 37 de 94 URLs del sitemap indexadas · 57 sin indexar (37 desconocida · 16 descubierta sin indexar · 4 rastreada sin indexar).
+**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 37 de 96 URLs del sitemap indexadas · 59 sin indexar (37 desconocida · 16 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+59 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
+Nada pendiente: todas las URLs están indexadas y Google ya rastreó los cambios.
 <!-- /tandas:auto -->
-
-## Tanda 30 ✅ PEDIDA 22/10/2026
-
-- [x] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
-- [x] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
-- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -240,3 +231,13 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-09-30 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-09-10 · desconocida · pedida 2026-09-27 · 0 impr.
+
+## Tanda 30 ✅ PEDIDA 22/10/2026
+
+- [x] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
