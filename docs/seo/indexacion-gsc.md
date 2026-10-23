@@ -16,15 +16,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 30 📨 ENVIADA 22/10/2026
+## Tanda 30 ✅ PEDIDA 22/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — post nuevo 2026-10-22 (blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-09-27 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
