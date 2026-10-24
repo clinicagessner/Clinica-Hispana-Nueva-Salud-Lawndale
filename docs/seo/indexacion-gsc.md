@@ -9,14 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 37 de 96 URLs del sitemap indexadas · 59 sin indexar (37 desconocida · 16 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 37 de 96 URLs del sitemap indexadas · 59 sin indexar (37 desconocida · 16 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 4 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 50 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+## Tanda 31 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-23
