@@ -662,7 +662,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-25",
     id: "ginecologia",
     image: "/images/services/ginecologia.webp",
     shortTitle: "Ginecología",
@@ -670,16 +670,16 @@ ${AREAS_EN}`,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Ginecología en Houston: Papanicolaou y Cultivos",
-    titleEn: "Gynecology in Houston: Pap Smear & Cultures",
+    title: "Ginecología en Houston: Papanicolaou, Cultivos y Ultrasonido",
+    titleEn: "Gynecology in Houston: Pap Smear, Cultures & Ultrasound",
     shortDescription:
-      "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
+      "Clínica para la mujer: papanicolaou, cultivos vaginales, ultrasonido y anticonceptivos, con privacidad y en español.",
     shortDescriptionEn:
-      "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
+      "Women's clinic: Pap smear, vaginal cultures, ultrasound and birth control, with privacy and in Spanish.",
     description:
-      "Ginecología en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones en una clínica hispana cerca de ti. En español, sin seguro.",
+      "Clínica para la mujer en Houston: ginecología con papanicolaou, cultivos, ultrasonido y anticonceptivos. Consulta inicial gratis, sin cita y sin seguro.",
     descriptionEn:
-      "Gynecology in Houston, TX: Pap smear, vaginal cultures and infection treatment at a Hispanic clinic near you. In Spanish, no insurance needed.",
+      "Women's clinic in Houston: gynecology with Pap smear, cultures, ultrasound and birth control. Free initial visit, walk-ins welcome, no insurance needed.",
     keywords: [
       "ginecologia houston",
       "ginecologo houston español",
@@ -687,6 +687,8 @@ ${AREAS_EN}`,
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
       "ginecologia cerca de mi houston",
+      "clinica para la mujer houston",
+      "ultrasonido pelvico houston",
     ],
     keywordsEn: [
       "gynecology houston",
@@ -695,20 +697,24 @@ ${AREAS_EN}`,
       "vaginal culture houston",
       "vaginal infection treatment houston",
       "gynecology near me houston",
+      "womens clinic houston",
+      "pelvic ultrasound houston",
     ],
     features: [
       "Papanicolaou y chequeo ginecológico",
       "Cultivos vaginales",
       "Tratamiento de infecciones vaginales",
+      "Ultrasonido y anticonceptivos",
       "Atención privada en español",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
       "Vaginal cultures",
       "Treatment of vaginal infections",
+      "Ultrasound and birth control",
       "Private care in Spanish",
     ],
-    longDescription: `**Atención ginecológica sin cita, en español y con privacidad: papanicolaou, cultivos vaginales y tratamiento de infecciones el mismo día.** En Clínica Hispana Nueva Salud Lawndale te atendemos de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro.
+    longDescription: `**Clínica para la mujer sin cita, en español y con privacidad: papanicolaou, cultivos vaginales, ultrasonido y anticonceptivos en un mismo lugar.** En Clínica Hispana Nueva Salud Lawndale te atendemos de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
 ## ¿Cada cuánto debo hacerme el papanicolaou?
 
@@ -719,8 +725,9 @@ Según las guías de prevención de Estados Unidos, de los 21 a los 29 años se 
 - Papanicolaou (citología cervical) y, si corresponde, prueba de VPH
 - Examen pélvico y de mamas
 - Cultivo vaginal para identificar hongos, bacterias o tricomonas
-- Tratamiento de infecciones vaginales y urinarias el mismo día
-- Prueba de embarazo y orientación sobre anticonceptivos
+- Tratamiento de infecciones vaginales y urinarias, con la receta enviada a la farmacia que elijas
+- Ultrasonido pélvico hecho aquí mismo, sin mandarte a otro lugar
+- Prueba de embarazo y anticonceptivos: inyección trimestral, pastillas y otros métodos hormonales
 
 ## ¿Cuándo llegan los resultados?
 
@@ -739,14 +746,14 @@ Comezón, ardor, flujo con color o cantidad distinta a lo habitual, mal olor o d
 
 ## ¿Cuánto cuesta la consulta de ginecología?
 
-Promociones vigentes: Salud Íntima Femenina por $69 (cultivo íntimo, consulta médica y examen de orina) y Chequeo Completo de la Mujer por $179. Fuera de esos paquetes, la consulta, el papanicolaou y el cultivo tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
+Promociones vigentes: Salud Íntima Femenina por $69 (cultivo íntimo, consulta médica y examen de orina) y Chequeo Completo de la Mujer por $179. Fuera de esos paquetes, la consulta inicial es gratis y el papanicolaou, el cultivo y el ultrasonido tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**Walk-in gynecology care, in Spanish or English and with privacy: Pap smear, vaginal cultures and same-day treatment of infections.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, no insurance needed.
+    longDescriptionEn: `**A walk-in women's clinic, in Spanish or English and with privacy: Pap smear, vaginal cultures, ultrasound and birth control under one roof.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, no insurance needed. The initial visit is free; tests and treatment are paid separately.
 
 ## How often should I get a Pap smear?
 
@@ -757,8 +764,9 @@ Under U.S. preventive guidelines, women aged 21 to 29 should have a Pap smear ev
 - Pap smear (cervical cytology) and, when appropriate, HPV test
 - Pelvic and breast exam
 - Vaginal culture to identify yeast, bacteria or trichomonas
-- Same-day treatment of vaginal and urinary infections
-- Pregnancy test and contraception counseling
+- Treatment of vaginal and urinary infections, with the prescription sent to the pharmacy you choose
+- Pelvic ultrasound done right here, without sending you elsewhere
+- Pregnancy test and birth control: the 3-month shot, pills and other hormonal methods
 
 ## When do results come back?
 
@@ -777,7 +785,7 @@ Itching, burning, discharge that differs in color or amount from your usual, odo
 
 ## How much does a gynecology visit cost?
 
-Current promotions: Women's Intimate Health for $69 (intimate culture, medical visit and urine test) and Complete Women's Checkup for $179. Outside those packages, the visit, Pap smear and culture are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
+Current promotions: Women's Intimate Health for $69 (intimate culture, medical visit and urine test) and Complete Women's Checkup for $179. Outside those packages, the initial visit is free and the Pap smear, culture and ultrasound are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
@@ -1143,7 +1151,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-25",
     id: "salud-hombre",
     image: "/images/services/salud-hombre.webp",
     shortTitle: "Salud del Hombre",
@@ -1151,38 +1159,44 @@ ${AREAS_EN}`,
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre en Houston: PSA y Perfil Hormonal",
-    titleEn: "Men's Health Exams in Houston: PSA & Hormone Panel",
+    title: "Urología y Salud del Hombre en Houston: Próstata y PSA",
+    titleEn: "Urology & Men's Health in Houston: Prostate & PSA",
     shortDescription:
-      "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
+      "Urología y salud del hombre: próstata (PSA), testosterona, problemas urinarios y vejiga hiperactiva, en español.",
     shortDescriptionEn:
-      "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
+      "Urology and men's health: prostate (PSA), testosterone, urinary problems and overactive bladder, in Spanish.",
     description:
-      "Exámenes del hombre en Houston, TX: PSA y perfil hormonal. Laboratorio y atención en español, sin necesidad de seguro.",
+      "Urología y salud del hombre en Houston: PSA, próstata, testosterona y vejiga hiperactiva. Consulta inicial gratis, sin cita y sin seguro.",
     descriptionEn:
-      "Men's health exams in Houston, TX: PSA and hormone panel. Lab work and care in Spanish, no insurance needed.",
+      "Urology and men's health in Houston: PSA, prostate, testosterone and overactive bladder. Free initial visit, walk-ins welcome, no insurance needed.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
       "examen de prostata houston",
       "examen de testosterona houston",
+      "urologia en español houston",
+      "vejiga hiperactiva tratamiento houston",
     ],
     keywordsEn: [
       "mens health houston",
       "psa test houston",
       "prostate exam houston",
       "testosterone test houston",
+      "urology in spanish houston",
+      "overactive bladder treatment houston",
     ],
     features: [
       "Antígeno prostático (PSA)",
       "Nivel de testosterona",
       "Chequeo general del hombre",
+      "Problemas urinarios y vejiga hiperactiva",
       "Resultados explicados en español",
     ],
     featuresEn: [
       "Prostate antigen (PSA)",
       "Testosterone level",
       "General men's checkup",
+      "Urinary problems and overactive bladder",
       "Results explained in Spanish",
     ],
     longDescription: `**Chequeo de salud para hombres con análisis de sangre: PSA para la próstata, perfil hormonal, glucosa, colesterol y función renal, con resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, de lunes a domingo de 9 AM a 9 PM, sin seguro y con privacidad.
@@ -1199,6 +1213,10 @@ ${AREAS_EN}`,
 
 Un PSA por encima de 4 ng/mL, o que sube rápido entre un año y otro, requiere evaluación. No siempre es cáncer: la próstata crecida (hiperplasia benigna), una infección o haber eyaculado en las 48 horas previas también lo elevan. Si el resultado es alto, repetimos la prueba y te explicamos el siguiente paso.
 
+## ¿Qué hacemos con los problemas urinarios y la vejiga hiperactiva?
+
+Las ganas urgentes de orinar, ir al baño muchas veces al día, levantarte de noche a orinar o tener escapes son señales de vejiga hiperactiva; en el hombre también aparecen cuando la próstata crece y aprieta la salida de la orina. En la consulta de urología te hacemos el examen de orina aquí mismo para descartar infección, pedimos el PSA si tu edad o tus síntomas lo indican y te damos el tratamiento para la vejiga hiperactiva, con la receta enviada a la farmacia que elijas. Si tienes ardor al orinar, fiebre o ves sangre en la orina, ven sin esperar.
+
 ## ¿Cuándo revisar la testosterona?
 
 Cuando hay síntomas persistentes: cansancio, poca energía, baja de deseo, dificultad de erección, pérdida de fuerza o ánimo bajo. La muestra se toma entre 7 y 10 de la mañana, en ayunas, y un resultado bajo se confirma con una segunda prueba otro día. El tratamiento de reemplazo hormonal solo se indica con dos resultados bajos y síntomas, y siempre con control de PSA y hematocrito.
@@ -1209,11 +1227,11 @@ Ayuno de 8 a 12 horas para glucosa y lípidos; sin ejercicio intenso, ciclismo n
 
 ## ¿Cuándo llegan los resultados?
 
-Glucosa, lípidos y biometría suelen estar el mismo día; PSA y perfil hormonal se procesan en laboratorio y tardan unos días. Te llamamos y el médico te explica cada valor.
+Glucosa, lípidos y biometría salen rápido; PSA y perfil hormonal se procesan en laboratorio y tardan unos días. Te llamamos y el médico te explica cada valor.
 
 ## ¿Cuánto cuesta el chequeo del hombre?
 
-Promociones vigentes: Perfil Hormonal Masculino por $200 y Revisa tu Testosterona por $79 (prueba de testosterona, examen de orina y consulta médica gratis). Fuera de esos paquetes, la consulta y el PSA tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
+Promociones vigentes: Perfil Hormonal Masculino por $200 y Revisa tu Testosterona por $79 (prueba de testosterona, examen de orina y consulta médica gratis). Fuera de esos paquetes, la consulta inicial es gratis y el PSA y los demás exámenes tienen precio individual. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ${WHY_ES}
 
@@ -1234,6 +1252,10 @@ ${AREAS_ES}`,
 
 A PSA above 4 ng/mL, or one that rises quickly from one year to the next, needs evaluation. It is not always cancer: an enlarged prostate (benign hyperplasia), an infection or ejaculation within the previous 48 hours also raise it. If the result is high, we repeat the test and explain the next step.
 
+## What do we do about urinary problems and an overactive bladder?
+
+Sudden urges to urinate, going to the bathroom many times a day, getting up at night to pee or leaking are signs of an overactive bladder; in men they also show up when the prostate grows and squeezes the urine outlet. At the urology visit we run the urine test right here to rule out infection, order a PSA if your age or symptoms call for it and give you treatment for the overactive bladder, with the prescription sent to the pharmacy you choose. If you have burning when you urinate, a fever or blood in your urine, come in without waiting.
+
 ## When should testosterone be checked?
 
 When symptoms persist: fatigue, low energy, low sex drive, erection difficulty, loss of strength or low mood. The sample is drawn between 7 and 10 AM, fasting, and a low result is confirmed with a second test on another day. Hormone replacement is only indicated with two low results plus symptoms, and always with PSA and hematocrit monitoring.
@@ -1244,11 +1266,11 @@ Fast 8 to 12 hours for glucose and lipids; no intense exercise, cycling or ejacu
 
 ## When are results ready?
 
-Glucose, lipids and CBC are usually ready the same day; PSA and the hormone panel are processed at the lab and take a few days. We call you and the doctor explains each value.
+Glucose, lipids and CBC come back quickly; PSA and the hormone panel are processed at the lab and take a few days. We call you and the doctor explains each value.
 
 ## How much does the men's checkup cost?
 
-Current promotions: Men's Hormone Panel for $200 and Check Your Testosterone for $79 (testosterone test, urine test and free medical visit). Outside those packages, the visit and the PSA are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
+Current promotions: Men's Hormone Panel for $200 and Check Your Testosterone for $79 (testosterone test, urine test and free medical visit). Outside those packages, the initial visit is free and the PSA and other tests are priced individually. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ${WHY_EN}
 
