@@ -145,7 +145,7 @@
     "q7": "¿Dónde están ubicados en Houston?",
     "a7": "Estamos ubicados en 7040 Lawndale St # B, Houston, TX 77023, en el área East End de Houston, cerca de la autopista I-45 (Gulf Freeway). Contamos con amplio estacionamiento gratuito y fácil acceso en transporte público.",
     "q8": "¿Realizan exámenes médicos de inmigración I-693?",
-    "a8": "Sí, contamos con médicos Civil Surgeon certificados por USCIS para realizar el examen médico de inmigración I-693 requerido para la Green Card. Ofrecemos resultados rápidos, vacunas disponibles en sitio, y atención 100% en español.",
+    "a8": "Sí, contamos con un Civil Surgeon designado por USCIS para realizar el examen médico de inmigración I-693 requerido para la Green Card. Ofrecemos resultados rápidos, vacunas disponibles en sitio, y atención 100% en español.",
     "q9": "¿Cuánto tiempo debo esperar sin cita?",
     "a9": "El tiempo de espera varía según la demanda del día, pero generalmente atendemos a los pacientes en 15-30 minutos. Le recomendamos llegar temprano para asegurar una atención más rápida.",
     "q10": "¿Hay estacionamiento disponible?",
@@ -232,7 +232,7 @@
   "greenCard": {
     "badge": "Autorizado por USCIS",
     "title": "Exámenes Médicos de Inmigración I-693",
-    "subtitle": "Clínica Hispana Nueva Salud Lawndale es tu clínica hispana autorizada por USCIS para exámenes médicos de inmigración I-693 en Houston. Nuestros Civil Surgeons certificados te ayudan con tu proceso de Green Card de manera rápida y en español.",
+    "subtitle": "Clínica Hispana Nueva Salud Lawndale es tu clínica hispana autorizada por USCIS para exámenes médicos de inmigración I-693 en Houston. Nuestro Civil Surgeon designado por USCIS te ayuda con tu proceso de Green Card de manera rápida y en español.",
     "processTitle": "Proceso Simple en 5 Pasos",
     "ctaSchedule": "Agendar Examen I-693",
     "ctaCall": "Llamar Ahora"

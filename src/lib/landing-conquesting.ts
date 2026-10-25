@@ -164,7 +164,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
           icon: "FileCheck",
           feature: "Examen I-693 USCIS",
           others: "Referido a otra clínica",
-          us: "Civil Surgeon certificado en sitio",
+          us: "Civil Surgeon designado por USCIS en sitio",
         },
         {
           icon: "FlaskConical",
@@ -242,7 +242,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         },
         {
           q: "¿Realizan exámenes de inmigración I-693?",
-          a: "Sí. Nuestros médicos son Civil Surgeons certificados por USCIS. Completamos el examen y el formulario I-693 oficial en una sola visita, con todas las vacunas requeridas disponibles en la clínica.",
+          a: "Sí. Tenemos un Civil Surgeon designado por USCIS. Hacemos el examen y las vacunas requeridas en la clínica y le entregamos el formulario I-693 oficial en sobre sellado en cuanto están todos los resultados.",
         },
         {
           q: "¿Dónde están ubicados?",
@@ -322,7 +322,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
           icon: "FileCheck",
           feature: "I-693 USCIS exam",
           others: "Referred elsewhere",
-          us: "Certified Civil Surgeon on-site",
+          us: "USCIS-designated Civil Surgeon on-site",
         },
         {
           icon: "FlaskConical",
@@ -400,7 +400,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         },
         {
           q: "Do you perform I-693 immigration exams?",
-          a: "Yes. Our physicians are USCIS-certified Civil Surgeons. We complete the exam and the official I-693 form in a single visit, with all required vaccines available on-site.",
+          a: "Yes. We have a USCIS-designated Civil Surgeon. We do the exam and the required vaccines at the clinic and hand you the official I-693 form in a sealed envelope as soon as all results are in.",
         },
         {
           q: "Where are you located?",
