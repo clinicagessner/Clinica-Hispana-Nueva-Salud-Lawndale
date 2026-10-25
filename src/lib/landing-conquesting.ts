@@ -128,7 +128,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         {
           icon: "FlaskConical",
           title: "Laboratorio en sitio",
-          body: "Resultados el mismo día sin enviarle a otro lugar.",
+          body: "Resultados rápidos sin enviarle a otro lugar.",
         },
       ],
     },
@@ -170,7 +170,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
           icon: "FlaskConical",
           feature: "Laboratorio",
           others: "Enviado a laboratorio externo",
-          us: "Resultados el mismo día en sitio",
+          us: "Resultados rápidos en sitio",
         },
         {
           icon: "DollarSign",
@@ -200,7 +200,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         { icon: "Languages", label: "Idioma", value: "100% Español" },
         { icon: "FileCheck", label: "Examen I-693", value: "Civil Surgeon USCIS" },
         { icon: "Car", label: "Estacionamiento", value: "Gratis y amplio" },
-        { icon: "FlaskConical", label: "Laboratorio", value: "Resultados el mismo día" },
+        { icon: "FlaskConical", label: "Laboratorio", value: "Resultados rápidos" },
       ],
     },
     services: {
@@ -287,7 +287,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         { icon: "ShieldCheck", title: "No insurance required", body: "We see patients with or without coverage." },
         { icon: "DollarSign", title: "Affordable pricing", body: "Transparent rates before your visit." },
         { icon: "Car", title: "Free parking", body: "Spacious parking right in front of the clinic." },
-        { icon: "FlaskConical", title: "On-site lab", body: "Same-day results — no need to go anywhere else." },
+        { icon: "FlaskConical", title: "On-site lab", body: "Fast results — no need to go anywhere else." },
       ],
     },
     comparison: {
@@ -328,7 +328,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
           icon: "FlaskConical",
           feature: "Lab work",
           others: "Sent to external lab",
-          us: "Same-day results on-site",
+          us: "Fast results on-site",
         },
         {
           icon: "DollarSign",
@@ -358,7 +358,7 @@ export const LANDING_COPY: Record<Locale, LandingCopy> = {
         { icon: "Languages", label: "Language", value: "100% Spanish" },
         { icon: "FileCheck", label: "I-693 Exam", value: "USCIS Civil Surgeon" },
         { icon: "Car", label: "Parking", value: "Free and spacious" },
-        { icon: "FlaskConical", label: "Lab", value: "Same-day results" },
+        { icon: "FlaskConical", label: "Lab", value: "Fast results" },
       ],
     },
     services: {

@@ -3,7 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Men's Health in Houston: Checkups That Save Lives"
 description: "Preventive checkups for men in Houston TX: PSA, testosterone, blood pressure, glucose and EKG. Care in Spanish, walk-ins welcome, no insurance needed."
 date: "2026-07-22"
-dateModified: "2026-07-22"
+dateModified: "2026-10-25"
 author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -75,7 +75,7 @@ Burning when urinating, frequent urges to go, or difficulty emptying your bladde
 
 ### Sexually Transmitted Infections
 
-Many STIs cause no symptoms in men, but they still spread and cause harm. We offer confidential [sexually transmitted disease testing](/services/enfermedades-transmision-sexual), with same-day treatment when possible.
+Many STIs cause no symptoms in men, but they still spread and cause harm. We offer confidential [sexually transmitted disease testing](/services/enfermedades-transmision-sexual), and if something comes back positive, we prescribe the treatment and send it to the pharmacy you choose.
 
 ## Recommended Exams by Age
 

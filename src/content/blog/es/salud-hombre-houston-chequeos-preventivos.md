@@ -3,7 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Salud del Hombre en Houston: Chequeos que Salvan Vidas"
 description: "Chequeos preventivos para hombres en Houston TX: PSA, perfil hormonal, presión arterial, glucosa y electrocardiograma. En español, sin cita y sin seguro."
 date: "2026-07-22"
-dateModified: "2026-09-08"
+dateModified: "2026-10-25"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -75,7 +75,7 @@ El ardor al orinar, las ganas frecuentes de ir al baño o la dificultad para vac
 
 ### Infecciones de Transmisión Sexual
 
-Muchas ITS no producen síntomas en los hombres, pero se transmiten y causan daño igual. Ofrecemos [pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) confidenciales, con tratamiento el mismo día cuando es posible.
+Muchas ITS no producen síntomas en los hombres, pero se transmiten y causan daño igual. Ofrecemos [pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) confidenciales y, si sale algo positivo, le indicamos el tratamiento y enviamos la receta a la farmacia que usted elija.
 
 ## Exámenes Recomendados por Edad
 

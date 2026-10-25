@@ -3,7 +3,7 @@ slug: "medicos-autorizados-uscis-houston-civil-surgeon"
 title: "Médicos Autorizados por USCIS en Houston: Cómo Verificar"
 description: "Cómo verificar si un médico es Civil Surgeon autorizado por USCIS en Houston para el examen I-693: lista oficial, requisitos y qué evitar."
 date: "2026-05-31"
-dateModified: "2026-09-08"
+dateModified: "2026-10-25"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/medicos-uscis.webp"
 featured: false
@@ -117,7 +117,7 @@ En **Clínica Hispana Nueva Salud Lawndale** contamos con Civil Surgeon designad
 Beneficios de hacer su examen con nosotros:
 
 - Atención 100% en español
-- Formulario I-693 completo el mismo día en la mayoría de los casos
+- Formulario I-693 en sobre sellado en cuanto están todos los resultados
 - [Vacunas requeridas por USCIS](/services/vacunas) y [prueba de tuberculosis](/services/prueba-tuberculosis) disponibles en la clínica
 - Precios competitivos y transparentes
 - Sin cita previa para la primera consulta
@@ -136,7 +136,7 @@ Si fue firmado el 1 de noviembre de 2023 o después, no tiene fecha de vencimien
 Sí. El examen se puede realizar durante el embarazo. Algunas vacunas pueden posponerse según la indicación del médico.
 
 **¿Cuánto tiempo toma todo el proceso?**
-En la mayoría de los casos, completamos el examen completo y el formulario I-693 en una sola visita. Los resultados de laboratorio están listos el mismo día.
+En la mayoría de los casos, completamos el examen completo y el formulario I-693 en una sola visita. Los resultados de laboratorio salen rápido y le entregamos el sobre sellado en cuanto están completos.
 
 **¿USCIS acepta formularios de cualquier idioma?**
 El formulario I-693 debe completarse en inglés. Pero la consulta y explicación pueden ser en español; el Civil Surgeon es quien firma y certifica.

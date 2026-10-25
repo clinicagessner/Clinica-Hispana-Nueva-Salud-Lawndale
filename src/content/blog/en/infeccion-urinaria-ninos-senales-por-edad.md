@@ -3,7 +3,7 @@ slug: "infeccion-urinaria-ninos-senales-por-edad"
 title: "UTIs in Girls and Boys: Warning Signs by Age"
 description: "How a urinary tract infection shows up in babies, preschoolers and school-age kids, how a child's urine sample is collected and when to go to the ER."
 date: "2026-10-15"
-dateModified: "2026-10-23"
+dateModified: "2026-10-25"
 author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -81,7 +81,7 @@ If you see any of these, skip the clinic and get emergency care:
 
 ## When the clinic is the right stop
 
-The clinic sees children and adults. If your daughter or son uses the toilet independently, can give a clean sample and has none of the warning signs above, you can bring them to our [urinary tract infection service](/services/infecciones-urinarias): we run the urine test at the clinic and, if there is an infection, you leave with your treatment the same day, dosed for your child's weight, along with clear instructions on giving it at home, how quickly they should perk up, and which changes mean coming back. When the situation calls for it, a culture is sent and we explain the next step.
+The clinic sees children and adults. If your daughter or son uses the toilet independently, can give a clean sample and has none of the warning signs above, you can bring them to our [urinary tract infection service](/services/infecciones-urinarias): we run the urine test at the clinic and, if there is an infection, we send the prescription to the pharmacy you choose that same day, dosed for your child's weight, along with clear instructions on giving it at home, how quickly they should perk up, and which changes mean coming back. When the situation calls for it, a culture is sent and we explain the next step.
 
 If your child needs treatment, the prescription is sent electronically to the [pharmacy](/services/farmacia) of your choice, so you can pick it up at whichever one sits on your way home through the East End instead of juggling paper slips with a tired, warm little one buckled in behind you. And if the fever comes with a very sore throat and no cough, the problem may not be urinary at all: our [rapid strep test](/services/prueba-strep) helps sort that out.
 

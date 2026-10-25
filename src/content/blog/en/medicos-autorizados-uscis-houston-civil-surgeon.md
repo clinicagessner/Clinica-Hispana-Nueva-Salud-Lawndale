@@ -3,7 +3,7 @@ slug: "medicos-autorizados-uscis-houston-civil-surgeon"
 title: "USCIS-Authorized Doctors in Houston: How to Verify"
 description: "How to verify a USCIS-authorized Civil Surgeon in Houston for the I-693 Green Card medical exam: official list, requirements and what to avoid."
 date: "2026-05-31"
-dateModified: "2026-09-08"
+dateModified: "2026-10-25"
 author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/medicos-uscis.webp"
 featured: false
@@ -117,7 +117,7 @@ At **Clinica Hispana Nueva Salud Lawndale** we have a USCIS-designated Civil Sur
 Benefits of doing your exam with us:
 
 - Full Spanish-language service
-- Complete I-693 form same day in most cases
+- Sealed I-693 envelope as soon as all results are in
 - [USCIS-required vaccines](/services/vacunas) and [tuberculosis testing](/services/prueba-tuberculosis) available on-site
 - Competitive and transparent pricing
 - Walk-ins welcome for the first consultation
@@ -136,7 +136,7 @@ If signed on or after November 1, 2023, it has no fixed expiration date: it stay
 Yes. The exam can be performed during pregnancy. Some vaccines may be deferred per physician guidance.
 
 **How long does the whole process take?**
-In most cases, we complete the full exam and Form I-693 in a single visit. Lab results are ready the same day.
+In most cases, we complete the full exam and Form I-693 in a single visit. Lab results come back quickly, and we hand you the sealed envelope once they are complete.
 
 **Does USCIS accept forms in any language?**
 Form I-693 must be completed in English. But the consultation and explanation can be in Spanish; the Civil Surgeon is the one who signs and certifies.

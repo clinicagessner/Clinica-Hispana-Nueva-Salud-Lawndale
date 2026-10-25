@@ -1280,7 +1280,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-sangre",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-25",
     id: "examenes-sangre",
     image: "/images/services/examenes-sangre.webp",
     shortTitle: "Lab. Sangre",
@@ -1322,7 +1322,7 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `**Hacemos análisis de sangre sin cita ni orden médica, con toma de muestra en la clínica y resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM; los exámenes más comunes se entregan el mismo día.
+    longDescription: `**Hacemos análisis de sangre sin cita ni orden médica, con toma de muestra en la clínica y resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM; los resultados de los exámenes más comunes salen rápido.
 
 ## ¿Qué análisis hacemos?
 
@@ -1341,7 +1341,7 @@ Sí para glucosa, perfil de lípidos y química completa: entre 8 y 12 horas sin
 
 ## ¿Cuándo llegan los resultados?
 
-Glucosa, A1C, biometría y química suelen estar el mismo día. Perfiles hormonales, vitamina D y pruebas especiales se envían a laboratorio externo y tardan unos días. Te llamamos cuando estén listos y te explicamos cada valor en consulta o por teléfono.
+Glucosa, A1C, biometría y química salen rápido. Perfiles hormonales, vitamina D y pruebas especiales se envían a laboratorio externo y tardan unos días. Te llamamos cuando estén listos y te explicamos cada valor en consulta o por teléfono.
 
 ## ¿Cada cuánto debo hacerme un chequeo de sangre?
 
@@ -1356,7 +1356,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We run blood tests without an appointment or a doctor's order, with sample collection in the clinic and results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM; the most common tests are delivered the same day.
+    longDescriptionEn: `**We run blood tests without an appointment or a doctor's order, with sample collection in the clinic and results explained in Spanish or English.** At Clínica Hispana Nueva Salud Lawndale we are open Monday to Sunday from 9 AM to 9 PM; results for the most common tests come back quickly.
 
 ## Which tests do we run?
 
@@ -1375,7 +1375,7 @@ Yes for glucose, lipid panel and full metabolic panel: 8 to 12 hours without foo
 
 ## When are results ready?
 
-Glucose, A1C, CBC and metabolic panel are usually ready the same day. Hormone panels, vitamin D and special tests go to an outside lab and take a few days. We call you when they are ready and explain each value at a visit or by phone.
+Glucose, A1C, CBC and metabolic panel come back quickly. Hormone panels, vitamin D and special tests go to an outside lab and take a few days. We call you when they are ready and explain each value at a visit or by phone.
 
 ## How often should I get blood work?
 
@@ -1393,7 +1393,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-10-04",
+    dateModified: "2026-10-25",
     id: "infecciones-urinarias",
     image: "/images/services/infecciones-urinarias.webp",
     shortTitle: "Orina e ITU",
@@ -1438,7 +1438,7 @@ ${AREAS_EN}`,
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `**Si tienes ardor al orinar o ganas constantes de ir al baño, te hacemos el examen de orina en el momento y, si hay infección, sales con tratamiento el mismo día.** En Clínica Hispana Nueva Salud Lawndale atendemos infecciones urinarias sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
+    longDescription: `**Si tienes ardor al orinar o ganas constantes de ir al baño, te hacemos el examen de orina en el momento y, si hay infección, ese mismo día enviamos tu receta a la farmacia que elijas.** En Clínica Hispana Nueva Salud Lawndale atendemos infecciones urinarias sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
 ## ¿Cómo sé si tengo una infección urinaria?
 
@@ -1476,7 +1476,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**If you have burning when you urinate or a constant urge to go, we run the urine test on the spot and, if there is an infection, you leave with treatment the same day.** At Clínica Hispana Nueva Salud Lawndale we treat urinary tract infections without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
+    longDescriptionEn: `**If you have burning when you urinate or a constant urge to go, we run the urine test on the spot and, if there is an infection, we send your prescription to the pharmacy you choose that same day.** At Clínica Hispana Nueva Salud Lawndale we treat urinary tract infections without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
 ## How do I know if I have a UTI?
 
@@ -1845,7 +1845,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-transmision-sexual",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-25",
     id: "enfermedades-transmision-sexual",
     image: "/images/services/enfermedades-transmision-sexual.webp",
     shortTitle: "STD",
@@ -1886,7 +1886,7 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `**Pruebas confidenciales de VIH, sífilis, gonorrea, clamidia, hepatitis B y C, herpes y tricomonas, con tratamiento el mismo día cuando hay resultado positivo.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, sin seguro y sin juicios, de lunes a domingo de 9 AM a 9 PM.
+    longDescription: `**Pruebas confidenciales de VIH, sífilis, gonorrea, clamidia, hepatitis B y C, herpes y tricomonas; si un resultado sale positivo, te indicamos el tratamiento y enviamos la receta a la farmacia que elijas.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, sin seguro y sin juicios, de lunes a domingo de 9 AM a 9 PM.
 
 ## ¿Cuándo debo hacerme la prueba?
 
@@ -1928,7 +1928,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**Confidential testing for HIV, syphilis, gonorrhea, chlamydia, hepatitis B and C, herpes and trichomonas, with same-day treatment when a result is positive.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, without insurance and without judgment, Monday to Sunday from 9 AM to 9 PM.
+    longDescriptionEn: `**Confidential testing for HIV, syphilis, gonorrhea, chlamydia, hepatitis B and C, herpes and trichomonas; if a result is positive, we prescribe the treatment and send it to the pharmacy you choose.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, without insurance and without judgment, Monday to Sunday from 9 AM to 9 PM.
 
 ## When should I get tested?
 
@@ -2442,7 +2442,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-inmigracion",
-    dateModified: "2026-09-09",
+    dateModified: "2026-10-25",
     id: "examenes-inmigracion",
     image: "/images/services/examenes-inmigracion.webp",
     shortTitle: "Inmigración",
@@ -2483,7 +2483,7 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `**Realizamos el examen médico de inmigración (Formulario I-693) con un Civil Surgeon designado por USCIS y te entregamos el sobre sellado el mismo día en la mayoría de los casos.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, de lunes a domingo de 9 AM a 9 PM. Puedes verificar la designación en la herramienta "Find a Doctor" de USCIS buscando por el código postal 77023.
+    longDescription: `**Realizamos el examen médico de inmigración (Formulario I-693) con un Civil Surgeon designado por USCIS y te entregamos el sobre sellado en cuanto están todos los resultados.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, en español, de lunes a domingo de 9 AM a 9 PM. Puedes verificar la designación en la herramienta "Find a Doctor" de USCIS buscando por el código postal 77023.
 
 ## ¿Quién necesita el examen I-693?
 
@@ -2519,7 +2519,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We perform the immigration medical exam (Form I-693) with a USCIS-designated Civil Surgeon and hand you the sealed envelope the same day in most cases.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, Monday to Sunday from 9 AM to 9 PM. You can verify the designation in the USCIS "Find a Doctor" tool by searching ZIP code 77023.
+    longDescriptionEn: `**We perform the immigration medical exam (Form I-693) with a USCIS-designated Civil Surgeon and hand you the sealed envelope as soon as all the results are in.** At Clínica Hispana Nueva Salud Lawndale we see you without an appointment, in Spanish or English, Monday to Sunday from 9 AM to 9 PM. You can verify the designation in the USCIS "Find a Doctor" tool by searching ZIP code 77023.
 
 ## Who needs the I-693 exam?
 
@@ -3560,12 +3560,12 @@ export const PROMOTIONS: Promotion[] = [
     includes: [
       "Examen general de sangre",
       "Inyección de Vitamina B12",
-      "Resultados el mismo día",
+      "Resultados rápidos",
     ],
     includesEn: [
       "General blood panel",
       "Vitamin B12 injection",
-      "Same-day results",
+      "Fast results",
     ],
     alt: "Flyer de la promoción General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud Lawndale, Houston",
     altEn: "Blood Panel plus Vitamin B12 promotion flyer for $99 at Clínica Hispana Nueva Salud Lawndale, Houston",
