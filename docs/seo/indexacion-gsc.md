@@ -18,22 +18,57 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 31 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026 · APLAZADA por el usuario: la pide el 25/10/2026, va primero ese día (no repetir en otra tanda)
 
-- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-23
+- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
 - [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23
 - [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23
 - [ ] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
-- [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-23
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-23
+- [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [ ] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+
+## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
+
+- [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
+
+## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
+
+- [ ] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
+
+## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
+
+- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25
+- [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
 
 ## Tanda 32
 
-- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 2 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-09-15 · rastreada sin indexar · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-16 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
