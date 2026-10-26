@@ -9,27 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-25; URL Inspection API, datos de hoy 2026-10-25):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (39 descubierta sin indexar · 13 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 1 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-33 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
+40 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 31 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
-
-- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23
-- [x] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (título y meta)
-- [x] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
-- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23
-
-## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
+## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) 📨 ENVIADA 26/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
@@ -69,13 +56,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 36
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
@@ -302,3 +289,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-09-30 · 0 impr.
+
+## Tanda 31 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
+
+- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (título y meta)
+- [x] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23
