@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 40 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
 <!-- /tandas:auto -->
 
-## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) 📨 ENVIADA 26/10/2026
+## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
 
 ## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
 
