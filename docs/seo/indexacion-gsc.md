@@ -9,28 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 1 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 1 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-40 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-27).
+41 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 26/10/2026
-
-- [x] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
-
-## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
-
+## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) 📨 ENVIADA 27/10/2026
 - [ ] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
@@ -57,6 +43,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 36
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
@@ -302,3 +289,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
 - [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-10-23 · cambiada de nuevo 2026-10-25 (análisis diario)
 - [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+
+## Tanda 33 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 26/10/2026
+
+- [x] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
