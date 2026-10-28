@@ -16,17 +16,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 41 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) 📨 ENVIADA 27/10/2026
-- [ ] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
+## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 28/10/2026
+- [x] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
 
 ## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
 
