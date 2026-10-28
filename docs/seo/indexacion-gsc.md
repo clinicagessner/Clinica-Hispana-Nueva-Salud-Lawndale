@@ -9,24 +9,12 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 1 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-41 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
+45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
-
-## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 28/10/2026
-- [x] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
-- [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
 
 ## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
 
@@ -302,3 +290,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
 - [x] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
 - [x] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
+
+## Tanda 34 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) ✅ PEDIDA 28/10/2026
+
+- [x] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
