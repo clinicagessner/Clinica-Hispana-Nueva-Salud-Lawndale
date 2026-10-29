@@ -21,18 +21,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
 - [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
 
-## Tanda 37 — cambios del 2026-10-29 (post del blog semanal)  📨 ENVIADA 29/10/2026
+## Tanda 37 — cambios del 2026-10-29 (post del blog semanal)  ✅ PEDIDA 29/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
-- [ ] https://www.nuevasaludlawndale.com/en/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
-- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
+- [x] https://www.nuevasaludlawndale.com/en/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
+- [x] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25
+- [x] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
 
 ## Tanda 38
 
