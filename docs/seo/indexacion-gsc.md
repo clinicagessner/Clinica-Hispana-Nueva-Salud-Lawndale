@@ -9,15 +9,22 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 96 URLs del sitemap indexadas · 54 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 98 URLs del sitemap indexadas · 56 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 1 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon) 📨 ENVIADA 29/10/2026
+## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)
 
+- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
+- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
+
+## Tanda 37 — cambios del 2026-10-29 (post del blog semanal)  📨 ENVIADA 29/10/2026
+
+- [ ] https://www.nuevasaludlawndale.com/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
+- [ ] https://www.nuevasaludlawndale.com/en/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29
 - [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-10-25
@@ -26,10 +33,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25
 - [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25
-- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
 
-## Tanda 36
+## Tanda 38
 
 - [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
