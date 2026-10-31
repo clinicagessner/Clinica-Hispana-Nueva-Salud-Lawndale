@@ -9,14 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-30; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 98 URLs del sitemap indexadas · 56 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-31; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 98 URLs del sitemap indexadas · 56 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  📨 ENVIADA 30/10/2026
+## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  📨 ENVIADA 31/10/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
 - [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
