@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  📨 ENVIADA 31/10/2026
+## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  ✅ PEDIDA 31/10/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
+- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-11 · 0 impr.
 
 ## Tanda 38
 
