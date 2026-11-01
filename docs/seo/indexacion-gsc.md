@@ -9,30 +9,22 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-31; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 98 URLs del sitemap indexadas · 56 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-01; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 42 de 98 URLs del sitemap indexadas · 56 sin indexar (30 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-01).
+49 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-02).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  ✅ PEDIDA 31/10/2026
-
-- [x] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
-- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-11 · 0 impr.
-
-## Tanda 38
+## Tanda 38  📨 ENVIADA 01/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -297,6 +289,19 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-10-25
 - [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-10-25
 - [x] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25
+
+## Tanda 35 — cambios del 2026-10-25 (análisis diario: plazos §9, receta sin farmacia y Civil Surgeon)  ✅ PEDIDA 31/10/2026
+
+- [x] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-25 (título y meta)
+- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · desconocida · pedida 2026-10-13 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · desconocida · pedida 2026-10-16 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-11 · 0 impr.
 
 ## Tanda 37 — cambios del 2026-10-29 (post del blog semanal)  ✅ PEDIDA 29/10/2026
 
