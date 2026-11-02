@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 38 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-03).
 <!-- /tandas:auto -->
 
-## Tanda 38  📨 ENVIADA 02/11/2026
+## Tanda 38  ✅ PEDIDA 02/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · desconocida · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-11 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-10-18 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-18 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-18 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-19 · 0 impr.
 
 ## Tanda 39
 
