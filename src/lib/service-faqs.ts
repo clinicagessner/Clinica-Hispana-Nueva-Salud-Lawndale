@@ -275,13 +275,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "sueros-vitaminados": {
     faqs: [
-      { question: "¿Cuánto dura la aplicación de un suero vitaminado?", answer: "Entre 30 y 60 minutos según la fórmula, más unos minutos de evaluación previa. Sales el mismo día y puedes conducir." },
-      { question: "¿Necesito análisis antes de ponerme un suero?", answer: "No siempre. El médico te evalúa primero; si tienes cansancio de más de dos semanas o una condición como diabetes o enfermedad renal, sí pedimos análisis para elegir bien la fórmula." },
+      { question: "¿Cuánto dura la aplicación de un suero vitaminado?", answer: "Entre 30 y 60 minutos, más unos minutos de evaluación previa. Sales el mismo día y puedes conducir." },
+      { question: "¿Necesito análisis antes de ponerme un suero?", answer: "No siempre. El médico te evalúa primero; si tienes cansancio de más de dos semanas o una condición como diabetes o enfermedad renal, sí pedimos análisis antes de aplicarlo." },
       { question: "¿Los sueros vitaminados curan la resaca o la gripe?", answer: "Alivian la deshidratación y el cansancio, pero no curan una infección. Si tienes fiebre o síntomas de gripe, primero te revisa el médico y decide si el suero conviene." },
     ],
     faqsEn: [
-      { question: "How long does a vitamin IV take?", answer: "Between 30 and 60 minutes depending on the formula, plus a few minutes of evaluation beforehand. You leave the same day and can drive." },
-      { question: "Do I need lab tests before an IV drip?", answer: "Not always. The doctor evaluates you first; if you have had fatigue for more than two weeks or a condition such as diabetes or kidney disease, we do order tests to choose the right formula." },
+      { question: "How long does a vitamin IV take?", answer: "Between 30 and 60 minutes, plus a few minutes of evaluation beforehand. You leave the same day and can drive." },
+      { question: "Do I need lab tests before an IV drip?", answer: "Not always. The doctor evaluates you first; if you have had fatigue for more than two weeks or a condition such as diabetes or kidney disease, we do order tests before giving it." },
       { question: "Do vitamin IVs cure a hangover or the flu?", answer: "They relieve dehydration and fatigue, but they do not cure an infection. If you have a fever or flu symptoms, the doctor examines you first and decides whether a drip is appropriate." },
     ],
   },

@@ -3,7 +3,7 @@ slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "Vitamina B12: Beneficios, Deficiencia e Inyecciones"
 description: "Para qué sirve la vitamina B12, síntomas de deficiencia y cuándo conviene la inyección. Prueba e inyecciones en español en el East End de Houston."
 date: "2026-08-18"
-dateModified: "2026-10-25"
+dateModified: "2026-11-02"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false
@@ -98,7 +98,7 @@ El problema es que **comer bien no siempre alcanza**: si su estómago no absorbe
 - Hay problemas de absorción: edad, metformina, medicamentos para la acidez, cirugía bariátrica, condiciones digestivas
 - Se busca recuperar niveles rápidamente — el efecto es más rápido y completo que con pastillas
 
-En Clínica Hispana Nueva Salud Lawndale aplicamos inyecciones de vitamina B12 y también ofrecemos [sueros vitaminados](/services/sueros-vitaminados) por vía intravenosa que aportan vitaminas, minerales y una hidratación completa, aplicados por personal médico.
+En Clínica Hispana Nueva Salud Lawndale aplicamos inyecciones de vitamina B12 y también ofrecemos [sueros vitaminados](/services/sueros-vitaminados) de vitamina B12 por vía intravenosa, aplicados por personal médico.
 
 ## ¿Cada cuánto se aplica la inyección de B12?
 

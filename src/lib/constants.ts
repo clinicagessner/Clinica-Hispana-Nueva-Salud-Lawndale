@@ -2668,7 +2668,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "sueros-vitaminados",
-    dateModified: "2026-09-09",
+    dateModified: "2026-11-02",
     id: "sueros-vitaminados",
     image: "/images/services/sueros-vitaminados.webp",
     shortTitle: "Sueros IV",
@@ -2676,53 +2676,48 @@ ${AREAS_EN}`,
     category: "tratamientos",
     icon: "Droplets",
     title: "Sueros Vitaminados en Houston Sin Cita | Terapia IV",
-    titleEn: "Vitamin IV Drips in Houston | Walk-In Hydration Therapy",
+    titleEn: "Vitamin B12 IV Drip in Houston | Walk-In IV Therapy",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero de vitamina B12 por vía intravenosa, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
-      "Sueros vitaminados e hidratación IV en Houston East End. Sin cita, sin seguro, aplicados por personal médico en español. Lunes a domingo 9 AM–9 PM.",
+      "Suero de vitamina B12 por vía intravenosa en Houston East End. Sin cita, sin seguro, aplicados por personal médico en español. Lunes a domingo 9 AM–9 PM.",
     descriptionEn:
-      "Vitamin IV drips and hydration therapy in Houston East End. Walk-in, no insurance needed, given by medical staff. Open Mon–Sun 9 AM–9 PM.",
+      "Vitamin B12 IV drip in Houston East End. Walk-in, no insurance needed, given by medical staff. Open Mon–Sun 9 AM–9 PM.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
       "suero de vitaminas houston",
-      "hidratacion intravenosa houston",
+      "suero de vitamina b12 houston",
     ],
     keywordsEn: [
       "vitamin iv therapy houston",
       "iv drip houston",
-      "iv hydration houston",
+      "vitamin b12 iv houston",
       "vitamin drip houston",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación médica previa",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Medical evaluation first",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `**Un suero vitaminado es una infusión intravenosa de suero fisiológico con vitaminas y minerales, aplicada por personal médico en 30 a 60 minutos.** En Clínica Hispana Nueva Salud Lawndale lo recibes sin cita, todos los días de 9 AM a 9 PM, después de una evaluación breve que confirma que es adecuado para ti.
+    longDescription: `**Un suero vitaminado es una infusión intravenosa de suero fisiológico con vitamina B12, aplicada por personal médico en 30 a 60 minutos.** En Clínica Hispana Nueva Salud Lawndale lo recibes sin cita, todos los días de 9 AM a 9 PM, después de una evaluación breve que confirma que es adecuado para ti.
 
-## ¿Qué sueros ofrecemos?
+## ¿Qué lleva el suero?
 
-- **Hidratación:** suero fisiológico o solución con electrolitos para deshidratación por calor, vómito, diarrea o exceso de alcohol.
-- **Energía y defensas:** vitamina C, complejo B (B1, B6, B12) y zinc, para cansancio prolongado o después de una gripe.
-- **Recuperación muscular:** magnesio y complejo B, para calambres y fatiga tras trabajo físico intenso.
-- **Personalizado:** el médico ajusta la fórmula según tus síntomas y tus análisis.
-
-Cada aplicación incluye evaluación médica, toma de signos vitales, la infusión y monitoreo durante todo el proceso.
+El suero que aplicamos lleva vitamina B12 en suero fisiológico. Cada aplicación incluye evaluación médica, toma de signos vitales, la infusión y monitoreo durante todo el proceso.
 
 ## ¿Cuánto cuesta un suero vitaminado en Houston?
 
-El precio depende de la fórmula e incluye la evaluación, el material y la aplicación. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
+El precio incluye la evaluación, el material y la aplicación. Pregunta el precio al llegar o llámanos al (832) 530-4188: pago directo en efectivo o tarjeta, sin seguro médico.
 
 ## ¿Cuándo puede ayudar un suero?
 
@@ -2730,7 +2725,7 @@ Puede ayudar cuando llevas días con cansancio, después de una deshidratación 
 
 ## ¿Quién no debe recibir un suero vitaminado?
 
-No lo aplicamos, o lo ajustamos, si tienes insuficiencia cardiaca, enfermedad renal, presión muy alta sin control, embarazo o alergia a alguno de los componentes. Por eso la evaluación previa es obligatoria y forma parte del servicio.
+No lo aplicamos, o lo ajustamos, si tienes insuficiencia cardiaca, enfermedad renal, presión muy alta sin control, embarazo o alergia a la vitamina B12. Por eso la evaluación previa es obligatoria y forma parte del servicio.
 
 ## ¿Cómo es la visita?
 
@@ -2746,20 +2741,15 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**A vitamin IV drip is an intravenous infusion of saline with vitamins and minerals, given by medical staff over 30 to 60 minutes.** At Clínica Hispana Nueva Salud Lawndale you can get one without an appointment, every day from 9 AM to 9 PM, after a brief evaluation that confirms it is right for you.
+    longDescriptionEn: `**A vitamin IV drip is an intravenous infusion of saline with vitamin B12, given by medical staff over 30 to 60 minutes.** At Clínica Hispana Nueva Salud Lawndale you can get one without an appointment, every day from 9 AM to 9 PM, after a brief evaluation that confirms it is right for you.
 
-## Which IV drips do we offer?
+## What is in the drip?
 
-- **Hydration:** saline or electrolyte solution for dehydration from heat, vomiting, diarrhea or too much alcohol.
-- **Energy and immunity:** vitamin C, B complex (B1, B6, B12) and zinc, for lasting fatigue or after the flu.
-- **Muscle recovery:** magnesium and B complex, for cramps and fatigue after heavy physical work.
-- **Custom:** the doctor adjusts the formula to your symptoms and lab results.
-
-Every session includes a medical evaluation, vital signs, the infusion and monitoring throughout.
+The drip we give contains vitamin B12 in saline. Every session includes a medical evaluation, vital signs, the infusion and monitoring throughout.
 
 ## How much does a vitamin IV cost in Houston?
 
-The price depends on the formula and includes the evaluation, supplies and administration. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
+The price includes the evaluation, supplies and administration. Ask for the price when you arrive or call us at (832) 530-4188: direct payment by cash or card, no insurance needed.
 
 ## When can an IV drip help?
 
@@ -2767,7 +2757,7 @@ It can help when you have felt tired for days, after severe dehydration, during 
 
 ## Who should not get a vitamin IV?
 
-We do not give it, or we adjust it, if you have heart failure, kidney disease, uncontrolled high blood pressure, pregnancy or an allergy to any ingredient. That is why the evaluation is required and included in the service.
+We do not give it, or we adjust it, if you have heart failure, kidney disease, uncontrolled high blood pressure, pregnancy or an allergy to vitamin B12. That is why the evaluation is required and included in the service.
 
 ## What is the visit like?
 
