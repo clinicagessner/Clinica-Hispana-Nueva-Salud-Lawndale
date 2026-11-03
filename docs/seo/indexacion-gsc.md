@@ -16,7 +16,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 34 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
-## Tanda 40 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))
+## Tanda 40 — cambios del 2026-11-02 (sueros: el suero es solo de vitamina B12 (orden de red))  📨 ENVIADA 03/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
@@ -24,13 +24,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-11-02
-
-## Tanda 43 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
-
 - [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-02
+
+## Tanda 43 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
+
 - [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-02
 
