@@ -11,7 +11,7 @@ Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**.
 <!-- tandas:auto -->
 **Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 98 URLs del sitemap indexadas · 54 sin indexar (30 desconocida · 22 descubierta sin indexar · 2 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 13 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 13 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 34 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
@@ -25,27 +25,30 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-11-02
 - [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-11-02
 
-## Tanda 41
+## Tanda 43 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
 
-- [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-03 · rastreada 2026-10-29 · indexada · pedida 2026-10-26 · 6013 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-03 · desconocida · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-03 · rastreada 2026-11-01 · indexada · pedida 2026-10-28 · 927 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-03 · desconocida · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-02
+- [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-02
+- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-02
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-02
+
+## Tanda 44
+
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
-
-## Tanda 42
-
 - [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
+
+## Tanda 45
+
 - [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
