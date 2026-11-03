@@ -662,7 +662,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-10-25",
+    dateModified: "2026-11-02",
     id: "ginecologia",
     image: "/images/services/ginecologia.webp",
     shortTitle: "Ginecología",
@@ -706,6 +706,7 @@ ${AREAS_EN}`,
       "Tratamiento de infecciones vaginales",
       "Ultrasonido y anticonceptivos",
       "Atención privada en español",
+      "Espacio cómodo, seguro y confidencial",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
@@ -713,6 +714,7 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Ultrasound and birth control",
       "Private care in Spanish",
+      "A comfortable, safe and confidential space",
     ],
     longDescription: `**Clínica para la mujer sin cita, en español y con privacidad: papanicolaou, cultivos vaginales, ultrasonido y anticonceptivos en un mismo lugar.** En Clínica Hispana Nueva Salud Lawndale te atendemos de lunes a domingo de 9 AM a 9 PM, sin necesidad de seguro. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte.
 
@@ -728,6 +730,15 @@ Según las guías de prevención de Estados Unidos, de los 21 a los 29 años se 
 - Tratamiento de infecciones vaginales y urinarias, con la receta enviada a la farmacia que elijas
 - Ultrasonido pélvico hecho aquí mismo, sin mandarte a otro lugar
 - Prueba de embarazo y anticonceptivos: inyección trimestral, pastillas y otros métodos hormonales
+
+## Clínica para la mujer: cómoda, segura y confidencial
+
+La consulta de ginecología se da en un espacio cómodo, seguro y confidencial, con el equipo hispano de Nueva Salud Lawndale y en español. Consulta ginecológica, papanicolaou y ultrasonido en un mismo lugar:
+
+- **Consulta de ginecología gratis:** la consulta inicial no se cobra
+- **Ultrasonido** en la misma clínica
+- **Anticoncepción hormonal**, incluida la inyección anticonceptiva
+- **Sin cita** de lunes a domingo, o agenda tu cita por teléfono
 
 ## ¿Cuándo llegan los resultados?
 
@@ -767,6 +778,15 @@ Under U.S. preventive guidelines, women aged 21 to 29 should have a Pap smear ev
 - Treatment of vaginal and urinary infections, with the prescription sent to the pharmacy you choose
 - Pelvic ultrasound done right here, without sending you elsewhere
 - Pregnancy test and birth control: the 3-month shot, pills and other hormonal methods
+
+## Women's clinic: comfortable, safe and confidential
+
+Gynecology visits take place in a comfortable, safe and confidential space, with the Hispanic team at Nueva Salud Lawndale and in Spanish or English. Gynecology visit, Pap smear and ultrasound in one place:
+
+- **Free gynecology visit:** the initial visit is free of charge
+- **Ultrasound** at the same clinic
+- **Hormonal birth control**, including the birth control shot
+- **Walk-ins** Monday to Sunday, or book your appointment by phone
 
 ## When do results come back?
 
@@ -1151,7 +1171,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
-    dateModified: "2026-10-25",
+    dateModified: "2026-11-02",
     id: "salud-hombre",
     image: "/images/services/salud-hombre.webp",
     shortTitle: "Salud del Hombre",
@@ -1191,6 +1211,7 @@ ${AREAS_EN}`,
       "Chequeo general del hombre",
       "Problemas urinarios y vejiga hiperactiva",
       "Resultados explicados en español",
+      "Consulta de urología en español",
     ],
     featuresEn: [
       "Prostate antigen (PSA)",
@@ -1198,6 +1219,7 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Urinary problems and overactive bladder",
       "Results explained in Spanish",
+      "Urology visit in Spanish",
     ],
     longDescription: `**Chequeo de salud para hombres con análisis de sangre: PSA para la próstata, perfil hormonal, glucosa, colesterol y función renal, con resultados explicados en español.** En Clínica Hispana Nueva Salud Lawndale atendemos sin cita, de lunes a domingo de 9 AM a 9 PM, sin seguro y con privacidad.
 
@@ -1216,6 +1238,15 @@ Un PSA por encima de 4 ng/mL, o que sube rápido entre un año y otro, requiere 
 ## ¿Qué hacemos con los problemas urinarios y la vejiga hiperactiva?
 
 Las ganas urgentes de orinar, ir al baño muchas veces al día, levantarte de noche a orinar o tener escapes son señales de vejiga hiperactiva; en el hombre también aparecen cuando la próstata crece y aprieta la salida de la orina. En la consulta de urología te hacemos el examen de orina aquí mismo para descartar infección, pedimos el PSA si tu edad o tus síntomas lo indican y te damos el tratamiento para la vejiga hiperactiva, con la receta enviada a la farmacia que elijas. Si tienes ardor al orinar, fiebre o ves sangre en la orina, ven sin esperar.
+
+## Consulta de urología en español
+
+La consulta de urología atiende problemas urológicos en español: examen de urología, síntomas urinarios, vejiga hiperactiva y los exámenes del hombre, PSA y testosterona. Es una consulta general más los exámenes que necesites, a precios accesibles:
+
+- **Consulta médica gratis:** la consulta inicial no se cobra
+- **Exámenes del hombre:** PSA y testosterona
+- **Sin seguro, sin problema:** pago directo en efectivo o tarjeta
+- **Agenda tu cita** o llámanos ahora; también sin cita
 
 ## ¿Cuándo revisar la testosterona?
 
@@ -1255,6 +1286,15 @@ A PSA above 4 ng/mL, or one that rises quickly from one year to the next, needs 
 ## What do we do about urinary problems and an overactive bladder?
 
 Sudden urges to urinate, going to the bathroom many times a day, getting up at night to pee or leaking are signs of an overactive bladder; in men they also show up when the prostate grows and squeezes the urine outlet. At the urology visit we run the urine test right here to rule out infection, order a PSA if your age or symptoms call for it and give you treatment for the overactive bladder, with the prescription sent to the pharmacy you choose. If you have burning when you urinate, a fever or blood in your urine, come in without waiting.
+
+## Urology visit in Spanish
+
+The urology visit takes care of urological problems in Spanish or English: urology exam, urinary symptoms, overactive bladder and men's tests, PSA and testosterone. It is a general visit plus the tests you need, at affordable prices:
+
+- **Free medical visit:** the initial visit is free of charge
+- **Men's tests:** PSA and testosterone
+- **No insurance, no problem:** direct payment by cash or card
+- **Book your appointment** or call us now; walk-ins welcome too
 
 ## When should testosterone be checked?
 

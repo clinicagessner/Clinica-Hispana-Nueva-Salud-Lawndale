@@ -74,11 +74,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       { question: "¿A partir de qué edad y cada cuánto se hace el papanicolaou?", answer: "Desde los 21 años. De 21 a 29 cada 3 años; de 30 a 65 cada 3 años, o cada 5 si se combina con la prueba de VPH. Con resultados anormales previos, el intervalo es más corto." },
       { question: "¿Puedo hacerme el papanicolaou si tengo la regla?", answer: "Es mejor esperar a que termine, porque la sangre puede alterar la muestra. Si tienes síntomas de infección, ven de todos modos y te atendemos el mismo día." },
       { question: "¿Cuánto tardan los resultados del cultivo vaginal?", answer: "Unos días, porque se procesa en laboratorio. Te llamamos con el resultado y, si hay infección, te enviamos la receta sin necesidad de otra consulta." },
+      { question: "¿La consulta de ginecología es gratis?", answer: "Sí, la consulta inicial de ginecología es gratis. El papanicolaou, el cultivo y el ultrasonido tienen precio individual, y se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial." },
     ],
     faqsEn: [
       { question: "At what age and how often should I get a Pap smear?", answer: "From age 21. Ages 21 to 29 every 3 years; ages 30 to 65 every 3 years, or every 5 years combined with an HPV test. With previous abnormal results, the interval is shorter." },
       { question: "Can I get a Pap smear during my period?", answer: "It is better to wait until it ends, because blood can affect the sample. If you have infection symptoms, come anyway and we see you the same day." },
       { question: "How long do vaginal culture results take?", answer: "A few days, because it is processed at the lab. We call you with the result and, if there is an infection, we send the prescription without another visit." },
+      { question: "Is the gynecology visit free?", answer: "Yes, the initial gynecology visit is free. The Pap smear, culture and ultrasound are priced individually, and they are all done in one place, in a comfortable, safe and confidential space." },
     ],
   },
   "prueba-embarazo": {
@@ -122,11 +124,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       { question: "¿A qué edad debo hacerme el PSA?", answer: "Conversa con el médico sobre la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Con síntomas urinarios, a cualquier edad." },
       { question: "¿A qué hora se toma la muestra de testosterona?", answer: "Entre 7 y 10 de la mañana, en ayunas, porque el nivel baja durante el día. Un resultado bajo se confirma con una segunda muestra otro día." },
       { question: "¿El PSA alto significa cáncer?", answer: "No siempre. La próstata crecida, una infección o la eyaculación reciente también lo suben. Si está alto se repite y te explicamos el siguiente paso." },
+      { question: "¿Qué problemas urológicos atienden en la consulta de urología?", answer: "Síntomas urinarios, vejiga hiperactiva y los exámenes del hombre, PSA y testosterona, en español. La consulta inicial es gratis, los exámenes tienen precios accesibles y no necesitas seguro." },
     ],
     faqsEn: [
       { question: "At what age should I get a PSA test?", answer: "Talk with the doctor about the test from age 50, or from 45 if your father or brother had prostate cancer. With urinary symptoms, at any age." },
       { question: "What time is the testosterone sample drawn?", answer: "Between 7 and 10 AM, fasting, because the level drops during the day. A low result is confirmed with a second sample on another day." },
       { question: "Does a high PSA mean cancer?", answer: "Not always. An enlarged prostate, an infection or recent ejaculation also raise it. If it is high we repeat it and explain the next step." },
+      { question: "Which urological problems does the urology visit cover?", answer: "Urinary symptoms, overactive bladder and men's tests, PSA and testosterone, in Spanish or English. The initial visit is free, tests are affordably priced and you do not need insurance." },
     ],
   },
   "examenes-sangre": {
