@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 34 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-05).
 <!-- /tandas:auto -->
 
-## Tanda 43 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026
+## Tanda 43 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-02 · reintento: no entró el 03/11 (cuota superada)
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-02
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-02
-- [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-20 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-02 · reintento: no entró el 03/11 (cuota superada)
+- [x] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-02
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-02
+- [x] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-20 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
 
 ## Tanda 44
 
@@ -76,6 +76,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-09-27 | 10 | Tanda 4 |
 | 2026-09-30 | 10 | Tanda 5 |
 | 2026-11-03 | 10 | Tanda 40 |
+| 2026-11-05 | 10 | Tanda 43 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
