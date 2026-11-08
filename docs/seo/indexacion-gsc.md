@@ -9,28 +9,18 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (30 desconocida · 22 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-08; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (30 desconocida · 22 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
-## Tanda 46 — cambios del 2026-11-05 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal) (+ 3 de la Tanda 47)  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
+## Tanda 47  📨 ENVIADA 08/11/2026
 
-- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-21 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [x] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [x] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [x] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
-
-## Tanda 47
-
+- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
@@ -373,3 +363,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-10-20 · 0 impr.
+
+## Tanda 46 — cambios del 2026-11-05 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal) (+ 3 de la Tanda 47)  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
+
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
