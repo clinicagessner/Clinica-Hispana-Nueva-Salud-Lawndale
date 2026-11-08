@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 46 — cambios del 2026-11-05 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal) (+ 3 de la Tanda 47)  📨 ENVIADA 07/11/2026
+## Tanda 46 — cambios del 2026-11-05 (pendientes para otro día: devueltas de la Tanda 44 o sin sitio por el post del blog semanal) (+ 3 de la Tanda 47)  📨 ENVIADA 07/11/2026  ✅ PEDIDA 07/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-21 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
-- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · desconocida · pedida 2026-10-21 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-09-10 · desconocida · pedida 2026-10-20 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-21 · 0 impr. · error de GSC al pedirla 06/11/2026
+- [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
 
 ## Tanda 47
 
@@ -65,6 +65,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-03 | 10 | Tanda 40 |
 | 2026-11-05 | 10 | Tanda 43 |
 | 2026-11-06 | 10 | Tanda 44 |
+| 2026-11-07 | 10 | Tanda 46 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
