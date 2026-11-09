@@ -9,19 +9,16 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-08; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 44 de 100 URLs del sitemap indexadas · 56 sin indexar (30 desconocida · 22 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 47 de 100 URLs del sitemap indexadas · 53 sin indexar (29 descubierta sin indexar · 22 desconocida · 2 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 1 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
+52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
 
-## Tanda 47  📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
+## Tanda 48  📨 ENVIADA 09/11/2026
 
-- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -377,3 +374,10 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-10-22 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-19 · 0 impr.
+
+## Tanda 47  📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
+
+- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
