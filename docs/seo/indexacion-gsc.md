@@ -16,12 +16,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
-## Tanda 47  📨 ENVIADA 08/11/2026
+## Tanda 47  📨 ENVIADA 08/11/2026  ✅ PEDIDA 08/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -56,6 +56,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-05 | 10 | Tanda 43 |
 | 2026-11-06 | 10 | Tanda 44 |
 | 2026-11-07 | 10 | Tanda 46 |
+| 2026-11-08 | 4 | Tanda 47 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
