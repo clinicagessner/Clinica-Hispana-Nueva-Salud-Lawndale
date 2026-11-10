@@ -13,14 +13,10 @@ Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**.
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
+53 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
 
-## Tanda 48  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
-
-- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
-
-## Tanda 49 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
+## Tanda 49 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 10/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10
@@ -387,3 +383,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
 - [x] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-10-22 · 0 impr.
+
+## Tanda 48  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
+
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
