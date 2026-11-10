@@ -16,9 +16,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
 
-## Tanda 48  📨 ENVIADA 09/11/2026
+## Tanda 48  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
 
 ## Tanda 49 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
 
@@ -59,6 +59,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-06 | 10 | Tanda 44 |
 | 2026-11-07 | 10 | Tanda 46 |
 | 2026-11-08 | 4 | Tanda 47 |
+| 2026-11-10 | 1 | Tanda 48 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
