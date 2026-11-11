@@ -20,9 +20,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10 y de nuevo 2026-11-11
 - [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10 y de nuevo 2026-11-11
-
-## Tanda 50
-
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25 · rastreada 2026-11-01 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
