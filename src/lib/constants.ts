@@ -326,13 +326,13 @@ ${AREAS_EN}`,
     keywords: [
       "alergias houston",
       "tratamiento de alergias houston",
-      "doctor de alergias español houston",
+      "tratamiento de alergias en español houston",
       "examen de alergias houston",
     ],
     keywordsEn: [
       "allergy treatment houston",
       "allergy testing houston",
-      "allergy doctor houston",
+      "allergy care houston",
       "allergy clinic houston",
     ],
     features: [
@@ -364,7 +364,7 @@ Las reacciones graves con dificultad para respirar, hinchazón de labios o lengu
 
 ## ¿Hacen pruebas de alergia?
 
-Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más comunes de Houston; pregúntanos por el panel disponible. No realizamos pruebas cutáneas de punción; si las necesitas, te referimos a un alergólogo.
+Ofrecemos análisis de sangre para IgE específica frente a los alérgenos más comunes de Houston; pregúntanos por el panel disponible. No realizamos pruebas cutáneas de punción; si necesitas más estudios, te explicamos el siguiente paso.
 
 ## ¿Cuál es el tratamiento?
 
@@ -400,7 +400,7 @@ Severe reactions with difficulty breathing, swelling of the lips or tongue, or d
 
 ## Do you do allergy testing?
 
-We offer blood tests for specific IgE against the most common Houston allergens; ask us about the available panel. We do not perform skin prick tests; if you need them, we refer you to an allergist.
+We offer blood tests for specific IgE against the most common Houston allergens; ask us about the available panel. We do not perform skin prick tests; if you need more testing, we explain the next step.
 
 ## What is the treatment?
 
@@ -3454,7 +3454,7 @@ Nadie tiene que descifrar la letra, la receta no se pierde en la bolsa y no tien
 
 ## ¿Qué recetas enviamos?
 
-- Las que indica nuestro médico en tu consulta: antibióticos, antiinflamatorios, tratamientos para presión, diabetes y colesterol, antialérgicos y medicamentos para infecciones comunes.
+- Las que indica nuestro equipo médico en tu consulta: antibióticos, antiinflamatorios, tratamientos para presión, diabetes y colesterol, antialérgicos y medicamentos para infecciones comunes.
 - Recetas de seguimiento de tus tratamientos crónicos, que se renuevan en tu control con el médico.
 - Siempre que existe, te indicamos la opción genérica, que suele ser la más económica.
 
@@ -3484,7 +3484,7 @@ No one has to read handwriting, the prescription can't get lost in your bag, and
 
 ## Which prescriptions do we send?
 
-- The ones our doctor orders at your visit: antibiotics, anti-inflammatories, treatments for blood pressure, diabetes and cholesterol, antihistamines and medication for common infections.
+- The ones our medical team orders at your visit: antibiotics, anti-inflammatories, treatments for blood pressure, diabetes and cholesterol, antihistamines and medication for common infections.
 - Follow-up prescriptions for your chronic treatments, renewed at your check-up with the doctor.
 - Whenever one exists, we point you to the generic option, which is usually the most affordable.
 

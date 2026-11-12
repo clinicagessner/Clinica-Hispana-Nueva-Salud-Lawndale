@@ -35,12 +35,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "alergias": {
     faqs: [
-      { question: "¿Hacen pruebas de alergia en la piel?", answer: "No hacemos pruebas cutáneas de punción. Ofrecemos análisis de sangre para los alérgenos más comunes y, si necesitas pruebas cutáneas, te referimos a un alergólogo." },
+      { question: "¿Hacen pruebas de alergia en la piel?", answer: "No hacemos pruebas cutáneas de punción. Ofrecemos análisis de sangre para los alérgenos más comunes y, si necesitas más estudios, te explicamos el siguiente paso." },
       { question: "¿Qué antihistamínico no da sueño?", answer: "Los de segunda generación como loratadina, cetirizina o fexofenadina. El médico elige según tu edad, otros medicamentos y si estás embarazada." },
       { question: "¿Cuándo es una emergencia una alergia?", answer: "Si hay dificultad para respirar, hinchazón de labios, lengua o garganta, o mareo intenso. Llama al 911; no esperes a venir a la clínica." },
     ],
     faqsEn: [
-      { question: "Do you do skin allergy tests?", answer: "We do not perform skin prick tests. We offer blood tests for the most common allergens and, if you need skin tests, we refer you to an allergist." },
+      { question: "Do you do skin allergy tests?", answer: "We do not perform skin prick tests. We offer blood tests for the most common allergens and, if you need more testing, we explain the next step." },
       { question: "Which antihistamine won't make me drowsy?", answer: "Second-generation ones such as loratadine, cetirizine or fexofenadine. The doctor chooses based on your age, other medications and pregnancy." },
       { question: "When is an allergic reaction an emergency?", answer: "When there is difficulty breathing, swelling of the lips, tongue or throat, or severe dizziness. Call 911; do not wait to come to the clinic." },
     ],

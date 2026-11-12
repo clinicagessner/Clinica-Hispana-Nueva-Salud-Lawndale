@@ -3,7 +3,7 @@ slug: "examen-dot-cdl-camioneros-houston"
 title: "DOT Physical Exam Houston: Truck Driver Guide"
 description: "DOT physical exam guide for CDL drivers in Houston TX: requirements, what to expect, cost and where to get it in Spanish. No appointment needed."
 date: "2026-04-11"
-dateModified: "2026-09-09"
+dateModified: "2026-11-12"
 author: "Medical Team, Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/examen-dot.webp"
 featured: true
@@ -40,7 +40,7 @@ You need a DOT physical if you:
 
 ## What Does the DOT Physical Include?
 
-During the exam, our physician will evaluate the following areas:
+During the exam, our medical team will evaluate the following areas:
 
 ### Vision
 - Visual acuity of at least 20/40 in each eye (with or without glasses)
@@ -133,7 +133,7 @@ If the doctor determines you don't meet the requirements at the time of the exam
 - **High blood pressure:** You may receive a temporary certificate while starting treatment. Return when your pressure is controlled.
 - **Vision problems:** Get prescription glasses and return for re-evaluation.
 - **Insulin-dependent diabetes:** Apply for the special FMCSA exemption with help from your endocrinologist.
-- **Other conditions:** The doctor will explain exactly what you need to get certified.
+- **Other conditions:** The medical team will explain exactly what you need to get certified.
 
 At Clínica Hispana Nueva Salud Lawndale, **we never turn you away without explaining what to do next**. We give you a clear plan to resolve any situation and obtain your certificate.
 

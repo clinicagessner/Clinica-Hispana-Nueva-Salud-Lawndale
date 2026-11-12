@@ -3,7 +3,7 @@ slug: "examen-dot-cdl-camioneros-houston"
 title: "Examen DOT para Camioneros Houston: Guía Completa"
 description: "Guía completa del examen físico DOT para licencia CDL en Houston TX. Requisitos, qué esperar, costo y dónde hacerlo en español. Sin cita previa."
 date: "2026-04-11"
-dateModified: "2026-09-09"
+dateModified: "2026-11-12"
 author: "Equipo Médico de Clínica Hispana Nueva Salud Lawndale"
 image: "/images/blog/examen-dot.webp"
 featured: true
@@ -40,7 +40,7 @@ Necesita un examen DOT si usted:
 
 ## ¿Qué Incluye el Examen DOT?
 
-Durante el examen, nuestro médico evaluará las siguientes áreas:
+Durante el examen, nuestro equipo médico evaluará las siguientes áreas:
 
 ### Visión
 - Agudeza visual de al menos 20/40 en cada ojo (con o sin lentes)

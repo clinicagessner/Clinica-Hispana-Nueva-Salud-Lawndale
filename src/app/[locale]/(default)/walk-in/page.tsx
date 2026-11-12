@@ -40,7 +40,7 @@ const COPY = {
     howSteps: [
       "Llegue dentro del horario (9 AM a 9 PM, todos los días).",
       "Regístrese en recepción con su identificación.",
-      "Lo evalúa el médico y se realizan los análisis si es necesario.",
+      "Lo evalúa nuestro equipo médico y se realizan los análisis si es necesario.",
       "Recibe tu plan de tratamiento en la consulta y tus resultados de laboratorio rápido.",
     ],
     bringHeading: "Qué traer a su visita",
@@ -129,7 +129,7 @@ const COPY = {
     howSteps: [
       "Come in within our hours (9 AM to 9 PM, every day).",
       "Sign in at the front desk with your ID.",
-      "Our doctor evaluates you and orders lab tests if needed.",
+      "Our medical team evaluates you and orders lab tests if needed.",
       "Get your care plan at the visit and your lab results quickly.",
     ],
     bringHeading: "What to bring",
