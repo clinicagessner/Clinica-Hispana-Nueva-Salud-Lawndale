@@ -16,14 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 49 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-14).
 <!-- /tandas:auto -->
 
-## Tanda 49 — cambios del 2026-11-10 y 2026-11-11 (superlativos quitados; FAQ de la home con «centro de salud» y «atención médica familiar» de los anuncios)  📨 ENVIADA 11/11/2026
+## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))
 
-- [ ] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10 y de nuevo 2026-11-11
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10 y de nuevo 2026-11-11
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25 · rastreada 2026-11-01 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
+
+## Tanda 49 — cambios del 2026-11-10 y 2026-11-11 (superlativos quitados; FAQ de la home con «centro de salud» y «atención médica familiar» de los anuncios)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
+
+- [x] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10 y de nuevo 2026-11-11
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10 y de nuevo 2026-11-11
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25 · rastreada 2026-11-01 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -60,6 +64,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-07 | 10 | Tanda 46 |
 | 2026-11-08 | 4 | Tanda 47 |
 | 2026-11-10 | 1 | Tanda 48 |
+| 2026-11-12 | 6 | Tanda 49 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
