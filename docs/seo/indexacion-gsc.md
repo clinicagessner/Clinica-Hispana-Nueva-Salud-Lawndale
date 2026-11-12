@@ -20,6 +20,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
 
+## Tanda 51 — cambios del 2026-11-12 (post del blog semanal)  📨 ENVIADA 12/11/2026
+
+- [ ] https://www.nuevasaludlawndale.com/blog/piel-seca-comezon-invierno-eccema-cuando-consultar  — cambiada 2026-11-12
+- [ ] https://www.nuevasaludlawndale.com/en/blog/piel-seca-comezon-invierno-eccema-cuando-consultar  — cambiada 2026-11-12
+
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
 ## Cómo retomar
