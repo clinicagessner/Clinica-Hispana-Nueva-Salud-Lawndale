@@ -9,25 +9,16 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-11; URL Inspection API, datos de hoy 2026-11-11):** 47 de 100 URLs del sitemap indexadas · 53 sin indexar (35 descubierta sin indexar · 16 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-11-12; URL Inspection API, datos ANTIGUOS del 2026-11-11: antiguos (2026-11-11): --sin-fetch):** 47 de 100 URLs del sitemap indexadas · 53 sin indexar (35 descubierta sin indexar · 16 desconocida · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-49 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-14).
+52 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-14).
 <!-- /tandas:auto -->
 
 ## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
-
-## Tanda 49 — cambios del 2026-11-10 y 2026-11-11 (superlativos quitados; FAQ de la home con «centro de salud» y «atención médica familiar» de los anuncios)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
-
-- [x] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10 y de nuevo 2026-11-11
-- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10 y de nuevo 2026-11-11
-- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25 · rastreada 2026-11-01 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
-- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -396,3 +387,12 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 ## Tanda 48  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
 
 - [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+
+## Tanda 49 — cambios del 2026-11-10 y 2026-11-11 (superlativos quitados; FAQ de la home con «centro de salud» y «atención médica familiar» de los anuncios)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
+
+- [x] https://www.nuevasaludlawndale.com  — cambiada 2026-11-10 y de nuevo 2026-11-11
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-10 y de nuevo 2026-11-11
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-25 · rastreada 2026-11-01 · rastreada sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-10-28 · 0 impr.
