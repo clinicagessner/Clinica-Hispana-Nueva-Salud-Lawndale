@@ -9,18 +9,18 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-12; URL Inspection API, datos ANTIGUOS del 2026-11-11: antiguos (2026-11-11): --sin-fetch):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (35 descubierta sin indexar · 16 desconocida · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-13; URL Inspection API, datos ANTIGUOS del 2026-11-11: antiguos (2026-11-11): --sin-fetch):** 47 de 102 URLs del sitemap indexadas · 55 sin indexar (35 descubierta sin indexar · 16 desconocida · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 50 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-14).
 <!-- /tandas:auto -->
 
-## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))
+## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))  📨 ENVIADA 13/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
 
-## Tanda 52 — cambios del 2026-11-13 (§9 del blog-semanal 12/11: alergias, farmacia, walk-in, post DOT)
+## Tanda 52 — cambios del 2026-11-13 (§9 del blog-semanal 12/11: alergias, farmacia, walk-in, post DOT)  📨 ENVIADA 13/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-13
 - [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-13
