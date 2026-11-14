@@ -20,21 +20,21 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
 
-## Tanda 52 — cambios del 2026-11-13 (§9 del blog-semanal 12/11: alergias, farmacia, walk-in, post DOT)  📨 ENVIADA 14/11/2026
+## Tanda 52 — cambios del 2026-11-13 (§9 del blog-semanal 12/11: alergias, farmacia, walk-in, post DOT)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
 
-## Tanda 53 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+## Tanda 53 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Tanda 54
 
@@ -81,6 +81,8 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-10 | 1 | Tanda 48 |
 | 2026-11-12 | 6 | Tanda 49 |
 | 2026-11-12 | 2 | Tanda 51 |
+| 2026-11-14 | 8 | Tanda 52 |
+| 2026-11-14 | 2 | Tanda 53 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
