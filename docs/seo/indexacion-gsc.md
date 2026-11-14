@@ -31,6 +31,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
 - [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-13
 
+## Tanda 53 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.nuevasaludlawndale.com/es  — cambiada 2026-11-14
+
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
 ## Cómo retomar
