@@ -99,7 +99,7 @@ export function buildLlmsTxt(): string {
   lines.push("## Languages", "", "- Spanish (primary; all consultations available in Spanish)", "- English (also available)", "");
   lines.push("## Frequently Asked Questions", "");
   for (const { q, a } of faqPairs("en")) lines.push(`Q: ${q}`, `A: ${a}`, "");
-  lines.push("## Social Media", "", `- Facebook: ${SOCIAL_LINKS.facebook}`, `- Instagram: ${SOCIAL_LINKS.instagram}`, "");
+  lines.push("## Social Media", "", `- Facebook: ${SOCIAL_LINKS.facebook}`, `- Instagram: ${SOCIAL_LINKS.instagram}`, `- YouTube: ${SOCIAL_LINKS.youtube}`, "");
   lines.push("## Full descriptions", "", `${url("/llms-full.txt")}`, "");
   lines.push(`Last updated: ${lastUpdated()}`, "");
   return lines.join("\n");

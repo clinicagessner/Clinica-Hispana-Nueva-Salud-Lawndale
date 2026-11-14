@@ -16,6 +16,12 @@ const FacebookIcon = ({ className }: { className?: string }) => (
   </svg>
 );
 
+const YoutubeIcon = ({ className }: { className?: string }) => (
+  <svg viewBox="0 0 24 24" fill="currentColor" className={className} aria-hidden="true">
+    <path d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.5 3.55 12 3.55 12 3.55s-7.5 0-9.38.5A3.02 3.02 0 0 0 .5 6.19 31.6 31.6 0 0 0 0 12a31.6 31.6 0 0 0 .5 5.81 3.02 3.02 0 0 0 2.12 2.14c1.88.5 9.38.5 9.38.5s7.5 0 9.38-.5a3.02 3.02 0 0 0 2.12-2.14A31.6 31.6 0 0 0 24 12a31.6 31.6 0 0 0-.5-5.81zM9.55 15.57V8.43L15.82 12l-6.27 3.57z" />
+  </svg>
+);
+
 const InstagramIcon = ({ className }: { className?: string }) => (
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
     <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
@@ -84,6 +90,17 @@ export async function Footer() {
                   className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
                 >
                   <InstagramIcon className="size-4" />
+                </a>
+              )}
+              {SOCIAL_LINKS.youtube && (
+                <a
+                  href={SOCIAL_LINKS.youtube}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="YouTube de Clínica Hispana Nueva Salud Lawndale"
+                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
+                >
+                  <YoutubeIcon className="size-4" />
                 </a>
               )}
             </div>

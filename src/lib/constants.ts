@@ -47,6 +47,7 @@ export const CONTACT_INFO: ContactInfo = {
 export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/NuevaSaludLawndale",
   instagram: "https://www.instagram.com/nuevasaludlawndale/",
+  youtube: "https://www.youtube.com/@NuevaSaludLawndale",
 };
 
 // Datos de reviews de respaldo (fallback si Google Places API falla en build).
