@@ -16,14 +16,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 49 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-16).
 <!-- /tandas:auto -->
 
-## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))  📨 ENVIADA 15/11/2026
+## Tanda 50 — cambios del 2026-11-13 (devuelta de la Tanda 49 (error de GSC al pedirla el 12/11))  📨 ENVIADA 15/11/2026  ✅ PEDIDA 15/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
-- [ ] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
-- [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
-- [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
-- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-13
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
+- [x] https://www.nuevasaludlawndale.com/en/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
+- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-09-10 · rastreada 2026-10-20 · rastreada sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
+- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
+- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-09-27 · desconocida · pedida 2026-10-31 · 0 impr. (de la Tanda 54)
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -64,6 +64,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-12 | 2 | Tanda 51 |
 | 2026-11-14 | 8 | Tanda 52 |
 | 2026-11-14 | 2 | Tanda 53 |
+| 2026-11-15 | 6 | Tanda 50 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
