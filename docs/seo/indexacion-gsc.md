@@ -16,18 +16,26 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 54  📨 ENVIADA 16/11/2026
+## Tanda 55 — cambios del 2026-11-17 (cuota superada el 16/11)
 
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-11-15 · rastreada sin indexar · pedida 2026-10-19 · 123 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-10-15 · rastreada 2026-09-03 · rastreada sin indexar · pedida 2026-10-16 · 15 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-17
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-11-17
+- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-11-17
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-17
+- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-11-17
+
+## Tanda 54  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
+
+- [x] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-11-15 · rastreada sin indexar · pedida 2026-10-19 · 123 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-10-15 · rastreada 2026-09-03 · rastreada sin indexar · pedida 2026-10-16 · 15 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-09-27 · desconocida · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-02 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -69,6 +77,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-14 | 8 | Tanda 52 |
 | 2026-11-14 | 2 | Tanda 53 |
 | 2026-11-15 | 6 | Tanda 50 |
+| 2026-11-16 | 10 | Tanda 54 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
