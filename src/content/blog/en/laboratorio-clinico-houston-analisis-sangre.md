@@ -12,7 +12,6 @@ readTime: 5
 keywords:
   - "clinical laboratory Houston"
   - "blood test Houston"
-  - "same day lab results Houston"
   - "blood work Houston TX"
   - "affordable lab tests Houston"
 ---

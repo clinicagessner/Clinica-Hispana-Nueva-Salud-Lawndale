@@ -144,7 +144,7 @@ Muchas veces no dan síntomas hasta que hay daño. Los valores que usamos para e
 
 ## ¿Cuáles son las metas del tratamiento?
 
-Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80 y LDL por debajo de 100 mg/dL, o de 70 si ya tuviste un infarto o derrame. El médico ajusta las metas según tu edad y otras enfermedades.
+Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80 y LDL por debajo de 100 mg/dL, o de 70 si ya tuviste un infarto o derrame. El equipo médico ajusta las metas según tu edad y otras enfermedades.
 
 ## ¿Qué pasa si no me controlo?
 
@@ -175,7 +175,7 @@ They often cause no symptoms until damage is done. We use the diagnostic values 
 
 ## What are the treatment goals?
 
-For most adults: A1C below 7%, blood pressure below 130/80 and LDL below 100 mg/dL, or below 70 if you have already had a heart attack or stroke. The doctor adjusts the goals to your age and other conditions.
+For most adults: A1C below 7%, blood pressure below 130/80 and LDL below 100 mg/dL, or below 70 if you have already had a heart attack or stroke. The medical team adjusts the goals to your age and other conditions.
 
 ## What happens if I don't manage them?
 
@@ -683,7 +683,6 @@ ${AREAS_EN}`,
       "Women's clinic in Houston: gynecology with Pap smear, cultures, ultrasound and birth control. Free initial visit, walk-ins welcome, no insurance needed.",
     keywords: [
       "ginecologia houston",
-      "ginecologo houston español",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
@@ -693,7 +692,6 @@ ${AREAS_EN}`,
     ],
     keywordsEn: [
       "gynecology houston",
-      "gynecologist houston spanish",
       "pap smear houston",
       "vaginal culture houston",
       "vaginal infection treatment houston",
@@ -1259,7 +1257,7 @@ Ayuno de 8 a 12 horas para glucosa y lípidos; sin ejercicio intenso, ciclismo n
 
 ## ¿Cuándo llegan los resultados?
 
-Glucosa, lípidos y biometría salen rápido; PSA y perfil hormonal se procesan en laboratorio y tardan unos días. Te llamamos y el médico te explica cada valor.
+Glucosa, lípidos y biometría salen rápido; PSA y perfil hormonal se procesan en laboratorio y tardan unos días. Te llamamos y el equipo médico te explica cada valor.
 
 ## ¿Cuánto cuesta el chequeo del hombre?
 
@@ -1307,7 +1305,7 @@ Fast 8 to 12 hours for glucose and lipids; no intense exercise, cycling or ejacu
 
 ## When are results ready?
 
-Glucose, lipids and CBC come back quickly; PSA and the hormone panel are processed at the lab and take a few days. We call you and the doctor explains each value.
+Glucose, lipids and CBC come back quickly; PSA and the hormone panel are processed at the lab and take a few days. We call you and the medical team explains each value.
 
 ## How much does the men's checkup cost?
 
@@ -1374,11 +1372,11 @@ ${AREAS_EN}`,
 - **Perfil tiroideo:** TSH, T3 y T4.
 - **Otros:** vitamina B12, vitamina D, ácido úrico, PSA, hormonas, embarazo, ETS y tuberculosis en sangre.
 
-Si no sabes qué análisis necesitas, el médico te orienta en la misma visita según tus síntomas y tu edad.
+Si no sabes qué análisis necesitas, el equipo médico te orienta en la misma visita según tus síntomas y tu edad.
 
 ## ¿Tengo que venir en ayunas?
 
-Sí para glucosa, perfil de lípidos y química completa: entre 8 y 12 horas sin comer, solo agua. Para biometría, tiroides, A1C, B12 o PSA no necesitas ayuno. Si tomas medicamentos, tómalos con agua salvo que el médico indique lo contrario.
+Sí para glucosa, perfil de lípidos y química completa: entre 8 y 12 horas sin comer, solo agua. Para biometría, tiroides, A1C, B12 o PSA no necesitas ayuno. Si tomas medicamentos, tómalos con agua salvo que el equipo médico indique lo contrario.
 
 ## ¿Cuándo llegan los resultados?
 
@@ -1408,11 +1406,11 @@ ${AREAS_ES}`,
 - **Thyroid panel:** TSH, T3 and T4.
 - **Others:** vitamin B12, vitamin D, uric acid, PSA, hormones, pregnancy, STDs and TB blood test.
 
-If you don't know which test you need, the doctor guides you at the same visit based on your symptoms and age.
+If you don't know which test you need, the medical team guides you at the same visit based on your symptoms and age.
 
 ## Do I need to fast?
 
-Yes for glucose, lipid panel and full metabolic panel: 8 to 12 hours without food, water only. For CBC, thyroid, A1C, B12 or PSA no fasting is needed. If you take medications, take them with water unless the doctor says otherwise.
+Yes for glucose, lipid panel and full metabolic panel: 8 to 12 hours without food, water only. For CBC, thyroid, A1C, B12 or PSA no fasting is needed. If you take medications, take them with water unless the medical team says otherwise.
 
 ## When are results ready?
 
@@ -1824,7 +1822,7 @@ ${AREAS_EN}`,
 ## ¿PPD o prueba en sangre?
 
 - **PPD (prueba cutánea):** se inyecta una pequeña cantidad de tuberculina bajo la piel del antebrazo y debes volver entre 48 y 72 horas para la lectura. Es la más solicitada por empleadores y escuelas por su menor costo.
-- **IGRA (QuantiFERON o T-SPOT):** análisis de sangre con resultado en unos días, sin segunda visita. Es la prueba que exige USCIS para el examen de inmigración I-693 y la recomendada si recibiste la vacuna BCG de niño, porque la BCG puede dar falso positivo en la PPD.
+- **IGRA (QuantiFERON o T-SPOT):** análisis de sangre, sin segunda visita; te avisamos cuando esté el resultado. Es la prueba que exige USCIS para el examen de inmigración I-693 y la recomendada si recibiste la vacuna BCG de niño, porque la BCG puede dar falso positivo en la PPD.
 
 ## ¿Qué significa el resultado?
 
@@ -1856,7 +1854,7 @@ ${AREAS_ES}`,
 ## PPD or blood test?
 
 - **PPD (skin test):** a small amount of tuberculin is injected under the skin of the forearm and you must return within 48 to 72 hours for the reading. It is the one most employers and schools request because of its lower cost.
-- **IGRA (QuantiFERON or T-SPOT):** blood test with results in a few days, no second visit. It is the test USCIS requires for the I-693 immigration exam and the recommended one if you received the BCG vaccine as a child, because BCG can cause a false positive on the PPD.
+- **IGRA (QuantiFERON or T-SPOT):** blood test, no second visit; we let you know when the result is ready. It is the test USCIS requires for the I-693 immigration exam and the recommended one if you received the BCG vaccine as a child, because BCG can cause a false positive on the PPD.
 
 ## What does the result mean?
 
@@ -1954,7 +1952,7 @@ Ten en cuenta el periodo de ventana: el VIH se detecta con confianza a partir de
 
 ## ¿Cuál es el tratamiento?
 
-Gonorrea, clamidia, sífilis y tricomonas se curan con antibióticos, que recetamos el mismo día del resultado. Herpes y VIH no se curan, pero se controlan con medicamentos; para VIH te referimos a un programa de tratamiento en Houston, muchos gratuitos. Tu pareja también debe tratarse para evitar reinfección.
+Gonorrea, clamidia, sífilis y tricomonas se curan con antibióticos, que recetamos en cuanto tenemos el resultado. Herpes y VIH no se curan, pero se controlan con medicamentos; para VIH te referimos a un programa de tratamiento en Houston, muchos gratuitos. Tu pareja también debe tratarse para evitar reinfección.
 
 ## ¿Qué pasa con mi privacidad?
 
@@ -1996,7 +1994,7 @@ Keep the window period in mind: HIV is reliably detected from 2 to 4 weeks with 
 
 ## What is the treatment?
 
-Gonorrhea, chlamydia, syphilis and trichomonas are cured with antibiotics, which we prescribe the same day as the result. Herpes and HIV are not cured but are controlled with medication; for HIV we refer you to a treatment program in Houston, many of them free. Your partner must also be treated to avoid reinfection.
+Gonorrhea, chlamydia, syphilis and trichomonas are cured with antibiotics, which we prescribe as soon as we have the result. Herpes and HIV are not cured but are controlled with medication; for HIV we refer you to a treatment program in Houston, many of them free. Your partner must also be treated to avoid reinfection.
 
 ## What about my privacy?
 
@@ -2055,7 +2053,7 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `**Pruebas de drogas en orina de 5, 10 o 12 sustancias y prueba de alcohol, para empleo, DOT, escuela, custodia o control personal, con resultado rápido en minutos.** En Clínica Hispana Nueva Salud Lawndale las hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, con documentación del resultado.
+    longDescription: `**Pruebas de drogas en orina de 5, 10 o 12 sustancias y prueba de alcohol, para empleo, DOT, escuela, custodia o control personal, con resultado rápido.** En Clínica Hispana Nueva Salud Lawndale las hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, con documentación del resultado.
 
 ## ¿Qué tipos de prueba hacemos?
 
@@ -2070,7 +2068,7 @@ El resultado rápido en orina está en 10 a 15 minutos. Si sale positivo y se re
 
 1. Presenta tu identificación con foto y el formulario del empleador, si lo hay.
 2. Entregas la muestra de orina en un baño preparado; para cadena de custodia se sella el frasco frente a ti.
-3. Resultado rápido en minutos y documento firmado con fecha, hora y sustancias analizadas.
+3. Resultado rápido y documento firmado con fecha, hora y sustancias analizadas.
 4. Enviamos el resultado al empleador solo si tú lo autorizas por escrito.
 
 ## ¿Cuánto tiempo se detectan las sustancias?
@@ -2090,7 +2088,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**5-, 10- or 12-panel urine drug tests and alcohol testing for employment, DOT, school, custody or personal monitoring, with rapid results in minutes.** At Clínica Hispana Nueva Salud Lawndale we do them without an appointment, Monday to Sunday from 9 AM to 9 PM, with documented results.
+    longDescriptionEn: `**5-, 10- or 12-panel urine drug tests and alcohol testing for employment, DOT, school, custody or personal monitoring, with rapid results.** At Clínica Hispana Nueva Salud Lawndale we do them without an appointment, Monday to Sunday from 9 AM to 9 PM, with documented results.
 
 ## Which tests do we offer?
 
@@ -2105,7 +2103,7 @@ The rapid urine result is ready in 10 to 15 minutes. If it is positive and offic
 
 1. Show your photo ID and the employer's form, if any.
 2. Provide the urine sample in a prepared restroom; for chain of custody the cup is sealed in front of you.
-3. Rapid result in minutes and a signed document with date, time and substances tested.
+3. Rapid result and a signed document with date, time and substances tested.
 4. We send the result to the employer only with your written authorization.
 
 ## How long are substances detectable?
@@ -2169,7 +2167,7 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `**El electrocardiograma (EKG) registra la actividad eléctrica del corazón en 5 minutos, sin dolor, y el médico lo interpreta en la misma visita.** En Clínica Hispana Nueva Salud Lawndale lo hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
+    longDescription: `**El electrocardiograma (EKG) registra la actividad eléctrica del corazón en 5 minutos, sin dolor, y el equipo médico lo interpreta en la misma visita.** En Clínica Hispana Nueva Salud Lawndale lo hacemos sin cita, de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
 ## ¿Cuándo se necesita un electrocardiograma?
 
@@ -2189,7 +2187,7 @@ Arritmias como la fibrilación auricular, signos de infarto reciente o antiguo, 
 
 1. Te recuestas y se colocan 10 electrodos adhesivos en el pecho, brazos y piernas.
 2. El registro dura menos de un minuto; el proceso completo unos 5 minutos.
-3. El médico lee el trazado en la misma consulta y te entrega una copia impresa.
+3. El equipo médico lee el trazado en la misma consulta y te entrega una copia impresa.
 
 No necesitas ayuno. Evita cremas en el pecho ese día y trae la lista de tus medicamentos.
 
@@ -2202,7 +2200,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**An electrocardiogram (EKG) records the heart's electrical activity in 5 minutes, painlessly, and the doctor interprets it at the same visit.** At Clínica Hispana Nueva Salud Lawndale we do it without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
+    longDescriptionEn: `**An electrocardiogram (EKG) records the heart's electrical activity in 5 minutes, painlessly, and the medical team interprets it at the same visit.** At Clínica Hispana Nueva Salud Lawndale we do it without an appointment, Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
 ## When is an EKG needed?
 
@@ -2222,7 +2220,7 @@ Arrhythmias such as atrial fibrillation, signs of a recent or old heart attack, 
 
 1. You lie down and 10 adhesive electrodes are placed on the chest, arms and legs.
 2. The recording takes under a minute; the whole process about 5 minutes.
-3. The doctor reads the tracing at the same visit and gives you a printed copy.
+3. The medical team reads the tracing at the same visit and gives you a printed copy.
 
 No fasting needed. Avoid lotions on the chest that day and bring your list of medications.
 
@@ -2302,7 +2300,7 @@ Trae tu identificación y, si tienes, estudios previos para comparar.
 
 ## ¿Cuánto tarda y cuándo tengo el resultado?
 
-El estudio dura entre 15 y 30 minutos. El informe con las imágenes se entrega en cuanto el médico lo revisa, y te explica los hallazgos en consulta. Si algo requiere seguimiento, te indicamos el siguiente paso o te referimos al especialista.
+El estudio dura entre 15 y 30 minutos. El informe con las imágenes se entrega en cuanto el equipo médico lo revisa, y te explica los hallazgos en consulta. Si algo requiere seguimiento, te indicamos el siguiente paso o te referimos al especialista.
 
 ## ¿Es seguro el ultrasonido?
 
@@ -2340,7 +2338,7 @@ Bring your ID and, if you have them, previous studies for comparison.
 
 ## How long does it take and when do I get the result?
 
-The study takes 15 to 30 minutes. The report with images is delivered as soon as the doctor reviews it, and the findings are explained at a visit. If something needs follow-up, we tell you the next step or refer you to a specialist.
+The study takes 15 to 30 minutes. The report with images is delivered as soon as the medical team reviews it, and the findings are explained at a visit. If something needs follow-up, we tell you the next step or refer you to a specialist.
 
 ## Is ultrasound safe?
 
@@ -2400,7 +2398,7 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `**El examen físico DOT es el chequeo médico que exige la FMCSA (Administración Federal de Seguridad de Autotransportes) para conducir un vehículo comercial en Estados Unidos.** En Clínica Hispana Nueva Salud Lawndale lo realiza un examinador médico certificado e inscrito en el Registro Nacional de la FMCSA (NRCME); pide su número de registro en recepción para verificarlo. Sales con tu certificado médico (formulario MCSA-5876) el mismo día, sin cita y en español.
+    longDescription: `**El examen físico DOT es el chequeo médico que exige la FMCSA (Administración Federal de Seguridad de Autotransportes) para conducir un vehículo comercial en Estados Unidos.** En Clínica Hispana Nueva Salud Lawndale lo realiza nuestro equipo médico. Sales con tu certificado médico (formulario MCSA-5876) el mismo día, sin cita y en español.
 
 ## ¿Quién necesita el examen DOT?
 
@@ -2429,7 +2427,7 @@ El examen DOT incluye el examen completo, el análisis de orina y el certificado
 
 ## ¿Cuánto dura el certificado médico DOT?
 
-Hasta 2 años. Con presión alta controlada o diabetes sin insulina suele ser de 1 año. Renueva con al menos 2 semanas de anticipación para no quedarte sin poder trabajar. Desde el 23 de junio de 2025 los examinadores certificados envían el resultado por vía electrónica al Registro Nacional de la FMCSA, que lo transmite al Texas DPS, así que en la mayoría de los casos ya no tienes que entregar la tarjeta en papel.
+Hasta 2 años. Con presión alta controlada o diabetes sin insulina suele ser de 1 año. Renueva con al menos 2 semanas de anticipación para no quedarte sin poder trabajar.
 
 ## ¿Qué pasa si no paso el examen?
 
@@ -2440,7 +2438,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**The DOT physical is the medical exam required by the FMCSA (Federal Motor Carrier Safety Administration) to drive a commercial vehicle in the United States.** At Clínica Hispana Nueva Salud Lawndale it is performed by a certified medical examiner listed on the FMCSA National Registry (NRCME); ask at the front desk for the registry number to verify it. You leave with your Medical Examiner's Certificate (form MCSA-5876) the same day, no appointment needed, in Spanish or English.
+    longDescriptionEn: `**The DOT physical is the medical exam required by the FMCSA (Federal Motor Carrier Safety Administration) to drive a commercial vehicle in the United States.** At Clínica Hispana Nueva Salud Lawndale it is performed by our medical team. You leave with your Medical Examiner's Certificate (form MCSA-5876) the same day, no appointment needed, in Spanish or English.
 
 ## Who needs a DOT physical?
 
@@ -2469,7 +2467,7 @@ The DOT physical includes the full exam, the urinalysis and the MCSA-5876 certif
 
 ## How long is the DOT medical certificate valid?
 
-Up to 2 years. With controlled high blood pressure or non-insulin diabetes it is usually 1 year. Renew at least 2 weeks before it expires so you don't lose work days. Since June 23, 2025, certified examiners submit results electronically to the FMCSA National Registry, which forwards them to Texas DPS, so in most cases you no longer need to hand in the paper card.
+Up to 2 years. With controlled high blood pressure or non-insulin diabetes it is usually 1 year. Renew at least 2 weeks before it expires so you don't lose work days.
 
 ## What if I don't pass?
 
@@ -2538,7 +2536,7 @@ Toda persona que solicita la residencia permanente (Green Card) desde dentro de 
 4. **Revisión de vacunas** según tu edad: MMR, Tdap, varicela, hepatitis B, influenza en temporada y otras que apliquen. Aplicamos las que falten en la misma visita.
 5. **Llenado y firma del Formulario I-693** (edición 01/20/2025) y entrega en sobre sellado.
 
-El examen toma entre 1 y 2 horas. La prueba de tuberculosis se procesa en laboratorio y tarda unos días, por lo que el sobre se entrega cuando llega ese resultado.
+El examen toma entre 1 y 2 horas. La prueba de tuberculosis se procesa en laboratorio, así que el sobre se entrega cuando llega ese resultado; te avisamos en cuanto esté listo.
 
 ## ¿Qué debo traer?
 
@@ -2574,7 +2572,7 @@ Anyone applying for permanent residence (Green Card) from inside the United Stat
 4. **Vaccine review** by age: MMR, Tdap, varicella, hepatitis B, seasonal flu and others that apply. We give any missing ones at the same visit.
 5. **Completion and signature of Form I-693** (01/20/2025 edition) delivered in a sealed envelope.
 
-The exam takes 1 to 2 hours. The TB test is processed at the lab and takes a few days, so the envelope is delivered when that result arrives.
+The exam takes 1 to 2 hours. The TB test is processed at the lab, so the envelope is delivered when that result arrives; we let you know as soon as it is ready.
 
 ## What should I bring?
 
@@ -2771,7 +2769,7 @@ No lo aplicamos, o lo ajustamos, si tienes insuficiencia cardiaca, enfermedad re
 ## ¿Cómo es la visita?
 
 1. Llegas sin cita y te registras con una identificación.
-2. El médico revisa tus síntomas, tus medicamentos y tus signos vitales.
+2. El equipo médico revisa tus síntomas, tus medicamentos y tus signos vitales.
 3. Se coloca una vía en el brazo y la infusión dura entre 30 y 60 minutos en un sillón cómodo.
 4. Sales el mismo día y puedes conducir; te recomendamos tomar agua el resto del día.
 
@@ -2803,7 +2801,7 @@ We do not give it, or we adjust it, if you have heart failure, kidney disease, u
 ## What is the visit like?
 
 1. Walk in without an appointment and check in with an ID.
-2. The doctor reviews your symptoms, medications and vital signs.
+2. The medical team reviews your symptoms, medications and vital signs.
 3. An IV line is placed in your arm and the infusion takes 30 to 60 minutes in a comfortable chair.
 4. You leave the same day and can drive; we recommend drinking water for the rest of the day.
 
@@ -3109,7 +3107,7 @@ No hacemos procedimientos que requieran anestesia general ni lesiones en la cara
 
 ## ¿Cómo es la visita?
 
-1. El médico revisa la lesión, su tamaño y su ubicación, y decide si se puede retirar en clínica.
+1. El equipo médico revisa la lesión, su tamaño y su ubicación, y decide si se puede retirar en clínica.
 2. Se limpia la zona y se aplica anestesia local; solo sientes el piquete inicial.
 3. Se retira la lesión y, si hace falta, se cierra con puntos.
 4. Recibes indicaciones por escrito y la fecha para retirar los puntos, normalmente entre 7 y 14 días.
@@ -3144,7 +3142,7 @@ We do not perform procedures that require general anesthesia or facial lesions t
 
 ## What is the visit like?
 
-1. The doctor examines the lesion, its size and location, and decides whether it can be removed in clinic.
+1. The medical team examines the lesion, its size and location, and decides whether it can be removed in clinic.
 2. The area is cleaned and local anesthesia is applied; you only feel the initial pinch.
 3. The lesion is removed and, if needed, closed with stitches.
 4. You receive written instructions and the date to remove the stitches, usually 7 to 14 days later.
@@ -3210,7 +3208,7 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `**Drenamos abscesos de la piel (nacidos, forúnculos, quistes infectados) con anestesia local en una visita de 20 a 30 minutos, sin cita, y sales con el dolor aliviado.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
+    longDescription: `**Drenamos abscesos de la piel (nacidos, forúnculos, quistes infectados) con anestesia local en una visita de 20 a 30 minutos, sin cita, y te explicamos los cuidados para tu casa.** En Clínica Hispana Nueva Salud Lawndale atendemos de lunes a domingo de 9 AM a 9 PM, en español y sin seguro.
 
 ## ¿Cómo sé si es un absceso?
 
@@ -3245,7 +3243,7 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**We drain skin abscesses (boils, infected cysts) under local anesthesia in a 20 to 30 minute walk-in visit, and you leave with the pain relieved.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
+    longDescriptionEn: `**We drain skin abscesses (boils, infected cysts) under local anesthesia in a 20 to 30 minute walk-in visit, and we explain how to care for it at home.** At Clínica Hispana Nueva Salud Lawndale we see you Monday to Sunday from 9 AM to 9 PM, in Spanish or English and without insurance.
 
 ## How do I know it's an abscess?
 
@@ -3440,11 +3438,11 @@ ${AREAS_EN}`,
       "Dose and schedule explained in Spanish",
       "No paper prescription to misplace",
     ],
-    longDescription: `**Al terminar tu consulta, el médico envía tu receta de forma electrónica a la farmacia que prefieras, cerca de tu casa o de tu trabajo, y la recoges cuando te quede mejor.** En Clínica Hispana Nueva Salud Lawndale no tenemos farmacia propia ni vendemos medicamentos; atendemos de lunes a domingo de 9 AM a 9 PM.
+    longDescription: `**Al terminar tu consulta, el equipo médico envía tu receta de forma electrónica a la farmacia que prefieras, cerca de tu casa o de tu trabajo, y la recoges cuando te quede mejor.** En Clínica Hispana Nueva Salud Lawndale no tenemos farmacia propia ni vendemos medicamentos; atendemos de lunes a domingo de 9 AM a 9 PM.
 
 ## ¿Cómo funciona la receta electrónica?
 
-1. El médico te revisa, define el tratamiento y te explica la dosis, el horario y las precauciones en tu idioma.
+1. El equipo médico te revisa, define el tratamiento y te explica la dosis, el horario y las precauciones en tu idioma.
 2. Nos dices a qué farmacia quieres que llegue: basta con el nombre y la dirección o el teléfono de la sucursal.
 3. La receta se envía de forma electrónica directamente a esa farmacia.
 4. Pasas por ella cuando te acomode; si quieres asegurarte de que ya la recibieron, llama a la farmacia antes de ir.
@@ -3456,7 +3454,7 @@ Nadie tiene que descifrar la letra, la receta no se pierde en la bolsa y no tien
 ## ¿Qué recetas enviamos?
 
 - Las que indica nuestro equipo médico en tu consulta: antibióticos, antiinflamatorios, tratamientos para presión, diabetes y colesterol, antialérgicos y medicamentos para infecciones comunes.
-- Recetas de seguimiento de tus tratamientos crónicos, que se renuevan en tu control con el médico.
+- Recetas de seguimiento de tus tratamientos crónicos, que se renuevan en tu control con el equipo médico.
 - Siempre que existe, te indicamos la opción genérica, que suele ser la más económica.
 
 No enviamos recetas de medicamentos controlados.
@@ -3470,11 +3468,11 @@ ${WHY_ES}
 ${PAYMENT_ES}
 
 ${AREAS_ES}`,
-    longDescriptionEn: `**After your visit, the doctor sends your prescription electronically to the pharmacy you choose, near home or work, so you can pick it up whenever it suits you.** Clínica Hispana Nueva Salud Lawndale does not have its own pharmacy or sell medication; we are open Monday to Sunday from 9 AM to 9 PM.
+    longDescriptionEn: `**After your visit, the medical team sends your prescription electronically to the pharmacy you choose, near home or work, so you can pick it up whenever it suits you.** Clínica Hispana Nueva Salud Lawndale does not have its own pharmacy or sell medication; we are open Monday to Sunday from 9 AM to 9 PM.
 
 ## How does an e-prescription work?
 
-1. The doctor examines you, decides on the treatment and explains the dose, schedule and precautions in your language.
+1. The medical team examines you, decides on the treatment and explains the dose, schedule and precautions in your language.
 2. You tell us which pharmacy it should go to: the branch name and its address or phone number are enough.
 3. The prescription is sent electronically straight to that pharmacy.
 4. You stop by whenever it fits your day; if you want to be sure they received it, call the pharmacy before you go.
@@ -3486,7 +3484,7 @@ No one has to read handwriting, the prescription can't get lost in your bag, and
 ## Which prescriptions do we send?
 
 - The ones our medical team orders at your visit: antibiotics, anti-inflammatories, treatments for blood pressure, diabetes and cholesterol, antihistamines and medication for common infections.
-- Follow-up prescriptions for your chronic treatments, renewed at your check-up with the doctor.
+- Follow-up prescriptions for your chronic treatments, renewed at your check-up with the medical team.
 - Whenever one exists, we point you to the generic option, which is usually the most affordable.
 
 We do not send prescriptions for controlled substances.

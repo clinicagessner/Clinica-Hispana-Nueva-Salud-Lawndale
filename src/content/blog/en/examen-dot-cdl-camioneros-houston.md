@@ -20,7 +20,7 @@ keywords:
 
 # DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know
 
-If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Nueva Salud Lawndale, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
+If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Nueva Salud Lawndale, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and, if everything checks out, your certificate the same day.
 
 ## What Is a DOT Physical Exam?
 
@@ -128,7 +128,7 @@ At Clínica Hispana Nueva Salud Lawndale, we offer the DOT physical at **afforda
 
 ## What If I Don't Pass the Exam?
 
-If the doctor determines you don't meet the requirements at the time of the exam, you have options:
+If the medical team determines you don't meet the requirements at the time of the exam, you have options:
 
 - **High blood pressure:** You may receive a temporary certificate while starting treatment. Return when your pressure is controlled.
 - **Vision problems:** Get prescription glasses and return for re-evaluation.
@@ -143,9 +143,9 @@ At Clínica Hispana Nueva Salud Lawndale, **we never turn you away without expla
 The entire process — from check-in to receiving your certificate — is in Spanish. No translator needed.
 
 ### No Appointment Needed
-Come when it's convenient. We're open **Monday through Saturday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
+Come when it's convenient. We're open **Monday through Sunday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
 
-### Same-Day Results
+### Same-Day Certificate
 Leave our clinic with your **DOT medical certificate and medical card** in hand. See full details on our [DOT physical exam for CDL license](/services/examen-dot) page. No waiting days or coming back for another visit.
 
 ### Affordable Prices
@@ -166,10 +166,10 @@ We understand the specific needs of Houston's Hispanic trucking community. Many 
 **Yes**, if your diabetes is controlled with diet, exercise, or oral medications (no insulin). If you use insulin, you need a special FMCSA exemption.
 
 ### What if my blood pressure is high on exam day?
-If slightly elevated, the doctor may issue a 1-year certificate instead of 2. If very high, we'll recommend treatment and you can return when it's controlled.
+If slightly elevated, the medical team may issue a 1-year certificate instead of 2. If very high, we'll recommend treatment and you can return when it's controlled.
 
 ### Do I need an appointment?
-**No.** We accept walk-ins Monday through Saturday, 9 AM to 9 PM.
+**No.** We accept walk-ins Monday through Sunday, 9 AM to 9 PM.
 
 ### How long does the exam take?
 Approximately **30-45 minutes**. You leave with your certificate the same day.

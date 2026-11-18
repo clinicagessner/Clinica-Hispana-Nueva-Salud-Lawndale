@@ -81,7 +81,7 @@ const COPY = {
       {
         question: "¿En qué idioma me atenderán?",
         answer:
-          "Toda nuestra atención es 100% en español. También atendemos en inglés si lo prefiere. El personal y los médicos son bilingües.",
+          "Toda nuestra atención es 100% en español. También atendemos en inglés si lo prefiere. El personal y el equipo médico son bilingües.",
       },
       {
         question: "¿Atienden niños sin cita?",

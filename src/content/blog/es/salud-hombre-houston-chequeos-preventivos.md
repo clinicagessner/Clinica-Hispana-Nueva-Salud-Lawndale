@@ -83,7 +83,7 @@ Muchas ITS no producen síntomas en los hombres, pero se transmiten y causan da�
 |------|----------------------|
 | 18-39 | Presión arterial cada año; colesterol cada 4-6 años; glucosa si hay sobrepeso o antecedentes familiares; pruebas de ITS si es sexualmente activo |
 | 40-49 | Todo lo anterior + glucosa cada 3 años; PSA si hay antecedentes familiares de cáncer de próstata; revisión de testosterona si hay síntomas |
-| 50-64 | Chequeo anual completo; PSA (conversar con el médico); electrocardiograma si hay factores de riesgo cardiovascular |
+| 50-64 | Chequeo anual completo; PSA (conversar con el equipo médico); electrocardiograma si hay factores de riesgo cardiovascular |
 | 65+ | Chequeo anual completo; PSA según indicación médica; evaluación cardiovascular y de función renal |
 
 Esta tabla es una guía general. En su visita, nuestro equipo médico ajusta los exámenes a su historial personal y familiar.

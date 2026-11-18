@@ -13,7 +13,6 @@ keywords:
   - "doctor without insurance Houston"
   - "affordable healthcare Houston"
   - "no insurance clinic Houston"
-  - "cheap doctor Houston TX"
   - "uninsured medical care Houston"
 ---
 
@@ -167,10 +166,6 @@ The Houston Independent School District (HISD) and other area districts have nur
 - Vision and hearing exams
 - Vaccines required for school enrollment
 - First aid and follow-up for chronic conditions such as asthma
-
-### Free Vaccines for Children
-
-The federal **Vaccines for Children (VFC)** program guarantees that all children under 19 receive the national vaccine schedule at no cost if they are uninsured or if their insurance does not cover vaccines. Clínica Hispana Nueva Salud Lawndale participates in this program.
 
 ### When to Take Your Child to the Doctor
 

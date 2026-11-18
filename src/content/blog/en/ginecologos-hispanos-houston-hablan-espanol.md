@@ -29,7 +29,7 @@ In this guide we explain how to look for a Spanish-speaking gynecologist in Hous
 Gynecology care involves intimate and sometimes complicated topics: symptoms that are hard to describe, decisions about family planning, anxiety before a Pap smear. When the conversation is in your language, several things improve at the same time:
 
 - **Symptom accuracy:** you describe exactly what you feel, without translating.
-- **Understanding instructions:** you grasp what the doctor needs you to do before and after any test.
+- **Understanding instructions:** you grasp what the medical team needs you to do before and after any test.
 - **Confidence to ask:** you ask the questions that really matter to you.
 - **Comfort during sensitive exams:** the pelvic or breast exam requires relaxation and cooperation.
 - **Care continuity:** you follow recommendations because you understood them well.
@@ -135,7 +135,7 @@ Yes, we treat patients ages 18 and over (or teenagers accompanied by their mothe
 No. We do not work with insurance; we offer affordable self-pay pricing, no insurance needed.
 
 **How long does a Pap smear consultation take?**
-The full consultation with Pap smear takes 20 to 30 minutes. Results are delivered in 5-7 business days.
+The full consultation with Pap smear takes 20 to 30 minutes. We let you know as soon as the results are ready.
 
 ---
 

@@ -13,7 +13,6 @@ keywords:
   - "médico sin seguro Houston"
   - "clínica sin seguro Houston TX"
   - "atención médica accesible Houston"
-  - "doctor barato Houston"
   - "healthcare no insurance Houston"
 ---
 
@@ -167,10 +166,6 @@ El Distrito Escolar Independiente de Houston (HISD) y otros distritos del área 
 - Exámenes de visión y audición
 - Vacunas requeridas para la inscripción escolar
 - Primeros auxilios y seguimiento de condiciones crónicas como el asma
-
-### Vacunas Gratuitas para Niños
-
-El programa federal **Vaccines for Children (VFC)** garantiza que todos los niños menores de 19 años reciban las vacunas del esquema nacional sin costo si no tienen seguro o si su seguro no las cubre. En Clínica Hispana Nueva Salud Lawndale participamos en este programa.
 
 ### Cuándo Llevar a su Hijo al Médico
 

@@ -29,7 +29,7 @@ En esta guía le explicamos cómo buscar un ginecólogo en Houston que hable esp
 La atención ginecológica involucra temas íntimos y a veces complicados: síntomas que cuesta describir, decisiones sobre planificación familiar, ansiedad antes de un Papanicolaou. Cuando la conversación es en su idioma, varias cosas mejoran al mismo tiempo:
 
 - **Precisión de síntomas:** describe exactamente lo que siente, sin traducir.
-- **Comprensión de instrucciones:** entiende lo que el médico le pide antes y después de cualquier estudio.
+- **Comprensión de instrucciones:** entiende lo que el equipo médico le pide antes y después de cualquier estudio.
 - **Confianza para preguntar:** hace las preguntas que verdaderamente le importan.
 - **Comodidad en exámenes sensibles:** el examen pélvico o de seno requiere relajación y cooperación.
 - **Continuidad del cuidado:** sigue las indicaciones porque las entendió bien.
@@ -135,7 +135,7 @@ Sí, atendemos pacientes desde los 18 años (o adolescentes acompañadas de su m
 No. No trabajamos con seguros; ofrecemos precios accesibles de pago directo, sin necesidad de seguro.
 
 **¿Cuánto tiempo dura una consulta de Papanicolaou?**
-La consulta completa con Papanicolaou toma entre 20 y 30 minutos. Los resultados se entregan en 5-7 días hábiles.
+La consulta completa con Papanicolaou toma entre 20 y 30 minutos. Te avisamos en cuanto estén los resultados.
 
 ---
 

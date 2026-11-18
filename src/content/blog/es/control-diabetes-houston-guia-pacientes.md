@@ -135,7 +135,7 @@ Adaptar la dieta a los gustos de la cocina hispana es posible sin sacrificar el 
 - Brócoli o calabacitas salteadas con ajo
 - Agua con limón sin azúcar
 
-Este es solo un ejemplo. Nuestros médicos en Houston pueden orientarle en un plan de alimentación personalizado que tome en cuenta sus preferencias, costumbres y condición médica específica.
+Este es solo un ejemplo. Nuestro equipo médico en Houston pueden orientarle en un plan de alimentación personalizado que tome en cuenta sus preferencias, costumbres y condición médica específica.
 
 ## Ejercicio y Diabetes
 

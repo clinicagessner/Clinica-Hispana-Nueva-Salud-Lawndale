@@ -20,7 +20,7 @@ keywords:
 
 # Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber
 
-Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Nueva Salud Lawndale realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
+Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Nueva Salud Lawndale realizamos este examen con atención **100% en español**, sin cita previa y, si todo está en orden, con su certificado el mismo día.
 
 ## ¿Qué es el Examen DOT?
 
@@ -128,12 +128,12 @@ En Clínica Hispana Nueva Salud Lawndale ofrecemos el examen DOT a **precios acc
 
 ## ¿Qué Pasa si No Paso el Examen?
 
-Si el médico determina que usted no cumple con los requisitos en el momento del examen, tiene opciones:
+Si el equipo médico determina que usted no cumple con los requisitos en el momento del examen, tiene opciones:
 
 - **Presión alta:** Puede recibir un certificado temporal mientras comienza tratamiento. Regrese cuando su presión esté controlada.
 - **Problemas de visión:** Obtenga lentes recetados y regrese para una re-evaluación.
 - **Diabetes con insulina:** Solicite la exención especial del FMCSA con la ayuda de su endocrinólogo.
-- **Otras condiciones:** El médico le explicará exactamente qué necesita para poder certificarse.
+- **Otras condiciones:** El equipo médico le explicará exactamente qué necesita para poder certificarse.
 
 En Clínica Hispana Nueva Salud Lawndale **nunca le rechazamos sin explicarle qué hacer**. Le damos un plan claro para resolver cualquier situación y poder obtener su certificado.
 
@@ -145,7 +145,7 @@ Todo el proceso — desde el registro hasta la entrega de su certificado — es 
 ### Sin Cita Previa
 Venga cuando le convenga. Atendemos de **lunes a domingo de 9:00 AM a 9:00 PM**. Esto es especialmente útil para camioneros con horarios irregulares.
 
-### Resultados el Mismo Día
+### Certificado el Mismo Día
 Sale de nuestra clínica con su **certificado médico DOT y tarjeta médica** en mano. Vea todos los detalles en nuestra página del [examen físico DOT para licencia CDL](/services/examen-dot). No tiene que esperar días ni volver otra cita.
 
 ### Precios Accesibles
@@ -166,7 +166,7 @@ Entendemos las necesidades específicas de la comunidad de camioneros hispanos e
 **Sí**, si su diabetes está controlada con dieta, ejercicio o medicamentos orales (sin insulina). Si usa insulina, necesita una exención especial del FMCSA.
 
 ### ¿Qué pasa si mi presión está alta el día del examen?
-Si está ligeramente elevada, el médico puede emitir un certificado por 1 año en lugar de 2. Si está muy alta, le recomendaremos tratamiento y podrá regresar cuando esté controlada.
+Si está ligeramente elevada, el equipo médico puede emitir un certificado por 1 año en lugar de 2. Si está muy alta, le recomendaremos tratamiento y podrá regresar cuando esté controlada.
 
 ### ¿Necesito cita previa?
 **No.** Atendemos sin cita previa, de lunes a domingo de 9:00 AM a 9:00 PM.

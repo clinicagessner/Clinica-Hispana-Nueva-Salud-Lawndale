@@ -26,7 +26,7 @@ If you choose a doctor who is not on the official USCIS list, your application w
 
 ## What is a Civil Surgeon?
 
-A Civil Surgeon is a doctor who has been designated by **U.S. Citizenship and Immigration Services (USCIS)** to perform immigration medical exams within the United States. The designation is not automatic: the doctor must meet specific USCIS requirements, maintain current certification, and be audited periodically.
+A Civil Surgeon is a doctor who has been designated by **U.S. Citizenship and Immigration Services (USCIS)** to perform immigration medical exams within the United States. The designation is not automatic: the physician must meet specific USCIS requirements, maintain current certification, and be audited periodically.
 
 Only a Civil Surgeon can:
 
@@ -67,7 +67,7 @@ The page will show a list of active Civil Surgeons in your area. Each entry incl
 - Doctor or clinic name
 - Address and phone number
 - Available languages
-- Date the doctor was designated by USCIS
+- Date the physician was designated by USCIS
 
 If your doctor's name **appears on this list**, they are authorized. If they **do not appear**, do not do the exam with them.
 

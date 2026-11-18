@@ -36,12 +36,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "alergias": {
     faqs: [
       { question: "¿Hacen pruebas de alergia en la piel?", answer: "No hacemos pruebas cutáneas de punción. Ofrecemos análisis de sangre para los alérgenos más comunes y, si necesitas más estudios, te explicamos el siguiente paso." },
-      { question: "¿Qué antihistamínico no da sueño?", answer: "Los de segunda generación como loratadina, cetirizina o fexofenadina. El médico elige según tu edad, otros medicamentos y si estás embarazada." },
+      { question: "¿Qué antihistamínico no da sueño?", answer: "Los de segunda generación como loratadina, cetirizina o fexofenadina. El equipo médico elige según tu edad, otros medicamentos y si estás embarazada." },
       { question: "¿Cuándo es una emergencia una alergia?", answer: "Si hay dificultad para respirar, hinchazón de labios, lengua o garganta, o mareo intenso. Llama al 911; no esperes a venir a la clínica." },
     ],
     faqsEn: [
       { question: "Do you do skin allergy tests?", answer: "We do not perform skin prick tests. We offer blood tests for the most common allergens and, if you need more testing, we explain the next step." },
-      { question: "Which antihistamine won't make me drowsy?", answer: "Second-generation ones such as loratadine, cetirizine or fexofenadine. The doctor chooses based on your age, other medications and pregnancy." },
+      { question: "Which antihistamine won't make me drowsy?", answer: "Second-generation ones such as loratadine, cetirizine or fexofenadine. The medical team chooses based on your age, other medications and pregnancy." },
       { question: "When is an allergic reaction an emergency?", answer: "When there is difficulty breathing, swelling of the lips, tongue or throat, or severe dizziness. Call 911; do not wait to come to the clinic." },
     ],
   },
@@ -121,13 +121,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "salud-hombre": {
     faqs: [
-      { question: "¿A qué edad debo hacerme el PSA?", answer: "Conversa con el médico sobre la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Con síntomas urinarios, a cualquier edad." },
+      { question: "¿A qué edad debo hacerme el PSA?", answer: "Conversa con el equipo médico sobre la prueba a partir de los 50 años, o desde los 45 si tu padre o hermano tuvieron cáncer de próstata. Con síntomas urinarios, a cualquier edad." },
       { question: "¿A qué hora se toma la muestra de testosterona?", answer: "Entre 7 y 10 de la mañana, en ayunas, porque el nivel baja durante el día. Un resultado bajo se confirma con una segunda muestra otro día." },
       { question: "¿El PSA alto significa cáncer?", answer: "No siempre. La próstata crecida, una infección o la eyaculación reciente también lo suben. Si está alto se repite y te explicamos el siguiente paso." },
       { question: "¿Qué problemas urológicos atienden en la consulta de urología?", answer: "Síntomas urinarios, vejiga hiperactiva y los exámenes del hombre, PSA y testosterona, en español. La consulta inicial es gratis, los exámenes tienen precios accesibles y no necesitas seguro." },
     ],
     faqsEn: [
-      { question: "At what age should I get a PSA test?", answer: "Talk with the doctor about the test from age 50, or from 45 if your father or brother had prostate cancer. With urinary symptoms, at any age." },
+      { question: "At what age should I get a PSA test?", answer: "Talk with the medical team about the test from age 50, or from 45 if your father or brother had prostate cancer. With urinary symptoms, at any age." },
       { question: "What time is the testosterone sample drawn?", answer: "Between 7 and 10 AM, fasting, because the level drops during the day. A low result is confirmed with a second sample on another day." },
       { question: "Does a high PSA mean cancer?", answer: "Not always. An enlarged prostate, an infection or recent ejaculation also raise it. If it is high we repeat it and explain the next step." },
       { question: "Which urological problems does the urology visit cover?", answer: "Urinary symptoms, overactive bladder and men's tests, PSA and testosterone, in Spanish or English. The initial visit is free, tests are affordably priced and you do not need insurance." },
@@ -135,14 +135,14 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "examenes-sangre": {
     faqs: [
-      { question: "¿Necesito orden médica para hacerme análisis de sangre?", answer: "No. Puedes venir sin orden y el médico te indica qué exámenes convienen según tus síntomas, tu edad y tus antecedentes." },
+      { question: "¿Necesito orden médica para hacerme análisis de sangre?", answer: "No. Puedes venir sin orden y el equipo médico te indica qué exámenes convienen según tus síntomas, tu edad y tus antecedentes." },
       { question: "¿Cuántas horas de ayuno necesito?", answer: "Entre 8 y 12 horas para glucosa, colesterol y química completa. Puedes tomar agua. Biometría, tiroides, A1C y B12 no requieren ayuno." },
-      { question: "¿Me explican los resultados?", answer: "Sí. Te llamamos cuando estén listos y el médico te explica cada valor en español, en consulta o por teléfono, y te dice si necesitas tratamiento." },
+      { question: "¿Me explican los resultados?", answer: "Sí. Te llamamos cuando estén listos y el equipo médico te explica cada valor en español, en consulta o por teléfono, y te dice si necesitas tratamiento." },
     ],
     faqsEn: [
-      { question: "Do I need a doctor's order for blood tests?", answer: "No. You can walk in without an order and the doctor tells you which tests make sense for your symptoms, age and history." },
+      { question: "Do I need a doctor's order for blood tests?", answer: "No. You can walk in without an order and the medical team tells you which tests make sense for your symptoms, age and history." },
       { question: "How many hours do I need to fast?", answer: "8 to 12 hours for glucose, cholesterol and a full metabolic panel. Water is fine. CBC, thyroid, A1C and B12 need no fasting." },
-      { question: "Will you explain my results?", answer: "Yes. We call you when they are ready and the doctor explains each value in Spanish or English, at a visit or by phone, and tells you whether you need treatment." },
+      { question: "Will you explain my results?", answer: "Yes. We call you when they are ready and the medical team explains each value in Spanish or English, at a visit or by phone, and tells you whether you need treatment." },
     ],
   },
   "infecciones-urinarias": {
@@ -171,12 +171,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "prueba-strep": {
     faqs: [
-      { question: "¿Cuánto tarda el resultado de la prueba de estreptococo?", answer: "Entre 5 y 10 minutos. Si es positivo, el médico te receta en la misma visita y enviamos la receta electrónica a tu farmacia." },
+      { question: "¿Cuánto tarda el resultado de la prueba de estreptococo?", answer: "Entre 5 y 10 minutos. Si es positivo, el equipo médico te receta en la misma visita y enviamos la receta electrónica a tu farmacia." },
       { question: "¿Cuándo puedo volver a la escuela o al trabajo?", answer: "Después de 24 horas de antibiótico y sin fiebre ya no contagias." },
       { question: "¿Los adultos también pueden tener estreptococo?", answer: "Sí, aunque es más frecuente entre 5 y 15 años. En adultos con dolor de garganta fuerte, fiebre y sin tos también hacemos la prueba." },
     ],
     faqsEn: [
-      { question: "How long does the strep test take?", answer: "Between 5 and 10 minutes. If positive, the doctor prescribes at the same visit and we send the e-prescription to your pharmacy." },
+      { question: "How long does the strep test take?", answer: "Between 5 and 10 minutes. If positive, the medical team prescribes at the same visit and we send the e-prescription to your pharmacy." },
       { question: "When can I go back to school or work?", answer: "After 24 hours of antibiotics and with no fever you are no longer contagious." },
       { question: "Can adults get strep throat too?", answer: "Yes, although it is most common between ages 5 and 15. We also test adults with a severe sore throat, fever and no cough." },
     ],
@@ -220,12 +220,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "electrocardiograma": {
     faqs: [
       { question: "¿El electrocardiograma duele?", answer: "No. Solo se colocan electrodos adhesivos en la piel; no hay agujas ni corriente. Dura unos 5 minutos." },
-      { question: "¿Me entregan el resultado el mismo día?", answer: "Sí. El médico interpreta el trazado en la misma consulta y te da una copia impresa para tu expediente o tu empleador." },
+      { question: "¿Me dan una copia del resultado?", answer: "Sí. El equipo médico revisa el trazado contigo y te da una copia impresa para tu expediente o tu empleador." },
       { question: "¿Un EKG normal descarta problemas del corazón?", answer: "Descarta arritmias e infartos en ese momento, pero no obstrucciones de las arterias en reposo. Con síntomas persistentes te referimos a una prueba de esfuerzo." },
     ],
     faqsEn: [
       { question: "Does an EKG hurt?", answer: "No. Only adhesive electrodes are placed on the skin; there are no needles or current. It takes about 5 minutes." },
-      { question: "Do I get the result the same day?", answer: "Yes. The doctor interprets the tracing at the same visit and gives you a printed copy for your records or employer." },
+      { question: "Do I get a copy of the result?", answer: "Yes. The medical team reviews the tracing with you and gives you a printed copy for your records or employer." },
       { question: "Does a normal EKG rule out heart problems?", answer: "It rules out arrhythmias and a heart attack at that moment, but not artery blockages at rest. With persistent symptoms we refer you for a stress test." },
     ],
   },
@@ -256,12 +256,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examenes-inmigracion": {
     faqs: [
       { question: "¿Cómo verifico que el médico es Civil Surgeon autorizado?", answer: "En la herramienta oficial \"Find a Doctor\" de uscis.gov, buscando por código postal 77023. Solo un Civil Surgeon designado puede firmar el I-693." },
-      { question: "¿El examen I-693 se entrega el mismo día?", answer: "El examen físico y las vacunas se hacen el mismo día. El sobre sellado se entrega cuando llega el resultado de la prueba de tuberculosis, en unos días." },
+      { question: "¿El examen I-693 se entrega el mismo día?", answer: "El examen físico y las vacunas se hacen el mismo día. El sobre sellado se entrega cuando llega el resultado de la prueba de tuberculosis; te avisamos en cuanto esté listo." },
       { question: "¿Necesito la vacuna contra COVID-19 para el I-693?", answer: "No. Desde el 20 de enero de 2025 USCIS ya no la exige. Sí revisamos MMR, Tdap, varicela, hepatitis B e influenza en temporada." },
     ],
     faqsEn: [
       { question: "How do I verify the doctor is an authorized Civil Surgeon?", answer: "In the official USCIS \"Find a Doctor\" tool on uscis.gov, searching by ZIP code 77023. Only a designated Civil Surgeon can sign the I-693." },
-      { question: "Is the I-693 delivered the same day?", answer: "The physical exam and vaccines are done the same day. The sealed envelope is delivered when the TB test result arrives, in a few days." },
+      { question: "Is the I-693 delivered the same day?", answer: "The physical exam and vaccines are done the same day. The sealed envelope is delivered when the TB test result arrives; we let you know as soon as it is ready." },
       { question: "Do I need the COVID-19 vaccine for the I-693?", answer: "No. Since January 20, 2025 USCIS no longer requires it. We do review MMR, Tdap, varicella, hepatitis B and seasonal flu." },
     ],
   },
@@ -280,13 +280,13 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "sueros-vitaminados": {
     faqs: [
       { question: "¿Cuánto dura la aplicación de un suero vitaminado?", answer: "Entre 30 y 60 minutos, más unos minutos de evaluación previa. Sales el mismo día y puedes conducir." },
-      { question: "¿Necesito análisis antes de ponerme un suero?", answer: "No siempre. El médico te evalúa primero; si tienes cansancio de más de dos semanas o una condición como diabetes o enfermedad renal, sí pedimos análisis antes de aplicarlo." },
-      { question: "¿Los sueros vitaminados curan la resaca o la gripe?", answer: "Alivian la deshidratación y el cansancio, pero no curan una infección. Si tienes fiebre o síntomas de gripe, primero te revisa el médico y decide si el suero conviene." },
+      { question: "¿Necesito análisis antes de ponerme un suero?", answer: "No siempre. El equipo médico te evalúa primero; si tienes cansancio de más de dos semanas o una condición como diabetes o enfermedad renal, sí pedimos análisis antes de aplicarlo." },
+      { question: "¿Los sueros vitaminados curan la resaca o la gripe?", answer: "Alivian la deshidratación y el cansancio, pero no curan una infección. Si tienes fiebre o síntomas de gripe, primero te revisa el equipo médico y decide si el suero conviene." },
     ],
     faqsEn: [
       { question: "How long does a vitamin IV take?", answer: "Between 30 and 60 minutes, plus a few minutes of evaluation beforehand. You leave the same day and can drive." },
-      { question: "Do I need lab tests before an IV drip?", answer: "Not always. The doctor evaluates you first; if you have had fatigue for more than two weeks or a condition such as diabetes or kidney disease, we do order tests before giving it." },
-      { question: "Do vitamin IVs cure a hangover or the flu?", answer: "They relieve dehydration and fatigue, but they do not cure an infection. If you have a fever or flu symptoms, the doctor examines you first and decides whether a drip is appropriate." },
+      { question: "Do I need lab tests before an IV drip?", answer: "Not always. The medical team evaluates you first; if you have had fatigue for more than two weeks or a condition such as diabetes or kidney disease, we do order tests before giving it." },
+      { question: "Do vitamin IVs cure a hangover or the flu?", answer: "They relieve dehydration and fatigue, but they do not cure an infection. If you have a fever or flu symptoms, the medical team examines you first and decides whether a drip is appropriate." },
     ],
   },
   "suturas-heridas": {
@@ -303,12 +303,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "curacion-heridas": {
     faqs: [
-      { question: "¿Cada cuánto hay que cambiar el vendaje?", answer: "Normalmente cada 2 a 3 días, o antes si se moja o se ensucia. El médico te indica la frecuencia según el tipo de herida." },
+      { question: "¿Cada cuánto hay que cambiar el vendaje?", answer: "Normalmente cada 2 a 3 días, o antes si se moja o se ensucia. El equipo médico te indica la frecuencia según el tipo de herida." },
       { question: "¿Puedo usar alcohol o agua oxigenada en la herida?", answer: "No. Dañan el tejido nuevo y retrasan la cicatrización. Lava con agua limpia o suero fisiológico y cubre con vendaje limpio." },
       { question: "¿Atienden úlceras de pie diabético?", answer: "Sí, en etapa inicial. Si hay hueso expuesto, mal olor intenso o la úlcera no mejora, te referimos a un especialista en heridas o al hospital." },
     ],
     faqsEn: [
-      { question: "How often should the dressing be changed?", answer: "Usually every 2 to 3 days, or sooner if it gets wet or dirty. The doctor tells you the frequency based on the type of wound." },
+      { question: "How often should the dressing be changed?", answer: "Usually every 2 to 3 days, or sooner if it gets wet or dirty. The medical team tells you the frequency based on the type of wound." },
       { question: "Can I use alcohol or hydrogen peroxide on the wound?", answer: "No. They damage new tissue and slow healing. Wash with clean water or saline and cover with a clean dressing." },
       { question: "Do you treat diabetic foot ulcers?", answer: "Yes, in the early stage. If there is exposed bone, a strong odor or the ulcer is not improving, we refer you to a wound specialist or the hospital." },
     ],
@@ -351,12 +351,12 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   },
   "farmacia": {
     faqs: [
-      { question: "¿La clínica tiene farmacia?", answer: "No. No vendemos ni entregamos medicamentos: el médico te atiende, decide el tratamiento y envía tu receta de forma electrónica a la farmacia que elijas, donde la recoges." },
+      { question: "¿La clínica tiene farmacia?", answer: "No. No vendemos ni entregamos medicamentos: el equipo médico te atiende, decide el tratamiento y envía tu receta de forma electrónica a la farmacia que elijas, donde la recoges." },
       { question: "¿Puedo escoger a qué farmacia va mi receta?", answer: "Sí, a la que te quede mejor, cerca de tu casa o de tu trabajo. Solo dinos el nombre y la dirección o el teléfono de esa sucursal durante la consulta." },
       { question: "¿Y si cambio de farmacia o la receta no llegó?", answer: "Llámanos a la clínica con el nombre de la nueva farmacia y lo revisamos contigo. En tu próxima visita también puedes actualizar la farmacia que prefieres." },
     ],
     faqsEn: [
-      { question: "Does the clinic have a pharmacy?", answer: "No. We do not sell or hand out medication: the doctor sees you, decides on the treatment and sends your prescription electronically to the pharmacy you choose, where you pick it up." },
+      { question: "Does the clinic have a pharmacy?", answer: "No. We do not sell or hand out medication: the medical team sees you, decides on the treatment and sends your prescription electronically to the pharmacy you choose, where you pick it up." },
       { question: "Can I choose which pharmacy gets my prescription?", answer: "Yes, whichever works best for you, near home or work. Just give us the name and the address or phone number of that branch during your visit." },
       { question: "What if I switch pharmacies or the prescription didn't arrive?", answer: "Call the clinic with the name of the new pharmacy and we'll sort it out with you. You can also update your preferred pharmacy at your next visit." },
     ],
