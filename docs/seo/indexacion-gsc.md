@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 45 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
-## Tanda 55 — cambios del 2026-11-17 (cuota superada el 16/11)  📨 ENVIADA 17/11/2026
+## Tanda 55 — cambios del 2026-11-17 (cuota superada el 16/11)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-17
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-11-17
-- [ ] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-11-17
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-17
-- [ ] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-11-17
-- [ ] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · desconocida · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-17
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-heces  — cambiada 2026-11-17
+- [x] https://www.nuevasaludlawndale.com/en/services/extraccion-implantes  — cambiada 2026-11-17
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-17
+- [x] https://www.nuevasaludlawndale.com/en/services/suturas-heridas  — cambiada 2026-11-17
+- [x] https://www.nuevasaludlawndale.com/services  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-03 · desconocida · pedida 2026-11-03 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services  — cambiada 2026-09-10 · desconocida · pedida 2026-11-03 · 0 impr.
+- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
@@ -70,6 +70,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-14 | 2 | Tanda 53 |
 | 2026-11-15 | 6 | Tanda 50 |
 | 2026-11-16 | 10 | Tanda 54 |
+| 2026-11-17 | 10 | Tanda 55 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
