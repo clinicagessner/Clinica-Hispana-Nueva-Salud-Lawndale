@@ -30,6 +30,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 19/11/2026
 
+- [ ] https://www.nuevasaludlawndale.com/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
+- [ ] https://www.nuevasaludlawndale.com/en/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
 - [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-11-18
@@ -38,10 +40,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
 
 ## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
+- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
