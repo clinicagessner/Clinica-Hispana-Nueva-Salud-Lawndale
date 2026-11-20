@@ -62,6 +62,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-18
 
+## Tanda 64 — cambios del 2026-11-21 (enlace a X en el pie)
+
+- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-21
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-21
+
 ## Tanda 62
 
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
