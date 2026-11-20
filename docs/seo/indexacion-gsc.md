@@ -28,18 +28,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 
-## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 19/11/2026
+## Tanda 57 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/en/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/blog/anticonceptivos-despues-del-parto-lactancia  — cambiada 2026-11-19 (post del blog semanal)
+- [x] https://www.nuevasaludlawndale.com/services/alergias  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/alergias  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/curacion-heridas  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/curacion-heridas  — cambiada 2026-11-18
 
 ## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
@@ -129,6 +129,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-15 | 6 | Tanda 50 |
 | 2026-11-16 | 10 | Tanda 54 |
 | 2026-11-17 | 10 | Tanda 55 |
+| 2026-11-20 | 10 | Tanda 57 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
