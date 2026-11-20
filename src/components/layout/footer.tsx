@@ -30,6 +30,12 @@ const InstagramIcon = ({ className }: { className?: string }) => (
   </svg>
 );
 
+const XIcon = ({ className }: { className?: string }) => (
+  <svg viewBox="0 0 24 24" fill="currentColor" className={className} aria-hidden="true">
+    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231zm-1.161 17.52h1.833L7.084 4.126H5.117l11.966 15.644z" />
+  </svg>
+);
+
 export async function Footer() {
   const t = await getTranslations();
   const locale = await getLocale();
@@ -101,6 +107,17 @@ export async function Footer() {
                   className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
                 >
                   <YoutubeIcon className="size-4" />
+                </a>
+              )}
+              {SOCIAL_LINKS.twitter && (
+                <a
+                  href={SOCIAL_LINKS.twitter}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="X de Clínica Hispana Nueva Salud Lawndale"
+                  className="size-9 rounded-lg bg-white/10 hover:bg-yellow-accent hover:text-slate-dark flex items-center justify-center transition-colors"
+                >
+                  <XIcon className="size-4" />
                 </a>
               )}
             </div>

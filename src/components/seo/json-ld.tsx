@@ -136,6 +136,7 @@ export async function JsonLdMedicalClinic({ withRating = false }: { withRating?:
           SOCIAL_LINKS.facebook,
           SOCIAL_LINKS.instagram,
           SOCIAL_LINKS.youtube,
+          SOCIAL_LINKS.twitter,
           CONTACT_INFO.googleMapsUrl,
         ].filter(Boolean),
         areaServed: {
