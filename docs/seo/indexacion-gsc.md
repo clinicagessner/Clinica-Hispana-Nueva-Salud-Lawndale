@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 20 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-22).
 <!-- /tandas:auto -->
 
-## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 21/11/2026
+## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-21
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-21
-- [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-21
+- [x] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-21
+- [x] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-alcohol-drogas  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
 
 ## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
@@ -131,6 +131,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-16 | 10 | Tanda 54 |
 | 2026-11-17 | 10 | Tanda 55 |
 | 2026-11-20 | 10 | Tanda 57 |
+| 2026-11-21 | 10 | Tanda 58 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
