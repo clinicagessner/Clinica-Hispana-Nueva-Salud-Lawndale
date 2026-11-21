@@ -9,15 +9,17 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-20; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 47 de 104 URLs del sitemap indexadas · 57 sin indexar (35 descubierta sin indexar · 16 desconocida · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-21; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 47 de 104 URLs del sitemap indexadas · 57 sin indexar (35 descubierta sin indexar · 16 desconocida · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 12 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-27 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-21).
+20 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-22).
 <!-- /tandas:auto -->
 
-## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
+## Tanda 58 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 21/11/2026
 
+- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-21
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-21
 - [ ] https://www.nuevasaludlawndale.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/electrocardiograma  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
@@ -62,12 +64,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-18
 
-## Tanda 64 — cambios del 2026-11-21 (enlace a X en el pie)
-
-- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-21
-- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-21
-
-## Tanda 62
+## Tanda 65
 
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-11-18 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
@@ -80,9 +77,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
 
-## Tanda 63
+## Tanda 66
 
 - [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
