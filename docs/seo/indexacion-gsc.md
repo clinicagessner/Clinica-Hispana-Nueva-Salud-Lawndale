@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 20 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
 <!-- /tandas:auto -->
 
-## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 24/11/2026
+## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-18
 
 ## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
@@ -126,6 +126,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-17 | 10 | Tanda 55 |
 | 2026-11-20 | 10 | Tanda 57 |
 | 2026-11-21 | 10 | Tanda 58 |
+| 2026-11-24 | 10 | Tanda 59 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
