@@ -9,27 +9,14 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 50 de 104 URLs del sitemap indexadas · 54 sin indexar (26 desconocida · 25 descubierta sin indexar · 3 rastreada sin indexar).
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 50 de 104 URLs del sitemap indexadas · 54 sin indexar (26 desconocida · 25 descubierta sin indexar · 3 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 16 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 17 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-20 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-25).
+28 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-
-- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-18
-- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-18
-
-## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
+## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 25/11/2026
 
 - [ ] https://www.nuevasaludlawndale.com/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
@@ -39,11 +26,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
+- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
+- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-18
 
 ## Tanda 61 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
-- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-18
@@ -74,11 +61,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-11-11 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 
 ## Tanda 64
 
+- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
 - [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
 
@@ -549,3 +537,16 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 - [x] https://www.nuevasaludlawndale.com/en/services/examen-dot  — cambiada 2026-11-18
 - [x] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-11-18
 - [x] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+
+## Tanda 59 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.nuevasaludlawndale.com/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/ginecologia  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/prueba-strep  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-strep  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/prueba-tuberculosis  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/salud-hombre  — cambiada 2026-11-18
