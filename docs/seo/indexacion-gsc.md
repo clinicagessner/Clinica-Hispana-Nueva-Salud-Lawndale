@@ -18,6 +18,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 26/11/2026
 
+- [ ] https://www.nuevasaludlawndale.com/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
+- [ ] https://www.nuevasaludlawndale.com/en/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
 - [ ] https://www.nuevasaludlawndale.com/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-11-18
@@ -26,8 +28,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-18
 
 ## Tanda 61 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
@@ -37,6 +37,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-18
+
+## Tanda 65 — cambios del 2026-11-26 (devueltas de la tanda 60 por el post del blog semanal)
+
+- [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-26
+- [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-26
 
 ## Tanda 62
 
