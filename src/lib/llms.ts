@@ -57,7 +57,7 @@ export function buildLlmsTxt(): string {
   lines.push(
     "## Credentials",
     "",
-    "- USCIS-designated Civil Surgeon for immigration medical exams (Form I-693)",
+    "- USCIS-designated Civil Surgeon for immigration medical exams (Form I-693); service temporarily paused until further notice",
     "- Licensed medical professionals; content reviewed by the clinic's medical team",
     "- Bilingual staff (Spanish primary, English available)",
     "- Google rating and review count are shown live on the website",

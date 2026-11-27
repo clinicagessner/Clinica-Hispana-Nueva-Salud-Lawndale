@@ -10,6 +10,8 @@ import { Button } from "@/components/ui/button";
 import { CalendarDots, Clock, ArrowLeft, Phone } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { PostMarkdown } from "@/components/blog/post-markdown";
+import { AvisoPausaI693 } from "@/components/ui/aviso-pausa";
+import { I693_POST_SLUGS } from "@/lib/pausas";
 
 // Fechas YYYY-MM-DD como fecha local, sin el desfase UTC de new Date("...").
 function formatDate(iso: string, locale: string) {
@@ -176,6 +178,9 @@ export default async function BlogPostPage({ params }: Props) {
         {/* Content Section */}
         <div className="container mx-auto px-4 py-12 md:py-16">
           <div className="max-w-3xl mx-auto">
+            {I693_POST_SLUGS.includes(post.slug) && (
+              <AvisoPausaI693 locale={locale} className="mb-8" />
+            )}
             <div className="blog-content">
               <PostMarkdown content={post.content} locale={locale} />
             </div>
