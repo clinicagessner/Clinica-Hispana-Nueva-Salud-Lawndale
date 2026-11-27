@@ -43,6 +43,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-11-26
 - [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-26
 
+## Tanda 66 — cambios del 2026-11-27 (error de GSC el 26/11, repetir)
+
+- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-27
+
 ## Tanda 62
 
 - [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
