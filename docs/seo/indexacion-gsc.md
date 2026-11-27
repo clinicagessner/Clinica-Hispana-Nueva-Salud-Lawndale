@@ -9,11 +9,11 @@ Acceso directo (la cuenta está en el índice `/u/2/` de este Chrome):
 Proceso: **Inspección de URLs** → pegar la URL → **Solicitar indexación**. Cuota ~10 URLs/día por propiedad.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 50 de 106 URLs del sitemap indexadas · 56 sin indexar (26 desconocida · 25 descubierta sin indexar · 3 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-27; sin datos de inspección: --sin-fetch; no hay index-status previo):** 0 de 106 URLs del sitemap indexadas · 106 sin indexar (106 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 17 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 43 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-30 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
+35 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
 ## Tanda 61 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
@@ -28,6 +28,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-11-26
 
 ## Tanda 66 — cambios del 2026-11-27 (error de GSC el 26/11, repetir)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-27
 - [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-11-27
 - [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-11-27
@@ -39,37 +40,79 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.nuevasaludlawndale.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
 - [ ] https://www.nuevasaludlawndale.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-11-18
 
-## Tanda 67
+## Tanda 70 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-18 · desconocida · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/  — cambiada 2026-11-27
+- [ ] https://www.nuevasaludlawndale.com/en  — cambiada 2026-11-27
 
-## Tanda 68
+## Tanda 71
 
-- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-10 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · desconocida · pedida 2026-11-08 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-27 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-10 · desconocida · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-27 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · descubierta sin indexar · pedida 2026-11-11 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/drenaje-abscesos  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/electrocardiograma  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-alcohol-drogas  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-dot  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/ginecologia  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/salud-hombre  — cambiada 2026-11-18 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog  — sin datos de inspección · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/informe-ultrasonido-palabras-que-confunden  — cambiada 2026-10-22 · sin datos de inspección · pedida 2026-10-22 · 0 impr.
 
-## Tanda 69
+## Tanda 72
 
-- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-07 · 0 impr.
-- [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-10 · descubierta sin indexar · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/peso-ninos-refrescos-pantallas-como-hablar  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/piel-seca-comezon-invierno-eccema-cuando-consultar  — cambiada 2026-11-12 · sin datos de inspección · pedida 2026-11-12 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · sin datos de inspección · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/promociones  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/anticonceptivos  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/enfermedades-respiratorias  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+
+## Tanda 73
+
+- [ ] https://www.nuevasaludlawndale.com/services/examen-fisico-escolar  — cambiada 2026-09-26 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/examen-heces  — cambiada 2026-09-26 · sin datos de inspección · pedida 2026-11-04 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/extraccion-implantes  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/infecciones-urinarias  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/prueba-embarazo  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/suturas-heridas  — cambiada 2026-09-26 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/tiroides  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/unas-encarnadas  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/services/vacunas  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog  — sin datos de inspección · pedida 2026-10-21 · 0 impr.
+
+## Tanda 74
+
+- [ ] https://www.nuevasaludlawndale.com/en/blog/bienvenidos-clinica-hispana-nueva-salud-lawndale  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-10-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/infeccion-urinaria-ninos-senales-por-edad  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/informe-ultrasonido-palabras-que-confunden  — cambiada 2026-10-22 · sin datos de inspección · pedida 2026-10-22 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/padres-con-infarto-que-revisar-desde-que-edad  — cambiada 2026-10-29 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/peso-ninos-refrescos-pantallas-como-hablar  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/piel-seca-comezon-invierno-eccema-cuando-consultar  — cambiada 2026-11-12 · sin datos de inspección · pedida 2026-11-12 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/resfriado-gripe-covid-tabla-diferencias  — cambiada 2026-10-08 · sin datos de inspección · pedida 2026-10-18 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-29 · 0 impr.
+
+## Tanda 75
+
+- [ ] https://www.nuevasaludlawndale.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/promociones  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/examen-fisico-escolar  — cambiada 2026-09-26 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/infecciones-urinarias  — cambiada 2026-10-25 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/tiroides  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/unas-encarnadas  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-07 · 0 impr.
+- [ ] https://www.nuevasaludlawndale.com/en/services/vacunas  — cambiada 2026-09-09 · sin datos de inspección · pedida 2026-11-08 · 0 impr.
 
 ## Notas anteriores (texto previo del archivo, sin actualizar)
 
