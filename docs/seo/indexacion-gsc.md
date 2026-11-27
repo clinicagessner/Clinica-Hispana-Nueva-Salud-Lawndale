@@ -16,18 +16,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 28 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-29).
 <!-- /tandas:auto -->
 
-## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 26/11/2026
+## Tanda 60 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.nuevasaludlawndale.com/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/en/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
-- [ ] https://www.nuevasaludlawndale.com/services/sueros-vitaminados  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
-- [ ] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
+- [x] https://www.nuevasaludlawndale.com/en/blog/vejiga-hiperactiva-hombres-urgencia-escapes  — cambiada 2026-11-26 (post del blog semanal)
+- [x] https://www.nuevasaludlawndale.com/services/sueros-vitaminados  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/services/ultrasonido  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/services/ultrasonido  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/walk-in  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/walk-in  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-18
+- [x] https://www.nuevasaludlawndale.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-11-18
 
 ## Tanda 61 — cambios del 2026-11-18 (textos viejos de §9: equipo médico, sin NRCME, VFC, plazos ni especialistas)
 
@@ -120,6 +120,7 @@ Ya indexadas, **no volver a pedirlas**: `/` · `/en` · `/walk-in` · `/en/walk-
 | 2026-11-20 | 10 | Tanda 57 |
 | 2026-11-21 | 10 | Tanda 58 |
 | 2026-11-24 | 10 | Tanda 59 |
+| 2026-11-26 | 10 | Tanda 60 |
 
 | 2026-09-25 | 10 | Tanda 3 |
 
