@@ -52,10 +52,10 @@ export const SOCIAL_LINKS: SocialLinks = {
 };
 
 // Datos de reviews de respaldo (fallback si Google Places API falla en build).
-// Valores reales del GBP a 2026-09-08; el rating/conteo en vivo llega vía GOOGLE_PLACE_ID.
+// Valores reales del GBP a 2026-11-28; el rating/conteo en vivo llega vía GOOGLE_PLACE_ID.
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 107,
-  averageRating: 4.7,
+  totalReviews: 151,
+  averageRating: 4.8,
   placeId: "ChIJ-RGohMW9QIYRMsoC5OO7apg",
 };
 
